@@ -1,0 +1,330 @@
+( Date Accessed: 6/09/2021, From: https://www.zhanqi.tv/common/privacy.html )
+
+( Embedded Hyperlinks Used:
+mailto:qijun@bianfeng.com
+https://www.zhanqi.tv/common/thirdsdk.html
+)
+
+Thank you for using "Zhanqi Live"!
+Hangzhou Zhanqi Network Technology Co., Ltd. (hereinafter collectively referred to as "we" or "platform") is well aware of the importance of personal information and privacy security to you. When you use platform services, the platform may collect and use your relevant personal information. The platform hopes to use the "Privacy Protection Policy" (hereinafter referred to as "this policy") to explain to you that we are collecting and using your personal information and corresponding processing rules and other related matters, so as to better protect your rights and interests. Users under the age of fourteen are also applicable to this privacy policy and the "Zhanqi Live Children's Personal Information Protection Policy" (see Annex 1).
+This policy applies to all products and services provided by the "Zhanqi Live" platform. It should be noted that this policy does not apply to services provided to you by other independent third parties, nor does it apply to products or services that have independently set up legal statements and privacy policies on the platform. If a certain service provided by the platform does not apply to this policy, the service will clearly indicate and exclude the application of this policy in an appropriate manner.
+Before using the products or services of the platform, please read carefully and thoroughly understand this policy, especially the terms marked in bold/bold underline. You should focus on reading, and use the relevant products or products after confirming that you fully understand and agree to it. service. If you do not agree with the content of this policy, it may cause our products and services to fail to operate normally, or fail to achieve the service effects we intend to achieve, you should immediately stop accessing/using our products or services. If you use or continue to use the products or services of the platform, whether you become a registered user of the platform or not, you agree that we collect, use, store and share your personal information in accordance with this policy (including updated versions).
+This policy is formulated in accordance with the requirements of the "Information Security Technology Personal Information Security Specification" GB/T35273-2017. The policies adopted in this policy include but are not limited to "personal information", "personal sensitive information", "collection", and "preservation" Terms such as "use", "sharing", "transfer", "public disclosure", "anonymization", and "de-identification" are all derived from the "Information Security Technology Personal Information Security Specification" GB/T35273-2017.
+After reading this policy, if you have any questions about this policy or matters related to this policy, you can contact us through the feedback channels listed in the "How to Contact Us" section of this policy, and we will answer you as soon as possible.
+The first part of the definition
+Zhanqi Live: Refers to the Zhanqi Live Client.
+Zhanqi Live Broadcasting Service Provider : The single or collective name of Zhanqi Live Broadcasting Operators, or "we" for short. Currently, it is Hangzhou Zhanqi Network Technology Co., Ltd. The registered address of the company is: Block C, 18th Floor, Building D, Paradise Software Park, No. 3, Xidoumen Road, Xihu District, Hangzhou City, Zhejiang Province. The contact information of the person in charge of personal information protection is: qijun@bianfeng.com .
+User: Hereinafter referred to as "you" or "user", it refers to an individual or organization that registers, logs in, uses, browses, and obtains the services under this agreement.
+Zhanqi live broadcast service : We provide various services to you based on the Internet in various forms including Zhanqi live broadcast website, client, etc. (including new service forms arising from future technological development).
+Personal information: refers to various information recorded electronically or in other ways that can identify a specific natural person alone or in combination with other information or reflect the activities of a specific natural person. The personal information involved in this privacy policy includes: basic information (including personal name, address, personal phone number, e-mail address, birthday, gender); personal identification information (identity card); network identification information (including system account, account name) , Account nickname, IP address); personal property information (order records, transaction and consumption records, and virtual currency, virtual transaction and other virtual property information); personal Internet records (user operation records stored through logs, including game login logs, items Logs, game match information, friend records, chat records, recharge records); contact information (address book, friend list, group list, email address list) personal common device information (including hardware model, device MAC address, software list) , Unique device identification code (such as IMEI/android ID/IDFA/OPENUDID/GUID, SIM card IMSI information, software list, etc., including information describing the basic situation of personal commonly used equipment); personal location information (including precise positioning information, longitude and latitude) ; Personal communication information (including SMS, MMS).
+Personal sensitive information: refers to personal information that, once leaked, illegally provided or misused, may endanger personal and property safety, easily lead to personal reputation, physical and mental health damage, or discriminatory treatment, etc. The personal sensitive information involved in this privacy policy includes: Personal identification information (including name, ID card, contact address); network identification information (including system account number, account name, account nickname, IP address, order information); personal property information (order records, transaction and consumption records, and virtual Virtual property information such as currency and virtual transactions); other information (including precise positioning information, personal phone numbers, etc.).
+
+Part Two Privacy Policy
+This privacy policy section will help you understand the following:
+1. How we collect and use personal information
+2. The ways and scope of personal information that we may share, transfer and disclose
+3. How do we use cookies or similar technologies
+4. How do we retain and store personal information
+5. How do we protect your personal information
+6. How to manage your personal information
+Seven, age limit
+8. Notice and Amendment
+9. Dispute Resolution
+10. How to contact us
+
+1. How we collect and use personal information
+When you use our products and/or services, we need/may need to collect and use your personal information including the following two types:
+1. In order to provide you with the basic functions of our products and/or services, you must authorize us to collect and use your necessary information. If you refuse to provide the corresponding information, you will not be able to use our products and/or services normally.
+2. In order to provide you with additional functions of our products and/or services, you can choose to authorize us to collect and use your relevant information. If you refuse to provide it, you will not be able to use the relevant additional functions or achieve the functional effects we intend to achieve, but it will not affect your normal use of the basic functions of our products and/or services.
+(1) Collection and use of basic function information
+1. When you register and log in to your "Zhanqi Live" account , you need to provide us with the following information: account name, avatar (if any) and mobile phone number (used for real-name authentication). After you provide the above information and agree to the "User Agreement" and this policy, you can use the platform to watch live content, post barrage information, and use text or voice communication functions. You also need to authorize us to obtain the SDK to obtain the memory card permission, which is used to generate the unique identification of the device. If you choose not to provide the above necessary information for realizing the basic business functions of "Zhanqi Live" or using certain types of functions, we will not be able to provide services to you.
+2. When you register for a "Zhanqi Live" account, we will need you to provide a third-party platform account (such as a mobile phone number) for real-name verification. If you refuse to provide information for real-name verification, the registration will be unsuccessful, so you cannot use the published information Related functions.
+3. Browse and follow functions. The content you can browse includes the live broadcast room of the host user and the personal homepage of other users. During the browsing process, you can also follow the anchor users or other users you are interested in. For operational safety considerations, to avoid repeated registration of account information for a single user and repeated participation in multiple promotional activities, etc., we will collect the device information when you use "Zhanqi Live", including device model, unique device identifier, operation System, resolution, software and hardware information of telecom operators. We also collect your browser type.
+4. Information release function. After you register as a "Zhanqi Live" user, you can send barrage in the live broadcast room to communicate and socialize with other users in the form of text and voice; when you register as a "Zhanqi Live" host user, you can also Carry out live events in the live broadcast room. During this process, we will collect your device information, browser type, and log information.
+Please note that the information you publicly release may involve personal information of you or others or even sensitive personal information. For example, the text you upload may contain personal information such as your name. Please be more cautious about whether to publicly share relevant information when using Zhanqi Live Service.
+(2) Collection and use of additional function information
+1. Additional functions based on camera/camera. You can use this function to scan the QR code after enabling the camera/camera permission for login, payment, taking photos or video uploading and sharing.
+2. Additional functions for accessing and uploading pictures/videos based on photo albums (picture library/video library). You can use related functions to upload your photos/pictures/videos after enabling permissions to realize uploading/changing avatars, uploading/changing live room introductions and other functions.
+3. Additional functions of microphone-based voice technology. After enabling the microphone permission, you can use the microphone to realize voice-to-mic chat or recording. During this process, we will collect your recording content. Please be aware that even if you have agreed to enable the microphone permission, we will only obtain voice information through the microphone when you actively click the microphone icon in the client.
+4. Positioning function. When you turn on the device positioning function and use the related services provided by Zhanqi based on location, we will obtain the location information of the device (including IP address, GPS location, and sensor information such as WLAN access point, Bluetooth and base station that can provide relevant information) .
+5. Anchor identity authentication service. When you apply to become a platform anchor, Zhanqi Live will authenticate and verify your personal information in accordance with the requirements of laws and regulations. Therefore, when you apply to become a host of the Zhanqi live broadcast platform, we need to collect your real name, gender, age, nationality, IP address, ID number, facial information, email address, and phone number.
+6. Search. When you use Zhanqi's search service, we will collect your relevant search keyword information and log records . In order to provide efficient search services, some of the aforementioned information will be temporarily stored in your local storage device, and can show you the content of search results and search history.
+7. Customer service. When you file a complaint, appeal or consult with Zhanqi, we may need you to provide your name, mobile phone number, and email in order to contact you or help you solve the problem. If you refuse to provide the above information, we may not be able to provide timely feedback on the results of complaints, appeals or consultations.
+8. Payment function. You can purchase virtual gift items and member value-added services in Zhanqi. During your payment process, we may collect your third-party payment account, such as Alipay account, WeChat payment account, PayPal account or other forms of bank card information. If you have enabled fingerprint payment, we may also need to collect your biometric information for payment verification.
+9. Security guarantee. In order to improve the security of your use of the services provided by us and our affiliates and partners, protect the personal and property of you or other users or the public from infringement, and better prevent phishing websites, fraud, network vulnerabilities, computer viruses, and network attacks , Network intrusion and other security risks, we will collect the necessary information to realize the security protection function. We may use or integrate your account information, transaction information, device information, service log information, and information that our affiliates and partners have obtained your authorization or shared in accordance with the law to comprehensively determine the transaction risks of your account, perform identity verification, testing, and Prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures.
+(1) In order to ensure the safe operation of software and services, we will collect your device information (including device model, unique device identifier, operating system version, network device hardware, address MAC and other software and hardware characteristics information), device location information (Including IP address, GPS location, and sensor information such as WLAN access points, Bluetooth and base stations that can provide relevant information), network access methods, types, status, network quality data, operations, usage, and service logs.
+(2) In order to prevent malicious programs and necessary for safe operation, we will collect installed application information or running process information, the overall operation of the application, usage and frequency, application crashes, overall installation usage, performance data, Application source.
+(3) We may use your account information, transaction information, equipment information, service log information, and information that our affiliates and partners can share with your authorization or legally to determine account security, perform identity verification, testing, and Prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures.
+10. Targeted push. Based on the collected information, we will analyze your preferences, habits, location characteristics or user portraits in order to provide you with more suitable customized services. To this end, we need to collect your device information, browser model, and device installation Application list information, device running application name, log information.
+The above log information includes:
+(1) The behavior information you operate and use: click, follow, favorite, search, browse, and share;
+(2) Information you actively provide: feedback, rewards, and release information (such as barrage, Zhanqi live video station browsing);
+(3) Device location information: IP address, GPS location, and sensor information such as WLAN access point, Bluetooth and base station that can provide relevant information. GPS location is personal sensitive information. If you refuse to provide it, we will not base it on GPS information pushes content to you, and will not affect the normal use of other functions of Zhanqi;
+(4) Equipment operation application information: During the live broadcast process, the current application name and application resource situation of the live broadcast equipment are used to analyze the live broadcast behavior of the anchor and ensure the stability of the live broadcast environment.
+Unless authorized by you or otherwise provided by laws and regulations, we will not combine the above information with any personally identifiable information you provide in the application to ensure that you are not personally identified. We may combine the above information with other non-identifying information collected from our services, perform feature and preference analysis through program algorithms, and perform indirect population portraits based on feature tags, so as to target you to recommend, display or push you that may be of interest Or more suitable for your specific function or service.
+11. Subscribe to reminder service. When you use Zhanqi's live broadcast event or the live broadcast reservation function, we will ask you to authorize/write permission to your calendar so that we can record and notify you of the live broadcast start time. We will not access or change any content in your calendar that has nothing to do with Zhanqi Live.
+12. Marketing activities. We will hold online or offline marketing activities from time to time. In such marketing activities, we need users to provide identity information or receiving information so that we can provide ticketing services or send gifts. In cases where Zhanqi Live pays you fees, we may need to collect your identity information for tax payment.
+(3) Information from a third party
+1. When you use a third-party account (WeChat, mobile phone number) to log in to the "Zhanqi Live" platform, you can choose to authorize "Zhanqi Live" to read and obtain the public information you have registered, announced, and recorded on the third-party platform ( Including nicknames, avatars, etc.). The platform needs your authorization to collect the above information from a third party in order to remember your login identity as a user of Zhanqi Live, so as to provide you with better products and/or services. We will only collect and use your personal information and personal sensitive information within the scope of your authorization.
+ 2. The information shared by other users contains your information.
+3. To provide better services to anchor users, when you apply to become a contract anchor of the platform, you can authorize us to collect the following personal information and data. If you refuse to authorize, we will not be able to continue to provide you with related products and services provided by the platform.
+(1) The Android and iOS real-name authentication SDK obtains camera permissions, which are used for the anchor's real-name authentication facial recognition.
+(2) The Android real-name authentication SDK obtains the permission of the memory card, which is used to store the anchor's avatar photo.
+4. When the anchor starts broadcasting for the first time, you can authorize us to collect the following personal information and data. If you refuse to authorize, we will not be able to continue to provide you with related products and services provided by the platform.
+Android and iOS push streaming SDKs to obtain camera and recording permissions, which are used by the anchor user to start broadcasting and collect video and audio.
+Recording permission, used for other users to use voice communication social functions.
+5. When you register as a platform user through a third-party platform and enable the device positioning function, and use the platform-based location-based related services, we will collect your geographic location information through the Android Maps SDK. At the same time, you can also turn off the location service through the privacy settings in the phone settings. After turning off, we will no longer collect your location information.
+6. Android Anti-Fraud Service SDK, in order to be able to build a tamper-proof device fingerprint service, we need to collect relevant information as basic data, including device MAC address, IP address, and list of installed software.
+(4) Third-party SDK directory
+In order to ensure the realization of "Zhanqi Live" related functions and the safe and stable operation of the application, we may access a software development kit (SDK) provided by a third party for related purposes. This may collect your location information and related device information (such as hardware model, operating system version number, international mobile device identification number (IMEI), network device hardware address (MAC)) after de-identification and provide it to a third party . You can refuse to provide such information, but it will not affect your use of other services.
+You can click to view the third-party SDK directory accessed by Zhanqi Live App to  view and understand its collection of your user information.
+(5) Personal sensitive information
+Before you provide any personal information that is sensitive to the platform, please clearly consider that such provision is appropriate and agree that the platform can process your sensitive personal information in accordance with the purposes and methods described in this policy.
+After obtaining your consent, we will collect and use your sensitive information to implement functions related to the "Zhanqi Live" business, and allow you to make a choice to disagree with the collection and use of this sensitive information, but refuse to use it Information will affect your use of related products or services.
+(6) Exceptions for obtaining authorization and consent
+In the following situations, we can collect and use some necessary personal information about you without your authorization:
+1. It is directly related to national security and national defense security;
+2. It is directly related to public safety, public health, and major public interests;
+3. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+4. In order to protect your or other individuals' life, property and other major legal rights, but it is difficult to obtain the consent of the person;
+5. The personal information collected is disclosed to the public by yourself;
+6. Collect your personal information from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels;
+7. Necessary for signing and fulfilling contracts and other legal documents according to your requirements;
+8. Necessary for the safe and stable operation of products and/or services used to maintain the platform, such as discovering and disposing of product or service failures;
+9. Necessary for legal news reporting;
+10. When it is necessary for academic research institutions to conduct statistical or academic research based on public interests, and when they provide academic research or description results to the outside, they de-identify the personal information contained in the results;
+11. Other circumstances stipulated by laws and regulations.
+If we stop operating platform products or services, we will promptly stop continuing to collect your personal information, and will notify you of the suspension of operations in the form of one-by-one delivery or announcements, and we will also deal with the business that we hold related to the closed business. Delete or anonymize the personal information and sensitive personal information.
+2. The ways and scope of personal information that we may share, transfer and disclose
+(1) Sharing
+Except for the following circumstances, without your consent, we will not share your personal information with any third party other than Zhanqi Live Ping:
+1. To provide you with services : In order to facilitate our provision of products or services to you based on the "Zhanqi Live" account, so as to realize the functions of our products and/or services, such as recommending information that may be of interest to you and identifying your "Zhanqi" "Live" account abnormalities, data analysis (including online advertising monitoring, data statistics, data analysis), your personal information and personal sensitive information may be shared with our partners and other third-party companies. We will only share the necessary personal information, and are bound by the purpose stated in this privacy policy. If we share your personal information and sensitive personal information or the affiliate company changes the purpose of using and processing personal information, we will ask you again Authorized consent;
+2. Necessary sharing with related parties. In order to facilitate us to provide you with consistent services based on a unified account system and to facilitate your unified management, personalized recommendation, system and account security, etc., your personal information may be necessary to share between us and our affiliates ；
+3. To achieve the purpose described in the "How do we collect and use personal information" section of this policy;
+4. Fulfill our obligations and exercise our rights in this policy or other agreements we have reached with you;
+5. Provided in accordance with the service agreement signed with you (including the electronic registration agreement signed online and the corresponding platform rules) or other legal documents;
+6. To the extent required or permitted by law, it is necessary to provide your personal information and personal sensitive information to third parties in order to protect the interests, property or safety of the platform and its users or the public from damage;
+7. When the platform files a lawsuit or arbitration against users in order to protect its legitimate rights and interests;
+8. In response to your legal needs or with your authorization and consent.
+(2) Transfer
+1. With the continuous development of our business, we may conduct mergers, acquisitions, asset transfers or similar transactions, and your information may be transferred as part of such transactions. We will require new companies and organizations that hold your personal information to continue to be bound by this policy, otherwise, we will require that companies and organizations to re-seek authorization and consent from you.
+2. After obtaining your explicit consent, we will transfer your personal information to other parties.
+(3) Disclosure
+We will only disclose your personal information and personal sensitive information under the following circumstances and adopting industry-standard safety protection measures:
+1. According to your needs, disclose the information you specify in a disclosure method that you explicitly agree to;
+2. If we determine that you have violated the requirements of laws and regulations, compulsory administrative law enforcement or judicial requirements, or seriously violated platform-related agreements and rules, or to protect the personal and property safety of platform users or the public from infringement, we may follow Disclosure of personal information and personal sensitive information about you under laws and regulations or with your consent.
+(4) Exceptions for obtaining prior authorization and consent when sharing, transferring, or disclosing information
+In the following situations, you do not need to obtain your authorization in advance to share, transfer, and disclose your information:
+1. Related to national security and national defense security;
+2. Related to public safety, public health, and major public interests;
+3. Related to judicial or administrative law enforcement such as criminal investigation, prosecution, trial, and execution of judgments;
+4. In order to protect your or other individuals' life, property and other major legal rights, but it is difficult to obtain the consent of the person;
+5. Your personal information disclosed to the public on your own;
+6. Collect personal information from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels;
+7. When it is necessary for academic research institutions to conduct statistical or academic research based on public interests, and when they provide academic research or description results to the outside, they de-identify the personal information contained in the results;
+8. Other circumstances stipulated by laws and regulations.
+Please be aware that if we take technical measures and other necessary measures to process personal information so that the data recipient cannot re-identify a specific individual and cannot be restored, the sharing, transfer, and public disclosure of such processed data does not need to be notified to you separately. With your consent.
+3. How do we use COOKIES or similar technologies
+In order to make your access experience easier, when you visit the platform website or use the services provided by the platform, we may identify you through small data files. This is to help you save you from repeating the steps of entering registration information, or to help Determine the security of your account. These data files may be COOKIES, FLASH COOKIES, or other local storage provided by your browser or associated applications (collectively referred to as "COOKIES").
+Please understand that certain services of the platform can only be achieved through the use of "COOKIES". If your browser or browser additional services allow, you can modify your acceptance of cookies or reject cookies of "Zhanqi Live", but this action may affect your safe access to platform-related websites and use in some cases Services provided by the platform.
+4. How do we retain and store personal information
+The personal information collected and generated during our operations in the People's Republic of China is stored in China, and your personal information and personal sensitive information will not be transferred across borders.
+We promise to keep your personal information only for the shortest time necessary to achieve the purpose stated in the policy. However, in the following circumstances, we may change the storage time of personal information due to compliance with legal requirements:
+1. In order to comply with applicable laws and regulations, for example, Article 21, paragraph 3 of the "Network Security Law of the People's Republic of China" requires that the network log of technical measures to monitor and record network operation status and network security incidents shall not be less than six Months
+2. To comply with court judgments, rulings or other legal procedures;
+3. To comply with the requirements of government agencies or legally authorized organizations;
+4. Purposes reasonably necessary for the execution of the platform agreement or this policy, the maintenance of public interests, and the protection of the personal safety or other legitimate rights and interests of the platform and its affiliates, other users or employees.
+After your personal information exceeds the retention period, we will delete your personal information and personal sensitive information, or make it anonymized.
+5. How do we protect and manage your personal information
+(1) Data security technical measures
+In order to protect your information security, we have adopted various physical, electronic and management security measures that comply with industry standards and are reasonably feasible to protect your information so that your information will not be leaked, damaged or lost, including but not It is limited to setting up and deploying host intrusion detection systems, encrypted storage of important sensitive data, and log records and security audits.
+(2) Other security measures we take to protect personal information
+We have adopted strict management of employees who may have access to your information, including but not limited to taking different authority controls according to different positions, signing confidentiality agreements, and monitoring the operation of employees in the background. We will provide corresponding security measures to protect your information in accordance with existing technologies and provide reasonable security guarantees. We will try our best to prevent your information from being leaked, damaged or lost.
+Your account has security protection functions, please keep your account and password information properly. The platform will ensure that your information is not lost, abused or altered by backing up to other servers and encrypting user passwords. The Internet is not an absolutely secure environment. Despite the aforementioned security measures, please understand that there are no "perfect security measures" on the information network, and you must not make any claims to the platform on this basis. When using platform services to conduct online transactions, you will inevitably disclose your personal information and personal sensitive information, such as bank account information, contact information, or postal address, to the counterparty or potential counterparty. We strongly recommend that you do not use communication methods other than those recommended by Zhanqi Live to send your information. Please properly protect your personal information and personal sensitive information, and only provide it to others when necessary. If you find that your personal information and sensitive personal information have been leaked, especially your account number and password, please contact the platform's customer service immediately so that the platform can take corresponding measures or reduce related losses.
+(3) Security incident handling
+In the unfortunate event of a personal information security incident, we will inform you in accordance with the requirements of laws and regulations: the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions that you can independently prevent and reduce risks, Remedies for you, etc. We will inform you of the incident-related situation by email, letter, telephone, push notification, etc. If it is difficult to inform the subject of personal information one by one, we will take a reasonable and effective way to publish an announcement. At the same time, we will also report the handling of personal information security incidents in accordance with the requirements of the regulatory authorities.
+6. How to manage your personal information
+(1) Access, update and delete
+We encourage you to update and modify your personal information to make it more accurate and effective. You can access your personal information through the platform and complete it yourself or request us to modify, supplement and delete it according to the management method of the corresponding information. We will adopt appropriate technical means or provide contact channels for submitting applications, as far as possible to ensure that you can access, update and correct your personal information or other information provided when using Zhanqi Live Service.
+You can update and delete your personal information in the following ways:
+1. Contact the official online customer service of "Zhanqi Live": Client-My-Feedback-Online Customer Service
+2. Send an email to: zqfw@bianfeng.com
+When accessing, updating, correcting and deleting the aforementioned information, we may require you to verify your identity to ensure information security. For your information collected through COOKIES or similar technologies, we also explain the selection mechanism provided to you in the "How We Use Cookies or Similar Technologies" section of this policy.
+(2) Withdrawal of user authorization
+You can revoke the authorized authorization in the following ways:
+1. Contact the official online customer service of "Zhanqi Live": Client-My-Feedback-Online Customer Service
+2. Send an email to: zqfw@bianfeng.com
+After you apply for the withdrawal of authorization, the platform will no longer process the corresponding personal information and personal sensitive information. Please understand that due to the withdrawal of your authorization, we cannot continue to provide you with the specific functions or/and services corresponding to the withdrawal of your consent or authorization. However, your decision to withdraw your consent will not affect the previous processing of personal information based on your consent or authorization.
+(3) Collection of copies of personal information
+You can collect copies of personal information in the following ways
+1. Contact the official online customer service of "Zhanqi Live": Client-My-Feedback-Online Customer Service
+2. Send an email to: zqfw@bianfeng.com
+"Zhanqi Live" will provide you with a copy of your personal information within 10 working days.
+(4) Account cancellation
+You can submit an account cancellation application on the platform yourself.
+Logout method: [Client→My→Click on the avatar→Account and Security→Account logout]
+After you actively cancel your account, we will stop providing you with products or services, delete your personal information or make it anonymized in accordance with the requirements of applicable laws.
+You know that after the account is cancelled, you will give up the following assets and rights:
+1. Your basic account information (mobile phone, email, identity information, etc.) will be cleared and cannot be restored;
+2. The gold coins, war flag coins, bullets, gift items, points, peripherals and other assets in your account are deemed to be automatically given up;
+3. Your live broadcast room will be closed and cannot be restored;
+4. Assets and rights in other accounts;
+Seven, age limit
+The products, websites and services of Zhanqi platform are mainly for adults. If you are a minor, before using our products and/or services, you should read this policy and the annex "Zhanqi Live Children's Personal Information Protection Policy" with your guardian, and ensure that your guardian has been consulted After agreeing to use our services and provide us with your information.
+If your guardian does not agree with you to use our services or provide us with information in accordance with this policy, please immediately terminate the use of our services and notify us in time.
+In the case of collecting personal information of minors with the consent of their parents or legal guardians, we will only use or publicly disclose this information when permitted by law, the parent or guardian's explicit consent, or necessary to protect the minors.
+If you are the guardian of a minor, please contact us in time when you have any questions about the minors under your supervision using our services or the user information provided to us. We will protect the confidentiality and security of minor user information in accordance with relevant national laws and regulations and the provisions of this policy. If we find that we have collected personal information of minors without the prior consent of a verifiable parent or legal guardian, we will delete the relevant data as soon as possible.
+If our products or services require the user to enter birthday and age information to identify the user as a child user under the age of 14, then the child user shall also apply this policy and the attached "Zhanqi Live Children's Personal Information Protection Policy".
+If you are the guardian of a child, you should carefully read this policy and the "Zhanqi Live Children's Personal Information Protection Policy" before helping the child complete the registration and use of products or services, and decide whether to agree to this policy and "Zhanqi". Live the Children’s Personal Information Protection Policy" and help children register and use them so that they can use the products or services we provide.
+If you have any questions or requests for rights regarding the protection of the personal information of the children under your supervision, please contact us through the contact information disclosed in the "Zhanqi Live Children's Personal Information Protection Policy". We will process and reply to you within a reasonable time.
+8. Notice and Amendment
+Our privacy policy may change.
+Without your explicit consent, we will not restrict your rights in accordance with this policy. We will inform you of any changes made to this policy in a reasonable way such as in-site messages, pop-up notifications, etc., so that you can keep abreast of any changes made to this policy.
+For major changes, depending on the specific circumstances, we may also provide a more significant notice explaining the specific changes to this policy.
+The major changes referred to in this policy include but are not limited to:
+1. Significant changes have taken place in our service model. Such as the purpose of processing personal information, the type of personal information processed, the way of using personal information, etc.;
+2. Significant changes have taken place in our ownership structure and organizational structure. Such as changes in owners caused by business adjustments, bankruptcy mergers, etc.;
+3. The main objects of personal information sharing, transfer or public disclosure have changed;
+4. Your right to participate in the processing of personal information and how to exercise it has undergone major changes;
+5. The department responsible for handling personal information security, contact information and complaint channels have changed;
+6. The personal information security impact assessment report shows that there is a high risk.
+If you do not agree to the revised privacy policy, you have the right and should immediately stop using the platform's services. If you continue to use the platform's services, it is deemed that you have fully read, understood and agreed to be bound by this revised policy.
+
+We may issue service-related announcements when necessary (for example, when we suspend a certain service due to system maintenance). You may not be able to cancel these service-related announcements that are not promotional in nature.
+9. Dispute Resolution
+The establishment, effectiveness, performance, interpretation and dispute resolution of the policies of this agreement shall be governed by the laws of the mainland of the People's Republic of China.
+If there is any dispute or dispute between you and us due to the policy of this agreement, you should first resolve it through friendly negotiation; if the negotiation fails, you agree to submit the dispute or dispute to the people with jurisdiction where the platform is located (Xihu District, Hangzhou City, Zhejiang Province) Court jurisdiction.
+10. How to contact us
+1. If you have any complaints and reports about network information security, or if you have any questions, comments or suggestions about this policy, platform privacy measures, and issues related to your information, please contact us:
+Mailing address: 4th Floor, Block C, Zhejiang News Building, No. 178, Tiyu Road, Gongshu District, Hangzhou
+Collected by Zhanqi Live Legal Department
+Contact email: zqfw@bianfeng.com
+Under normal circumstances, we will reply within 15 days after receiving your questions, comments or suggestions and verifying your user identity
+
+
+
+
+Annex I:
+Zhanqi Live Children's Personal Information Protection Policy
+Hangzhou Zhanqi Network Technology Co., Ltd. (or "we") is well aware of the importance of the personal information and privacy of children (referring to minors under the age of fourteen, the same below). In addition to the "Zhanqi Live Privacy Protection Policy" and the privacy policy for specific products and/or services, we have also formulated the "Zhanqi Live" in accordance with the "Network Security Law", "Children’s Personal Information Network Protection Regulations" and other relevant laws and regulations. Qi Live Children’s Personal Information Protection Policy" (hereinafter referred to as "this policy").
+This policy constitutes a part of the "Zhanqi Live Privacy Protection Policy", and on the basis of the "Zhanqi Live Privacy Protection Policy", it provides enhanced instructions and guidelines for the parts of children's personal information that need to be protected. We will collect, use, store and share children's personal information in accordance with this policy. Unless otherwise agreed, the terms and acronyms used in this statement have the same meaning as those in the "Zhanqi Live Privacy Protection Policy". If there is any inconsistency between the children’s personal information protection policy and the "Zhanqi Live Privacy Protection Policy", this policy shall prevail.
+
+Special instructions for child guardians:
+If you are the guardian of a child user, please read carefully and choose whether to agree to this policy. We ask you to help us protect the personal information of children and ask them to read and accept this policy under your supervision, and use Zhanqi live broadcast service and submit personal information with your consent and guidance. If you do not agree with the content of this policy, it may cause the service to fail to operate normally, or fail to achieve the service effect we intend to achieve, and you and the children under your supervision may not be able to use our products, services or related specific business functions normally. If you click to agree to this policy online, or the children under your supervision use/continue to use the Zhanqi live broadcast service and submit personal information, you agree to our collection, use, storage, sharing, transfer and transfer in accordance with this policy (including updated versions). Disclosure of children’s personal information.
+
+Special instructions for children:
+Any child participating in online activities should obtain the consent of the guardian in advance. If you are a child, you need to read this statement carefully with your guardian, and after obtaining the consent of the guardian, use our products, services or provide us with information. You click to agree to this policy online, or you use/continue to use Zhanqi live broadcast service, submit personal information, it means that you have obtained the permission of your guardian, and both you and your guardian agree that we follow this policy (including the updated version) ) Collect, use, store, share, transfer and disclose your personal information.
+
+We remind you that the important clauses in this policy that are closely related to the rights and interests of you and the children under your guardianship are (possibly). We have used bold fonts to remind you specifically. Please focus on them.
+If you have any questions about this privacy policy, you can contact us through the contact information in the "ten. How to contact us" section of this policy .
+
+1. How do we collect and use children's personal information
+(1) We will strictly fulfill the obligations and responsibilities of children’s personal information protection provided by laws and regulations, follow the principles of justification and necessity, informed consent, clear purpose, safety protection, and legal use, and collect and use children’s personal information after obtaining the consent of the guardian :
+1. In some individual services, we may require users to fill in personal birthday information or identify whether the user is a child based on the identity information filled in by the user, and in accordance with laws and regulations, allow the child to continue to use the relevant information after obtaining the consent of the guardian Zhanqi live broadcast service.
+2. When we identify the user as a child, we may collect the guardian's contact information (such as mobile phone number, email ) and contact the guardian to verify the guardianship relationship with the child. In order to better protect the rights of children, we may also collect more information from the guardian (such as name, ID card, household register or other proof of guardianship relationship ) in order to further verify the guardianship relationship between the guardian and the child.
+3. When children use Zhanqi Live Service, we may also collect and use other children's personal information. For details, please refer to the "How We Collect and Use Personal Information" section of the Zhanqi Live Privacy Protection Policy for details. If we need to collect and use children's personal information beyond the above-mentioned scope, we will obtain the consent of the guardian again.
+
+(2) Exceptions for obtaining authorization and consent
+According to relevant laws and regulations, the collection of children’s information in the following situations does not require the authorization and consent of the child and/or guardian:
+1. Related to national security, national defense security, public security, public health, and major public interests;
+2. Related to criminal investigation, prosecution, trial, and execution of judgments;
+3. In order to protect the life, property and other major legal rights of the information subject or other individuals, but it is difficult to obtain the consent of the guardian;
+4. The information collected is disclosed to the public by the children or guardians themselves;
+5. Collect information from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels;
+6. Necessary for signing a contract according to the requirements of the guardian;
+7. It is necessary to maintain the safe and stable operation of Zhanqi live broadcast service, such as discovering and disposing of malfunctions of Zhanqi live broadcast service;
+8. The information is automatically stored and processed through the computer information system and the information stored and processed cannot be identified as children's personal information;
+9. It is necessary for academic research institutions to conduct statistical or academic research based on the public interest, and when they provide academic research or described results to the outside, they de-identify the information contained in the results;
+10. Other circumstances stipulated by laws and regulations.
+
+(3) Reminders on sensitive personal information of children
+The child information provided by the child or guardian or collected by us may contain the child’s personal sensitive information, such as ID number, personal biometric information, bank account number, communication records and content, property information, credit information, whereabouts, and accommodation Information, health and physiological information, transaction information. Guardians and children are requested to be cautious and pay attention to sensitive personal information of children. Guardians agree that we can handle sensitive personal information related to children in accordance with the purposes and methods described in this policy.
+
+2. Children's personal information that we may share, transfer or disclose
+(1) Sharing
+Except for the following circumstances, we will not share children's personal information with any third party without the consent of the guardian:
+1. In response to the legal needs of the child or with the authorization and consent of the guardian;
+2. Share with guardians. We will share part of the child's personal information (such as the child's user name, account number, password, and the content of the child's user's transactions in some of our products and services, etc.) with the guardian, who can access and manage the relevant personal information.
+3. Necessary sharing with related parties. In order to facilitate our provision of consistent services to children based on a unified account system, as well as to facilitate their unified management, personalized recommendation, system and account security, etc., children’s personal information may be necessary to share between us and our affiliates. ；
+4. Provide our services to children. We may share children’s information with partners and other third parties to realize the function of Zhanqi’s live broadcast service and allow children to use required services normally, such as payment institutions that provide payment services, data services (including online advertising monitoring, data Statistics, data analysis) partners, third-party logistics companies and other service providers;
+5. To achieve the purpose stated in the section "How do we collect and use children's personal information" in Article 1 of this policy;
+6. Fulfill our obligations and exercise our rights in this policy or other agreements we have reached with children and guardians;
+7. The purpose of sharing with third parties such as partners who entrust us to promote is to enable these entrusting parties to understand the coverage and effectiveness of the promotion. For example, we can tell the entrusting party how many people have viewed their promotional information or purchased the entrusting party’s goods after seeing this information, or provide them with statistical information that does not identify the child’s personal identity to help them understand their audience or customers ；
+8. To the extent permitted by laws and regulations, in order to comply with the law, protect us and our affiliates or partners, children, guardians or other Zhanqi live broadcast users or the public from damage to the interests, property or safety of the public, such as to prevent fraud We may exchange information with other companies and organizations such as illegal activities and reduce credit risk. However, this does not include information that is sold, rented, shared or otherwise disclosed for profit in violation of the commitments made in this policy;
+9. Provided in accordance with a single service agreement (including electronic agreements signed online and corresponding platform rules) or other legal documents;
+10. Provided based on the public interest in compliance with laws and regulations.
+We will only share children's personal information for legal, legitimate, necessary, specific, and clear purposes. For companies, organizations and individuals with whom we share personal information, we will conduct security assessments and sign strict confidentiality agreements with them, requiring them to process information in accordance with our instructions, this policy and any other relevant confidentiality and security measures.
+
+(2) Transfer
+1. In our merger, acquisition or bankruptcy liquidation situation, or other situations involving merger, acquisition or bankruptcy liquidation, if the transfer of children’s personal information is involved, we will require new companies and organizations that hold children’s personal information to continue to be subject to this Restricted by the policy, otherwise we will require the company, organization or individual to re-seek authorization and consent from the guardian.
+2. After obtaining the consent of the guardian, we will transfer the children's personal information to other parties.
+
+(3) Disclosure
+We will only publicly disclose children's personal information under the following circumstances:
+1. According to the needs of the child or guardian, disclose the information specified by the guardian in the disclosure method agreed by the guardian;
+2. In cases where children's information must be provided in accordance with the requirements of laws and regulations, mandatory administrative law enforcement or judicial requirements, we may disclose children's information based on the required information types and disclosure methods.
+3. If children seriously violate the relevant agreements and rules of Zhanqi Live, or to protect the personal and property of Zhanqi Live users or the public from infringement, we may disclose information about children in accordance with laws and regulations or with the consent of their guardians. Personal information.
+
+(4) Exceptions for obtaining authorization and consent in advance when sharing, transferring, and disclosing information
+In the following situations, sharing, transferring, and disclosing children’s information does not require prior authorization and consent from the guardian:
+1. Related to national security and national defense security;
+2. Related to public safety, public health, and major public interests;
+3. Related to judicial or administrative law enforcement such as criminal investigation, prosecution, trial, and execution of judgments;
+4. To protect the life, property and other major legal rights of children or other individuals, but it is difficult to obtain the consent of the guardian;
+5. Information that children or guardians disclose to the public on their own;
+6. Collect information from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels.
+According to laws and regulations, sharing, transferring, and disclosing personal information that has been de-identified, and ensuring that the data recipient cannot restore and re-identify the subject of the information does not belong to the external sharing, transfer, and public disclosure of personal information. The preservation and processing of the scalar will not require separate notification to the guardian and the guardian’s consent.
+
+3. How to manage children's personal information
+During the children's use of Zhanqi Live Service, we will adopt appropriate operation settings, guidelines or provide the contact channels listed in the "How to Contact Us" section of this policy in the service to ensure that guardians and children can visit, correct and delete children Personal information, and cancel the child's registered account. When accessing, correcting, deleting the aforementioned information or applying for cancellation of an account, we may require guardians and/or children to perform identity verification to ensure information security. Unless otherwise provided by laws and regulations, when guardians and children correct or delete children’s personal information or apply for account cancellation, we may not immediately correct or delete the corresponding information from the backup system, but we will correct or delete this information when the backup is updated. .
+
+(1) Query children's personal information
+Guardians and children can view the children's personal information provided or generated during the use of Zhanqi Live Service, such as personal information, partial usage records, and published content.
+
+(2) Correction of children's personal information
+Guardians and children find that the children's personal information we collect, use and process is wrong, and they can contact us to correct them. We will take timely measures to correct the problem after completing the identity verification and verification.
+
+(3) Delete children's personal information
+According to the specific circumstances of children's choice of Zhanqi live broadcast service, guardians and children can delete part of children's personal information when using Zhanqi live broadcast service. In the following situations, guardians and children can directly request us to delete children’s personal information, and we will take timely measures to delete them after completing identity verification and verification, including:
+1. We violated laws and regulations or agreed with guardians and children to collect, store, use, transfer, or disclose children's personal information;
+2. Collecting, storing, using, transferring, or disclosing children's personal information beyond the scope of the purpose or the necessary period;
+3. The guardian withdraws consent;
+4. The guardian or child terminates the use of Zhanqi live broadcast service by way of deregistration.
+However, please note that if guardians and children delete or request us to delete specific children’s personal information, it may result in the inability to continue to use all or part of the Zhanqi live broadcast service.
+
+(4) Withdrawal of authorized authorization
+Guardians and children can always choose whether to disclose information. Some information is necessary to use Zhanqi Live Service, but the provision of most other information is at your discretion. Guardians and children can change the scope of their authorization to continue to collect information or withdraw their authorization by deleting information, turning off device functions, etc.
+After the guardian and the child withdraw the authorization, we cannot continue to provide the services corresponding to the withdrawal of the authorization, and we will no longer process the corresponding information. However, the decision to withdraw the authorization will not affect the previous information processing based on the authorization of the guardian and the child.
+
+(5) Cancel the account
+Guardians and children can operate according to the specific settings and guidelines of Zhanqi Live or contact us for processing.
+After the guardian helps the child to actively cancel the account, we will stop providing products or services to the child, delete the child's personal information or make it anonymized in accordance with the requirements of applicable laws. After the account is cancelled, the following assets and rights will be waived:
+1. The basic account information (mobile phone, email, identity information, etc.) will be cleared and cannot be restored;
+2. The gold coins, war flag coins, bullets, gift items, points, peripherals and other assets in the account are deemed to be automatically given up;
+3. The live broadcast room will be closed and cannot be restored;
+4. Assets and rights in other accounts;
+
+4. How do we store and protect children's personal information
+(1) Storage of children's personal information
+We abide by laws and regulations and store personal information of children collected from the territory of the People's Republic of China. We only store children's personal information for the period necessary for the purposes described in this policy and within the shortest time limit required by laws and regulations.
+
+(2) Protection of children's personal information
+We will use encryption and other technical measures to store children's personal information to ensure information security.
+Due to technical limitations and risk prevention limitations, even if we have strengthened security measures as much as possible, we cannot always guarantee 100% information security. Guardians need to understand that the system and communication network used by children to access the live broadcast service of Zhanqi may have problems due to circumstances beyond our control.
+Guardians and children must take good care of Zhanqi live account, password and other identity elements. When children use the live broadcast service of Zhanqi, we will identify their identities through accounts, passwords, and other identity elements. Once the guardian and child disclose the aforementioned information, they may suffer losses and may have an adverse effect on themselves. If guardians and children discover that accounts, passwords and/or other identity elements may or have been leaked, please contact us immediately so that we can take appropriate measures in time to avoid or reduce related losses.
+
+Please refer to the chapters of "Zhanqi Live Privacy Protection Policy" "4. How do we retain and store personal information" and "5. How do we protect your personal information" to learn more about how we store and protect children's personal information.
+
+5. Changes to this policy
+We may revise the terms of this policy in a timely manner based on the update of Zhanqi live broadcast service and relevant requirements of laws and regulations, and such revisions form part of this policy. If such updates result in a substantial reduction or major change in the rights of guardians and children under this policy, we will notify you through push notifications, pop-up prompts or other methods before this policy takes effect. If guardians do not agree to the changes, they can choose Children are required to stop using the live broadcast service of Zhanqi; if the child continues to use the live broadcast service of Zhanqi, it means that the guardian has fully read, understood and agreed to be bound by this revised policy.
+
+6. How to contact us
+We have a dedicated department for personal information protection and designated a special person in charge of children's personal information protection, and we will protect children's personal information in strict accordance with this policy. If you have any questions about this privacy policy, you can contact us at any time. We will respond to your request within 15 days after verifying the identity of the guardian and/or child.
+Mailing address: 4th Floor, Block C, Zhejiang News Building, No. 178, Tiyu Road, Gongshu District, Hangzhou
+Collected by Zhanqi Legal Department
+Post Code: 310006
+Email: zqfw@bianfeng.com
+
+
+
+

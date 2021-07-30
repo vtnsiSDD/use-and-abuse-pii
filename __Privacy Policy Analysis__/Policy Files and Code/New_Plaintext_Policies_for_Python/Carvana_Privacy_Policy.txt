@@ -1,0 +1,249 @@
+( Date Accessed: 6/08/2021, From: https://www.carvana.com/terms-of-use )
+
+( Embedded Hyperlinks Used: 9
+https://www.carvana.com/terms-of-use#sectionL
+https://www.carvana.com/privacy-policy
+https://plaid.com/legal
+http://www.google.com/policies/privacy/partners/
+http://www.networkadvertising.org/choices/
+http://www.aboutads.info/
+https://www.carvana.com/privacy-policy
+https://privacyportal.carvana.com/
+https://privacyportal.carvana.com/
+)
+
+V. PRIVACY POLICY
+PRIVACY NOTICE /YOUR PRIVACY RIGHTS
+
+If you are a California resident, please click here for more information about your specific privacy rights.
+A. Introduction
+Carvana, LLC, its parent and/or subsidiaries (“us,” “we,” or “our”) collects and processes information about you as described in this Privacy Notice (“Notice”). We are committed to protecting the privacy of those with whom we interact. This Notice contains details about how we collect, use, and share personal information that we obtain from and about you when you interact with us via our website(s), email, mobile application(s), and in other online and offline interactions. Please read this Notice carefully.
+Applicability: We collect information in several contexts as described below. However, this Notice does not apply to the following information:
+1.	Information we collect in connection with providing individual consumers with a financial product or service. Such information is subject instead to our Financial Privacy Policy.
+2.	Information about our employees, contractors, agents, and job applicants. Such information is subject to a separate privacy notice that we will make available to individuals.
+3.	Information we collect from individuals with whom we engage in solely business-to-business communications and transactions, such as information about the employees of our business partners and customers.
+Changes: We may update this Notice from time-to-time. The current Notice will be effective when posted. Please check this Notice periodically for updates as your continued use after an update will signify your acceptance of the new policy. If any of the changes are unacceptable to you, you should cease interacting with us. When required under applicable law, we will notify you of any changes to this Notice by posting an update on this website.
+B. Sources of Personal Information
+We collect information about you and how you interact with us in several ways, including:
+1.	Information you provide to us directly. We collect the information you provide to us directly.
+2.	Information automatically collected or inferred from your online interaction with us. We automatically collect technical information about your online interactions with us (such as IP address and browsing preferences).
+3.	Information from public sources, including government entities from which public records are obtained and information you submit in public forums
+4.	Information from third parties. We receive information about you and your interactions with us from third parties, such as credit reporting entities, marketing and advertising providers, social network services, data brokers, and companies that provide or sell lists of potential purchasers.
+We may combine information that we receive from the various sources described in this Notice, including third party sources and public sources, and use or disclose it for the purposes identified below.
+C. Types of Personal Information We Collect
+The types of information that we collect about you (“Personal Information”) include:
+1.	Identifiers, such as your name, alias, postal address, country of residence, unique personal identifier, online identifier, internet protocol address, email address, account name, phone number, social media identifiers (e.g., Twitter handle, Instagram name, etc.) social security number, driver’s license number, passport number, or other similar identifiers.
+2.	Customer records, such as signatures.
+3.	Protected Class and Demographic information, such as age, race, gender, gender identity, national origin, religion, sex, citizenship, medical condition, military or veteran status, education, or date of birth.
+4.	Commercial information and preferences, including records of personal property, creditworthiness, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+5.	Internet or other electronic network activity information, such as your browsing history, search history, and information regarding your interactions with us (including interacting with us online, by mobile application, and through advertisements).
+6.	Geolocation information, such as approximate location based on your IP address or precise location with your express consent.
+7.	Audio, electronic, visual, thermal, olfactory or similar information, such as video recordings of our premises, call center recordings, or customer support chat logs.
+8.	Professional, employment, or education information, such as job title, employer, business address and contact information, employment history, other professional information, or education history.
+9.	Education information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act.
+10.	Inferences drawn from any of the information we collect to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+D. How We Use Your Personal Information
+We may use each category of your information described above in the following ways:
+1.	To enable interactions between you and us, such as to facilitate online purchases of our products; process shipping and returns; register and administer your account, provide you with and support your interactions with us; diagnose, repair and track service and quality issues; facilitate an order, download, return, or exchange; provide requested product information; communicate with you about your account or our data practices; install and configure changes and updates to programs and technologies related to interactions with us; authenticate those who interact with us; or to respond to your requests, complaints, and inquiries.
+2.	For our own internal business purposes, such as to evaluate or audit the usage and performance of programs and technologies related to interactions with us; evaluate and improve the quality of your interactions with us and programs and technologies related to interactions with us; design new services; process and catalog your responses to surveys or questionnaires (e.g., customer satisfaction reviews); perform internal research for technological development and demonstration; conduct data analysis and testing; maintain proper business records and other relevant records.
+3.	For legal, safety, or security reasons, such as to comply with legal requirements; protect our safety, our property or rights of those who interact with us, or others; and detect, prevent, and respond to security incidents or other malicious, deceptive, fraudulent, or illegal activity.
+4.	In a de-identified, anonymized, or aggregated format. We may convert Personal Information into a de-identified, anonymized, or aggregated format, and use such information for any legal purpose.
+5.	For marketing. We may use your Personal Information to market our products or services or those of third parties, such as our business partners. We may use your Personal Information to invite you to participate in marketing surveys, questionnaires, promotions, events or contests. We may audit aspects of our ad impressions. We may use your Personal Information for short-term transient use, including for contextual ad customization. We may use your Personal Information to enhance our content and to deliver advertisements to you, including commercial emails. For more information about online marketing activity, see Section 6 below.
+6.	Plaid Technologies, Inc. (“Plaid”): in some situations, we use Plaid to gather customers’ data from financial institutions. By using the Service, you grant us and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. By using the Service, you agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with the Plaid Privacy Policy.
+7.	For any other purposes for which you provide consent.
+E. With Whom We Share Your Personal Information
+We may share your Personal Information with the categories of recipients described below:
+1.	Affiliates and subsidiaries: We may share your Personal Information within the Carvana group of companies, which includes parents, corporate affiliates, subsidiaries, business units and other companies that share common ownership for the purposes described above.
+2.	Service providers: We may share your Personal Information with service providers working on our behalf in order to facilitate our interactions with you or request or support our relationship with you, such as hosting service providers, IT providers, operating systems and platforms, internet service providers, analytics companies, and marketing providers (e.g., we may share your email address with our outbound email marketing provider). We may contract with other companies to provide certain services, including identity verification, email distribution, market research, promotions management, and payment processing. We take reasonable efforts to provide these companies with only the information they need to perform services on our behalf.
+3.	Third parties necessary to complete a transaction or request. We may disclose information to third parties to provide you with services or benefits you may request, such as shipping vendors and consumer credit reporting companies. We may also share information with third parties at your direction, such as if you direct us to send or receive information from third parties using Plaid.
+4.	Business partners: We may also provide your Personal Information or provide access to your Personal Information to our business partners who may use it for their own purposes, such as supplemental product providers, including those who offer vehicle accessories, insurance, etc., social network services, and lead generators.
+5.	For legal, security and safety purposes: We may share your Personal Information with third parties such as law enforcement or other government agencies to comply with law or legal requirements; to enforce or apply our Terms of Use and other agreements; and to protect our rights and our property or the safety of our users or third parties.
+6.	In connection with a corporate transaction: We may transfer any information we have about you in connection with a change in corporate control, including but not limited to a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Carvana or as part of a corporate reorganization or stock sale.
+We may also de-identity, anonymize, or aggregate Personal Information to share with third parties for any purpose.
+F. How We Use Cookies and Automatic Data Collection Tools
+We also collect information, via cookies, web beacons, pixels, tags, or other tracking technologies (“Tracking Technologies”), such as your Internet Service Provider and IP address, the date and time you access our website(s), the pages you accessed while visiting our website(s), and the Internet address from which you accessed our website(s). We may place cookies on your device, which may last only during a single session or may be persistent over multiple sessions over time. We use these technologies to remember user preferences, maximize the performance of our website(s) and services, provide you with offers that may be of interest to you, measure the effectiveness of our email and other advertising campaigns, and to personalize online content. These Tracking Technologies may be used to track you across devices and websites over time.
+Additionally, we may permit third parties to place Tracking Technologies on our website(s) to allow these third parties to directly collect personal information from you. These third parties may also use Tracking Technologies to serve you advertisements tailored to interests you have shown by browsing on this website and other sites, applications, destinations, and services you have visited, and for other lawful business purposes. In doing so, these third parties may collect your Personal Information, including for example the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier) and geographic location of your computer, mobile or other device, as well as date/time stamp, IP address, pages visited, time of visits, content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data.
+To provide you with more relevant and interesting experiences, we may work with third party companies to display ads or customize the content on this website and on other digital properties and websites. For example:
+o	We use Google Analytics to analyze traffic to our Web site(s) in order to help us understand our customers' and visitors' needs and to continually improve our site for them. The data they collect on our behalf may include, but is not limited to, search engine referral, affiliate referrals, traffic driven by banner ads or other online promotions, how visitors navigate around the site, and the most popular pages. We also collect certain technical information, such as the browser version and operating system. We reserve the right to use, transfer, sell, and share data about our users for any lawful business purpose, such as analyzing usage trends and seeking compatible advertisers, sponsors, clients, and customers. For more information related to our use of Google Analytics, please visit www.google.com/policies/privacy/partners/.
+o	We use Facebook Pixel and/or related Facebook business tools that may allow third parties, including Facebook, to use cookies, web beacons, and other storage technologies to collect or receive information from our website(s), app(s), and/or elsewhere on the Internet and use that information to provide measurement services and target ads.
+These companies may use cookies and similar tracking technologies as described in this Notice to gather information about your visits to our website(s), as well as your visits elsewhere on the Internet. These companies use this information to provide you with more relevant advertising known as interest-based advertising. For more information about third-party advertisers, please visit http://www.networkadvertising.org/choices/. This is a site offered by the Network Advertising Initiative ("NAI") that includes information on how consumers can opt-out from receiving interest-based advertising from some or all of NAI's members. The Digital Advertising Alliance (“DAA”) also offers a choice mechanism with respect to certain types of data collection and use by third parties available at www.aboutads.info. Opting out of interest-based advertising will not opt you out of all advertising, but rather only interest-based advertising from us or our agents or representatives.
+Some browsers have incorporated Do Not Track (“DNT”) preferences. Most of these features, when turned on, send signals to the website you are visiting that you do not wish to have information about your online searching and browsing activities collected and used. As there is not yet a common agreement about how to interpret DNT signals, we do not honor DNT signals from website browsers at this time. However, you may refuse or delete cookies. If you refuse or delete cookies, some of our website(s) functionality may be impaired. If you change computers, devices, or browsers, or use multiple computers, devices, or browsers, and delete your cookies, you may need to repeat this process for each computer, device, or browser. Please refer to your browser’s Help instructions to learn more about how to manage cookies and the use of other tracking technologies.
+G. Security and Retention
+We maintain reasonable security procedures and technical and organizational measures to protect your Personal Information against accidental or unlawful destruction, loss, disclosure, alteration, or use. However, because no data transmission is completely secure, and no system of physical or electronic security is impenetrable, we cannot guarantee the security of the information you send to us or the security of our servers, networks or databases, and by using our Service you agree to assume all risk in connection with the information sent to us or collected by us when you access, visit and/or use our Service, including without limitation your personally identifiable information or other Registration Information, and we are not responsible for any loss of such information or the consequences thereof.
+H. Children’s Privacy
+Interactions with us are intended for individuals 16 years of age and older. Our interactions are not directed at, marketed to, nor intended for, children under 16 years of age. We do not knowingly collect any information, including Personal Information, from children under 16 years of age. If you believe that we have inadvertently collected Personal Information from a child under the age of 16, please contact us at the address below and we will use reasonable efforts to delete the child’s information from our databases.
+I. External Links
+When interacting with us you may encounter links to external sites or other online services, including those embedded in third party advertisements or sponsor information, that we do not control. We are not responsible for the privacy practices and data collection policies for such third party services. You should consult the privacy statements of those third party services for details.
+J. Terms of Use
+The Terms of Use for interactions with us are incorporated by reference into this Notice.
+K. Contact Info/Your Choices
+If you have questions regarding this Notice, please contact us at:
+EMAIL:	privacypolicy@carvana.com
+MAIL:	Carvana, LLC
+1930 W Rio Salado Pkwy
+Tempe, AZ 85281
+Attention: Compliance Team
+Note: Only inquiries involving this Privacy Notice or Carvana’s collection, use, and/or management of your personal information should be sent to this email and/or mailing address. No other communication will be accepted or addressed.
+If you've registered on any part of the Service, please use the mechanism or contact information on the Service that allows you to change or update your member preferences or information, if available, to keep all such data accurate and up-to-date. If no such mechanism or contact information is available on the Service, contact us as described above with your changes.
+To opt-out of receiving promotional email messages from us, please click on the "Unsubscribe" link contained at the bottom of each email or by contacting us using the information above.
+L. Your California Privacy Rights
+This section applies to certain California residents and supplements (but does not replace) the Notice above. This section does not apply to the following information:
+o	Information about individuals who are not California residents.
+o	Information we collect in connection with providing individual consumers with a financial product or service. Such information is subject instead to our Financial Privacy Policy.
+o	Information about our own employees, contractors, agents, and job applicants. Such information is subject to a separate privacy notice that we will make available to individuals.
+o	Information we collect from individuals with whom we engage in solely business-to-business communications and transactions, including due diligence transactions, such as information about the employees of our business clients.
+Pursuant to the California Consumer Privacy Act of 2018, below is a summary of the personal information we collect from consumers, the parties with whom we may have shared personal information for business purposes in the previous 12 months, and the parties to whom we may have sold personal information in the previous 12 months. We do not knowingly sell the personal information of minors under 16 years of age.
+Categories of Personal Information We Collect	Categories of Third Parties With Whom We Disclose Personal Information for a Business Purpose	Categories of Third Parties With Whom We Sell Personal Information
+Identifiers, such as real name, alias, postal address, unique personal identifier, online identifier, IP address, email address, account name, social security number, driver’s license number, passport number, or other similar identifiers.	o	Service providers, such as identity verification services, financial services, technical support, research and analytics providers, etc.
+o	Third party social network services
+o	Our parents, subsidiaries, and affiliates
+o	Marketing and advertising partners or providers
+o	Public or law enforcement officials, as well as private parties involved in other legal process
+o	Consumer credit reporting companies
+o	Companies to whom your data is shared at your direction
+o	Supplemental product providers, such as those who offer vehicle accessories, insurance, etc.
+o	Entities involved in a corporate transaction	o	Third party social network services
+o	Data analytics providers
+o	Consumer credit reporting companies
+o	Supplemental product providers, such as those who offer vehicle accessories, insurance, etc.
+o	Companies that create or receive sales leads
+Personal information subject to the California Customer Records Act, such as signatures.	o	Service providers, such as identity verification services, financial services, technical support, research and analytics providers, etc.
+o	Third party social network services
+o	Our parents, subsidiaries, and affiliates
+o	Marketing and advertising partners or providers
+o	Public or law enforcement officials, as well as private parties involved in other legal process
+o	Consumer credit reporting companies
+o	Companies to whom your data is shared at your direction
+o	Supplemental product providers, such as vehicle accessories, insurance, etc.
+o	Entities involved in a corporate transaction	o	Third party social network services
+o	Data analytics providers
+o	Consumer credit reporting companies
+o	Supplemental product providers, such as those who offer vehicle accessories, insurance, etc.
+o	Companies that create or receive sales leads
+Characteristics of protected classifications under California or Federal Law, such as age, sex (including gender, gender identity, gender expression), citizenship, religion or creed, marital status, medical condition, pregnancy or childbirth, veteran or military status.	o	Service providers, such as identity verification services, financial services, technical support, research and analytics providers, etc.
+o	Third party social network services
+o	Our parents, subsidiaries, and affiliates
+o	Marketing and advertising partners or providers
+o	Public or law enforcement officials, as well as private parties involved in other legal process
+o	Consumer credit reporting companies
+o	Companies to whom your data is shared at your direction
+o	Supplemental product providers, such as vehicle accessories, insurance, etc.
+o	Entities involved in a corporate transaction	o	Third party social network services
+o	Data analytics providers
+o	Consumer credit reporting companies
+o	Supplemental product providers, such as those who offer vehicle accessories, insurance, etc.
+o	Companies that create or receive sales leads
+Commercial information, including records of personal property, product or services purchased, obtained or considered, or other purchasing or consuming histories or tendencies.	o	Service providers, such as identity verification services, financial services, technical support, research and analytics providers, etc.
+o	Third party social network services
+o	Our parents, subsidiaries, and affiliates
+o	Marketing and advertising partners or providers
+o	Public or law enforcement officials, as well as private parties involved in other legal process
+o	Consumer credit reporting companies
+o	Companies to whom your data is shared at your direction
+o	Supplemental product providers, such as vehicle accessories, insurance, etc.
+o	Entities involved in a corporate transaction	o	Third party social network services
+o	Data analytics providers
+o	Consumer credit reporting companies
+o	Supplemental product providers, such as those who offer vehicle accessories, insurance, etc.
+o	Companies that create or receive sales leads
+Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an internet website, application or advertisement.	o	Service providers, such as identity verification services, financial services, technical support, research and analytics providers, etc.
+o	Third party social network services
+o	Our parents, subsidiaries, and affiliates
+o	Marketing and advertising partners or providers
+o	Public or law enforcement officials, as well as private parties involved in other legal process
+o	Consumer credit reporting companies
+o	Companies to whom your data is shared at your direction
+o	Supplemental product providers, such as vehicle accessories, insurance, etc.
+o	Entities involved in a corporate transaction	o	Third party social network services
+o	Data analytics providers
+o	Consumer credit reporting companies
+o	Supplemental product providers, such as those who offer vehicle accessories, insurance, etc.
+o	Companies that create or receive sales leads
+Geolocation data, such as approximate location of a device or equipment based on geographical coordinates and measurements, including on company issued devices, company-controlled phones, etc.	o	Service providers, such as identity verification services, financial services, technical support, research and analytics providers, etc.
+o	Third party social network services
+o	Our parents, subsidiaries, and affiliates
+o	Marketing and advertising partners or providers
+o	Public or law enforcement officials, as well as private parties involved in other legal process
+o	Consumer credit reporting companies
+o	Companies to whom your data is shared at your direction
+o	Supplemental product providers, such as vehicle accessories, insurance, etc.
+o	Entities involved in a corporate transaction	o	Third party social network services
+o	Data analytics providers
+o	Companies that create or receive sales leads
+Audio, electronic, visual, thermal, olfactory, or similar information such as CCTV footage, call recordings, web activity recordings, etc.	o	Service providers, such as identity verification services, financial services, technical support, research and analytics providers, etc.
+o	Our parents, subsidiaries, and affiliates
+o	Marketing and advertising partners or providers
+o	Public or law enforcement officials, as well as private parties involved in other legal process
+o	Companies to whom your data is shared at your direction
+o	Supplemental product providers, such as vehicle accessories, insurance, etc.
+o	Entities involved in a corporate transaction	o	Third party social network services
+o	Data analytics providers
+o	Companies that create or receive sales leads
+Professional, employment, or education information, such as job title, employer, business address and contact information, employment history, other professional information, or education history.	o	Service providers, such as identity verification services, financial services, technical support, research and analytics providers, etc.
+o	Third party social network services
+o	Our parents, subsidiaries, and affiliates
+o	Marketing and advertising partners or providers
+o	Public or law enforcement officials, as well as private parties involved in other legal process
+o	Consumer credit reporting companies
+o	Companies to whom your data is shared at your direction
+o	Supplemental product providers, such as vehicle accessories, insurance, etc.
+o	Entities involved in a corporate transaction	o	Third party social network services
+o	Data analytics providers
+o	Consumer credit reporting companies
+o	Supplemental product providers, such as those who offer vehicle accessories, insurance, etc.
+o	Companies that create or receive sales leads
+Inferences drawn from any of the information identified above to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.	o	Service providers, such as identity verification services, financial services, technical support, research and analytics providers, etc.
+o	Third party social network services
+o	Our parents, subsidiaries, and affiliates
+o	Marketing and advertising partners or providers
+o	Public or law enforcement officials, as well as private parties involved in other legal process
+o	Consumer credit reporting companies
+o	Companies to whom your data is shared at your direction
+o	Supplemental product providers, such as vehicle accessories, insurance, etc.
+o	Entities involved in a corporate transaction	o	Third party social network services
+o	Data analytics providers
+o	Consumer credit reporting companies
+o	Supplemental product providers, such as those who offer vehicle accessories, insurance, etc.
+o	Companies that create or receive sales leads
+
+Collection of the categories of personal information identified above may occur through one or more of the following sources:
+o	From you, when you engage in certain activities such as: registering and/or setting up an account/profile to access Carvana.com, Carvana’s mobile application, or related Carvana platforms and/or Service(s), and navigating and/or utilizing Carvana’s website(s), mobile, and/or related Service(s).
+o	From third party social networking service(s) that you may have accessed, visited, and/or used that may be integrated with or linked to the Service(s).
+o	From lead generation partners or sources.
+o	From identity verification partners.
+o	From entities that sell or share your personal information, including entities registered in California as data brokers.
+o	From service providers who gather personal information from you or external parties who possess and/or process your personal information, once you grant the requisite right, power, and/or authority to those service providers to act on your behalf and gather and/or provide such data to us.
+o	Through Local Device Storage (placing and/or storing code or other types of information and/or devices (e.g., "cookies") on your computer, mobile or other device) or Tracking Technologies (web beacons, web bugs, clear gifs, and similar technologies).
+The business and/or or commercial purpose(s) for which we collect the data identified above may include one or more of the following:
+o	Auditing, such as auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with this specification and other standards;
+o	Debugging, such as debugging to identify and repair errors that impair existing intended functionality;
+o	The occurrence of mergers and acquisitions, including in the event Carvana undergoes a corporate reorganization such as a merger, acquisition, sale of part or all of its business, or other related event, in which data may be collected, used, or shared for the purpose of negotiating or completing such transactions;
+o	Performing or improving services, such as maintaining or servicing accounts, providing customer service, providing consumers with requested or personalized content, communicating with you about new features, products, or services, processing or fulfilling orders and transactions, tailoring the services that we offer to your needs; verifying your information, processing payments, providing financing, providing analytic services, or providing similar services on behalf of Carvana;
+o	Quality assurance, including undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by Carvana, and to improve, upgrade, or enhance the Service or a device that is owned, manufactured, manufactured for, or controlled by Carvana;
+o	Security, such as detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and/or prosecuting those responsible for that activity;
+o	Short-term, transient use;
+o	To communicate, advertise, and/or market Carvana’s goods, products, and/or services, to show you content and sponsored messaging, to engage in interest-based advertising, to gauge the effectiveness of marketing campaigns, and/or for other marketing or advertising purposes;
+o	To comply with legal or compliance requirements, such as compliance training, investigating and responding to legal claims, responding to law enforcement requests, or as otherwise required by law;
+o	To conduct internal research, including undertaking internal research for technological development and/or demonstration and analyzing trends;
+o	To help diagnose problems with our servers, to gather broad demographic information, track users' movements around the Service, and/or to otherwise administer the Service; and/or
+o	To track geographic location, usage patterns, broad demographic information, and/or the movements of individual users.
+Your Rights
+California residents may exercise the following rights, subject to legal limitations and applicable exceptions, via our Privacy Portal at https://privacyportal.carvana.com/ or by calling 800-333-4554.
+o	Right to Know. You have the right to request information about the categories of personal information we have collected about you, the categories of sources from which we collected the personal information, the purposes for collecting the personal information, and the categories of third parties with whom we have shared or sold your personal information (“Categories Report”). You may also request information about the specific pieces of personal information we have collected about you (“Specific Pieces Report”).
+o	Right to Delete. You have the right to request that we delete personal information that we have collected from you.
+o	Right to Opt Out. You have the right to opt out of the sale of your personal information.
+In accordance with applicable law, we will not discriminate against you for exercising these rights.
+Verification: In order to exercise your rights, we may need to obtain information to locate you in our records, verify that you are a California resident, and/or verify your identity depending on the nature of the request. If you are submitting a request on behalf of a household, we may need to verify each member of the household in the manner set forth in this section.
+Please be aware there might be circumstances where we will not honor you request, as permitted under the CCPA. For example, if we are not able to verify your identity and/or that you are a California resident, we may not honor your access, deletion, or opt-out request. We will send a verification email that you must respond to in order for us to proceed with a Right to Delete or Right to Know request as part of the verification process. Additionally, we may not delete your personal information if an exception under the CCPA applies to your deletion request.
+For a Specific Pieces Report, we may request data such as your name, email address, home address, and date of birth to verify your identity, along with a signed declaration, under penalty of perjury, that you are who you say you are. We may also request data such as the last four digits of your Social Security Number if you use Carvana’s financing services.
+For a Categories Report, we may request data such as your name, email address, and home address to verify your identity.
+For a Right to Delete request, we may request data such as your name, email address, home address, and date of birth to verify your identity, along with a signed declaration, under penalty of perjury, that you are who you say you are. We may also request the last four digits of your Social Security Number if you use Carvana’s financing services.
+The verification information you provide must match the information currently associated with your Carvana.com account. We may request alternative information under certain circumstances and will inform you if such information is needed in the verification process.
+Authorized Agents: Authorized agents may exercise rights on behalf of consumers, but we reserve the right to also verify the consumer directly as described above. Authorized agents must use the Privacy Portal and upload documentation demonstrating the agent has authority to exercise rights on the consumer’s behalf. At a minimum, we will require evidence of the agent’s identity, proof of registration with the California Secretary of State, and at least one of the following evidencing proof of your legal authority to act on the behalf of the individual consumer:
+o	Written authorization signed by the Consumer; or
+o	Certified copy of a Power of Attorney granted under Probate Code.
+Timing: We will process a Request to Opt Out within 15 business days. We will respond to Requests to Delete and Requests to Know within 45 calendar days, unless we need more time (in which case we will notify you), and may take up to 90 calendar days in total to respond to your request(s).
+California Shine the Light: If you are a California resident, you may opt out of sharing your Personal Information with third parties for the third parties’ direct marketing purposes. Please contact us at privacypolicy@carvana.com if you would like to do so.
+* * * * * * * * * * * * * *
+If you don't agree to the terms contained in this User Agreement and Privacy Notice, you must immediately exit the Service.
+Last Revised and Effective: 11/11/2020

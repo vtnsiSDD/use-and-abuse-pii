@@ -1,0 +1,205 @@
+( Date Accessed: 6/02/2021, From: https://cm.usatoday.com/privacy/ )
+
+( Embedded Hyperlinks Used:
+https://cm.usatoday.com/privacy-policy/
+https://cm.usatoday.com/cookie-policy#
+https://cm.usatoday.com/privacy/#1
+https://cm.usatoday.com/privacy/#2
+https://cm.usatoday.com/privacy/#3
+https://cm.usatoday.com/privacy/#4
+https://cm.usatoday.com/privacy/#5
+https://cm.usatoday.com/privacy/#6
+https://cm.usatoday.com/privacy/#7
+https://cm.usatoday.com/privacy/#8
+https://cm.usatoday.com/privacy/#9
+https://cm.usatoday.com/privacy/#10
+https://cm.usatoday.com/privacy/#11
+https://cm.usatoday.com/privacy/#12
+https://cm.usatoday.com/privacy/#13
+https://cm.usatoday.com/privacy/#14
+https://cm.usatoday.com/privacy/#15
+https://cm.usatoday.com/terms
+https://cm.usatoday.com/cookie-policy#
+https://cm.usatoday.com/cookie-policy#
+https://www.aboutads.info/appchoices
+http://optout.networkadvertising.org/?c=1
+http://optout.networkadvertising.org/?c=1
+http://optout.aboutads.info/
+https://tools.google.com/dlpage/gaoptout
+https://optout.liveramp.com/opt_out
+https://cm.usatoday.com/privacy/#15
+https://cm.usatoday.com/privacy/#15
+https://cm.usatoday.com/privacy-policy/
+https://cm.usatoday.com/privacy/#15
+https://cm.usatoday.com/privacy/#15
+https://cm.usatoday.com/privacy/#15
+https://cm.usatoday.com/cookie-policy#
+https://cm.usatoday.com/privacy/#11.2
+https://cm.usatoday.com/privacy/#15
+https://static.usatoday.com/accessibility/
+mailto:accessibility@usatoday.com
+https://www.gannett.com/contact/
+https://privacyportal-cdn.onetrust.com/dsarwebform/5b4b73e5-9c9c-4c5c-82c1-9389c9e42f1c/a1f2900f-24b5-4039-a406-fd6c1b1a07eb.html?anonymous-id=39371698-8245-11ea-894a-124c2a412a95&client-id=e7760c49-eaed-4714-9475-28b051785bf5
+https://privacyportal.onetrust.com/webform/5b4b73e5-9c9c-4c5c-82c1-9389c9e42f1c/ba99f627-992e-4377-a31b-f357eaf81c21
+mailto:privacy@edpo.brussels
+)
+
+Gannett Privacy Policy
+Last Updated: May 25, 2021
+This Privacy Policy describes the privacy practices for the websites and mobile applications operated by Gannett Co., Inc. and its affiliates (“Gannett” “we”, “our” “us”), and applies solely to the Personal Information (as defined below in Section 1) that we collect and use relating to consumers and users residing outside of the State of California. This Privacy Policy does not apply to California residents. If you are a California resident, please click here for Your California Privacy Rights/Privacy Policy.
+This Privacy Policy is applicable to the publications, businesses, websites and mobile applications operated by Gannett/USA TODAY Network, including the Media Property or application from which you accessed this Privacy Policy (our websites and mobile applications are collectively referred to as "Media Properties"). It also applies to the related online services that we provide through our Media Properties (the "Services").
+To the extent permitted by applicable law, by using the Media Properties and/or the Services and providing us with Personal Information (defined below), you agree to the practices described in this Privacy Policy and the Cookie Policy referenced below and to the updates to these policies posted here from time to time. If you are based in the European Economic Area (“EEA”) or the United Kingdom (“UK”), this Privacy Policy serves as notice of how we process your Personal Data (defined below) for which we are a controller. If we require your consent, we will request it formally, in adherence to applicable data protection laws.
+To make sure you stay informed of all changes, you should check these policies periodically. Updates will be referenced by the "Last Updated" date shown above.
+Table of Contents
+Definition of Personal Information
+Personal Information We Collect
+How We Use Personal Information
+Do We Use "Cookies"?
+Third Party Links
+Security
+Accessing, Correcting or Deleting Your Personal Information
+Transfers
+Aggregate and De-Identified Information
+Privacy Policy for California Residents
+Individuals in the European Economic Area, Switzerland, or the UK
+Children’s On-Line Privacy Information
+Accessibility
+Changes to This Privacy Policy
+Contact Us
+1. Personal Information and Personal Data Definition
+For purposes of this Privacy Policy, unless a different definition is noted in a particular instance, "Personal Information" (or "Personal Data" as used in Section 9) means any information that identifies, relates to, describes, references, or is reasonably capable of being associated with an identified or identifiable natural person.
+Personal Information for purposes of this Policy does not include your name, photo and/or other information about you included in news or editorial content.
+2. Personal Information We Collect
+We may collect the following types of Personal Information about you as described below:
+(A) Personal Information you provide to us,
+(B) Personal Information we may automatically collect, and
+(C) Personal Information we may receive from third parties.
+A. Personal Information You Provide to Us
+In using our Media Properties or Services, you may provide us with Personal Information, which may include (the examples provided are illustrative and not intended to be exhaustive):
+Contact information such as name, email address, postal address and telephone number(s);
+Demographic information such as birth date or gender;
+Account information and log in credentials, including unique identifiers such as username and password;
+Payment and transaction information including credit or bank card information;
+Preferences for communications;
+Communications and opinions in chat rooms, message boards, forums, surveys, polls, and online forms;
+Access to your geo-location (including through our mobile app) or to other data held on social media platforms and other software (for example, access to your contacts, calendar or photos);
+Photos and/or videos; and
+Any additional information that we describe to you, when we collect your data with your consent.
+B. Personal Information We May Automatically Collect About You
+Our Media Properties and Services may automatically collect certain Personal Information about you. This Personal Information may include (the examples provided are illustrative and not intended to be exhaustive):
+IP address, which is the number associated with the service through which you access the Internet, such as through your ISP (Internet service provider);
+Date and time of your visit or use of our Media Properties or Services;
+Domain server from which you are using our Media Properties or Services;
+Type of computer, web browsers, search engine used, operating system, or platform you use;
+Data identifying the web pages you visited prior to and after visiting our Media Properties or using our Services;
+Your movement and activity within the website, which is aggregated with other Personal information;
+Geo-location information through the use of any of our mobile applications;
+Mobile device information, including the type of device you use, operating system version, and the device identifier (or “UDID”); and
+Mobile application identification and behavior, use, and aggregated usage, performance data, and where the application was downloaded from.
+If you sign up for text messaging, cookies or other tracking devices may be used to personalize your experience (for example, to send you personalized text message offers).
+C. Personal Information We May Receive from Third Parties
+We may collect additional Personal Information about you from third-party websites, social media platforms, such as, but not limited, to Facebook, Twitter, Instagram, SnapChat (“Social Media Platforms”), third party data providers, and sources providing publicly-available Personal information (e.g., from the U.S. postal service) for the purposes described in Section 3 below.
+Personal Information we may access from Social Media Platforms may include, but is not limited to:
+Your Social Media Platform login information
+Your location data
+Your profile information
+Your list of contacts, friends or followers
+Certain Personal Information about your activities on the Social Media Platform
+Please keep in mind that when you provide Personal Information to us on a third-party website or platform (for example, via our applications), the Personal Information you provide may be separately collected by the third-party website or the Social Media Platform. Please review the privacy policies of the applicable third-party website or Social Media Platform for their privacy practices.
+3. How We Use Personal Information
+A. Use and Purpose of Processing Your Personal Information
+We use and process your Personal Information for the following types of purposes (the examples provided are illustrative and not intended to be exhaustive).
+To provide you with the Media Properties and Services, and related promotions, newsletters and information you request
+To respond to your inquiries and provide you with requested information and other communications, including by email, chat or text messages, and including alerts, notification of promotions, contests, and events
+For marketing and advertising purposes, including sending you promotional material or special offers on our behalf or on behalf of our marketing partners and/or their respective affiliates and other third parties, provided that you have not already opted-out of receiving such communications
+For billing and payment processing
+To deliver personalized advertising and content
+To fulfill contracts we have with you
+To manage, improve and foster relationships with third-party service providers, including vendors, suppliers, and parents, affiliates, subsidiaries, and business partners
+To maintain, improve, customize, or administer the Media Properties and Services, perform business analyses, or other internal purposes to improve the quality of our business, the Media Properties and the Services, resolve technical problems, or improve security or develop other products and services
+To comply with our Terms of Service
+To perform analytics for business purposes and business intelligence, such as monitoring traffic to our Media Properties, counting ad impressions, and auditing legal and regulatory compliance
+To maintain the safety, security, and integrity of our Media Properties, products and Services, databases and other technology assets and our business, including preventing fraud, detecting security breaches and prosecuting violators
+To identify and repair errors in our Media Properties' functionality
+To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, in which Personal Information we hold is among the assets transferred
+To comply with any applicable laws and regulations and respond to lawful requests; and/or
+For any other purposes disclosed to you at the time we collect your Personal Information and/or pursuant to your consent
+If we decide to use the Personal Information for materially different purposes, we will update this Privacy Policy.
+B. Disclosing Your Personal Information to Other Parties
+We may disclose your Personal Information to other parties, including:
+Our affiliates
+Service providers
+Advertisers, advertising technology companies, analytics companies and other third parties with whom we have business relationships
+Government regulators
+Our legal advisors and parties involved in a legal process
+To an entity involved in the sale of our business
+Third parties to whom you or your agents authorize us to disclose your Personal Information in connection with products or Services we provide to you
+In order to provide advertisements and content that are more relevant to you, we and our advertising and content providers may collect certain types of Personal Information when you use our Media Properties (such as, by way of example, your email, the IP address of your device, the identifier on your mobile device, or cookies stored on your device). We or our advertising and content providers may combine this information with other information we have, or that we collect through other sources, and may share the information we collect with third parties to provide interest based or targeted advertising. ouIf you would like to opt out from this use, or for more information, please see our Cookie Policy for more information.
+If we decide to disclose Personal Information to additional categories of parties, we will update this Privacy Policy.
+4. DO WE USE "COOKIES"?
+Yes. Cookies, SDKs, tracking pixels and similar technologies are small files that a website or mobile application stores on your device that recognizes the user’s browser or device and captures and remembers certain information.
+In general, we and our third-party providers and advertisers, use these technologies to optimize the functionality of the Media Properties, to help us understand how the Media Properties are used and to provide users with interest-based content or advertising based upon their browsing activities and interests.
+If you sign up for text messaging, cookies or other tracking devices may be used to personalize your experience (for example, to send you personalized text message offers).
+For more information about the cookies and other technologies that we, our affiliates and third party providers and advertisers use on our Media Properties, please read our Cookie Policy.
+In addition, you may opt out of certain interest-based advertising by using the following resources:
+(a) You may opt-out of tracking and receiving tailored advertisements on your mobile device by some mobile advertising companies and other similar entities by downloading the App Choices app at www.aboutads.info/appchoices.
+(b) You may opt-out of receiving permissible targeted advertisements by using the NAI Opt-out tool available at http://optout.networkadvertising.org/?c=1 or visiting About Ads at http://optout.aboutads.info.
+(c) You may opt-out of having your activity on our Media Properties and Services made available to Google Analytics by installing the Google Analytics opt-out add-on for your web browser by visiting: https://tools.google.com/dlpage/gaoptout for your web browser.
+(d) One of our providers, LiveRamp, Inc. collects certain Personal Information from you on our Media Properties, such as your email (in hashed form), IP address or information about your browser or operating system. LiveRamp then returns to us an online identification code that is associated with your Personal Information, and that we may store in our first-party cookie for our own use in online and cross-channel advertising across our Media Properties. It may also be shared with advertising companies to enable interest-based and targeted advertising. To opt out of this use by LiveRamp, please click here: https://optout.liveramp.com/opt_out.
+5. THIRD PARTY LINKS
+Our Media Properties or Services may contain links to other websites, applications or services that are not owned or controlled by us, including links to social media platforms, or may redirect you off our Media Property or away from our Services to other locations for information or other services. This Privacy Policy only applies to information collected by our Media Properties and Services. We are not responsible for the privacy and security practices of other websites, applications or social media platforms or the information they may collect (which may include IP address or device identifiers). You should refer to such third parties' privacy policies on their sites to determine their respective privacy practices. Links to any other websites, applications, social media platform or content do not constitute or imply an endorsement or recommendation by us of the linked website, application, social media platform, and/or content.
+6. SECURITY
+We use commercially reasonable procedures and various technical, administrative and physical safeguards to help protect the confidentiality of your Personal Information. However, you should assume that no data transmitted over the Internet or stored or maintained by us or our third-party service providers can be 100% secure. Therefore, although we believe the measures implemented by us reduce the likelihood of security problems to a level appropriate to the type of data involved, we do not promise or guarantee, and you should not expect, that your Personal Information or private communications will always remain private or secure. We do not guarantee that your Personal Information will not be misused by third parties. We are not responsible for the circumvention of any privacy settings or security features.
+If you believe that your Personal Information has been accessed or acquired by an unauthorized person, please promptly Contact Us so that necessary measures can quickly be taken.
+7. ACCESSING, CORRECTING, OR DELETING YOUR PERSONAL INFORMATION
+As required by applicable laws, and subject to any permitted exceptions and limitations, we will comply with any verified consumer request you submit with respect to your Personal Information. Please submit a verifiable consumer request to us through the web form link provided below in Contact Us.
+8. TRANSFERS
+Your Personal Information may be stored, transferred to, and processed in any country where we have facilities or in which we engage service providers. These countries may be outside the United States, and may have different data protection laws than in the United States.
+9. AGGREGATE AND DE-IDENTIFIED INFORMATION
+We may aggregate and/or de-identify any information collected through the Media Properties and Services so that such information can no longer be linked to you or your device (“Aggregate/De-Identified Information”). We may use Aggregate/De-Identified Information for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, and sponsors, in our discretion.
+10. PRIVACY POLICY FOR CALIFORNIA RESIDENTS
+This Privacy Policy does not apply to California residents. If you are a California resident, please go to Your California Privacy Rights/Privacy Policy to learn about your California privacy rights.
+11. INDIVIDUALS IN THE EUROPEAN ECONOMIC AREA (EEA), OR UK
+This Section 11 is included in this Privacy Policy to comply with the requirements of the General Data Protection Regulation ("GDPR"). It applies only to individuals coming to our Media Properties from within the EEA, Switzerland or the UK and applies only (1) if we collect through the Media Property any Personal Data of those individuals or (2) if we track individuals in the EEA, Switzerland or the UK who access our Media Properties.
+11.1. Controller
+Gannett is the controller (as defined under the GDPR) for processing and using the Personal Data of individuals within the EEA, Switzerland or the UK that is collected through our Site. Please see the “Contact Us” section below to find out how to contact us.
+11.2. Rights of Individuals Based in the EEA
+Subject to applicable law, you may be able to exercise any of the following rights in relation to your Personal Data:
+Right to know what information we have about you: This is known as the "right of access" and gives you the right to find out what, if any, Personal Data we have about you, how we process it, and to request a copy of the Personal Data.
+Right to correct your information: This is known as the "right of rectification" and gives you the right to ask that we correct or complete any Personal Data we have about you.
+Right to delete your information: This is known as the "right to erasure" or "right to be forgotten" and gives you the right to ask us to delete your Personal Data.
+Right to change how we use your information: This is known as the "right to restrict processing" and gives you the right to ask us to change how we use your Personal Data in certain circumstances, such as where you contest the accuracy of the data or object to us using it in a certain way.
+Right to move your information: This is known as the "right to data portability" and gives you the right to ask to receive your Personal Data from us in a structured, commonly used and machine-readable format or to have it transmitted to another controller.
+Right to stop us from using your information: This is known as the "right to object" and gives you the right to ask us to stop using your Personal Data when applicable.
+Rights relating to how we use your information to categorize you or make decisions about you: This is known as the "right in relation to automated decision-making and profiling": You have the right to be free from decisions we may make that are based solely on automated processing of your Personal Data, including profiling, if they produce a significant legal effect on you, unless such decision-making or profiling is necessary for entering into or performing a contract between you and us, or is made with your explicit consent.
+Right to withdraw consent: If we rely on your consent to use your Personal Data, you have the right to withdraw that consent at any time. This will not affect our use of your data before we received notice that you wished to withdraw your consent.
+Right to file a complaint with the supervisory authority: If you have a concern about our privacy practices, including the way we handled your Personal Data, you can report it to the supervisory authority that is authorized to hear those concerns in your jurisdiction, although we invite you to Contact Us with any concern as we would be happy to try and resolve it directly.
+You may exercise your rights by contacting us as indicated under the “Contact Us” section below. To change your consent settings for our use of cookies and other technologies, please see our Cookie Policy.
+The requests above will be considered and responded to in the time period stated by applicable law. Certain information may be exempt from such requests. We may require additional information from you to confirm your identity in responding to such requests.
+11.3. Legitimate Interests
+"Legitimate interests" means the interests of our company in conducting and managing our organization. For example, and without limitation, we have a legitimate interest in processing your Personal Data to analyze how the Media Property and our products and Services are being used, to administer our contractual relationships, fulfil legal obligations, process employee data, prevent fraud or criminal activity or misuse of our products or services, ensure the security of our IT systems, architecture and networks, and meet our corporate and social responsibility objectives, and/or effectively and efficiently operate our business and provide you with the services offered through our Services, as described in this Privacy Policy. When we process your Personal Data for our legitimate interests, we make sure to consider and balance any potential impact on you, and your rights under data protection laws. Our legitimate interests do not automatically override your interests. We will not use your Personal Data for activities where our interests are overridden by the impact on you, unless we have your consent or those activities are otherwise required or permitted to by law. You have the right to object to processing that is based on our legitimate interests. For more information on your rights, please see "Your Rights" section above.
+11.4. Data Transfers
+Gannett is based in the United States, and we use service providers (described above) based in the United States to operate our business and our relationship with you. When you use our Site and the Services, you acknowledge that your Personal Data may be transmitted, stored, processed by us and our service providers’ servers in the United States to provide you with the services that you requested, administer our contract with you or to respond to your requests as described in this Privacy Policy. The United States may have data protection laws less stringent than or otherwise different from the laws in effect in the country in which you are located. Where we transfer your Personal Data out of the EEA we will take steps to ensure that your rights continue to be protected. We endeavor to apply suitable safeguards to protect the privacy and security of your Personal Data and to use it only consistent with your relationship with us and the practices described in this Privacy Policy. We also enter into data processing agreements and model clauses with vendors as appropriate.
+11.5. Data Retention
+We will keep your Personal Data only for as long as is reasonably necessary for the purposes outlined in this Privacy Policy based on the context in which you provided it, or for the duration required by law, whichever is the longer.
+12. CHILDREN’S ON-LINE PRIVACY INFORMATION
+In general, the Media Properties and Services are not intended for use by children under the age of 13, or 16 where applicable. In cases where certain Media Properties or Services are intended for use by children under the age of 13 (or 16 where applicable), we will post appropriate notices and take steps as required by applicable law to safeguard children’s data. In addition, we do not knowingly collect Personal Information from children under the age of 13 (or 16 where applicable) through form submissions on our Media Properties or Services, although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on our Media Properties without their permission.
+Involvement of parents: In accordance with the provisions of the Children’s Online Privacy Act, in the event that we do begin collecting any Personal Information or data from children under the age of 13 (or 16 where applicable), we will notify parents first, and will seek parental or guardian consent to collect, use and/or disclose certain Personal Information from children under the age of 13, or 16 where applicable. A parent may review and have deleted their child’s Personal Information, and may refuse to permit further collection or use of their child’s information by contacting us as noted at the end of this Privacy Policy. Parents may consent to our collection and use of their child’s Personal Information without consenting to the disclosure of that information to others.
+If you have reason to believe that a child under the age of 13 (or 16) has provided Personal Information "Contact Us" below with sufficient detail to enable us to delete that information from our databases.
+13. ACCESSIBILITY
+Please see our Accessibility Support page at https://static.usatoday.com/accessibility/ if you experience any difficulty in accessing any part of this Website or this Policy. You may also contact us at accessibility@usatoday.com.
+14. CHANGES TO THIS PRIVACY POLICY
+We may amend this Privacy Policy at our discretion and at any time. When we make changes to this Privacy Policy, we will post the updated notice on our Media Properties and update the notice's "Last Updated" date. Where permitted by applicable law, your continued use of our Website and/or Services following the posting of changes constitutes your acceptance of such changes.
+15. CONTACT US
+If you have any questions or comments about this Privacy Policy, the ways in which we collect and use your Personal Information described here, your choices and rights regarding such use, or you wish to exercise your rights, please contact us as provided below.
+PLEASE NOTE: YOU SHOULD ONLY CONTACT US AT THIS EMAIL FORM OR ADDRESS FOR PRIVACY RELATED CONCERNS, AND NOT FOR EDITORIAL, SUBSCRIPTION OR CONTENT-BASED ISSUES INCLUDING TAKE-DOWN REQUESTS RELATING TO YOUR NAME OR IMAGE APPEARING IN NEWS STORIES. PLEASE SEE OUR CORPORATE "Contact Us" PAGE INSTEAD FOR THOSE MATTERS.
+Email us through our Online Request Form
+Write us at: Gannett Media Corp., 175 Sully's Trail, Pittsford, NY 14534 Attn: Privacy Officer
+General Data Protection Regulation (GDPR) - European Representative
+Pursuant to Article 27 of the GDPR, Gannett has appointed a company called European Data Protection Office (EDPO) as its GDPR representative in the EEA. If you are an individual based in the EEA, Switzerland and/or UK, in addition to or alternatively to contacting us, you can also contact EDPO regarding matters pertaining to the processing of your Personal Data under GDPR as follows.
+PLEASE NOTE: YOU SHOULD NOT CONTACT EDPO IF YOU ARE AN INDIVIDUAL WHO IS A CITIZEN OF SWITZERLAND, THE UK OR ANY EEA COUNTRY, BUT YOU ARE RESIDING IN, VISITING OR OTHERWISE LOCATED IN THE US AND YOU ARE ACCESSING OUR WEBSITES OR SERVICES FROM THE US. IN THAT CASE, PLEASE CONTACT GANNETT DIRECTLY AS PROVIDED ABOVE.
+By EDPO’s Online Request Form
+By email: privacy@edpo.brussels
+By post: EDPO, Avenue Huart Hamoir 71, 1030 Brussels, Belgium
+
+

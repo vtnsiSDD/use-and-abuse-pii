@@ -1,0 +1,279 @@
+( Date Accessed: 6/09/2021, From: https://www.costco.com/privacy-policy.html )
+
+( Embedded Hyperlinks Used: 20
+https://www.costco.com/privacy-policy.html#info
+https://www.costco.com/privacy-policy.html#cookies
+https://www.costco.com/privacy-policy.html#personal_info
+https://www.costco.com/privacy-policy.html#disclosure
+https://www.costco.com/privacy-policy.html#choice
+https://www.costco.com/privacy-policy.html#cppa
+https://www.costco.com/privacy-policy.html#health_care
+https://www.costco.com/privacy-policy.html#nevada
+https://www.costco.com/privacy-policy.html#recognition
+https://www.costco.com/privacy-policy.html#security
+https://www.costco.com/privacy-policy.html#cpn
+https://www.costco.com/privacy-policy.html#contact
+http://optout.networkadvertising.org/
+http://optout.aboutads.info/
+http://www.google.com/policies/privacy/partners/
+https://www.costco.com/DNSMIView
+https://www.costco.com/privacy-policy.html#cookies
+https://www.costco.com/RightsRequest
+https://mobilecontent.costco.com/live/resource/img/static_ccpa/affidavit-obo.pdf
+https://www.costco.com/Pharmacy/patient-profile
+)
+
+Costco Wholesale Corporation Your Privacy Rights
+(United States and Puerto Rico)
+Last Updated May 10, 2021
+
+This Privacy Notice explains our collection, use, and disclosure of personal information. This Privacy Notice applies to Costco Wholesale Corporation’s United States (US) and Puerto Rico subsidiaries ("Costco," "we," “our” or "us").
+
+This Privacy Notice applies when you access or use our websites or mobile applications that link to this Privacy Notice, become a Costco member, shop at our warehouses or services centers, contact our customer service teams, or otherwise interact with us (collectively, the “Services”). This Privacy Notice does not apply to any products, mobile applications, or services that display or reference a different privacy notice or policy.
+
+Personal Information We Collect
+Cookies, Mobile IDs And Similar Technologies
+Our Use of Personal Information
+Our Disclosure of Personal Information
+Choices Regarding Your Personal Information
+Your California Privacy Rights
+Health Care Centers and Pharmacies
+Special Information For Nevada Residents
+Automated License Plate Recognition Usage and Policy
+Security of Personal Information
+Changes to This Privacy Notice
+How to Contact Us
+PERSONAL INFORMATION WE COLLECT
+The personal information we collect depends on how you interact with us, the Services you use, and the choices you make
+
+Information you provide directly. We collect personal information you provide to us. For example:
+Contact information. We collect name, username, email address, postal address, and phone number.
+Identification information. If you are a member or sign up to be a member, we may collect membership card photo, date of birth, identity document (e.g., driver’s license information, passport information, or tax identification number), employer name (if you sign up for membership via your employer), and your Costco membership number.
+Demographic information. In some cases, we request that you provide age, gender, and similar demographic details.
+Payment information. . If you make a purchase or other financial transaction, we collect payment card numbers, financial account information, billing address, and other payment details.
+Feedback or Response information. If you provide feedback through the Services, or if you respond to a survey or other communication from Costco or its vendors, we collect your response information, including the content of your feedback or response message.
+Content and files. We collect the photos or other files you upload for us to provide Services such as processing with Costco Photo Center, and travel documents for travel you arrange through Costco Travel. If you send us email messages or other communications such as feedback or comments, request customer support, fill out a form, or participate in a survey or promotion, we will collect and retain those communications.
+Information we collect automatically. When you access or use our Services, we collect some information automatically. For example:
+Transaction and Purchase Information. When you make a purchase or return, we collect information about the transaction. This may include, among other things, product details, purchase price, date, tender type, location of the transaction, shipping/delivery details, and payment authorization. It may also include account notes about the transaction, including information that helps us prevent fraud, misuse of the Services, or illegal activity.
+Identifiers and device information. When you visit our internet-based Services or use our apps, our web servers automatically log your Internet Protocol (IP) address and information about your device, including unique device identifiers (such as MAC address); device type; and your device’s operating system and version, browser type and language, and other software including type, version, language, settings, and configuration, and mobile network information. As further described in the Cookies, Mobile IDs, and Similar Technologies section below, our websites, apps, and other online services store and retrieve cookie identifiers, mobile IDs, and other information.
+Geolocation information. We may collect or infer information about your general or precise location when you access or use the Services, visit our warehouses or services centers, or turn on Bluetooth, Wi-Fi or other geolocation functionality on your device.
+Usage and Session information. We automatically log your activity on our websites, apps and other online services, including the URL of the website from which you came to our sites, pages you viewed, how long you spent on a page, access times, and other details about your use of and actions on our website. We capture the screen images that you view and collect information about how you interact with particular screens with your keyboard, mouse, or other input device. We also collect information about what products and services you browse, search for, or otherwise express an interest in, and we track your activity on our internet-based Services and applications where our advertising is served, such as which pages and ads you view or click on. We collect and use such information to evaluate the effectiveness of our Services and marketing, troubleshoot and improve our Services, customize our advertising, and personalize and improve your experience.
+Call Recordings and Chat Transcripts. We use cameras in and around our warehouses and facilities to capture video and images. These may include images of persons in or around our facilities and parking lots. It may also include recognition and capture of license plate numbers and other vehicle information. For more information about our use and capture of license plate numbers, please see the Automated License Plate Recognition section of this notice.
+Other sensor data. We use cameras in and around our warehouses and facilities to capture video and images. These may include images of persons in or around our facilities and parking lots. It may also include recognition and capture of license plate numbers and other vehicle information. For more information about our use and capture of license plate numbers, please see the Automated License Plate Recognition section of this notice.
+Information we obtain from other sources. We may collect information about you from other sources that we may combine or link with information we have about you. We may combine information that we have collected offline with information we collect online. Information may also be collected by vendors acting on our behalf, and we also obtain information from third parties. These third-party sources include, for example:
+Primary Accountholders. When a primary Costco member adds additional household members to the membership account, we may obtain contact, identification and demographic information for these household members.
+Commercial Data Brokers/Sources. Commercial data brokers and aggregators, provide us with information about you to supplement the information we collect. This includes marketing information and inferences, as well as information that assists us in preventing fraud or other illegal activities.
+Other Companies with Which You Engage. We obtain information from companies who offer their products and services to Costco members, including Costco co-branding and joint venture relationships, Costco Services providers, vendors, and product suppliers. These products and services may include services under the Costco Services umbrella (such as travel, auto and home insurance, and other business and consumer services), some installed home improvement products and services, wireless devices and services, travel services, and order and delivery services we use to provide you products and services. These companies may disclose some information to us about your experience with them, such as the items or services you purchased and your contact information.
+Content you post online. Any information you post or disclose on message boards, chat, profile pages, blogs, and other services, including Social Media Pages, may be collected, used, and disclosed by Costco or its vendors as described in this Privacy Notice. Such information is also viewable by other users.
+Service Providers. We may use vendors and service providers to collect or provide information to Costco in connection with work they do on our behalf.
+Information we create or generate. We generate new information relating to you by analyzing data we collect, including using automated means and third-party sources, to create inferences about your likely preferences or other characteristics (“inferences”). For example, we may use information about your previous purchases to infer the types of products and services that may interest you in the future. We use such information to measure and improve our marketing efforts, including providing targeted advertising and other promotional materials to you.
+
+Information concerning minors. We do not direct the Services to individuals under the age of eighteen (18). We do not knowingly collect Personal Information from individuals under 18 except as provided to us to make travel reservations, fulfill a prescription in the pharmacy, optical department or hearing aid department or as part of our legal or risk management inquiries.
+COOKIES, MOBILE IDs AND SIMILAR TECHNOLOGIES
+We, and our analytics and advertising providers, use cookies, pixels, web beacons, mobile analytics, and advertising IDs (collectively, “digital tracking technologies”). We use digital tracking technologies provided by such vendors and other third parties on our websites, apps, and online services to collect personal information (such as the cookies stored on your browser, the advertising identifier on your mobile device, or the IP address of your device) when you visit our site (or use our app). Costco, our vendors, or other third parties also may use these technologies to collect personal information about your online activities over time and across different websites or online services. This information is used to store your preferences and settings, enable you to sign-in, analyze how our Services perform, track your interaction with the Services, track your orders and estimated delivery date, develop inferences about you for marketing purposes, deliver and tailor interest-based advertising, combat fraud, and fulfill other legitimate purposes. We also may disclose the information we collect or infer with third parties for these purposes.
+
+Controlling Cookies and other Digital Tracking Technologies.
+
+You can opt out of digital tracking technologies for targeted advertising and third-party marketing purposes on our website from our Cookie Settings page.
+Many of our analytics and advertising providers also participate in associations that provide information and additional ways to opt out of analytics and advertising, which you can access at:
+NAI (http://optout.networkadvertising.org)
+DAA (http://optout.aboutads.info/)
+Google Analytics (at www.google.com/policies/privacy/partners/)
+Please remember that even after you have opted out of digital tracking technologies or advertising, you may still see ads, although less tailored for you, as you browse the internet. Further, if you set your browser or device to delete or reject digital tracking technologies, this could affect certain features or services of our website. If you choose to delete or reject all cookies and digital tracking technologies, your settings and preferences, including your choices regarding digital tracking technologies, may be lost or stop functioning. In this instance, you may need to recreate those choices on the individual websites and applications with which you engage.
+
+OUR USE OF PERSONAL INFORMATION
+We use the personal information we collect for purposes described in this Privacy Notice or otherwise disclosed to you. For example, we use personal information for the following purposes:
+Product and Service Delivery. To provide our products and services, including: securing, troubleshooting, improving, personalizing products and services, processing, fulfilling, shipping, and delivering your orders.
+Business Operations. To operate our business, such as: creating, maintaining, and renewing your membership, billing, accounting, improving our internal operations, securing our systems, and detecting fraudulent or illegal activity, and monitoring and analyzing trends, usage and activities in connection with our Services and warehouses.
+Product Improvement, Development, and Research. To improve our products, develop new products or features, and conduct research.
+Personalization. To understand you and your preferences to enhance your experience and enjoyment using our products and services and personalize your online experience and the advertisements you see when you use the Services or other platforms.
+Customer Support. To send you information and notices about your membership account such as updates, order confirmations, delivery and pick-up notices, security alerts, and support and administrative messages.
+Marketing and Advertising. To communicate with you about new Costco and other companies’ products and services, offers, promotions, rewards, contests, upcoming events, and other information about our products and services and those of other selected companies, and to display advertising to you.
+Legal, Security, and Safety Reasons. For legal, security and safety reasons, such as to protect our rights and the rights of our customers and members, enforce our policies, communicate product recalls or safety notices, detect, investigate, or prevent fraud and other illegal activities, or address legal and regulatory compliance obligations.
+For any other purpose described to you at the time information is collected.
+We combine information we collect from different sources to achieve these purposes and to give you a more seamless, consistent, and personalized experience.
+
+OUR DISCLOSURE OF PERSONAL INFORMATION
+We disclose personal information we collect to complete your transactions, provide the Services, or fulfill orders or inquiries you have requested or authorized. For example, when you provide payment information to make a purchase, we will disclose that information with banks and other entities as necessary for payment processing, fraud prevention, credit risk reduction, or other related financial services.
+
+Primary Membership Accountholder. Each Costco membership account has a primary account holder, authorized to add and remove additional household members and make account management decisions. We may disclose primary members’ contact and purchase information to any household member. We also may disclose household members’ contact and purchase information to the primary member. If you designate an administrator to manage your account, we disclose contact information for primary and household account members with that administrator. If your employer purchased your membership as an employee benefit, we may disclose your name, address, purchase history, and membership level with your employer.
+Other Companies You With Which You Engage. When you request information about or purchase products or services offered by other companies as part of your Costco membership, we disclose information with those companies. We do this so that they may provide you with their products and services, provide customer service, resolve complaints, provide installation and warranty services, and provide recall or emergency notices. We may also disclose information about you with companies that offer their products and services for our and their marketing purposes, such as co-branded companies or joint marketing partners. We may disclose contact information with these other companies so that we or they can notify you of product and service offerings, determine if you qualify for products or services, and evaluate new and existing products or services.
+Our Affiliates and Entities that Belong to Costco’s Corporate Group. We disclose personal information with our subsidiaries, corporate affiliates, and related companies under common control and ownership.
+Vendors, Service Providers and Consultants. We disclose personal information to vendors or service providers working on our behalf for the purposes described in this PrivacyNotice. For example, companies that help us perform tasks such as:
+process, fulfill, ship and deliver your orders;
+provide customer service and resolve complaints;
+identify, investigate and prevent fraudulent transactions;
+provide installation and warranty services;
+communicate with you, provide recall or emergency notices;
+analyze data or member activity;
+design and execute our marketing campaigns, administer our promotions, and provide advertising services;
+investigate and resolve claims;
+allow you to order products online and have them delivered.
+Citi / Costco Anywhere Visa® Card by Citi Applicants and Cardholders. If you apply for a Costco Anywhere Visa® Card from Citi, we may disclose contact information and the aggregate amount of your Costco purchases to Citi.
+Marketing, Advertising, and Analytics Providers. We disclose information with other companies that conduct marketing and advertising services to promote our and our vendors’ products and services. This includes directing digital (online) targeted advertising and other marketing offers, promotions, rewards, contests, upcoming events, and notices to you.
+Tobacco Rebates for Business Members. For Business Members who purchase tobacco products for resale, we provide member name, address, brand name, and the amount of tobacco products purchased to the tobacco manufacturers’ representative to process retail incentives. If you are a Business Member in California and you do not want us to provide this information, you can notify us (see “Choice and Control of Personal Information” section below).
+Corporate Transactions. We may also disclose personal information as part of a corporate transaction or proceeding such as a merger, financing, acquisition, bankruptcy, dissolution, or a transfer, divestiture, or sale of all or a portion of our business or assets.
+Legally Required Disclosures, Other Uses and Disclosures. We will also access, transfer, disclose, and preserve personal information when we believe that doing so is necessary to:
+comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies;
+protect our Costco companies, our shoppers, members, employees or the public, for example to prevent spam or attempts to commit fraud, or to help prevent the loss of life or serious injury of anyone;
+operate and maintain the security of our products, including to prevent or stop an attack on our computer systems or networks; or
+protect the rights or property or ourselves or others, including detecting, investigating, and reporting illegal activities to law enforcement, and enforcing our agreements, terms, and policies.
+Deidentifed Information. We may disclose and use aggregate or deidentifed information in accordance with applicable law. If we disclose or use deidentifed information, we commit to maintaining and using such information in deidentifed form. We will not attempt to reidentify such information except as necessary to evaluate the effectiveness of our deidentification policies and procedures.
+
+Other Websites. Please note that some of our Services include references or links to products provided by third parties whose privacy practices differ from ours. For example, the Services may link to or integrate with content or sites operated by other companies. These companies may offer you goods and services or provide services to Costco, such as product information, product or service reviews, or marketing or analytics services or permit you to post information to your social media accounts (such as through the Facebook “Like” button). In general, any information, including personal information, you provide on or to another company’s site is provided directly to that company and is governed by their privacy policies.
+
+CHOICES REGARDING YOUR PERSONAL INFORMATION
+We provide choices about the Personal Information we collect about you. The choices you make will not apply to your household or any affiliate members associated with your membership account.
+
+You can opt out of certain uses or disclosures of your information by (a) visiting any Membership counter at any US or Puerto Rico Costco warehouse; (b) calling Membership Services at 1-800-774-2678; (c) using the chat feature on costco.com; (d) writing us at: Customer Service, P. O. Box 34622, Seattle, WA 98124; or (e) changing your online account settings. Each household member must opt out separately. If you have more than one Costco profile or email address, you must opt out for each one separately.
+
+You also may:
+Access and Correct Online Information If you wish to request access, review, or correct, personal information about you or membership and account information that we hold, you can do so by logging into “My Account” on Costco.com. You also may call us at 1-800-774-2678 and follow the prompts to “Membership”. You may also use the chat feature on Costco.com. You may access personal information that relates to you, but not information that relates to another member, including household and associate members on your account.
+Opt Out of Promotional Information and Emails from Costco. If you do not want to receive promotional communications from Costco, you can (1) update your preferences under the “My Account” tab on the website or you can contact us using any of the methods above. You can also log into your account associated with your Costco service (for example, the Photo Center or Costco Travel). You also can opt out from different types of promotional emails through the ‘unsubscribe’ link in those emails. If you opt out, we may still send you non-promotional emails.
+Opt Out of Third-Party Disclosure for Marketing. You may direct Costco to stop disclosing personal information relating to you with third-parties for their marketing or other purposes by visiting our “Do Not Sell My Personal Information” webpage.
+Opt out of Targeting Cookies and other Digital Tracking Technologies. Visit the Cookie Settings page, and see the “Cookies, Mobile IDs, and Similar Technology” section of this Privacy Notice for more ways to control digital tracking technologies and advertising.
+Stop Mobile Push Notifications/Alerts. We may send push notifications or alerts to your mobile device. You can stop these notifications by changing the settings on your mobile device.
+Stop SMS (Text) Messages. We will send you SMS (text) communications if you consent to receive them, including for example order and delivery status. We will also send you SMS (text) messages in case of emergency, urgent product recalls and other limited (non-marketing) instances as permitted by law. You can reply “STOP” to any SMS (text) message to cancel.
+Opt out of Tobacco Information Disclosure. If you are a Business Member in California and do not want us to disclose information about your tobacco purchases, you can let us know via any of the contact methods above.
+Device Location Information. If you use our mobile applications that collect your device’s precise location, you can opt out from the collection of precise location information by changing the preferences on your mobile device. If you do, our mobile apps or some features, such as locating the nearest warehouse from your current location, may not work properly.
+To the extent permitted by applicable law, we reserve the right to decline requests that are unreasonable or excessive, where providing the information would be prohibited by law or could adversely affect the privacy or other rights of another person, or where we are unable to authenticate you as the person to whom the information relates.
+
+YOUR CALIFORNIA PRIVACY RIGHTS
+If you are a California resident, the processing of personal information about you may be subject to the California Consumer Privacy Act (“CCPA”), and you have certain rights with respect to that information.
+
+Notice Regarding the Categories of Personal Information Collected. You have the right to receive notice of the categories of personal information we collect, the purposes for which we use personal information, and the categories of entities to whom we disclose or “sell” personal information. The categories we use below to describe personal information are those enumerated in the CCPA.
+
+We disclose information for a business purpose to service providers and contractors, which are companies or individuals that we engage to conduct activities on our behalf. Service providers and contractors are restricted from using personal information for any purpose not related to our engagement.
+
+Entities to whom we “sell” information are called “third parties.”
+
+Information Type	Collected	Disclosed to?	Sold to?
+Personal Identifiers	
+Contact information (name, phone number, address)
+Social media handles and account information
+Unique identifiers (such as those assigned in cookies)
+Driver License numbers, passport numbers or other government-issued identifiers
+Service Providers and third parties	Advertising, marketing, and analytics providers
+Protected Classifications	
+Age
+Date of Birth
+Gender
+Disability status
+Service Providers	Not sold
+Commercial Information	
+Transaction information
+Billing and payment records
+Order history
+Service Providers	Not sold
+Geolocation Information	
+Precise
+Coarse information (e.g., ZIP code, IP address)
+Service Providers and third parties	Advertising, marketing, and analytics providers
+Internet or Electronic Network Activity Information	
+IP address
+Device identifier (e.g. MAC)
+Information provided in URL string (e.g., search keywords)
+Cookie or tracking pixel information
+Information about your interaction with our website, app, or email correspondence
+Service Providers and third parties	Advertising, marketing, and analytics providers
+Audio, Electronic, Visual, Thermal, Olfactory, or Similar Information	
+Call recording (e.g., customer service calls)
+Online session monitoring
+Photographs
+Video
+License Plate Reader information
+Service Providers and law enforcement agencies (if relevant to detect, prevent, investigate or prosecute illegal activities)	Not Sold
+Professional or Employment-Related Information	
+Current employer
+Service Providers	Not Sold
+Inferences Drawn About You	
+Interests
+Preferences
+Service Providers	Not Sold
+We do not collect education information. For disclosures regarding health information, please see Health Care Centers and Pharmacies below. Personal information may be disclosed in additional, more limited circumstances, as described in Our Disclosure of Personal Information above. We also disclose personal information to the companies that provide products and services to our members for their own marketing purposes as described above (see “Our Disclosure of Personal Information” section above).
+
+Right to Know and Right to Request Deletion. You have the right to request access to personal information collected about you and information regarding the source of that personal information, the purposes for which we collect it, and the third parties and service providers with whom we disclose it. You also have a right to request that we delete personal information under certain circumstances, subject to a number of exceptions. You may make such requests by submitting a request. You can also submit your request by calling 1-800-605-3364.
+
+To provide or delete specific pieces of personal information we will need to verify your identity to the degree of certainty required by law. We will verify your request by matching information we request or you provide with your request to information we have collected previously, and/or by using a third-party verification service that will ask a series of questions to validate your identity.
+
+Do Not Sell my Personal Information/Right to Opt Out. You have a right to opt out from future “sales” of personal information. You can exercise your Do Not Sell My Personal Information rights by contacting us using the methods above; or making your request via our “Do Not Sell My Personal Information” webpage. You can prevent digital tracking information from being sold by visiting the Cookie Preferences page from the Do Not Sell My Personal Information page. Any opt-out choices you make will only apply to the specific email address that you provide when making the request, and to the browser that you are using when you submit an opt-out for digital tracking technologies.
+
+Note that although we will not “sell” your personal information after you opt out from the sale of personal information, we will continue to disclose some personal information with our suppliers (acting as our service providers) for our business purposes. Selecting the “Do Not Sell My Personal Information” link and or opting out of cookies and digital tracking technologies will not stop the use of previously sold personal information or stop all interest-based advertising.
+
+Right to Not Experience Discrimination. You have a right to not be discriminated against for exercising these rights set out in the CCPA.
+
+Use of an Authorized Agent. You may designate an authorized agent to make requests on your behalf to exercise your rights under the CCPA. Before accepting such a request from an agent, we will require the agent to provide proof you have authorized it to act on your behalf, and we may need you to verify your identity directly with us or confirm that you provided the authorized agent permission to submit the request. You must use the Third Party Authorization form available on our website to authorize third parties to make such requests on your behalf.
+
+Request Statistics. During the previous calendar year, we received and responded to these types of requests as follows:
+
+Number received	Number complied (whole/in part)	Number denied **	Average number of days to respond ***	Delete converted to opt out (subset of denied)****
+Requests to know	522	494	28	17	N/A
+Requests to delete	117	94	23	16	11
+Requests to opt out*	85,078	79,060	6,018	1	N/A
+*Requests to opt out of the sale of information are accepted from all Costco members in the United States, and not limited to the residents of California. These numbers represent all requests to opt out received.
+
+**Denied requests: Requests to know and to delete are denied when we are unable to verify the identity of the requestor. We are unable to process an opt-out request if the data provided by the requestor, at the time of the submission, cannot be matched to our records.
+
+*** Average number of days to respond: The processing of requests to opt out is fully automated. All successful submissions are completed on the day of receipt.
+
+**** Delete requests converted to opt out: We process denied delete requests as opt-out requests, if possible. We do not accept requests to opt out from non-members as we do not sell non-member information. For this reason, non-member delete requests are cancelled if we are unable to verify the identity of the requestor, and no further action will be taken.
+
+Additionally, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (“California Members”) may request information about whether Costco has disclosed personal information to any third parties for the third parties’ direct marketing purposes. We comply with this law by offering California Members a choice about the disclosure of personal information to third parties for their direct marketing purposes, and you can make or change such choice by following the instructions under “Choice and Control of Personal Information” in this Privacy Notice.
+
+Special Information for Job Applicants. When you apply for a job with Costco, we collect certain information about you as outlined in this Privacy Notice. Information may be collected about you in multiple ways: you may provide it to us in connection with your application; we may make observations in the application process or collect information from public information sources; or you may authorize us to collect information from other sources, such as a former employer or reference.
+
+The following table describes our practices with regard to information submitted in the job application process. If you use our website in the job application process, additional information may be automatically collected, as described above.
+
+Information Type	Collected	Disclosed to?	Sold to?
+Personal Identifiers	
+Contact information (name, phone number, address)
+Service Providers	Not Sold
+Protected Classifications	
+Race and ethnicity
+Gender
+Disability status
+Service Providers	Not sold
+Geolocation Information	
+Coarse information (e.g., ZIP code, IP address)
+Service Providers	Not sold
+Professional or Employment-Related Information	
+Current employer
+Employment history
+Service Providers	Not sold
+Education Information	
+Education history
+Level of education
+Service Providers	Not Sold
+In certain circumstances, you may submit your application for employment through a third-party service that displays our job posting. We do not control the privacy practices of these third-party services. Please review their privacy policies carefully prior to submitting your application materials.
+
+HEALTH CARE CENTERS AND PHARMACIES
+Please see our Notice of Privacy Practices: Health Care Centers for a description of how we use and protect health information that you disclose to us when you visit or use the products and services offered by our pharmacies, optical and hearing aid departments (“Health Care Centers”).
+
+To update prescription-related information, please visit the patient profile page at our online pharmacy site https://www.costco.com/Pharmacy/patient-profile.
+SPECIAL INFORMATION FOR NEVADA RESIDENTS
+Residents of the State of Nevada have the right to opt out of the sale of certain types of their information to other companies who will sell or license their information to others. At this time, Costco does not engage in such sales. If you are a Nevada resident and would like more information about our data protection practices, please email US_Privacy@costco.com.
+
+AUTOMATED LICENSE PLATE RECOGNITION USAGE AND POLICY
+We use Automated License Plate Recognition (ALPR) technology to collect information relating to vehicles present on or near some Costco warehouses and facilities. We use this information to detect, prevent, investigate, report and address incidents or illegal activities occurring in or around our warehouses and facilities, to maintain security for our employees, vendors, members and other visitors, and for loss prevention purposes.
+
+Costco restricts access to ALPR technology and ALPR Information to only those Costco personnel with a need-to-know such information for their job requirements. Access is granted to senior management for the warehouse and region where the technology is in use, to our loss prevention and security personnel, and to specific individuals on our procurement team. These personnel receive training in data security and the sensitivity of ALPR Information. Costco’s use of ALPR technology is overseen by Costco Corporate Purchasing and the Director for Warehouse Operations.
+
+ALPR Information is not accessible across warehouses and is stored locally on servers subject to Costco’s access control processes and procedures. ALPR Information is password protected, encrypted in transit and storage, and not used for purposes other than those disclosed in this Privacy Notice. Costco takes reasonable measures to ensure accuracy and integrity of the ALPR information it collects, including maintaining access controls and access logs. When using this information in connection with the investigation of an incident, Costco considers all available information, including information from other systems.
+
+ALPR Information is stored for approximately 180 days before it is permanently deleted, unless we need to retain the information for compliance with applicable law, investigation of specific incidents, upon request of law enforcement or other valid legal processes.
+
+Costco may disclose ALPR Information when we believe doing so is necessary to:
+
+Protect the rights or property of ourselves or others, including detecting, investigating, and reporting suspicious activities to law enforcement;
+Comply with applicable law or respond to legal process requests, including from law enforcement or other government agencies; or
+Protect our Costco companies, our property and inventory, our shoppers, members, employees, or the public.
+When ALPR Information is necessary for one of the above purposes, Costco uses reasonable safeguards, including encryption, to secure the transfer of ALPR information. Costco does not sell ALPR Information to third parties.
+
+SECURITY OF PERSONAL INFORMATION
+We take what we believe to be reasonable and appropriate steps to help protect personal information from unauthorized access, use, disclosure, alteration, and destruction. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure, and therefore we are unable to guarantee the security of your personal information. If you have reason to believe that your interaction with us is no longer secure, please let us know (see “Contact Us” below).
+
+CHANGES TO THIS PRIVACY NOTICE
+We will update this Privacy Notice when necessary to reflect changes in our Services, how we use personal information, or the applicable law. When we post changes to this Privacy Notice, we will revise the "Last Updated" date at the top of the Privacy Notice. If we make material changes to the Privacy Notice, we will provide notice or obtain consent regarding such changes as may be required by law.
+
+HOW TO CONTACT US
+If you have a privacy concern, complaint, or a question, please contact us at US_Privacy@costco.com or write us at PO Box 35128, Seattle, WA 98124.

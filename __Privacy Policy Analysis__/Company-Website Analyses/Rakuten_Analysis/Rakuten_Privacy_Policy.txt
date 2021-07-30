@@ -1,0 +1,169 @@
+( Date Accessed: 6/09/2021, From: https://www.rakuten.com/help/article/privacy-policy-360002101688#7 )
+
+( Embedded Hyperlinks Used:
+https://www.rakuten.com/help/article/privacy-policy-360002101688#1
+https://www.rakuten.com/help/article/privacy-policy-360002101688#2
+https://www.rakuten.com/help/article/privacy-policy-360002101688#3
+https://www.rakuten.com/help/article/privacy-policy-360002101688#4
+https://www.rakuten.com/help/article/privacy-policy-360002101688#5
+https://www.rakuten.com/help/article/privacy-policy-360002101688#6
+https://www.rakuten.com/help/article/privacy-policy-360002101688#7
+https://www.rakuten.com/help/article/privacy-policy-360002101688#8
+https://global.rakuten.com/corp/about/company/
+https://developers.google.com/terms/api-services-user-data-policy
+https://www.rakuten.com/help/other-questions
+https://www.rakuten.com/help/article/www.shopstyle.com/privacy
+http://www.aboutads.info/choices/
+https://corp.rakuten.co.jp/privacy/en/rakuten-id.html
+http://www.rakuten.com/?showAttestation=true
+https://www.rakuten.com/privacy-preferences.htm
+https://www.rakuten.com/help/other-questions
+
+)
+
+Privacy Policy
+1. Collection of Information
+2. Use of Information We Collect
+3. Sharing of Information
+4. Your Choices
+5. Special Notice for California Residents
+6. Other Notices
+7. Changes to This Privacy Policy
+8. Contact Us
+This Privacy Policy describes how Ebates Performance Marketing, Inc. dba Rakuten Rewards ("we," "us," "our," "Company") collect, use, share, and protect information in connection with the Company websites, mobile websites, mobile applications, browser extensions, and any related services that refer or link to this Privacy Policy ("Services"). Company is part of the Rakuten Group, which includes the affiliates and subsidiaries of our parent company, Rakuten Group, Inc., based in Tokyo, Japan.
+1. Collection of Information
+Sources of Collection We collect, process, and use information about you when you:
+Register for our Services
+Interact with our Services
+Install and/or access our Services through our application(s), including our mobile application and browser extension
+Connect to our Services through third parties, including social media accounts, email accounts, and business partners (described in Section 3 below)
+Contact us for support
+Enter a sweepstakes, contest, or promotion, or respond to a survey or poll
+We collect certain information when you submit or provide it to us directly. When you have installed our mobile application or browser extension, or when you interact with our Services online, we also automatically collect information about you and your use of the Services through the use of log processes, cookies, location-identifying technologies, and other tracking technologies. Certain information is collected about you from third parties, such as when you connect through a third-party service or business partner site.
+Types of Information We May Collect
+The types of information we collect about you may include personal information of the following types:
+Identifiers that you provide us directly, such as your first and last name, postal address, email address, tax information (for sweepstakes, contest, and promotion winners), and/or phone number
+Identifiers collected through your use of the Services, such as unique online or device identifiers, IP address, device or session IDs and information regarding your system configuration (operating system and version), network, and connected hardware (e.g., computer or mobile device and carrier)
+Customer Record Information, such as payment account name, payment account number, payment card expiration date and billing address
+Protected Classification Characteristics, such as your gender, age, household income, marital status, or your inclusion in any other classification protected under California law, only to the extent you provide this information to us as demographic information in a survey response that is identifiable to you
+Commercial Information about you, such as records of products or services purchased, obtained, or considered by you, including products, merchants and coupons you searched for, viewed or clicked, product types, merchant sites visited from our Services, merchant types, transaction history related to our Services, purchase confirmation data, accrued cash-back, American Express Member points, and other loyalty currency
+Internet and other Network Activity, such as your browsing and search history and your interactions with our sites and Services, including:
+products, coupons, offers, or merchants you search, click, favorite, and/or view, including clicks you make on the merchant sites you visit within our mobile app;
+URL’s of the pages you visit, including those tracked by our browser extension;
+date and time stamps associated with such browsing, searches, and clicks;
+click stream data, meaning the page by page clicks that you make as you navigate through our Services, including the web page visited before you came to our website; and
+email Inbox Data (as defined in Section 2, below), if you elect to sign in or create your www.rakuten.com account with Google or separately link an email account to your www.rakuten.com account
+Geolocation, to the extent you have configured your device to share such information with us, and locale preferences for your use of the Services
+Sensory-related information, such as audio recordings of your voice to the extent you call us, as permitted under applicable law
+Inferences drawn about you and your likely preferences, characteristics, behavior, and attitudes from any information we collect about you.
+2. Use of Information We Collect
+We use information we collect about you for the following business and commercial purposes:
+To Provide Our Services and Manage Your Account, including to
+Process your registration with our Services, including verifying whether your email address is active and valid and enrolling you into our programs
+Manage your account and interaction preferences, including tracking your favorite stores, merchants, and preferred locales and your transaction history
+Facilitate and manage your purchase transactions or takeout orders
+Deliver you rewards or payments and identify opportunities for rewards and/or offers
+Send you technical notices, updates, security alerts and administrative messages
+Provide you member services and support regarding your account and reply to your questions, comments, and requests
+To Personalize and Improve Our Services
+We may use information we collect about you to create a profile of your preferences to personalize and tailor Services content so that it is more likely to be of interest to you. For example, we may use your most frequently visited stores or shopping history to display offers for similar stores in relevant parts of the Services or to present special offers that may interest you via our Services, including in-store.
+If you elect to sign in or create your www.rakuten.com account with Google or separately link an email account to your Service account, we use the email content from your linked inbox(es) (collectively, “Inbox Data”) to personalize your experience with the Services and to confirm your eligibility for Cash Back faster and more reliably by identifying purchase or order confirmation information therein. Our use of Inbox Data from your linked Gmail account shall be in compliance with the Google API Services User Data Policy, including the Limited Use requirements therein. You can change Inbox Data settings as provided in Section 4 (Your Choices).
+We may also use information we collect about you to identify usage trends and perform statistical analyses to improve our Services, websites, applications, marketing efforts, and the products and services of our business partners we recommend or offer, in order to provide a better service to you in the future.
+To Provide You Marketing Information
+With the exception of Inbox Data, Company may use information we collect about you to provide you more personalized offers, special offers, discounts, and/or more relevant offers from our participating merchants via email and other direct communications, and through digital advertising. We may use your information to directly send you email newsletters, rewards offers, discounts, promotion codes, events and general information about the Services. You can manage these marketing communications as provided in Section 4 (Your Choices) below. We may also use your information (excluding Inbox Data) to advertise to you online, including targeting advertising to you on other websites. You can opt-out of certain uses of your information for targeted online advertising as provided in Section 4 (Your Choices) or for California consumers, Section 5 (Special Notice for California Residents).
+To Protect You, Others, and our Business
+We may use collected information to assess risk and to investigate and limit fraud, spam, and other malicious online activities in our Services, and to improve our security measures. We may also use collected information to assert our legal rights or to defend our legal rights against third parties.
+To Comply With Applicable Laws
+We may use information we collect about you to enable us to comply with applicable laws, rules, regulations, and judicial authorities in each geographical region in which we operate.
+To Administer Contests, Sweepstakes, Surveys, Polls, and Promotions
+From time to time, Company may invite you to enter various contests, sweepstakes, surveys, polls, and promotions. If you choose to participate in a contest or promotion, your personal information may be used to administer the contest, such as to determine your eligibility for the contest or to award a prize. If you choose to participate in a survey or poll, the feedback you submit will be aggregated and deidentified to provide us insight on business and shopping trends.
+To Administer Referral Programs
+We may offer features that allow you to inform another individual about our Services. If you choose to use our referral features, we will ask for your referral’s email address to send them an electronic communication inviting them to join our Services. We will store this information for the sole purpose of sending this email and tracking the success of our referral program. If you choose to participate in our referral programs, you represent and warrant that you have a personal relationship with your referral and that you are authorized to share their information with Company for the purpose of Company sending a communication to invite them to join the Services. If you believe that one of your contacts has provided us with your personal information through our referral service and you would like to request that it be removed from our database, please contact our member services at https://www.rakuten.com/help/other-questions.
+3. Sharing of Information
+Disclosure for Business and Commercial Purposes.
+We may disclose the below-specified categories of information for our business or commercial purposes, including the following:
+Disclosure to Our Service Providers
+We may share all categories of your collected personal information as necessary with our third-party service providers (which may include Company affiliates) who perform various business operations, solely for our benefit or on our behalf, under our instructions and in compliance with appropriate contractual, technical and organizational security measures to protect your data from unauthorized use, retention, or disclosure. For example, we may partner with other companies to provide you member support services, authentication services, prevent fraud on our Services, process payments, administer our promotions, referral programs, sweepstakes, and surveys, perform analytics, maintain the accuracy of our databases, deliver marketing and communications, limit delivery of repetitive or unnecessary marketing or communications, facilitate your gift card purchases, fulfill your product purchases, place and fulfill your takeout orders, and administer your rewards or payments.
+Disclosure to Our Business Partners
+We work with various types of third-party business partners to offer you our Cash Back shopping Services. We may share the following types of information with the following types of Business Partners.
+Affiliate Partners
+When you click on a link to a merchant site presented on our Services to start your Cash Back shopping, you evidence your intent to interact with that business through our Services, and thereby are directing us to disclose certain information about you (including the link you clicked in our Services and a unique ID assigned to track that your shopping originated from our Services) to an affiliate network to properly account for your purchases with a merchant. For a small number of merchants that do not utilize an affiliate network, this information is provided directly to the merchant. The Affiliate Partner will collect Internet and Network Activity information (excluding any Inbox Data) about your use of our Services in relation to the merchant site, products, or offers. Our Affiliate Partners collect this information to track the shopping trip, but certain of them may also use this information to measure performance, contribute it to their own user profiles and/or combine it with information they collect elsewhere, which they may make available for use by their other clients business clients. In such case, our sharing with certain of these Affiliate Partners could be considered a “sale” of your personal information as that term is defined in the California Consumer Privacy Act of 2018 (“CCPA”), and the opt-out we offer for California consumers in Section 5, below, would signal these Affiliate Partners to not collect or use your information from our Services except as necessary to validate and provide your Cash Back.
+In addition, to the limited extent that you are a California resident and we target direct marketing to you or personalize the offers you see in our Services based on the profile data we compile from your behavior tracked via our Services, for the direct benefit of a particular merchant, this marketing or personalization may be considered a “sale” of your personal information under CCPA. In this circumstance, the opt-out we provide for California residents in Section 5, below, would cover this type of targeted marketing and personalization.
+Referral Marketing Partners
+In order to expand your options to sign up for our Services and start your Cash Back shopping from third-party sites where you learn about our Services, we contract with certain referral marketing business partners to enable that functionality, which may require that we share certain data about you with them. For example, if you are referred to our Services from a business partner’s websites, we may provide that partner with information about your sign up to validate the referral and activate your Services account access from the partner’s site.
+In addition, we may share information about whether you have made a purchase with us recently and whether you have installed our mobile app or browser extension so that the partner can personalize their email and site content to you. For California residents, this information sharing about your behavior in our Services may be deemed a sale, so we provide an opt-out opportunity in Section 5, below.
+If you signed up for cash back through our sister company, ShopStyle, Inc. (“ShopStyle”), we may share certain transaction information with ShopStyle so that you can view your rewards summary on www.shopstyle.com. We may also place a cookie on your device so that you can continue your cash back shopping through www.shopstyle.com without having to sign in to our Services each time. For more information on how ShopStyle processes personal information, please visit www.shopstyle.com/privacy.
+Financial Partners
+For the purposes of providing you additional redemption options for your Cash Back and to market our co-branded credit cards to you, we may share your collected information, including Identifiers with financial business partners, which may include Rakuten Group Companies. If you select loyalty points or other alternative methods of receiving your Cash Back, you are directing us to share your personal information, as necessary, with the relevant financial partner to facilitate that transaction. If you indicate that you would like to receive information about our co-branded credit cards from our financial partner(s), you are also directing Company to provide your information to such third parties to enable them to provide that information.
+To the extent we share personal information about you with our financial partners in order to facilitate their marketing purposes, this could be considered a “sale” of your personal information for California residents, and you may opt-out of this targeted marketing in Section 5, below.
+Disclosure to Digital Advertising Providers
+To provide us with advertising and marketing services, we partner with certain third parties that automatically collect Internet and Network Activity information about your use of the Services, such as your browsing history, IP address, pages viewed, and links clicked, so that they can use this information to serve you ads for our Services on other sites. These third parties may also use this collected information to draw inferences about you for their own purposes or collect personal information about your online activities over time and across different websites (in addition to our Services) to help predict your preferences and to display (and enable other third parties to display) ads to you that are more likely to be of interest to you. Note that this Privacy Policy covers only our use of data and does not include use of data by such third parties. If you wish to opt out of interest-based advertising, please visit http://www.aboutads.info/choices/. For California residents, the sharing of your information with certain third parties for the purposes of online targeted advertising may be considered a “sale” of your personal information per the CCPA, of which you can opt-out in Section 5, below.
+Disclosure to Other Rakuten Group Companies
+We work closely with our affiliated businesses and companies within the Rakuten Group and share your personal information for our internal business administration. Some of our Service Providers and Business Partners with whom we share personal information, as described above, may include other Rakuten Group Companies. In addition, we may also share information in the categories of Identifiers (email address), Commercial Information (product metrics), and Internet and other Network Activity (except Inbox Data) with our affiliates within the Rakuten Group for those corporate affiliates to analyze and monitor usage and trends to improve their services and websites and for strategic planning purposes at the Rakuten Group level. Our opt-out and delete request functionality will serve to remove you from this sharing.
+The Rakuten Group also aims to provide you with a unique service experience through the “Rakuten ID”. Rakuten ID is a unified program that allows you to easily connect to other Rakuten services by a single log-in function, share your account information and join a loyalty program with the Rakuten group companies jointly participating in the Rakuten ID program. Your data will only be shared if you chose to connect to another Rakuten ID service. By connecting to another Rakuten ID service, you direct the Rakuten ID services to share your data for the purposes explained in our joint privacy policy. We share your account credentials and profile information (username, email address, encrypted password) and related personal identification (first and last name and address) and payment information stored in our Services with the Rakuten ID services. This service is jointly provided by the Rakuten ID Services as directed by you, if you sign up with another Rakuten ID Service. As long as you do not connect to another Rakuten service, your identifiers (username, email address, encrypted password, first name, last name and address) are shared only with our parent company, Rakuten Group, Inc., for the purposes of operating our authentication service. If you are connected to another service with a Rakuten ID account and wish to delete other Rakuten ID accounts, please reach out to member services at memberservices@rakuten.com for a list of other Rakuten services associated with your Rakuten ID. Member services can also provide you contact information to reach out to other Rakuten Services.
+Disclosure for Legal Purposes
+We may share the information we collect, including personal information, to the extent permitted by applicable law, (i) in response to subpoenas or other legal processes or if, in our good faith opinion such disclosure is required or permitted by law without a specific disclosure; (ii) at the request of governmental authorities conducting an investigation; (iii) to enforce our terms and conditions or other policies applicable to our Services; and (iv) to protect the rights, property, life, health, security and safety of Company or any third party.
+In Relation to Business Asset Transfers
+We may share the information we collect, including personal information, with any third party in connection with, or during confidential negotiations of, any proposed or actual merger, purchase, sale (including a liquidation, realization, foreclosure or repossession) or any other type of acquisition of all or any portion of Company assets, conveyance or transfer of all or a portion of our business to another company. In such event, the acquiring company would be contractually required to use your collected information in accordance with this Privacy Policy and applicable law or to provide prior notice to you of any new or materially changed practices.
+In addition to the above listed disclosures, we may also share aggregated or de-identified information that cannot reasonably be used by recipients to identify you.
+4. Your Choices
+Updating Account Information
+We encourage you to maintain the accuracy of the information you submit to us. You may provide account updates by logging into your Service account and updating your information in the Settings.
+Communications Preferences
+Email Marketing
+By signing up for an account, you may receive periodic electronic communications and direct mailings from Company. You can opt out of receiving promotional communications from us at any time by following the instructions provided in those communications to stop them, modifying the settings of your account, or contacting us through the Services. Please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional emails and other types of communications, as permitted by law, such as service emails relating to our ongoing business relationship. Service emails contain service-related announcements that affect your account, such as product order confirmations, reward or payment updates, and responses to your comments and feedback submitted to us.
+Mobile Application Notifications
+When using our mobile application, your preferences for receiving push notifications and other mobile alerts can be configured in the settings of your mobile device. When using our browser extension, you may turn off certain notifications via the Settings of the browser extension.
+SMS Messaging
+We may offer you the ability to sign in to our services via your mobile number. If you elect to provide us a mobile number and consent to receive certain messaging, we may use SMS messaging to contact you when you make account updates, to provide you updates on your customer support tickets, and for account recovery purposes. You may opt out of such messages by removing your mobile number in your account preferences or replying STOP to any incoming messages.
+Data Collection and Sharing Preferences
+You may in some cases have the option to decline to provide us with certain information; however, your choice may impact your use of certain features or services for which that information is a necessary component.
+Inbox Linking
+You may unlink an email account from the Service by updating or switching off the connection in your account settings. If you unlink your email account from the Services, we will no longer collect Inbox Data.
+Mobile App/Browser Extension
+You can prospectively stop all collection of information by our mobile application and/or browser extension by uninstalling our mobile application and/or browser extension. Because the browser extension and mobile application permit data about your online behavior on that device or browser to be collected when installed, even without interaction, they must be uninstalled to withdraw your consent to this data collection. In some instances, you can opt out of certain data collection by updating your Settings within the browser extension or your mobile device settings.
+5. Special Notice for California Residents
+This section applies only to California Residents. Pursuant to the California Consumer Privacy Act of 2018 (“CCPA”), if you are a California resident, you have certain rights in relation to your personal information, subject to certain exceptions.
+Right to Know and Access:
+You have the right to know the personal information we collected, used, disclosed for a business purpose, and sold about you during the preceding 12 months, including the categories of sources from which we acquired your information and the categories of third parties to whom we disclosed your information for a business purpose or sold your information. General information about the personal information we collect, use, disclose and sell and the purposes of collection, use and disclosure is set forth in Sections 1-3 of this Privacy Policy.
+For information we collected that is specific to you, you have the right to request in writing from us a copy of the:
+Categories of information we have collected about you over the preceding 12 months
+The specific pieces of personal information we have collected about you (note that we will not provide any sensitive personal information we may hold in response to this type of request).
+The categories of sources from which we collected that information
+For what purpose or use we collected that information about you
+The categories of third parties with whom we shared your personal information, including
+If we disclosed your personal information for a business purpose, which categories of information we disclosed to which categories of recipients, and
+If we sold your personal information, which categories of your personal information we sold to which categories of recipients.
+Right to Request Deletion:
+You have the right to request that the Company delete any personal information we have collected from you or maintain about you, subject to certain exceptions. If you request that we delete your personal information, we will do so except to the extent we determine that we need the information for a business purpose and have a legal right to maintain it, in which case we will inform you of that legal exception.
+Right to Opt-out of Sale of Your Personal Information:
+To the extent that we receive monetary or other valuable consideration for sharing or providing access to information about you with our merchant partners, third parties or affiliates in order to provide you rewards and benefits and for our targeted marketing purposes, the CCPA may deem this a “sale” of your personal information. You have a right under California law to opt-out of our “sale” of your information in this way. If you would like to exercise your right to opt-out of having your personal information shared in this way, please click the following link if you are not a member: DO NOT SELL MY PERSONAL INFORMATION. If you are a member please visit our Privacy Preference Center, located at https://www.rakuten.com/privacy-preferences.htm to exercise your data privacy rights. Please note that to the extent you opt-out we may be unable to offer you some of our services which require such sharing. If you have further questions, you can contact us at rewardsprivacy@rakuten.com.
+Right to Non-Discrimination:
+We will not discriminate against you for exercising any of your CCPA rights.
+Unless otherwise permitted by the CCPA, we will not do any of the following because you request to know, access, or delete your information or opt out of its sale:
+deny you goods or services
+charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties
+provide you a different level or quality of goods or services, or
+suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services
+How To Exercise Your CCPA Rights to Know, Access, and Request Deletion:
+To assert your CCPA privacy rights please go to our Privacy Center at https://www.rakuten.com/privacy-preferences.htm. To verify your identity, we will ask you to first login to your account in order to reach the Privacy Center, and then to obtain a verification code from the email address associated with your account. If we cannot verify your identity from the information we have on file, we may request additional information from you, which we will only use to verify your identity, and for security or fraud-prevention purposes.
+Agents.
+Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information. For any agent making a request on your behalf, we may require you to provide proof that you authorized this agent to submit a request on your behalf or that he or she has power of attorney in connection with your request to know, access or delete your personal information, and we may require you to independently verify your identity or log in to your account to provide the access code.
+Please note that we are not required to respond more than twice per calendar year to requests to know/access your personal information.
+6. Other Notices
+Shine the Light.
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. We do not share your information with third parties for their direct marketing purposes.
+Do Not Track.
+Company does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to monitor and review new technologies and will modify this policy accordingly in the event of a change.
+Notice regarding information of minors.
+This site and any related services are intended for adults 18 years of age or over, and we do not knowingly collect or sell personal information of consumer under 16 years of age without affirmative authorization or without verifiable opt-in consent from a parent for those under age 13.
+Retention of Data.
+We may retain information about you for as long as it is necessary to fulfill the purposes described Section 2. Some of your information may be retained in our systems even after you request your information to be deleted in order to comply with our obligations under applicable law, collect fees owed, resolve disputes, enforce our legal rights, otherwise use internally in a lawful manner that is reasonably aligned with the expectations of the consumer or compatible with the context in which the information was provided, and to undertake any investigations necessitated by the foregoing.
+Information Security.
+We have implemented technical and organizational measures to provide a level of security appropriate to the risk to the Personal Information that we process. These measures are aimed at preserving the ongoing integrity and protecting the confidentiality of users’ Personal Information. We evaluate these measures on a regular basis to confirm that they continue to maintain and apply an appropriate level of security.
+7. Changes to This Privacy Policy
+This Privacy Policy is current as of the effective date set forth below. Company reserves the right to change this Privacy Policy from time to time consistent with applicable privacy laws and principles. If we make changes to this Privacy Policy, we will notify you by revising the date on this Privacy Policy. In some cases, we may provide you with additional notice (such as adding a statement to the homepages of our Services or sending you an email notification).
+8. Contact Us
+If you have any questions regarding this Privacy Policy, please feel free to contact us at https://www.rakuten.com/help/other-questions or by mail at 800 Concar Drive, Suite 175, San Mateo, CA 94402, Attn: Rakuten Rewards Legal.
+Updated: April 13th, 2021
+

@@ -1,0 +1,358 @@
+( Date Accessed: 6/09/2021, From: https://policies.hatena.ne.jp/privacypolicy-en )
+
+( Embedded Hyperlinks Used:
+https://policies.hatena.ne.jp/privacypolicy-en
+https://policies.hatena.ne.jp/privacypolicy-ja
+https://policies.hatena.ne.jp/privacypolicy-en
+https://policies.hatena.ne.jp/privacypolicy-en#policy01
+https://policies.hatena.ne.jp/privacypolicy-en#policy02
+https://policies.hatena.ne.jp/privacypolicy-en#policy03
+https://policies.hatena.ne.jp/privacypolicy-en#policy04
+https://policies.hatena.ne.jp/privacypolicy-en#policy05
+https://policies.hatena.ne.jp/privacypolicy-en#policy06
+https://policies.hatena.ne.jp/privacypolicy-en#policy07
+https://policies.hatena.ne.jp/privacypolicy-en#policy08
+https://policies.hatena.ne.jp/privacypolicy-en#policy09
+https://policies.hatena.ne.jp/privacypolicy-en#policy10
+https://policies.hatena.ne.jp/privacypolicy-en#policy11
+https://policies.hatena.ne.jp/privacypolicy-en#policy12
+https://policies.hatena.ne.jp/privacypolicy-en#policy13
+https://policies.hatena.ne.jp/privacypolicy-en#policy14
+https://policies.hatena.ne.jp/privacypolicy-en#policy15
+https://policies.hatena.ne.jp/privacypolicy-en#policy16
+https://policies.hatena.ne.jp/privacypolicy-en#policy01
+https://www.truste.or.jp/
+https://www.truste.or.jp/hssl/validate/00479.php
+https://www.mcf.or.jp/en/
+https://policies.hatena.ne.jp/privacypolicy-en#policy02
+https://policies.hatena.ne.jp/privacypolicy-en#policy03
+https://policies.hatenablog.com/use-of-personal-information
+https://policies.hatena.ne.jp/privacypolicy-en#policy04
+https://policies.hatena.ne.jp/privacypolicy-en#policy05
+https://www.hatena.ne.jp/config
+https://policies.hatena.ne.jp/privacypolicy-en#policy06
+https://policies.hatena.ne.jp/privacypolicy-en#policy07
+https://policies.hatena.ne.jp/privacypolicy-en#policy08
+https://support.google.com/adxseller/answer/6274238
+https://policies.hatena.ne.jp/privacypolicy-en#f8-1
+http://www.ddai.info/optout
+http://www.aboutads.info/choices/
+https://www.google.co.jp/policies/technologies/ads/
+https://www.google.com/settings/ads
+http://send.microad.jp/w3c/index.html
+http://www.xrost.ne.jp/contents/policy/privacy.html
+http://e-omnibus.co.jp/index.html#pp
+http://www.kccs.co.jp/policy/targeting.html
+http://www.aolplatforms.jp/company/privacy/
+http://cyber-z.co.jp/privacy.html
+http://js.fout.jp/info/privacy.html
+http://corp.intimatemerger.com/privacypolicy/
+http://bi.garage.co.jp/about/privacypolicy/optout
+http://www.rightsegment.co.jp/legal_policy.html
+http://www.outbrain.com/legal/privacy
+https://support.google.com/adsense/troubleshooter/1631343
+https://www.amazon.co.jp/adprefs
+http://akane-ad.com/optout
+http://www.scaleout.jp/optout
+https://support.twitter.com/articles/20171553
+https://ja.ad-stir.com/sp/optout.html
+http://www.fringe81.com/privacy/
+https://www.logly.co.jp/optout.html
+https://www.appsflyer.com/jp/services-privacy-policy/
+https://support.google.com/analytics/answer/6004245?hl=ja
+http://analytics.yahoo.co.jp/legal.html
+https://mixpanel.com/privacy/
+https://firebase.google.com/terms/
+https://fabric.io/privacy
+https://trendemon.com/privacy.html
+https://www.ptengine.jp/privacy/opt-out/
+https://www.moshimo.co.jp/company/privacy
+https://privacy.microsoft.com/en-us/privacystatement
+https://www.appsflyer.com/jp/services-privacy-policy/
+https://www.zendesk.co.jp/company/customers-partners/privacy-policy/
+https://policies.hatena.ne.jp/privacypolicy-en#policy09
+https://policies.hatena.ne.jp/privacypolicy-en#policy10
+https://policies.hatena.ne.jp/privacypolicy-en#policy11
+https://policies.hatena.ne.jp/privacypolicy-en#policy12
+https://policies.hatena.ne.jp/privacypolicy-en#policy13
+mailto:cs@hatena.ne.jp
+https://www.truste.or.jp/hssl/watchdog/
+mailto:soudan@mcf.or.jp
+https://policies.hatena.ne.jp/privacypolicy-en#policy14
+https://policies.hatena.ne.jp/privacypolicy-en#policy15
+https://policies.google.com/privacy
+https://www.youtube.com/t/terms
+https://policies.hatena.ne.jp/privacypolicy-en#policy16
+)
+
+Hatena Privacy Policy 
+•	English
+Contents
+•	(1) Basic Policy on Personal Information
+•	(2) Acquisition of Personal Information
+•	(3) Use of Personal Information
+•	(4) Disclosure of Personal Information
+•	(5) Viewing, Modifying and Deleting Personal Information
+•	(6) Protection and Management of Personal Information
+•	(7) Cookies
+•	(8) Third Party Tracking Systems
+•	(9) (Obsolete due to the termination of service)
+•	(10) Scope of Application of this Privacy Policy
+•	(11) Revisions on Privacy Policy
+•	(12) Personal Information Administrator
+•	(13) Comments/Complaints/Claims/Disclosure Request concerning Privacy
+•	(14) (Obsolete)
+•	(15) Use of information obtained via APIs of external services
+•	(16) Revision Record
+(1) Basic Policy on Personal Information
+•	1. Hatena Co., Ltd. (“Hatena”, “we”, “us”, or “our”) acquires from users the minimum information required to offer all services as well as applications for the promotion of use (the “Services”) that are available in the Hatena Website (the “Website"). We are committed to safeguarding the personal information acquired from Users with the utmost care.
+•	2. The Website（Provided on "hatena.ne.jp" ）is a licensee of the TRUSTe privacy program. Please see Japan Privacy Accreditation Council for the details of TRUSTe. 
+•	3. Hatena is a covered business operator for “Mobile Content Forum (MCF)” that has been accredited as an accredited personal information protection organization as specified under Article 47 of the Act on the Protection of Personal Information.
+(2) Acquisition of Personal Information
+•	1. When you register with the Services as a User, we will ask you to provide us with your email-address and date of birth. We will also ask you to provide us with your name, gender and postal code for the Advanced User registration if you intend to use the services which are specifically designated by us, including services which involve the giving and receiving of the Hatena points. The information is collectively referred to as the “User Registration Personal Information”.
+•	2. We automatically receive and record information in our server from the User’s browser as an access log, including the User’s IP address, cookie information, pages viewed by the User, and the User’s environment. We also automatically receive and record in our server the information regarding websites outside the Services from Users who use certain features of applications. However, this information does not include information which can identify an individual, and we use the information for the purpose of managing and analyzing the use of the Website. Additionally, the type and details of the information to be obtained are recorded separately in the help page and such of each application.
+•	3. (Obsolete) We automatically receive and record the individual identification numbers in our server from mobile devices used by Users.
+•	4. Where the User uses any services utilizing location information, we receive and record location information in our server from devices which are capable of sending location information, including a User’s mobile devices or PCs.
+•	5. We may ask the User to provide us with his/her address, name(name of corporate person in charge), telephone number, credit card information, account number and the like whenever necessary for the shipment of goods, purchase, job advertisement, advertising and marketing research.
+•	6. We may receive notices which may include personal information of the Users or any third party, or acquire any disclosed personal information by reasonable means for the investigations of any violation of the terms of use.
+•	7. If the Registered Users use the Services which allow for registration of any third party’s e-mail address as the destination of information, we receive and record the information registered in our server.
+•	8. We will not add any information acquired by means other than those set forth in (1) through (7) above to the personal information acquired through the Services.
+(3) Use of Personal Information
+•	1. We will use the personal information under the following circumstances: 
+•	a. When a User uses the Services such as receiving e-mails or posting answers at Jinriki Kensaku Hatena;
+•	b. When we display the information optimized for each User on the Services, including postings of information which we believe to be of interest to the User;
+•	c. When we analyze the use of the services for the purpose of improving our services;
+•	d. When we use statistical information regarding the Users to explain the Services to the Users or any third party; and
+•	e. When it is necessary for individual processing and transactions such as making contact with Users or any third party, verifying identification, investigating and addressing a violation of the terms of use, investigating an inquiry, and processing a shipment of goods.
+•	2. We will not view or use the personal information for any purpose other than those described above.
+•	3. Please see Hatena’s Use of Personal Information Table for the methods of acquiring personal information and for more specific uses of personal information.
+(4) Disclosure of Personal Information
+•	1. We will not disclose personal information to any third party except for in the following circumstances: 
+•	a. When we obtain consent from the relevant User for the disclosure of personal information;
+•	b. When we deem it necessary for the operation of the Services, including displaying of an access log. However, in such cases, we will not disclose the User Registration Personal Information;
+•	c. When we use the minimum personal information of the User required for for our collaborated business with business partners and advertisers, and obtain consent from the relevant User. However, in such cases, the receiving party may not use the personal information disclosed by Hatena for any purpose other than the performance of the collaborated business;
+•	d. When we have a legal obligation to disclose personal information including in circumstances where we are required to do so by court order, or are requested to disclose the information of senders pursuant to the Act on the Limitation of Liability for Damages of Specified Telecommunications Service Providers and the Right to Demand Disclosure of Identification Information of the Senders (the Provider Liability Limitation Act);
+•	e. When we have a reason to suspect that a User is in violation of the terms of use, and consider that it is necessary for the protection of our rights, property, services or the like; and
+•	f. When there is an urgent need and an imminent danger to the life, body, or property of a User or any third party, and it is difficult to obtain consent from the relevant User.
+(5) Viewing, Modifying and Deleting Personal Information
+•	1. In principle, we make available for the Registered User himself/herself to view, modify or delete his/her User Registration Personal Information from My Hatena after he/she has logged into the Services. We also deal with such requests by e-mail after confirming the identity of the relevant Registered User with the prescribed procedure. Also, in the same manner, the Registered Users may elect whether or not to subscribe to any mail magazine.
+•	2. The Registered User may, at his/her own discretion, register as an Advanced User at any time notwithstanding that he/she uses the services which require the Advanced User registration. Any Advanced User who does not use the services which require the Advanced User registration may delete his/her User Registration Personal Information, and terminate the Advanced User registration.
+•	3. Please see the Registration Change regarding viewing, modifying and deleting your User Registration Personal Information.
+•	4. Once the User completes a procedure for a withdrawal from the Services, we will delete his/her User Registration Personal Information excluding the User’s name after keeping the information for a certain period of time. We may keep the User Registration Personal Information prior to change or deletion as a backup for a certain period time for the purpose of preventing any User from suffering disadvantage due to operational errors, or conducting investigations in the event that we find any illegal acts by the User including cases where the User withdrew from the Services immediately after he/she has posted information in violation of the terms of use. We will not use the User Registration Personal Information of the Users in the Services after their withdrawal from the Services. We will keep User’s name even after the User’s withdrawal from the Services for the purpose of preventing any difficulties in the operation of our services.
+•	5. We will treat the User Registration Personal Information of a User who terminated his/her Advanced User registration in accordance with 4. above.
+(6) Protection and Management of Personal Information
+•	1. Only the relevant User who has logged into the Services with the correct User’s name and password can view his/her own User Registration Personal Information and his/her privacy is protected from other Users and any third party.
+•	2. We use SSL encryption to protect data in the Services whenever necessary for the protection of data transmission.
+•	3. We prohibit any person other than our staff to refer to the User Registration Personal Information. Furthermore, we keep the User Registration Personal Information in a locked and safe place, and will not bring the information outside the section managed by us.
+•	4. We execute a confidentiality agreement with our staff and obligate them to comply with the security policy established by us.
+(7) Cookies
+•	1. We use cookies for the purpose of checking the login status of Registered Users, measuring the number of unique Users, improving User experience, and authenticating Users. Cookies work as follows: 
+•	a. When a User accesses the Services, we send cookies to the User’s browser to identify the User.
+•	b. When the User is logged into the Services, we send cookies to the User’s browser to identify the relevant User who has logged into the Services. Furthermore, when the User makes an authentication in the Services, we send cookies to identify the authenticated User.
+•	c. When the User permits the receiving of cookies in his/her browser’s settings, cookie information will be stored in the computer used by the User.
+•	d. When the User sets his/her web browser to allow sending and receiving of cookies, the web server receives cookie information from the User’s browser. However, for privacy protection, the User’s bowser only sends cookies which are sent by the relevant web server itself.
+•	e. The User may refuse to allow the sending and receiving of cookies by selecting “Refuse to send or receive cookies” in the cookie send/receive settings. If the User does this, the User may not be able to use any Services which require his/her login.
+•	2. Cookies may be used by the advertisements displayed on the Services. Where this occurs, the use of cookies by the advertisers shall be governed by each of advertiser’s own privacy policy.
+•	3. We do not support the Do Not Track browser option.
+(8) Third Party Tracking Systems
+•	1. The Services acquires statistical information on the use of the website by using cookies, image files (web beacons), Mobile advertising IDs and the like generated by third party providers (*note) which enable us to investigate user trends and to distribute the most relevant advertisements to Users. Such cookies and web beacons described above may include information directly acquired by third party providers, and any cookie information collected thereby will not be provided or disclosed to us, and will be managed in accordance with the privacy policy prescribed by each third party provider. Access analytics tools also measure User attribute data acquired from advertising networks and similar services. Such information does not identify the individual and will be handled in the form of anonymous data. Furthermore, such information will not be used other than for the intended purposes.
+*note: Please see the websites of third party providers or DDAI for the privacy policies of third party providers and for the explanation and deactivation of cookies. 
+i. For optimizing advertisement distribution:
+DDAI
+aboutads.info choices
+Google AdSense
+Google AdWords
+MicroAd, lnc. / Enhance Inc.
+Platform ID, Inc.
+Omunibus K.K.
+KYOCERA Communication Systems Co., Ltd.
+AOL Platforms Japan KK
+CyberZ, Inc.
+FreakOut, Inc.
+Intimate Merger, Inc.
+BI.Garage, Inc.
+RightSegment, Inc.
+Outbrain Inc.
+Google DoubleClick
+Amazon.com, Inc
+GMO AD MARKETING, Inc.
+Supership Inc.
+Twitter, Inc.
+UNITED, Inc.
+Fringe81 Co.,Ltd
+LOGLY, Inc.
+AppsFlyer
+ii. For actual number of Users:
+Google Analytics
+Yahoo! Access Analytics
+Mixpanel
+Firebase
+Fabric
+TrenDemon
+Ptengine
+Moshimo affiliate
+Microsoft Clarity
+AppsFlyer
+iii. Misc :
+Zendesk, Inc.(for authenticating Users)
+•	2. (Obsolete)
+(9) (Obsolete due to the termination of service)
+(10) Scope of Application of this Privacy Policy
+•	1. If the User voluntarily discloses his/her personal information on the Website, such information may be collected or wrongfully used by any third party. In such cases, we shall assume no responsibility therefor.
+•	2. Unless otherwise specifically set forth in the Services, any website or service of any third party which is linked from the Services establishes its own provisions for the protection of personal information, which is independent from ours. We assume no obligation or responsibility with regard to these independent provisions and activities. The User should confirm the terms of use and other provisions established by each website before he/she provides his/her personal information.
+(11) Revisions on Privacy Policy
+•	1. We may revise all or part of this Privacy Policy in future. In case of any material change to this Privacy Policy, we will notify the Users in a clear manner such as posting the changes on the Services.
+•	2. Whenever we make any change/additions to the purpose of use, the User shall have the right to choose whether or not we can use his/her personal information in the manner changed or added.
+(12) Personal Information Administrator
+•	1. Our personal information administrator is as follows:
+Oike Building 9th Floor,206 Takamiya-cho, Ainomachi-Higashi-Iru, Oike-dori, Nakagyo-ku, Kyoto-shi, Kyoto, Japan
+Yoshiomi Kurisu, President and Representative Director of Hatena Co., Ltd.
+(13) Comments/Complaints/Claims/Disclosure Request concerning Privacy
+•	1. If you have any comments/complaints/claims/Disclosure Request concerning our privacy practices, please contact us at cs@hatena.ne.jp. We will contact you by e-mail after confirming your comment/complaint/claim, and will endeavor to address your inquiry in an appropriate manner. 
+•	2. If your inquiry has not been satisfactorily addressed, please contact one of the contacts below 
+•	1. TRUSTe Watchdog program 
+https://www.truste.or.jp/hssl/watchdog/ 
+•	2. Mobile Content Forum (MCF)
+Dai-3 Ito Building 603, Ebisu 4-4-5, Shibuya-ku, Tokyo, Japan 150-0013
+soudan@mcf.or.jp Tel: 3-5449-6469
+•	3. A person resident in an EU Member State and subject to the GDPR should contact cs@hatena.ne.jp in the same way as 1. to exercise their rights under the GDPR. If the inquiry is not handled appropriately, you may file a complaint with the supervisory authorities.
+(14) (Obsolete)
+(15) Use of information obtained via APIs of external services
+•	・Google (Privacy Policy: https://policies.google.com/privacy) 
+•	・Google Photos API (scope: https://www.googleapis.com/auth/photos ) 
+•	・Used in blog's Google Photos posting function
+•	・Not used for any purpose except for embedding URLs of pictures in blog text
+•	・YouTube API (YouTube Terms of Service : https://www.youtube.com/t/terms) 
+•	・Used in blog's YouTube posting function
+•	・Not used for any purpose except for embedding videos in blog text
+(16) Revision Record
+•	Revised on Mar 18, 2021
+Added provisions on YouTube API to "(15) Use of information obtained via APIs of external services" 
+•	Revised on Feb 22, 2021
+Added Specified suitable domains for the TRUSTe privacy program "(1) Basic Policy on Personal Information 2. " 
+Due to the acquisition and utilization of individual identification numbers," (2) Acquisition of Personal Information 3." have become obsolete 
+Added one provider of third party tracking systems.
+•	Revised on Jan 7, 2021
+Added one provider of third party tracking systems.
+•	Revised on Sep 17, 2020
+"name" described in "(2) Acquisition of Personal Information 5." has been changed to "Name (name of corporate person in charge)" 
+With the end of Pocket Hatena, "Pocket Hatena Registration" included in "(5) Viewing, Editing, and Deleting Personal Information" has been deleted.
+Revised on Sep 11, 2020
+Added Paragraph 3 in the “(8) Third Party Tracking Systems”
+Added one provider of third party tracking systems
+•	Revised on Nov 28, 2019
+Added (15) Use of information obtained via APIs of external services
+•	Revised on Sep 4, 2019
+Moved the provisions related to the disclosure of personal information based on the Act on the Protection of Personal Information from (13) to (5), and specified how it should be handled.
+Changed the contact information due to relocation of Mobile Content Forum.
+•	Revised on April 18, 2019
+Added one provider of third party tracking systems.
+•	Revised on Nov 13, 2018
+Added one provider of third party tracking systems.
+•	Revised on Sep 19, 2018
+Due to the stoppage of the service the clause "8) Third Party Tracking System 2." was removed.
+Added two provider of third party tracking systems.
+Added description on Do Not Track.
+•	Revised on May 23, 2018
+Added statement for users resident in EU Member States with the enforcement of the GDPR.
+Added description and changed certain items due to becoming a covered business operator for personal information protection organization.
+•	Revised on Feb 21, 2018
+Added one provider of third party tracking systems.
+•	Revised on Jan 23, 2018
+Added one provider of third party tracking systems.
+•	Revised on Sep 29, 2017
+Added one provider of third party tracking systems.
+•	Revised on May 30, 2017
+Following revisions to the Act on the Protection of Personal Information (Act No. 57), the Disclosure Request method has been appended in (13).
+Following changes to service specifications, and the discontinuation of service features, the Use of Personal Information Table has been updated.
+•	Revised on February 13, 2017
+Added one provider of third party tracking systems.
+•	Revised on December 15, 2016
+Added three providers of third party tracking systems.
+•	Revised on July 28, 2016
+(9) Toolbar and Firefox extension items have become obsolete
+Revision of the content regarding the basic way of thinking of personal information in (1), as a result of (9) being obsolete
+Revision of the description for obtaining personal information in (2), as a result of (9) being obsolete
+Revision of the description of a third party’s tracking system in (8), as a result of (1) being revised
+•	Revised on June 17, 2016
+Added two providers of third party tracking systems.
+•	Revised on May 20, 2016
+Added one provider of third party tracking systems.
+•	Revised on December 10, 2015
+Added two providers of third party tracking systems.
+Changed the company name of the provider of third party tracking systems.
+Changed the indication of TRUSTe.
+•	Revised on September 1, 2015
+Added one provider of third party tracking systems.
+•	Revised on January 28, 2015
+Added one provider of third party tracking systems.
+•	Revised on December 4, 2014
+Added one provider of third party tracking systems.
+•	Revised on October 16, 2014
+Added Paragraph 2 in the “(8) Third Party Tracking Systems”.
+•	Revised on April 21, 2014
+Added two providers of third party tracking systems.
+Indicated the providers of third party tracking system by purpose of use.
+•	Revised on July 3, 2013
+Added provider of third party tracking systems.
+•	Revised on May 31, 2013
+Deleted the relevant items following the abolishment of DSi users.
+Changed the e-mail address of support desk.
+Changed the Hatena’s Use of Personal Information Table into PDF file format.
+•	Revised on April 19, 2013
+Added provider and provision manner of third party tracking system.
+Changed the indication of TRUSTe.
+•	Revised on January 7, 2013
+Deleted one provider of third party tracking systems.
+•	Revised on November 29, 2011
+Added provider of third party tracking system.
+•	Revised on July 28, 2011
+Changed the company name of the provider of third party tracking systems.
+•	Revised on June 8, 2011
+Added provider of third party tracking systems.
+•	Revised on September 2, 2010
+Added provider of third party tracking systems.
+•	Revised on May 13, 2010
+Added the descriptions regarding the information automatically sent by the Toolbar and Hatena Bookmark Firefox Extension.
+•	Revised on December 14, 2009
+Added the item regarding the third party’s email address to be registered by the Users In connection with the additional functions of “Ugo Memo Theater/Ugo Memo Hatena”.
+Added the item regarding the third party’s email address to be registered by the Users as these were also made by the invitation function of “Hatena Haiku”.
+•	Revised on September 3, 2009
+Changed the name of the Hatena Toolbar.
+Corrected the misleading languages and spelling or consistency of words.
+Changed the contact email address.
+•	Revised on April 27, 2009
+Added details of personal information to be acquired by NintendoDSi in connection with the additional function of “Ugo Memo Theater/Ugo Memo Hatena”.
+In accordance with the instructions by TRUSTe, added the description of the acquisition of an access log and also clarified that the personal information acquired other than the prescribed manner will not be added to the personal information in “(2) Obtaining Personal Information”.
+•	Revised on April 2, 2009
+Added details of the information acquired by Hatena Bookmark Firefox Extension.
+•	Revised on January 26, 2009
+Changed the items of personal information to be acquired at the User registration.
+•	Revised on December 24, 2008
+Added the terminal ID of Nintendo DSi as the item of the personal information to be acquired.
+Deleted the item regarding the point redemption from the purpose of use of personal information in the Hatena’s Use of Personal Information Table.
+•	Revised on December 4, 2008
+Added marketing research as the purpose of acquiring personal information.
+•	Revised on September 29, 2008
+Added individual identification number of the mobile device as the information to be acquired.
+•	Revised on May 19, 2008
+Changed the location of the personal information administrator.
+•	Revised on January 24, 2008
+Added the cookies’ acquisition purpose.
+•	Revised on July 5, 2007
+Changed the items of personal information to be acquired at the User registration.
+Added descriptions regarding the Advanced Users.
+Added the cookies’ acquisition purpose.
+Reviewed the language and redundant descriptions.
+•	Revised on May 30, 2007
+Added the examples of acquiring personal information.
+Cleary specified the means of viewing, changing and deleting personal information.
+Added descriptions regarding the third party tracking systems.
+Added descriptions of authorizing the use of the personal information upon the revision of the Privacy Policy.
+Changed the URL of TRUSTe.
+•	Revised on June 23, 2005
+Added details of TRUSTe.
+Added details of the information acquired from the Toolbar.
+Added link to the Hatena’s Use of Personal Information Table.
+Reviewed the language and redundant descriptions.
+•	Established on December 1, 2004

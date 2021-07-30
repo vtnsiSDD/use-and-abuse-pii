@@ -1,0 +1,195 @@
+( Date Accessed: 6/09/2021, From: https://www.ikea.com/us/en/customer-service/privacy-policy/ )
+
+( Embedded Hyperlinks Used:
+https://www.ikea.com/us/en/customer-service/terms-conditions/
+https://www.ikea.com/us/en/customer-service/cookie-policy/
+https://www.ikea.com/us/en/customer-service/cookie-policy/
+mailto:infosec.dataprivacy.us@ikea.com
+https://www.ikea.com/us/en/customer-service/privacy-policy/your-privacy-rights-pub3c56c880
+mailto:infosec.dataprivacy.us@ikea.com
+https://us.accounts.ikea.com/login?state=g6Fo2SBidkVaMVB5Y0t1aW1PWlhLUWxKdnByM2xFRmVBZGY1VqN0aWTZIEdfdUhmcVp4ZEJSWm9xOFJ3VmxfLW9BbXMwTnhEa0pzo2NpZNkgVUJMbm9sQ1VPUTkwcUEwS1NhYzBtRExFY00yWFpvaGw&client=UBLnolCUOQ90qA0KSac0mDLEcM2XZohl&protocol=oauth2&redirect_uri=https%3A%2F%2Fsecure.ikea.com%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FIrwExchangeCodeForSessionRedirect%3FstoreId%3D12%26langId%3D-1&scope=openid%20profile%20email&audience=https%3A%2F%2Fretail.api.ikea.com&response_type=code&ui_locales=en-US&_ga=2.235642753.1433067281.1576852971-1883812180.1565726983
+https://www.ikea.com/us/en/customer-service/terms-conditions/
+mailto:infosec.dataprivacy.us@ikea.com
+
+)
+
+Privacy Policy
+Updated June 2, 2021
+We recently updated our Privacy Policy.
+About this Privacy Policy
+We know how important it is for you to understand how we use your personal information. This Privacy Policy sets out how and why IKEA North America Services, LLC (“IKEA”, “we,” “our,” or “us”) collect, store, process and share your personal information. We strive to be transparent with you about what we do with your personal information.
+This Privacy Policy covers our U.S. stores, online experiences (including our websites and mobile apps), and other locations where you may interact with us. This Privacy Policy also describes the choices you can make about how we collect and use your personal information.
+This Privacy Policy is incorporated into, and is subject to, the Terms of Use. By using our websites and mobile applications, you accept and consent to the practices described in the Privacy Policy and Terms of Use. If you do not agree to the Terms of Use or this Privacy Policy, please do not use our websites or mobile applications.
+1. What personal information do we collect?
+1. What personal information do we collect?
+Information you provide to us
+You may provide the following information to us in our stores and online:
+Personal and contact information, such as name, date of birth, email address, mobile/landline telephone number, home address, age, and gender
+IKEA FAMILY or IKEA for Business card number
+Employment and company contact information or IKEA for Business accounts
+Payment information, such as credit card information and billing address
+Purchasing activity, product preferences, reasons for purchasing a product, family and lifestyle
+Information you post: If you comment or otherwise provide information in a public space on one of our websites, we collect a record of it and any personal information included in the comment. For example, this may include posting a review of a product
+Information you provide through social media
+Other information you give us when you contact our customer services team, when you engage with our social media platform (for example by tagging us in a post on Instagram), when you sign up for IKEA FAMILY membership, or when you otherwise interact with us
+Some of our stores have supervised children’s play areas (“Smaland”) which can be used while you shop. In order to use these areas, you will be asked to provide information including the child’s name and age, the parent’s or guardian’s name, address, telephone number and signature, and any necessary health information
+
+
+Information collected through automated means
+We may use automated technology such as cookies and other tracking software to collect personal information from your computer system or mobile device. We may collect the following information:
+Internet Protocol (IP) address or other device identifier
+Browser type and version
+Browsing information, such as pages you view and the links you click, how you interact with the emails we send you, and whether you access our website via a social media site
+Time zone setting
+Browser plug-in types and versions
+Operating system and platform
+Other portable device information
+With your permission, we may also collect your precise location data. We may also collect the time spent visiting, usage patterns, and the domain name of the website from which you linked to our websites.*
+When you use our free in-store WiFi for your mobile device in an IKEA store, we collect your Media Access Control (MAC) address and location data.* If you do not want us to do this, please turn off the WiFi capability within your mobile device settings.
+
+
+*We use this information on an anonymous basis and do not use it to identify any particular user. We do not link this data to any other data that we hold about you.
+Third parties may also provide us with additional publicly available information about you.
+2. When do we collect your personal information?
+2. When do we collect your personal information?
+You share personal information with us in various ways. For example, we receive personal information when you:
+Purchase products and services from us in store, online, or over the phone
+Make a return or exchange
+Access our websites or use any of our mobile apps. (To find out more about the use of cookies and how you can manage them, please read our Cookie Policy)
+Use our in-store WiFi services or have your WiFi switched on in-store
+Create an online account
+Join our IKEA FAMILY or IKEA for Business loyalty program
+Participate in surveys, competitions, promotions or certain discounts/coupons
+Contact our customer services team in store, online or over the phone
+Provide us your contact information so we can respond to your questions or concerns submitted through the in-store “Help Us to Improve” function
+Submit an application for employment
+Interact with us on social media (by mentioning/tagging us or by contacting us directly)
+Interact with our websites, such as when you visit our websites on a device, enable location-based features, or click on sponsored links or third-party advertisements on our websites or on other websites and online services
+Interact with emails we send you
+Fill out a product registration form
+Request a catalog or subscribe to our email list
+Visit stores: IKEA uses cameras in and around its stores for security and operational purposes. We may also retain an image of your likeness if you provide your picture to us
+Use our supervised children’s play area (“Smaland”)
+Apply for an IKEA Visa® Credit Card
+Sign up for mobile notifications regarding updates at your local IKEA store
+
+
+At this time, we do not track our users’ personal information over time and across third-party websites. We therefore do not respond to browser Do Not Track signals.
+3. How do we use your personal information?
+3. How do we use your personal information?
+We use your personal information for business purposes: to make our products and services available to you; to personalize your shopping experience; to improve our operations; and for security and legal reasons.
+Some examples of how we use your personal information include:
+Processing and fulfilling orders online or in-stores, including by facilitating the delivery of product orders
+Communicating with you regarding purchases
+Responding to your questions and comments
+Measuring your customer satisfaction
+Enabling the safe and secure use of our supervised children’s play area in certain stores (Smaland)
+Providing you with marketing material via SMS, mail and email (with your consent where required by law)
+Analyzing shopping trends through account activity and purchase history to provide you a personalized browsing experience
+Sending IKEA FAMILY members special promotions based on store spend or customer birthday
+Sending IKEA for Business members special promotions and offers
+Allowing you to create a profile on our websites which enables you to purchase IKEA products and services online without having to fill in your personal information every time you shop online with us
+Ensuring that our websites are presented in the most effective and relevant manner for you and your device, including setting default options for you such as language and store location
+Conducting checks for fraud or other illegal activity
+Protecting our rights or property (or those of others)
+Fulfilling our legal and compliance-related obligations (such as if we receive a legitimate request from a law enforcement agency)
+4. With whom do we share your personal information?
+4. With whom do we share your personal information?
+We do not sell personal information to third parties.
+In order for us to provide our products and services to you, we share some of your personal information with trusted third-party service providers, with other members of the IKEA-brand corporate family, or with public authorities. For example:
+We use third party service providers to help with delivery, product assembly and installation, waste removal, processing payments, and other services. Your personal information may be stored and processed by our vendors and service providers in the United States or other locations where the service providers or IKEA have facilities.
+We may share your financial information including your credit, debit card or other payment information with third parties to ensure that your payment is safe and that your details are not being used fraudulently
+We may disclose your personal information to our insurers where we believe that it is required by law or contract
+We use pixels and cookies in our work with customer database hosting providers, marketing agencies and advertising partners to place relevant content and advertisements for you on our own websites and apps, as well as other websites, online media channels and apps (see Cookie Policy)
+We may share data with other members of the IKEA-brand corporate family to facilitate operations and business
+We may share or disclose your personal information with law enforcement agencies or public authorities in order to prevent or detect crime or fraudulent activities, as well as in order to fulfill any legal or regulatory obligations
+We may share your personal information to comply with court orders and to exercise and/or defend our legal rights
+We may share your personal information in the event we sell or transfer all or a portion of our business or assets
+We may use your personal information with your consent or as otherwise permitted or required by law
+
+
+We also disclose non-private, deidentified, aggregate or otherwise non-personal information with third parties, including social media companies like Facebook and Twitter, and online advertising companies like Google, to deliver targeted advertising about other products and services for marketing purposes. You may opt-out of receiving marketing messages by using the opt-out mechanisms and links provided in each message.
+5. How do we protect the privacy of children?
+5. How do we protect the privacy of children?
+IKEA does not knowingly collect or use any personal information from children younger than 13 on IKEA websites or mobile applications. We do not knowingly allow children to order our products, communicate with us, or use any of our online services. If you are a parent and become aware that your child has provided us with information, please contact us using one of the methods specified below, and we will work with you to address this issue.
+6. What are your rights with respect to your personal information?
+6. What are your rights with respect to your personal information?
+Depending on your jurisdiction, you may have certain rights with respect to your personal information. If you would like to speak to us about any of your rights, please contact us (see section 11).
+International Transfers
+We may share information about you with our affiliates and transfer it to countries in the world where we do business in connection with the uses identified above. Any international transfers of personal information will be in accordance with this Privacy Policy and in compliance with applicable laws. By using our websites or mobile apps or otherwise providing personal information to us, you agree to the international transfer and processing of your information. While certain products may be sold outside the United States, including in the European Union, our websites and mobile apps are not marketed to or intended to be used by any non-United States resident.
+Your Nevada Privacy Rights
+Nevada residents have the right to submit a verified request directing us not to sell their personal information. If you are a Nevada resident, and would like to submit such a request, please send your request to infosec.dataprivacy.us@ikea.com.
+Your California Privacy Rights
+ACCESS TO SPECIFIC INFORMATION AND DATA PORTABILITY RIGHTS FOR CALIFORNIA RESIDENTS
+You have the right, subject to certain exceptions defined in the California Consumer Protection Act “CCPA” and other applicable laws and regulations, to request that companies disclose certain information to you about their collection and use of your personal information over the past 12 months. This right of access includes information about:
+The categories of personal information we collected about you.
+The categories of sources for the personal information we collected about you.
+Our business or commercial purpose for collecting that personal information.
+The categories of third parties with whom we share that personal information.
+The categories of personal information that each recipient received.
+The specific pieces of personal information we collected about you.
+
+
+DELETION REQUEST RIGHTS
+You have the right, subject to certain exceptions defined in the CCPA and other applicable laws and regulations, to request that a company delete any of your personal information that it has collected from you and retained, subject to certain exceptions.
+EXERCISING ACCESS, DATA PORTABILITY, AND DELETION RIGHTS
+To exercise the access, data portability, and deletion rights described above, California residents may submit a verifiable consumer request to us by either:
+Calling us at 1-888-888-4532
+Submitting an online request here
+Requesting a submission card in-person at one of our California stores.
+
+
+The verifiable consumer request must:
+Provide sufficient information that allows us to verify, to a reasonably high degree of certainty, that you are the person about whom we collected personal information. This may include requesting that you provide us with at least two or more pieces of personal information to match against personal information about you that we may or may not maintain and which we have determined to be reliable for the purpose of verification.
+Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+
+
+We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with us. We will only use personal information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.
+You may only make a verifiable consumer request for access or data portability twice within a 12-month period.
+
+
+DO NOT SELL RIGHTS
+You have the right, subject to certain exceptions defined in the CCPA and other applicable laws and regulations, to request that companies stop selling your personal information and refrain from doing so in the future. IKEA does not sell personal information (as defined by the CCPA), nor does IKEA intend to sell personal information in the future. However, if you would like to submit such a request, please send your request to infosec.dataprivacy.us@ikea.com.
+AUTHORIZED AGENT
+Only you, or a person you have designated in writing as your authorized agent, or who is registered with the California Secretary of State to act on your behalf, or to whom you have provided power of attorney pursuant to California Probate Code sections 4000 to 4465, (“Authorized Agent”), may make a verifiable consumer request or do not sell request related to your personal information. You may also make a verifiable consumer request or do not sell request on behalf of your minor child.
+If you wish to have an Authorized Agent make a request on your behalf, they will need to provide us with sufficient written proof that you have designated them as your Authorized Agent and we will still require you to provide sufficient information to allow us to reasonably verify that you are the person about whom we collected personal information.
+NON-DISCRIMINATION
+You have the right not to receive discriminatory treatment for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not:
+Deny you services.
+Charge you different prices or rates for services, including through granting discounts or other benefits, or imposing penalties.
+Provide you a different level or quality of services.
+Suggest that you may receive a different price or rate for services or a different level or quality of services.
+
+
+However, we may offer you certain financial incentives permitted by the CCPA that can result in different prices, rates, or quality levels. Any CCPA-permitted financial incentive we offer will reasonably relate to your personal information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time. For example, if you become a member of IKEA Family, IKEA will provide you with certain benefits and special offers in exchange for you providing your contact information, other information about yourself, and opting in to IKEA marketing communications. More details are available at the IKEA Family website, the IKEA Family FAQ, and IKEA’s Terms of Use.
+If you are a California resident, California Civil Code Section 1798.83 permits you to request a list of all third parties to which we, during the immediately preceding calendar year, have disclosed certain personally identifiable information for direct marketing purposes. IKEA does not share personal information about its consumers with any third parties outside the IKEA corporate family for their own marketing purposes. We are only required to respond to a customer request once during any calendar year. To make such a request you should send a letter to IKEA North America Services, LLC, Attn: California Privacy Rights; 420 Alan Wood Road, Conshohocken, PA 19428. Please be aware that not all information sharing is covered by the California privacy rights requirements and only information sharing that is covered will be included in our response.
+7. How may you indicate your privacy preferences?
+7. How may you indicate your privacy preferences?
+You can set your preferences in your online profile in our websites and apps.
+If you no longer wish to receive our marketing materials, you can unsubscribe through your profile. You can also click the unsubscribe link in our marketing emails.
+We want to ensure that all the information we have about our customers is correct and up to date. If you find that the personal information we have about you is inaccurate or needs updating (for instance, you may have changed your name or address) please update your profile.
+For your mobile device, you may opt out of precise location tracking and/or push notifications by changing your settings. (Note that opting out may affect your ability to fully use the application.) To avoid collection of your MAC address and location data while you are within the IKEA store, turn off the WiFi capability on your phone or other electronic device within your device settings.
+8. How do we keep your information safe?
+8. How do we keep your information safe?
+We take the security of your personal information very seriously. We have implemented various strategies, controls, policies and measures to keep your information secure and keep these measures under close review. We use encryption techniques and other safeguards such as firewalls and password protection. This means that your information is protected and only accessible by personnel who need it to carry out their job responsibilities, or shared with third parties as described above. We implement physical controls in our buildings that restrict access to your personal information.
+9. How long do we retain your information?
+9. How long do we retain your information?
+In general, we will only retain your personal information for as long as is necessary for the purposes described in this Privacy Policy. This means that the retention periods will vary according to the type of the information and the reason that we have the information.
+10. Links to Third-Party Websites and Additional Terms
+10. Links to Third-Party Websites and Additional Terms
+Our websites or social media may contain links to third-party sites that are not governed by this Privacy Policy. If you click on a link to a third-party site, you will be taken to a site we do not control. We are not responsible for the privacy practices used by third-party sites. We suggest that you read the privacy policies of those sites carefully.
+IKEA’s current Terms of Use are available here. In addition, IKEA may from time to time offer special programs, events, promotions or services that have additional terms or privacy policies. Those terms will be made available to you at or before the point where you will provide any personal information to IKEA.
+11. IKEA’s Privacy Contacts
+11. IKEA’s Privacy Contacts
+If you have any questions about this Privacy Policy or your rights under it please contact:
+Address:
+IKEA North America Services, LLC
+Attn: Data Privacy Manager
+420 Alan Wood Rd
+Conshohocken PA 19428
+Telephone: 1-888-888-4532
+E-mail: infosec.dataprivacy.us@ikea.com
+12. Changes to this Privacy Policy
+12. Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. Please regularly check for updates. You can tell if the Privacy Policy has changed by checking the revision date that appears above. If we change this Privacy Policy in a material way, we will provide appropriate notice to you. By using our websites or mobile apps, you agree to accept the terms of this Privacy Policy as stated at the time you use them.
+

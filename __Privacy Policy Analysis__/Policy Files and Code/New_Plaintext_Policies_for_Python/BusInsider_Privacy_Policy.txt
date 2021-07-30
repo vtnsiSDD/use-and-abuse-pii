@@ -1,0 +1,223 @@
+( Date Accessed: 6/06/2021, From: https://www.insider-inc.com/privacy-policy )
+
+( Embedded Hyperlinks Used: 13
+http://www.businessinsider.com/
+http://www.emarketer.com/
+http://www.techinsider.io/
+http://www.insider.com/
+http://intelligence.businessinsider.com/
+http://www.insiderintelligence.com/
+http://markets.businessinsider.com/
+http://www.insider-inc.com/
+https://www.insider-inc.com/cookie-policy
+https://www.insider-inc.com/cookie-policy
+https://www.businessinsider.com/login
+https://subscriptions.emarketer.com/
+https://docs.google.com/forms/d/1mShXkA-liK2L_Osb2jN36ZWrT1MK07qTX3IJShnjVsQ/viewform?edit_requested=true
+)
+
+Privacy Policy
+Effective date: February 25, 2021
+
+1. OVERVIEW
+Please review this Privacy Policy carefully as it describes how Insider, Inc. and its affiliates and subsidiaries, including eMarketer, Inc. (d/b/a Insider Intelligence) (collectively, “Insider”, “we”, “our”, or “us”) collect, use, and disclose information about you as well as your rights and choices about such use and disclosure. It applies to our websites available at www.businessinsider.com, www.emarketer.com, www.techinsider.io, www.insider.com, intelligence.businessinsider.com, www.insiderintelligence.com markets.businessinsider.com, and www.insider-inc.com (“Websites”), our mobile applications that post a link to this Privacy Policy, including the “Business Insider” app (“Apps”), and any other online services owned, controlled or offered by us that post a link to this Privacy Policy (collectively, the “Service”). 
+By using the Service, you agree and consent to our collection, use and disclosure practices, and other activities as described in this Privacy Policy. If you do not agree and consent, please discontinue use of the Service.
+If you have any questions about our privacy practices, please contact us as set forth in the “Contact Us” section below. If you are a Nevada resident, California resident, or a data subject in Europe, please see the additional disclosures at the end of this Privacy Policy. 
+
+2. INFORMATION COLLECTION
+
+INFORMATION YOU PROVIDE
+We collect information you provide directly via the Service, including when you:
+•	Use our Service, including our Websites and Apps;
+•	Access our content, including our articles, webinars, and podcasts;
+•	Register or update an account;
+•	Request quotes, product demos, support, information, or access to our information products and services;
+•	Subscribe to newsletters, promotional communications, alerts, sales outreach, updates and other materials;
+•	Fill in forms, including when you enter competitions, promotions or surveys; 
+•	Register for webinars or other content offers; or
+•	Contact us.
+The information we collect includes information that identifies you personally (whether alone or in combination). The categories of information we collect include the following:
+•	Contact Data. We collect your first and last name, email address, postal address, phone number, and similar contact data.
+•	Company Data. Where you interact with us in a business to business context, we collect your job title and company name, size, email address, phone number, and postal address. 
+•	Credentials. We collect passwords, password hints, and related information for authentication and account access.
+•	Demographic Data. We collect demographic information including your country.
+•	Profile Data. We collect a personal description, photograph, and other profile information you submit.
+•	Payment Data. We use payment processors to collect data necessary to process your payment if you make a purchase with us, including your payment instrument number (such as a credit or debit card number), and the security code associated with your payment instrument.
+•	Personal Contacts Data. We collect data you provide about your contacts, including information about other employees at your company. By supplying data about your contacts, you acknowledge and agree that both you and your contacts are based in the US, and that you have your contacts’ consent for us to use their contact information in accordance with this Privacy Policy.
+•	Content. We collect the content of communications you send to us (such as feedback and questions to customer support).
+•	Job Application Data. We collect your employment and education history, transcript, writing samples, and references as necessary to consider your job application for open positions. 
+You may choose to voluntarily submit other information to us through the Service that we do not request, and, in such instances, you are solely responsible for such information.
+
+INFORMATION WE AUTOMATICALLY COLLECT
+When you access the Service via a web browser, mobile applications, newsletter, or other client, we and other parties use a variety of technologies, that automatically collect information about your device and how your device interacts with our Service. The categories of information we automatically collect include the following:
+•	Service Use Data. We collect data about your interaction with our Service, the webpage, newsletter, or services feature you were using before you came to our Service, your web or application request, pages of our websites that you visit, information you search for via our Service, access times and dates, and other similar information.
+•	Device Connectivity and Configuration Data. We collect data about the type of device or browser you use, your device’s operating software, your internet service provider, your device’s regional and language settings, and other similar information. This data also includes IP address, MAC address, device advertising Id (e.g., IDFA or AAID), and other unique identifiers for the particular device you use to access the internet).
+•	Location Data. We collect data about your device’s location, which can be precise with your consent (e.g., latitude/longitude data) or imprecise (e.g., location derived from an IP address or data that indicates a city or postal code level).
+We use this information for a variety of purposes (further addressed in “Our Use of Your Information” below), including analyzing and enhancing our products and services, personalizing our Service for you, and serving advertising.
+We and other parties automatically collect this information using various methods, including the following:
+•	Log Files. Log information is data about your use of the Service, such as IP address, browser type, internet service provider, referring/exit pages, operating system, date/time stamps, and related data, which is stored in log files.
+•	Cookies. A cookie is a small data file transferred to your computer (or other device) when it is used to access our Service. Cookies may be used for many purposes, including to enable certain features of our Service and remember your preferences, to better understand how you interact with our Service, to provide you advertising on and off the Service, and to monitor usage by visitors and online traffic routing. You may be able to instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the online services you visit. By clicking "accept", closing the message, or continuing to browse the Websites, you signify that you understand and agree to the use of these technologies, as described in this  Cookie Policy.  You do not have to accept cookies and consent can be withdrawn at any time, however, you may not be able to use all portions of our Service or all functionality of our Service. See our Cookie Policy for additional information. 
+•	Web Beacons (“Tracking Pixels). Web beacons are small graphic images, also known as “internet tags” or “clear gifs,” embedded in web pages and e-mail messages. Web beacons are used in combination with cookies for various purposes, including to allow us to count the number of visitors to the Service, to monitor how users navigate the Service, to count content views, and to provide you advertising.
+•	Embedded Scripts. An embedded script is programming code designed to collect information about your interactions with the Service. It is temporarily downloaded onto your device from our web server or a third party with whom we work, is active only while you are connected to the Service and deleted or deactivated thereafter.
+•	Click-Through URLs. In some of our e-mail communications, we use a “click-through URL” linked to content on our websites. When users click one of these URLs, they pass through a separate web server before arriving at the destination page on our Websites. We track this click-through data for various purposes, including to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the e-mail messages.
+•	Location-identifying Technologies. GPS (global positioning systems) software, geo-filtering, and other location-aware technologies locate (sometimes precisely) you for purposes such as verifying your location and delivering or restricting relevant content based on your location.
+•	Device Fingerprinting. Device fingerprinting is the process of analyzing and combining sets of information elements from your device’s browser, such as JavaScript objects and installed fonts, in order to create a “fingerprint” of your device and uniquely identify your device and applications.
+•	App Technologies. Our Apps include technologies that are not browser-based and cannot be controlled by browser settings. Information may be sent to us and other parties when you install or uninstall mobile applications or when such Apps periodically contact our and other party servers. For example, our apps may include SDKs, which is code that sends information about your use to a server, for instance through the Facebook SDK. These SDKs allow us to track our conversions, bring you advertising, and provide you with additional functionality. 
+For further information on how we use tracking technologies for analytics and advertising and your rights and choices regarding them, please see the “Analytics and Advertising Technology” and “Your Rights and Choices” sections below.
+
+INFORMATION FROM OTHER SOURCES
+We also obtain information about you from other sources. To the extent we combine such sourced information with information we have collected about you on the Service, we will treat the combined information in accordance with the practices described under this Privacy Policy, plus any additional restrictions imposed by the source of the data. These sources have included or may include:
+•	Data brokers from which we purchase demographic data to supplement the data we collect.
+•	Social networks when you reference our Service or grant permission to Insider to access your data on one or more of these services.
+•	Our clients or other partners with which we offer co-branded services, sell or distribute our products, or engage in joint marketing activities.
+•	Analytics and advertising partners such as advertising exchanges, data management platforms, content recommendation platforms and analytics providers provide information to use about your interaction with our Service or our content on or off our Service. 
+•	Publicly-available sources such as open government databases or other data in the public domain.
+We are not responsible for the accuracy of any information provided by other parties or for their policies or practices.
+
+3. USE OF YOUR INFORMATION
+We collect and use information for our legitimate interests, including business and commercial purposes in accordance with the practices described in this Privacy Policy. Our business purposes for collecting and using information include:
+•	To operate and manage our Service, including your registration and accounts on our Websites;
+•	To provide the products and services you request and purchase, allow you to participate in panels, events, sweepstakes and contests, and carry out the transactions you have requested;
+•	To provide you with customer support and respond to your questions;
+•	To communicate with you regarding updates, technical notices, orders, security alerts, administrative messages, and information regarding changes to our policies;
+•	To help authenticate any account you create with us;
+•	To comply with legal obligations, protect the rights or property of Insider, our users, or other parties, and prevent fraud and other prohibited or illegal activities;
+•	To protect the security of our products, services, and business;
+•	To enhance and personalize our Service, products and our marketing efforts;
+•	To develop and serve advertisements on our Service or through e-mails or other communications; and
+•	For our internal purposes (such as auditing, bug detection and error reporting, data analysis, and research to improve our products, services, content, advertising, and communications and develop new ones).
+We also use your information with your consent, including:
+•	To administer promotions you have entered;
+•	To serve advertising tailored to your interests on our Service and other party services;
+•	To send you newsletters and other promotional communications about our and other party products, offers, promotions, rewards, events, and services; and
+•	Fulfill any other purpose disclosed to you and with your consent.
+Notwithstanding the above, we may use information that does not identify you (including information that has been aggregated or de-identified) for any purpose except as prohibited by applicable law. For information on your rights and choices regarding how we use information about you, please see the “Your Rights and Choices” section below.
+
+4. INFORMATION SHARING AND DISCLOSURE
+We share your information as described in this Privacy Policy. The types of entities to whom we disclose information with include the following:
+Our Service Providers
+We engage companies and individuals to perform services on our behalf (e.g., software maintenance services, cloud storage, order fulfillment, advertising serving technologies, e-mail services, delivery services, database management, web analytics, credit referencing, payment processing and other services). These service providers have access to your information so that they may perform these tasks on our behalf and they are prohibited by us from using or disclosing your information for any purpose other than to provide this assistance, except to the extent required by law. We may permit our service providers to use aggregate information which does not identify you or de-identified data for other purposes.
+Affiliates
+We share your information with our affiliates, related entities, and holding companies for our and their business and commercial purposes, including for customer support, marketing, and technical operations.
+Clients
+We share your information with our clients in connection with us processing your information on their behalf. For example, if you subscribe to our newsletters and promotional communications, Insider may send you content on behalf of our clients and share your personal data with our clients for their own marketing purposes.
+Business Partners
+We share your information with our business partners in connection with offering you co-branded services, selling or distributing our products, or engaging in joint marketing activities. In addition, if you choose to participate in certain of our programs or to receive certain content we make available (e.g., webinar programs), we may share your information with participating sponsors, content providers, and related vendors in connection with such programs and content.
+Sponsors
+We may share your email address with sponsors where we get your opt-in consent for an event.
+Facilitating Requests
+We share your information to facilitate your requests such as when you choose to share information with a social network about your activities on the Service or participate in a business partner’s program.
+Vendors and Other Parties
+We share information with vendors and other parties, for business and commercial purposes, including analytics and advertising technology companies that measure and improve our Service, advertising effectiveness and enable other enhancements. Vendors or such other parties may act as our service providers, or in certain contexts, independently decide how to process your information. For more information on practices related to advertising and analytics, see the “Analytics and Advertising Technology” section below.
+Compliance with Laws, Legal Process and Authorities
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We must disclose your information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may disclose information to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of us or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable. We may also disclose information to protect the rights, property, life, health, security and safety of us, the Service or any third party.
+Business Transfers
+Circumstances may arise where, whether for strategic or other business reasons, we may sell, transfer or otherwise disclose some or all of our assets, including your information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+Consent and Disclosure
+We share your information for purposes disclosed to you and with your consent.
+Without limiting the foregoing, in our sole discretion, we may share information which does not identify you or de-identified information about you with third parties or affiliates for any purpose except as prohibited by applicable law. For information on your rights and choices regarding how we share your information, please see the section entitled “Your Rights and Choices” below.
+
+5. OTHER PARTIES
+Our Service contains links to, or content from, other party’s websites and other products and services. The fact that we link to a website or display an advertisement or other party’s content is not an endorsement, authorization or representation of our affiliation with any of those other parties, nor is it an endorsement of their privacy or information security policies or practices.
+We do not exercise control over other parties’ websites, products or services, and whether they store information in the U.S. or elsewhere. These other products and services may place their own cookies or other technologies on your computer or other device, collect data, or solicit information from you. Other persons and entities follow different rules regarding the use or disclosure of the information you submit to them or they collect from you. We encourage you to learn about the privacy practices of those other parties.
+
+6. SOCIAL MEDIA SERVICES AND TECHNOLOGY INTEGRATIONS
+Blogs, Social Media and other Public Forums
+We may offer blogs, social media profiles, message boards, bulletin boards or similar public forums where you and other users of our Service can post content or otherwise communicate. If you post information on a public forum, we will assume you intend to make that information public. We may use your name to identify you with a posting in a public forum and may use your post on or in connection with our Service (e.g., when using a hashtag associated with Insider in a tweet or status update). Any information you share in a public forum is public information and may be seen or collected by other persons, including third parties that do not adhere to the standards set forth in this Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our online services.
+In addition, to the extent you interact with social networks or other services through the Service (such as “liking” or “sharing” our content or otherwise connecting our Service to a social network), understand that information collected and stored by those other parties through your interaction or pages that contain their tracking technologies remains subject to their policies and practices, including whether they share information about you with us, the types of information shared, and your choices on what is visible to others. We are not responsible for and make no representations regarding the policies or business practices of any other parties or their services and encourage you to familiarize yourself with and consult their privacy policies and terms of use.
+Analytics and Advertising Technology
+Our Service contains tracking technologies owned and operated by other parties. For example, we use tracking technologies from analytics services, such as Google Analytics, to help us understand how users access and use the Service. 
+We also work with ad networks, advertisers, agencies, and other technology services to place advertisements on the Service and/or other websites and services. For example, we place ads through Google and Facebook that you may view on their platforms as well as on other websites and services. These parties may set and access cookies and other technologies on your personal computer and/or device and track certain behavioral information regarding users of your personal computer and/or device. These cookies and other technologies are set to, among other things: (a) track your activities across time and services for purposes of measuring conversions or actions you take, associating different devices you use, and serving ads and/or other content targeted to your interests (“Interest-based Advertising”); (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. 
+We also use audience matching services (which is a type of Interest-Based Advertising) to reach people (or people similar to people) who have visited our Services or are identified in one or more of our databases (“Matched Ads”). This is done by us sharing a list of hashed emails with an ad partner or incorporating a pixel or SDK from an ad partner into our own Services, and the ad partner matching common factors between our data and their data or other datasets. For instance, we use Facebook Custom Audiences to serve ads to our customers on Facebook and Facebook Lookalike Audiences to serve ads to users on Facebook similar to our customers.
+As discussed above, vendors and ad partners may act as our service providers, or in certain contexts, independently decide how to process your information. We encourage you to familiarize yourself with and consult their privacy policies and terms of use. For further information on your choices regarding these third party tracking technologies, please see the sections entitled “Information We Automatically Collect” above and “Your Rights and Choices” below.
+
+7. YOUR RIGHTS AND CHOICES
+Accounts 
+Depending on the account, you may be able to access information that you have voluntarily provided to Insider through your account on the Service, and to review, correct, or delete it by following the instructions on the Service. For example, if you have an Insider Prime account there are additional functions available within your account settings to exercise your rights and choices concerning the information you provide. Meanwhile, other accounts may not have the same functionality. Please note that if you have several accounts with us (e.g., an Insider Prime account and an eMarketer account), the accounts are not linked and changes to, or the deletion of, one account will not change or delete any other account. You will need access each account separately to make the same changes or to delete the account, if applicable. To access your Insider Prime account, click here. To access your eMarketer account, click here. 
+Alternatively, if your account does not offer the functionality to edit the information in your account settings, you can contact Insider in writing as set forth in the section entitled “Contact Us” below. We may require additional information from you to allow us to confirm your identity. Please note we will retain and use your data, including server/backup copies, to comply with our legal obligations, resolve disputes, and enforce our agreements, and we may decline to process change or deletion requests that require disproportionate technical effort or jeopardize the privacy of others.
+Tracking Technologies Generally
+Cookies and location-identifying technologies may generally be disabled or removed by tools available as part of most commercial browsers, and in some instances blocked in the future by selecting certain settings. Browsers offer different functionalities and options so you may need to set them separately. You can stop all collection of information via our mobile applications by uninstalling them. Also, you may be able to exercise specific privacy choices, such as enabling or disabling certain location-based services, by adjusting the permissions in your mobile device. Please be aware that if you disable or remove these technologies some parts of the Service may not work and that when you revisit the Service your ability to limit browser-based tracking technologies is subject to your browser settings and limitations.
+Do Not Track
+Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals. Accordingly, unless and until the law is interpreted to require us to do so, we do not monitor or take action with respect to “Do Not Track” signals or other mechanisms. For more information on “Do Not Track,” visit http://www.allaboutdnt.com.
+Analytics and Advertising Tracking Technologies
+You may exercise choices regarding the use of cookies from Google Analytics by going to https://tools.google.com/dlpage/gaoptout and downloading the Google Analytics Opt-out Browser Add-on.
+Some of the advertisers and vendors that perform advertising-related services for us and our partners participate in the Digital Advertising Alliance (“DAA”) Self-Regulatory Program for Online Behavioral Advertising. To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit http://www.aboutads.info/choices, and http://www.aboutads.info/appchoices for information on the DAA’s opt-out program for mobile applications. Some of these companies are also members of the Network Advertising Initiative (“NAI”). To learn more about the NAI and your opt-out options for their members, see http://www.networkadvertising.org/choices/. 
+To opt out of us sharing your hashed email address for Matched Ads, please contact us at privacy@insider-inc.com and specify that you wish to opt out of Matched Ads. We will remove your email address from any subsequent lists shared with ad partners for purposes of Matched Ads.
+Please be aware that, even if you are able to opt out of certain kinds of Interest-based Advertising, you may continue to receive other types of ads. Opting out only means that those selected members should no longer deliver certain Interest-based Advertising to you but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks). Insider is not responsible for effectiveness of, or compliance with, any third parties’ opt-out options or programs or the accuracy of their statements regarding their programs.
+Communications
+If you decide at any time that you no longer wish to receive newsletters or promotional communications from us, please follow any unsubscribe instructions provided in our communications to you, update your user preferences via our subscription management tools on our Service, or contact us as set forth in the section below entitled “Contact Us” and specify your request. Please note that you cannot opt out of non-promotional e-mails, and we may use your information to contact you with important notifications, such as notices with respect to purchases, safety, or changes to our terms, conditions, and policies. Also, your opt-out is limited to the e-mail address or phone number used and will not affect subsequent subscriptions.
+
+8. SECURITY AND DATA RETENTION
+We employ appropriate security measures designed to protect your information from unauthorized access, alteration, disclosure, or destruction. Please be advised, however, that while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction or inadvertent disclosure of your information.
+
+9. INTERNATIONAL TRANSFER
+Insider is based in the U.S. and the information we collect is governed by U.S. law. Insider processes information on our servers in the U.S. and other jurisdictions. Your information may be transferred to, and used, in locations outside of your state, province, country or other governmental jurisdiction where the privacy laws may be different than those in your jurisdiction. Your use of the Service or provision of any information constitutes your consent to the transfer to and from, processing, usage, sharing, and storage of your information in the U.S. and other jurisdictions as set forth in this Privacy Policy.
+
+10. OUR POLICY TOWARD CHILDREN
+We do not knowingly collect personal information as defined by the U.S. Children’s Privacy Protection Act (“COPPA”) from children under 13. We encourage parents and guardians to take an active role in their children’s online activities and interests. If you are a parent or guardian and believe we have collected information in a manner not permitted by COPPA, please contact us at privacy@insider-inc.com and we will remove such information to the extent required by COPPA. We also do not knowingly “sell” the personal information of minors under 16 who are California residents without their affirmative authorization.
+
+11. CHANGES TO THIS PRIVACY POLICY
+We reserve the right to update this Privacy Policy format any time. If we make changes, we will revise this Privacy Policy to reflect such changes and revise the effective date included at the beginning of this policy. We may provide you additional notice (such as to your e-mail address) if the changes are material. Your use of the Service following any such notice will signify and constitute your assent to and acceptance of such revised Privacy Policy.
+
+12. CONTACT US
+If you have any questions about this Privacy Policy, including our compliance with applicable law, please feel free to contact Insider directly:
+•	By e-mail at privacy@insider-inc.com 
+•	By mail at Insider, Inc., 11 Times Square, New York, NY 10036 (Attention: “Legal”)
+•	For EU specific questions, please email us at euprivacy@insider-inc.com.
+•	If you have a disability and would like to access this Privacy Policy in an alternative format, please contact us at legal@insider-inc.com.
+
+13. ADDITIONAL DISCLOSURES FOR CALIFORNIA RESIDENTS
+These additional disclosures for California residents apply only to individuals who are California residents. The California Consumer Privacy Act of 2018 (“CCPA”) provides additional rights to know, delete and opt out, and requires businesses collecting or disclosing personal information to provide notices and means to exercise rights.
+
+Notice of Collection
+In the past 12 months, we have collected the following categories of personal information enumerated in the CCPA:
+•	Identifiers, including name, email address, phone number account name, IP address, and an ID or number assigned to your account.
+•	Customer records, billing and shipping address, and credit or debit card information.
+•	Demographics, such as your age or gender. This category includes data that may qualify as protected classifications under other California or federal laws.
+•	Commercial information, including purchases and engagement with the Services.
+•	Internet activity, including your interactions with our Service.
+•	Geolocation data, including location enabled services such as WiFi and GPS.
+•	Employment and education data, including information you provide when you apply for a job with us.
+•	Inferences, including information about your interests, preferences and favorites.
+For more information on information we collect, including the sources from which we have collected personal information in the past 12 months, review the “Information Collection” section above. We collect and use these categories of personal information for the business purposes described in the “Use of Your Information” section, including to operate and manage our Services.
+Insider does not generally sell information as the term “sell” is traditionally understood. However, to the extent “sale” under the CCPA is interpreted to include advertising technology activities such as those disclosed in the “Analytics and Advertising Technology” section as a “sale,” we will comply with applicable law as to such activity. Insider discloses the following categories of personal information for commercial purposes: identifiers, demographic information, commercial information, internet activity, geolocation data and inferences. Please review the “Information Sharing and Disclosure” section for more detail about the parties with whom we have shared personal information in the past 12 months.
+
+Right to Know and Delete
+You have the right to know certain details about our data practices in the past 12 months. In particular, you have the right to request the following from us:
+•	The categories of personal information we have collected about you;
+•	The categories of sources from which the personal information was collected;
+•	The categories of personal information about you we disclosed for a business purpose or sold;
+•	The categories of third parties to whom the personal information was disclosed for a business purpose or sold;
+•	The business or commercial purpose for collecting or selling the personal information; and 
+•	The specific pieces of personal information we have collected about you.
+In addition, you have the right to delete the personal information we have collected from you.
+To exercise any of these rights, please submit a request through our online form available here, at our privacy policy form or email us at privacy@insider-inc.com. In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. We may require specific information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know or delete.
+If personal information about you has been processed by us as a service provider on behalf of a client and you wish to exercise any rights you have with such personal information, please inquire with our client directly. If you wish to make your request directly to us, please provide the name of our client on whose behalf we processed your personal information. We will refer your request to that client and will support them to the extent required by applicable law in responding to your request.
+
+Right to Opt-Out
+To the extent Insider sells your personal information as the term “sell” is defined under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information by us to third parties at any time. You may submit a request to opt-out by clicking the “CA Do Not Sell My Info” link in the footer of our Websites, through our online form available at our privacy policy form or email us at privacy@insider-inc.com.
+
+Authorized Agent
+You can designate an authorized agent to submit requests on your behalf. However, we will require written proof of the agent’s permission to do so and verify your identity directly.
+
+Right to Non-Discrimination
+You have the right not to receive discriminatory treatment by us for the exercise of any your rights.
+
+Shine the Light
+Customers who are residents of California may request (i) a list of the categories of personal information disclosed by us to third parties during the immediately preceding calendar year for those third parties’ own direct marketing purposes; and (ii) a list of the categories of third parties to whom we disclosed such information. To exercise a request, please write us at the email or postal address set out in “Contact Us” section above and specify that you are making a “California Shine the Light Request.” We may require additional information from you to allow us to verify your identity and are only required to respond to requests once during any calendar year.
+
+14. ADDITIONAL DISCLOSURES FOR DATA SUBJECTS IN EUROPE
+Data Controller
+EU data protection law makes a distinction between organizations that process personal data for their own purposes (known as “data controllers”) and organizations that process personal data on behalf of other organizations (known as “data processors”). Insider may act as either a data controller or a data processor in respect of your personal data, depending on the circumstances.
+Insider, located at the address in the “Contact Us” section above, generally is the data controller with respect to information you provide through the Service. Sometimes Insider operates as a data processor on behalf of a client, a separate legal entity, which is the data controller. For example, if you subscribe to our newsletters and promotional communications, Insider may send you content on behalf of our clients and share your personal data with our clients for their own marketing purposes. Please visit the applicable client’s privacy policy for information about their privacy practices. Any questions that you may have relating to such personal data and your rights under data protection law should therefore be directed to the client as the data controller, not to Insider.
+
+Your European Privacy Rights
+If you are a data subject in Europe, you have the right to access, rectify, or erase any personal data we have collected about you through the Service. You also have the right to data portability and the right to restrict or object to our processing of personal data we have collected about you through the Service. In addition, you have the right to ask us not to process your personal data (or provide it to third parties to process) for marketing purposes or purposes materially different than for which it was originally collected or subsequently authorized by you. You may withdraw your consent at any time for any data processing we do based on consent you have provided to us.
+To exercise any of these rights, contact us as at euprivacy@insider-inc.com and specify which right you intend to exercise. We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Further, if we are processing your information on behalf of one of our clients, we will refer you to that client, and will support them to the extent required by applicable law in responding to your request. Please note that we store information as necessary to fulfill the purposes for which it was collected, and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
+If you have any issues with our compliance or you believe that we have not complied with our obligations under this Privacy Policy or European law, you have the right to make a complaint to an EU Data Protection Authority, such as the UK Information Commissioner's Office.
+
+Data Retention
+We will only retain your information, for as long as necessary to fulfill the purposes we collected it for. We will retain and use your information as necessary to satisfy any legal, accounting or reporting requirements, to resolve disputes or to enforce our agreements and rights. In line with this Privacy Policy, we will either securely delete or anonymize your data so that it cannot be linked back to you.
+
+Data Transfer
+We will not transfer personal data originating from the EU to third parties located outside of the EU without ensuring adequate protection under European law. Where transfer is to a party located in a third country not recognized by the EU Commission as ensuring an adequate level of protection, we will take appropriate steps to transfer the personal data subject to adequate safeguards, such as standard contractual clauses.

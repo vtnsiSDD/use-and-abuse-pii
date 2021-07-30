@@ -1,0 +1,411 @@
+( Date Accessed: 6/01/2021, From: https://www.7-eleven.com/privacy )
+
+( Embedded Hyperlinks Used: 12
+https://www.7-eleven.com/
+https://www.7eleven.com/7rewards
+https://www.7-eleven.com/ccpa
+mailto:privacypolicy@7-11.com
+https://www.7-eleven.com/ccpa
+mailto:privacypolicy@7-11.com
+https://www.7-eleven.com/ccpa
+https://www.7-eleven.com/ccpa
+https://www.7-eleven.com/ccpa
+mailto:privacypolicy@7-11.com
+mailto:privacypolicy@7-11.com
+mailto:webmaster@7-11.com
+)
+
+PRIVACY POLICY
+Privacy Policy for 7-Eleven, Inc.
+Table of Contents
+
+    1. Information Collection
+    2. Information Usage
+    3. Information Disclosure
+    4. Children’s Privacy
+    5. Social Sharing Features
+    6. Links to Third Party Sites
+    7. Advertising and Analytics Services Provided by Others
+    8. Transfer of Information to the U.S. and Other Countries
+    9. Additional Notice to California Residents
+    10. YOUR CHOICES
+    11. Contact Us
+
+Last Updated: December 20, 2019
+
+
+This Privacy Policy explains how 7-Eleven, Inc., (7-Eleven,” “we,” “us,” or “our”) collects, uses, and discloses information about you when you access or use our websites, located at https://www.7-eleven.com (the “Site” or “Sites”), mobile application(s) (“Apps”), and other online products and services that link to this Privacy Policy (collectively, the “Services”), participate in the 7Rewards loyalty program described at https://www.7-eleven.com/7rewards (the “Program”), shop in our stores, contact our customer service team, engage with us on social media, or otherwise interact with us. This Privacy Policy does not apply to any other data gathered or used by 7-Eleven including data collected through websites that do not link to this Privacy Policy.
+
+
+We reserve the right, at our discretion, to change, modify, add, or remove portions of this Privacy Policy at any time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases (for example if we plan to use your information in a way that materially differs from this Privacy Policy), we may provide you with additional notice (such as adding a statement to our website homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you. Your continued use of the Services following the posting of any changes to this policy means you accept such changes.
+1. Information Collection:
+
+When you use the Services or visit our stores, we collect the following types of information from and about you. Some of this information may be considered “Personal Information,” meaning it reasonably identifies you or your device or it is reasonably associated with you. Personal information does not include transactional data related to purchases at 7-Eleven stores, unless we combine such transaction data with your Personal Information, which we may do. We also collect, use, and disclose aggregated or deidentified data that does not identify you or your device.
+
+
+Information You Provide to Us:
+
+
+When you open an account with us through the Services or provide us with information directly during an in-store visit (“Account”), we may ask you to provide us with Identifiers such as your name, telephone number, email address, physical address, birth date, and any other information you may provide. We may also collect Identifiers when you participate in any interactive features of the Services (like send a message through the Services), fill out a form, participate in a contest or promotion, make a purchase, apply for a job, communicate with us via third party social media sites, request customer support, or otherwise communicate with us. 
+
+
+We may collect Demographic Information through when you submit information such as age and gender, as well as interests if you register for an Account.
+
+
+We may collect Commercial Information such as your purchase history, including records of products you have purchased, returned or are considering purchasing from us.
+
+
+We may collect Professional or Employment-related and Education Information when you submit an application, resume or C.V. To process your application for a position, we may also obtain information about you from outside sources. Where you submit information on behalf of another person, you confirm that you have made that person aware of how we may collect, use and disclose their information, the reason you have provided it, how they can contact us, the terms of this Privacy Policy and that they have consented to such collection, use and disclosure.
+
+
+We may collect Payment Information (Categories of Information in California Civil Code 1798.80) when you submit credit card or other payment or billing information in connection with the purchase or a good or service.
+
+
+Finally, we may collect Other Content and Information you Share through the Services or Program when you submit information or content, such as by commenting on a blog or participating in online forums or communities, or when you otherwise interact with us.
+
+
+Information Collected Automatically Through the Services and Visits to Our Stores:
+
+
+When you access or use our Services or transact business with us, we automatically collect information about you, including:
+
+
+Identifiers, such as your IP address, Internet service provider (ISP), mobile advertising ID, media access control (MAC) address, the type of mobile device you use, the temporary or persistent unique device identifiers (sometimes called UDID), and identifiers associated with browser cookies, web beacons and similar technologies we deploy on our Services;
+
+
+Internet or Other Electronic Network Activity Information: We may collect information about the devices and computers you use to access our Services such as browser type, language, operating system, the referring web page, pages visited, and hyperlinks clicked. When you visit our Services, we collect usage information sent to us by your computer, mobile, or other access device that tells us how you are using the Services and other information about your internet activity (“usage information”).
+
+
+Commercial Information such as your purchase history, including records of products you have purchased, returned or are considering purchasing from us, including information collected through the Apps, such as transactional information, when you make a purchase or return, we collect information about the transaction, such as product details, purchase price, and date and location of the transaction.
+
+
+Geolocation Information. We may derive the approximate location of your device from your IP address. In accordance with your device permissions, we may also collect information about the precise location of your device, such as when you search for a store. We may combine this information with other location-based information, such as your IP address and billing or postal code, for example, to give you information about stores near you and to provide you with other services. You have the ability to stop the collection of precise location information at any time (see “Your Choices” below for details).
+
+
+Information Collected From Other Sources:
+
+
+We may also obtain information about you from other sources. For example, we may collect information about you from third parties, including but not limited to identity verification services, credit bureaus, mailing list providers, and publicly available sources. We may also obtain information about you from other sources, including but not limited to joint marketing partners, social media platforms, people with whom you are friends or otherwise connected to on social media platforms, and other third parties. For example, if you connect your social media account to your Account, or create or log into your Account through a social media site, certain information from your social media account will be shared with us, which may include information that is part of your profile or your friends’ profiles. In addition, we may supplement the information that you provide us and/or the information we collect from you with demographic, social, and other information about you that we receive from other sources. Once we combine information from other sources with your information collected pursuant to this policy, we apply this policy to the combined information as long as it is combined.
+
+
+Information Collected by Cookies and Other Tracking Technology:
+
+
+We (and our third-party partners and service providers) use different technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular, and count visits. Web beacons (also known as “pixel tags” or “clear GIFs”) are electronic images that may be used in our Services or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness. For more information about cookies and how to disable them, see Your Choices below.
+
+
+“Do Not Sell” Opt-Out: To the extent we or our partners use such technologies through the Services, we offer an opt-out as discussed in Section 9.
+2. Information Usage:
+
+7-Eleven uses the information we collect about you for a variety of business and commercial purposes, including to:
+
+
+    provide, maintain, and improve the Services or the Program;
+
+    send you technical notices, updates, security alerts, and support and administrative messages;
+
+    respond to your comments, questions, and requests, and to provide customer service;
+
+    communicate with you about products, services, offers, promotions, rewards, and events offered by 7-Eleven and others, and provide news and information we think will be of interest to you;
+
+    monitor and analyze trends, usage and activities in connection with our Services and the Program;
+
+    detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of 7-Eleven;
+
+    facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;
+
+    link or combine with information we get from our Services and the Program, and from others to help understand your needs and provide you with better service; maintain appropriate records for internal administrative purposes; and
+
+    carry out any other purpose described to you at the time the information was collected or permitted by law.
+
+3. Information Disclosure:
+
+We may share information about you, including Personal Information, as follows or as otherwise described in this Privacy Policy.
+
+
+With The 7-11 Corporate Family. We may share the information we collect about you between and among 7-Eleven and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership.
+
+
+With Service Providers. We may disclose your information to vendors, consultants and other service providers under contract who help with our business operations (such as fraud investigations, bill collection, payment processing, web hosting and operations of our Apps, product fulfillment, shipment, recruitment, employment, research, IT, to process opt-out requests, to assist us in responding to consumer requests for access, deletion, or correction of information, direct mail and email distribution, site analytics and operations or legal and compliance services).
+
+
+With Data Analytics and Aggregation Vendors. We may share aggregated information that does not include your Personal Information, and we may otherwise disclose non-identifying information such as general (non-specific) geographic location, device/browser technology, onsite behavior, population data, user segmentation, survey results, and log data, with third parties for data analysis, demographic profiling, and other purposes. Any aggregated information shared in this manner will not contain your Personal Information.
+
+
+With other users of the Services. If you post information or content, such as by posting photos, commenting on a blog, or participating in online forums or communities, or when you interact with the Services through social media sites, plug-ins or other applications, depending upon your privacy settings, this information may become public on the Internet. We cannot prevent further use of this information. You can control what data you share through privacy settings available on some social media sites. Please refer to those third-party sites’ privacy policies and terms of use to learn more about their privacy practices, which we do not control.
+
+
+With Legal and Law Enforcement. We may share information collected about you with law enforcement, governmental agencies, or authorized third parties, in response to a verified request relating to a criminal investigation or alleged illegal activity or any other activity that may expose us, you, or any other 7-11 user to legal liability or if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;
+
+
+In Connection With a Change of Control. We may transfer or disclose your information in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company.
+
+
+With your Consent. We may share your information with your consent or at your specific direction.
+4. Children’s Privacy:
+
+Our Services are intended for general audiences and are not intended for individuals under the age of 16. We do not knowingly collect Personal Information from our Services from users in this age group.
+5. Social Sharing Features:
+
+The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+6. Links to Third Party Sites:
+
+Our Services may contain links to other web sites, including our affiliated or co-branded web sites. Other web sites may also reference or link to our Services. These other web sites are not controlled by 7-Eleven. We encourage our users to be aware when they leave our Services to read the privacy policies of each and every web site that collects personally identifiable information. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other web sites or mobile applications. Visiting these other web sites is at your own risk.
+7. Advertising and Analytics Services Provided by Others:
+
+We may allow others to provide analytics services and serve advertisements on our behalf across the web and in the Apps. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by 7-Eleven and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
+8. Transfer of Information to the U.S. and Other Countries:
+
+7-Eleven is based in the United States and we process and store information in the U.S. and other countries. Therefore, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction.
+9. Additional Notice to California Residents:
+
+In accordance with the California Consumer Privacy Act (the “CCPA”), the following table summarizes our Personal Information collection, use, and sharing practices in the preceding twelve (12) months since we last updated this Privacy Notice on January 1, 2020.
+Identifiers
+Categories of Personal Information
+
+Examples: Name, username, password, email address, physical address, phone number, customer number, IP address, unique device ID, mobile phone number, tracking technologies (e.g., pixel tags, cookies) to collect usage information.
+Categories of Sources
+
+    You, your mobile devices and computers used to access our Services
+
+Commercial / Business Purpose(s) for Collection
+
+    Maintaining and servicing Accounts
+    Providing customer service
+    Processing or fulfilling orders and transactions
+    Providing, maintaining and improving the Services and products and services
+    Marketing and advertising
+    Analytics regarding use of Services
+    Internal research
+    Communications with you with you at your request
+
+Categories of Vendors (including third parties and service providers) to which Personal Information is Disclosed/Sold
+
+    IT vendors, cloud computing providers, database providers, customer service vendors and other service providers that that need access to such information to perform services for us
+    Data analytics providers
+    Ad networks, ad tech vendors, social networks, and other marketing and advertising vendors
+
+Internet or Other Electronic Network Activity Information
+Categories of Personal Information
+
+Examples: Domain information, pages visited, cookie information, session information such as time spent on certain pages and page interaction information.
+Categories of Sources
+
+    Your mobile devices and computers used to access our Services
+
+Commercial / Business Purpose(s) for Collection
+
+    Analytics regarding use of Services
+    Internal research
+    Marketing and advertising
+    Providing, maintaining and improving the Services and products and services
+
+Categories of Vendors (including third parties and service providers) to which Personal Information is Disclosed/Sold
+
+    Ad networks, ad tech vendors, social networks, and other marketing and advertising vendors
+    Data analytics providers
+    IT vendors, cloud computing providers, database providers, customer service vendors and other service providers that that need access to such information to perform services for us
+
+Geolocation Information
+Categories of Personal Information
+
+Examples: Location of mobile device
+Categories of Sources
+
+    Your mobile device or computer used to access our Services
+
+Commercial / Business Purpose(s) for Collection
+
+    Providing, maintaining and improving the Services and products and services
+    Marketing and advertising
+    Analytics regarding use of Services
+    Internal research
+
+Categories of Vendors (including third parties and service providers) to which Personal Information is Disclosed/Sold
+
+    Ad networks, ad tech vendors, social networks, and other marketing and advertising vendors
+    Data analytics providers
+    IT vendors, cloud computing providers, database providers, customer service vendors and other service providers that that need access to such information to perform services for us
+
+Commercial Information
+Categories of Personal Information
+
+Examples: Information about 7-11 goods or services purchased, obtained, or considered
+Categories of Sources
+
+    You
+
+Commercial / Business Purpose(s) for Collection
+
+    Processing or fulfilling orders and transactions
+    Providing customer service
+    Services analytics
+    Internal research
+    Marketing and advertising
+    Providing, maintaining and improving the Services and products and services
+
+Categories of Vendors (including third parties and service providers) to which Personal Information is Disclosed/Sold
+
+    Ad networks, ad tech vendors, social networks, and other marketing and advertising vendors
+    IT vendors, cloud computing providers, database providers, customer service vendors and other service providers that that need access to such information to perform services for us
+
+Legally Protected Classifications
+Categories of Personal Information
+
+Examples: Gender, areas of interest
+Categories of Sources
+
+    You
+
+Commercial / Business Purpose(s) for Collection
+
+    Analytics regarding use of Services
+    Internal research
+    Providing, maintaining and improving the Services and products and services
+
+Categories of Vendors (including third parties and service providers) to which Personal Information is Disclosed/Sold
+
+    Ad networks, ad tech vendors, social networks, and other marketing and advertising vendors
+    IT vendors, cloud computing providers, database providers, customer service vendors and other service providers that that need access to such information to perform services for us
+
+Payment Information (Information under California Civil Code 1798.80)
+Categories of Personal Information
+
+Examples: Billing data
+Categories of Sources
+
+    You
+
+Commercial / Business Purpose(s) for Collection
+
+    Process payments
+    Processing or fulfilling orders and transactions
+
+Categories of Vendors (including third parties and service providers) to which Personal Information is Disclosed/Sold
+
+    Service providers such as payment processors and others as necessary to provide services to us
+
+Professional or Employment-related Information
+Categories of Personal Information
+
+Examples: Job history, educational history
+Categories of Sources
+
+    You
+    Outside sources such as credit bureaus, former employers, schools, references
+
+Commercial / Business Purpose(s) for Collection
+
+    Process and evaluate applications for positions with 7-Eleven
+    Administrative purposes
+
+Categories of Vendors (including third parties and service providers) to which Personal Information is Disclosed/Sold
+
+    Service providers such as HR vendors and others as necessary to provide services to us
+
+Information You Post to the Services
+Categories of Personal Information
+
+Examples: Comments on blog posts
+Categories of Sources
+
+    You
+
+Commercial / Business Purpose(s) for Collection
+
+    Maintaining and improving the Services and our products and services
+    Communication with you with your consent
+
+Categories of Vendors (including third parties and service providers) to which Personal Information is Disclosed/Sold
+
+    Other visitors to Services
+    IT vendors, cloud computing providers, database providers, customer service vendors and other service providers that that need access to such information to perform services for us
+
+Inferences
+Categories of Personal Information
+
+Examples: Characteristics, interests and trends.
+Categories of Sources
+
+    Derived from above sources/types of information
+
+Commercial / Business Purpose(s) for Collection
+
+    Maintaining and improving the Services and our products and services
+
+Categories of Vendors (including third parties and service providers) to which Personal Information is Disclosed/Sold
+
+    IT vendors, cloud computing providers, database providers, customer service vendors and other service providers that that need access to such information to perform services for us
+    Ad networks, ad tech vendors, social networks, and other marketing and advertising vendors
+
+Sale of Personal Information:
+We do not sell your information for money but we and our business partners use tracking technologies to help us to understand our customers and visitors to the Services, to enhance your online experience, and customize our offerings in ways that may be deemed a “sale” of personal information under the CCPA. This includes working with third parties such as ad networks which collect personal information via tracking technologies to serve personalized advertisements on and off our Services, provide us with data collection, reporting, ad response measurement. To the extent we or our partners use such technologies on the Services, we offer an opt-out as discussed below in Section 9.
+We do not knowingly sell or otherwise disclose the Personal Information of minors under 16.
+
+
+Choices for Access, Deletion, Opt-Out of Sale, and Right to Non-Discrimination for California Residents or As Required by Law:
+
+If you are a California resident, you have the right to know what personal information we collect, disclose, and “sell” about you (as that term is defined in the CCPA). Additionally, you have the right to access, delete and opt out from the “sale” of your personal information.
+To exercise these privacy rights and choices, please follow the instructions below:
+
+    How to Request Access to Personal Information: You may request access to your personal information twice in a 12-month period. To do so, please complete the webform in 7-Eleven Privacy Rights Portal, email us at privacypolicy@7-11.com or call 1-866-467-8688 (Service Code: 711). Account holders can request access to their personal information at any time by logging into their accounts on the Services. In response, we will produce an “Access Report” detailing the personal information we have collected, disclosed, and/or sold about you. This Access Report will be delivered by mail or electronically at your request.
+    How to Request Deletion of Personal Information: You may request that 7-Eleven delete the personal information it has collected and/or maintained about you. To do so, please complete the webform in 7-Eleven’s Privacy Rights Portal, email us at privacypolicy@7-11.com, or call 1-866-467-8688 (Service Code: 711). Note, we may need to retain certain Personal Information as permitted by law, such as to complete the transaction for which the personal information was collected, provide a requested good or service, detect security incidents, protect against malicious, deceptive, fraudulent or illegal activities, comply with legal obligations or to enable solely internal uses that are reasonably aligned with your expectations or lawful within the context in which you provided the information.
+    How to Opt-Out of the Sale of Personal Information: We offer an opt-out from the use of cookies and other tracking technologies in connection with our Services, which may in some cases constitute the sale of your personal information under the CCPA or other privacy laws. To opt-out of the sale of your personal information, please click Do Not Sell My Personal Information or fill out this webform at the 7-Eleven Privacy Rights Portal. This will cause information to cease to be added to any cookies or other tracking technologies that have been set on our Services or block them entirely. Please note that you will need to opt out again if you visit one of our Services from a different device or browser of if you clear your cookies.
+
+Verification:
+Please note, we will take steps to verify your identity before fulfilling any of the above requests. If you maintain an Account with us, we will verify your identity through existing authentication practices for the Account (e.g., login and password). If you are not a registered member, we will verify your identity by matching two or three data points that you provide with data points that we maintain and have determined to be reliable for the purposes of verification (e.g., browser or device ID or purchasing history).
+
+Authorized Agents:
+You can use an authorized agent to make requests on your behalf but we may require the agent to be registered with the California Secretary of State (for CA residents) and verify his/her identity or demonstrate that he or she has power of attorney in connection with a request for access or deletion.
+
+Anti-Discrimination Right:
+You have the right to be free from discrimination in product quality, goods or services if you choose to exercise your privacy rights under the CCPA.
+
+Financial Incentives:
+However, we may offer you certain financial incentives permitted by the CCPA. They include the following:
+
+    Periodic Contests or Sweepstakes. Each contest or sweepstake have their own terms and conditions that describe how an eligible consumer can opt-in as well as withdraw from the contest or sweepstake.
+    Loyalty Program. Earn points for qualifying purchases at 7-Eleven. A member of the loyalty program can opt-in by creating a 7-Eleven account, and can withdraw at any time from this program by clicking the following link and supplying the appropriate information: https://www.7-eleven.com/ccpa
+
+
+Do Not Track Signals:
+7-Eleven does not respond to Do Not Track signals to the extent received from a web browser. Because there currently is not a universally accepted technological or legal standard for recognizing or honoring DNT signals as reflections of user choice, we do not respond to them at this time. Once such technology is created and has received applicable regulatory approval, we will consider (a) whether it is possible; and (b) if so how it can be incorporated within 7-Eleven’s environment in the future.
+
+
+Shine the Light:
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident, you may request this information once per calendar year by contacting us at privacypolicy@7-11.com.
+
+
+10. YOUR CHOICES
+
+Account Information:
+You may update and correct certain Account information you provide to us at any time by logging into your account. If you wish to delete or deactivate your account, please click on the following link, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+
+Location Information:
+When you first launch any of the Apps that collect precise location information, you will be asked to consent to the Application’s collection of this information. If you initially consent to our collection of this location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. If you do so, our Application, or certain features thereof, may no longer function properly. You may also stop our collection of this location information by following the standard uninstall process to remove all of our Applications from your device.
+
+Cookies:
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+
+Communications with 7-Eleven:
+We want to communicate with you in ways you want to hear from us. Examples include email, text messages, and newsletters, which may contain special offers and new product announcements.
+
+To the extent that you are receiving marketing communications from the Services you may unsubscribe or opt-out of future communications as follows:
+
+    If you no longer wish to receive texts you may text the word “STOP” to the telephone number 711711 from the mobile device you wish to no longer receive texts.
+    If you no longer wish to receive emails you may click on the hyperlink titled “Unsubscribe” at the bottom of any marketing related email sent to you by 7-Eleven, and then follow the directions to unsubscribe from email, or you can modify your preferences in your Account settings located in the Apps. Please note that if you opt out of receiving promotional communications from us, we may still send you transactional communications, including emails about your account or purchases.
+
+Mobile Push Notifications/Alerts:
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device. By downloading and using our Apps, you may also receive promotional messages, offers, news and information about 7-Eleven or our business partners within the Apps themselves. These “in app” messages are part of our Apps’ functionality and cannot be turned off. If you do not want to receive “in app” messages, offers, news and information, do not download or use our Apps.
+
+11. Contact Us:
+
+If you have any questions, comments or concerns about our Privacy Policy, you may email us at privacypolicy@7-11.com. Please do not email any confidential, sensitive or personal information to this email.
+
+Additionally, if you have any questions, comments or concerns about our Privacy Policy feel free to send correspondence to the following address:
+
+
+7-Eleven, Inc.
+Attn: Webmaster
+3200 Hackberry Road, Irving, TX 75063
+webmaster@7-11.com 

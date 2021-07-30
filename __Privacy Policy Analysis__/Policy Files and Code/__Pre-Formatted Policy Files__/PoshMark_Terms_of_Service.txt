@@ -1,0 +1,206 @@
+( Date Accessed: 6/02/2021, From: https://poshmark.com/terms )
+
+( Embedded Hyperlinks Used: 16
+https://poshmark.com/terms-2020
+https://poshmark.com/privacy-2020
+https://www.poshmark.com/
+https://www.poshmark.ca/
+https://www.poshmark.com.au/
+https://poshmark.com/privacy-2020
+https://www.youtube.com/t/terms
+mailto:support@poshmark.com
+https://poshmark.com/prohibited_items_policy
+https://poshmark.com/posh_authenticate
+https://poshmark.com/fee_policy
+https://poshmark.com/fee_policy
+mailto:support@poshmark.com
+mailto:support@poshmark.com
+mailto:support@poshmark.com
+mailto:support@poshmark.com
+)
+
+TERMS OF SERVICE
+Last Revised 1/13/2021
+
+Prior Version here
+
+1. Introduction
+
+Welcome! You are entering into this Agreement with Poshmark, Inc., if you reside in Canada, Poshmark Canada, Inc. or if you reside in Australia, Poshmark PTY LTD (as applicable “Poshmark”, “We”, “Our”, or “Us”). When You (individually, or the entity that You represent, each a “User”) access Our Services, You are agreeing to the Terms of Service (the “Agreement”) below. By accessing the Services, You agree to be bound by this Agreement, and any additional terms referenced herein, including Our Privacy Policy which sets out the terms in which We process any Personal Data collected from You, or provided to Us. If You do not agree to this Agreement, or any additional terms referenced herein, You must not access the Service. In agreeing, You also represent that You have the authority to bind Yourself and/or the company You represent. Capitalized terms are as defined throughout this Agreement. As we may modify any terms herein at any time You should periodically visit this page to review all current terms.
+
+Please read these terms carefully as they contain, to the extent legally allowable in your jurisdiction, an agreement to arbitrate as well as other important legal rights, remedies, and information.
+
+2. Services
+
+This Agreement applies to all Poshmark services, including the Poshmark mobile app (on any and all formats or devices), and the websites located at https://www.poshmark.com, https://www.poshmark.ca, https://www.poshmark.com.au (collectively, the “Service(s)”). The Service provides an online social marketplace where Users can list and sell items (“Items”). Users who purchase Items are called “Buyers”, and Users who sell Items are called “Sellers”. Users may be both Buyers and Sellers on the Service. In using the Service Buyers and Sellers enter into a contract for the sale and purchase of Items directly between themselves, and Poshmark is not a party to such sale or purchase.
+
+There are risks that you assume when dealing with others, and these risks are borne by You alone, and not Poshmark. You are solely responsible for your evaluation of, and decision to use, the Service, Buy, Sell, or transact any business or communications on the Service, and will be liable for all of Your actions on the Service.
+
+3. Registration
+
+You are responsible for Your use of the Service, and any use of the Service made using Your account. The personal information You provide to us is governed by the Privacy Policy . You acknowledge Poshmark may establish policies and practices concerning use of the Service, including policies that may delete or remove content or data, terminate inactive accounts, and any other policies and practices in Poshmark’s business interest. You further acknowledge that Poshmark reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice. The Service is not available to minors (people under the age of majority in their state or province of residence), except in the limited circumstances outlined in our Privacy Policy. If You are under the age of 16, please see our Privacy Policy. The service is not available to temporarily or permanently suspended members of the Service. Poshmark reserves the right to refuse access to the Service, or terminate the account of any User, at its sole discretion and for any reason or no reason at all. You are responsible for maintaining the confidentiality of your password and account and will be fully responsible for any and all activities that occur under your account. You agree to immediately notify Us of any unauthorized use of Your account or any other breach of account security. Poshmark will not be liable for any loss or damage arising from your failure to comply with this Section.
+
+4. Third Party Services
+
+Poshmark may provide to You, or provide Your Content to, certain third party services or third party service providers (collectively, "Third Party Service(s)") which may also provide to You links to sites, email and telephone correspondence and other offers outside of the Poshmark network. Such Third Party Services are provided "AS IS" without indemnification, support, or warranty of any kind, and this Agreement does not apply to Your use of any such provided Third Party Services. You are responsible for evaluating whether You want to access or use such Third Party Services, and, in certain circumstances where required or applicable, may opt-out from such Third Party Services available outside of the Poshmark network, or may choose to not utilize such Third Party Services at any time. We reserve the right to suspend Third Party Services at any time. You should review any applicable terms and/or privacy policies of a Third Party Service before using it or sharing any information with it, because You may give the operator permission to use Your information outside of what You have agreed to herein. Poshmark is not responsible for, nor endorses any features, content, advertising, products or other materials on or available from such Third Party Services. The Service may provide you with access to YouTube through an application programming interface, or API. To the extent you access or use YouTube's services through the API you acknowledge and agree to abide and be bound by, the YouTube Terms of Service ( https://www.youtube.com/t/terms )
+
+5. Third Party Material
+
+Poshmark will not be liable in any way for (1) any items or content on the Service posted by third parties, other users, or at the direction of users (all, “Third Party Materials”), or (2) any errors, omissions, loss, or damage of any kind as a result of such Third Party Materials on the Service; and you acknowledge that Poshmark does not, and is under no obligation, to review, screen, or inspect any Third Party Materials on the Service, although Poshmark reserves the right to do so, and remove Third Party Materials at Our sole discretion. You agree that you bear all risk associated with the use, reliance, condition, accuracy, completeness, or usefulness of Third Party Materials.
+
+6. Referrals and Credits
+
+Poshmark may offer credits to existing users who refer new users to the Service (who have not previously used the Service) using the invite code provided by Poshmark to those existing users and may also make certain credits available to the new users who are referred by an existing user. The requirements to earn, the number of, and value of, these credits (if any) will be determined by Poshmark. Poshmark Credits or Posh Credits are not redeemable for cash or cash equivalents, and are non-transferrable or applicable to prior purchases and cannot be sold, made available to the general public, or acquired via public distribution. Suspended accounts are prohibited from using Posh Credits during suspension. Other restrictions may apply. We may cancel credits at any time, upon thirty (30) day notice to You. Poshmark may modify, update, or terminate this program without notice, and Poshmark reserves the right to enact any rules and regulations with respect to the program, including earning and use limits, as well as invalidation or expiration of credits. You may apply credits subject to the terms in which we grant the credit. Credits may expire prior to your use, cancelled at any time, or the terms of use modified, at no liability to, and under the sole discretion of Poshmark.
+
+7. Your Responsibilities
+
+You are solely responsible for all information, descriptions, pictures, listings, data, text, music, videos, media, comments, or any other materials (“Content”) that you upload, post, publish, transmit, or display (“Post”) via the Service. The following are examples of Content, Postings, or Use of the Service that is illegal or prohibited by Poshmark. Poshmark may investigate, take legal action, or perform any other action it deems necessary or warranted in managing the Service, Your Content, Posting, or Use, without limitation, including preservation of such information for investigative purposes.
+
+You agree to not use the service to (1) provide any Content, Postings, or otherwise that are unlawful, harmful, violent illegal, infringing on third party rights, objectionable, pornographic, libelous, invasive, encouraging money laundering, gambling or any other unlawful or unwarranted behavior. (2) violate any law, rule, or regulation, including any anti-spam, data privacy, or other restriction that may be applicable to Your use of the Service (3) create any derivative works or reviser engineer any part of the Service, or put unreasonable load on the Service infrastructure or disrupts the networks connected to the Service (4) promote any illegal activity or enterprise (5) stalk, harass, bully, impersonate or solicit information from anyone, especially those that are under the age of 18 (6) copy, scrape, harvest or use automated systems to collect contact information from the Service for use outside of those intended by this Terms of Service (7) to sell or transmit anything you don’t have a right to sell or transmit under law or existing relationship (8) pose a privacy or security risk (9) infringe on anyone’s intellectual property (10) spam any users with email, junk mail, fraud, schemes, or the like (11) transmit or upload viruses, worms, or interfere with the Service, or (12) take any action or inaction which Poshmark, in its sole judgement, believes is questionable or could cause harm or liability.
+
+8. Your Content
+
+As Users of Our Services, all information, including items, messages, offers, purchases, sales, etc. that You post, transmit, or submit through Our Services (“Content”) is intended to be shared with other Users. By submitting any Content to us, You hereby represent and warrant that You own all rights to the Content or, alternatively, that You have the right to give us the license described below, including the correct and legal permissions and consents for any personally identifiable information you may provide to, or upload by way of, the Poshmark Service(s). By posting or otherwise transmitting any User Content you hereby grant and will grant to Poshmark and its affiliated companies a nonexclusive, worldwide, royalty free, fully paid up, transferable, sublicenseable, perpetual, irrevocable license to copy, display, transmit, perform, distribute, store, modify, make derivative works of and otherwise use in any manner your User Content in connection with the operation of the Service or any other products or services of Poshmark, or the promotion, advertising or marketing thereof, in any form, medium or technology now known or later developed (including without limitation publishing your User Content on the Internet or on Third Party Services such as Facebook, sharing it with blogs, etc., and allowing other users to share listings that include your User Content). You further represent and warrant that the Content does not infringe on the intellectual property rights, privacy rights, publicity rights, or other legal rights of any third party. We are not under any obligation to review any Content posted by Our Users on Our Services, although We reserve the right to do so with or without notice, to prevent or rectify any alleged violations of this Agreement or any applicable law. We reserve all defenses made available to us by the Communications Decency Act and any other applicable laws, rules, or regulations. We may refuse to accept or display the Content, and may remove or delete all or any portion of the Content at any time. You understand that Poshmark is not responsible for the accuracy, usefulness, safety, or intellectual property rights of or relating to such Content, and that such Content is not the responsibility of Poshmark. You further understand and acknowledge that You may be exposed to Content that is inaccurate, offensive, indecent, or objectionable, and You agree to waive, and hereby do waive, any legal or equitable rights or remedies You have or may have against the Poshmark Parties with respect thereto. Any and all Content You upload is not considered confidential by Poshmark, will be treated as public information, and You agree and understand is intended to be shared with other users of our Services as well as third parties, all in Poshmark’s sole discretion, and Poshmark has no control or liability over what other users do with your Content. You understand and agree that Poshmark will not be liable for any treatment of your Content as confidential and waive all rights with respect to any such claims of confidentiality. You acknowledge and agree that any questions, comments, suggestions, ideas, feedback or other information about the Site or the Service (“Submissions”), provided by you to Poshmark are non-confidential and Poshmark shall be entitled to the unrestricted use and dissemination of these Submissions for any purpose, commercial or otherwise, without acknowledgment or compensation to you. If you do not agree that your Content will be considered public and will not be considered confidential, you must not use the Service.
+
+9. Intellectual Property Rights
+
+You acknowledge the Service contains images and descriptions that are third party content (“Service Content”) that is protected by copyright, patent, trademark, trade secret, or other proprietary rights and laws. Poshmark retains all rights to Our intellectual property. You agree you will not copy, modify, scrape, distribute, create derivative works, or the like, or do or perform any other action with the Service Content or Poshmarks intellectual property that you are exposed to through our Service not explicitly authorized by this Agreement. Any use of the Service or the Service Content other than as specifically authorized herein is strictly prohibited. All goodwill generated from the use of Poshmark Trademarks will inure to our exclusive benefit. Any rights not expressly granted herein are reserved by Poshmark. Other company, product, and service names and logos used and displayed via the Service may be trademarks or service marks of their respective owners who may or may not endorse or be affiliated with or connected to Poshmark.
+
+10. Infringement Policy
+
+Poshmark respects the intellectual property of others and ask that our Users do the same. Although Poshmark is under no obligation to do so, it will make all reasonable efforts to investigate notices of alleged infringement or violations of intellectual property laws and take actions regarding such infringement where applicable. If you believe your work has been copied in a way that constitutes infringement or your intellectual property rights have been violated, please provide our Copyright Agent with the following information: (1) confirmation you are owner, or authorized to represent owner of the intellectual property (2) description of your work (3) description of the infringing work, and (4) a statement that you believe use of the work is not authorized. If you work is removed due to infringement and You believe it is not infringing, please provide our Copyright Agent with (a) confirmation you are owner, or authorized to represent owner of intellectual property (b) identification of removed content and description, (c) statement of good faith regarding ownership of the intellectual property, (d) your contact information and a consent to submitting to federal courts located in the Northern District of California and a statement to accept service of process regarding the alleged infringement. Poshmark will endeavor to resolve counter-notices in 10 to 14 business days, and will provide the original complaining party an opportunity to seek a court order against the counter-claiming party, and in the event no order is sought, may allow the original content to be reposted. Please contact our Copyright Agent at support@poshmark.com (Subject line: Takedown Request), or through mail:
+
+
+Poshmark, Inc.
+Attn: Copyright Agent
+203 Redwood Shores Pkwy, 8th Floor
+Redwood City, CA 94065
+
+11. Purchase and Sale Transactions
+
+Risks, No Warranty. You assume certain risks in using a marketplace service such as Poshmark. Poshmark is not involved with, nor provides a warranty for, any transaction between Buyer and Seller, nor has title to any Items, and is not the Buyer or Seller in any transaction. You as a Buyer and/or Seller assume, agreement, and understand You bear all of the risks in selling or purchasing of items on the Service.
+Fees. Registering for the Service is free, however, Poshmark charges certain fees for various transactions through Your use of the Service as set forth in the Fee Policy. All amounts are quoted in US dollars unless otherwise stated.
+Prohibited items.
+Poshmark prohibits the listing or sale of any Item that is illegal to sell under any applicable law, statute, ordinance, or regulation, including, without limitation, Items listed in our Prohibited Items Policy. Poshmark prohibits the listing or sale of counterfeit items. Please refer to our Posh Authenticate policy for further information.
+
+Sellers. You agree that You have all rights necessary to sell the Items you make available, and will describe such Items truthfully, accurately, and completely.
+Buyers. You are solely responsible for reading and reviewing the Item listening before making an offer or purchasing. The contract to purchase is between You and the Seller, not Poshmark.
+Purchases. Buyers may offer to purchase Items from Sellers, and once accepted, this is considered a purchase, and a binding contract. Upon purchasing an Item, a Buyer is obligated to remit payment for the Item to Poshmark including any shipping or additional fees listed. Poshmark is not an auctioneer, nor is it a Seller or carrier. Service includes pricing, listing, and shipping assistance, but Poshmark is not a Buyer or Seller of Items. Poshmark may delay any Purchase for purposes of fraud detection or to protect users from other illegal or wrongful activities. All Purchases are final, with no returns, refunds, cancellations, or retractions allowed, except where (a) Buyer cancels an order within three (3) hours of purchase, or (b) the Purchase is cancelled where explicitly permitted by Poshmark or where applicable, a Seller.
+Shipping.
+Poshmark will provide Seller with a prepaid shipping label to send the Item to the Buyer (Poshmark reserves the right to discontinue providing Labels to any or all users at any time and for any reason). Seller must then deliver Item to Buyer. Seller must ship Item within three (3) days of receipt of the label, if Seller does not ship the Item We will notify Seller and provide a set amount of time for shipping before the order will be cancelled. When using a label Seller must only use label to ship applicable item, is fully responsible for contents of parcel, comply with all terms and comply with all conditions of the shipping carrier. Title transfers to Buyer upon shipment. If an Item is lost, damaged, late, or arrives not as expected to Buyer, Buyer must report issue to Poshmark three (3) days after delivery. Once Buyer confirms receipt and acceptance of Item, either by affirmatively notifying Poshmark or failing to notify Poshmark within three (3) days of delivery (as determined by tracking information), Poshmark will credit Seller’s account with amount equal to Purchase price, minus taxes, Poshmark’s commission, and any applicable fees (the “Funds”) set forth in our Fee Policy. Funds may be redeemed by Seller through Poshmark’s permitted third party payment provider(s), or used by the Seller to purchase items listed by other Sellers through the Service.
+
+Taxes. Purchased items may be subject to applicable taxes in your jurisdiction, which Poshmark will collect from Buyers on behalf of Sellers where obligated to do so, and in the event taxes are collected and Poshmark is legally obligated to do so, remit such taxes to applicable taxing authorities on behalf of Sellers. Note that taxes are not included in the listed price for Items, but will be displayed before confirmation of purchase. Use of credits may modify taxes that apply to a Buyer’s order. Taxes may be estimated based on offers made on Items, but are subject to change if final sale price is different than original offer. Taxes are based on several factors, including price, location, and state, local, federal, or other applicable rates at time of purchase. Although we may assess taxes upon purchase or sale You are ultimately responsible for the verification and reporting of any and all applicable taxes to the appropriate tax authorities, including instances where Poshmark does not collect taxes on your behalf.
+Payments. Buyers may pay for Items using payment methods approved by Poshmark, and Poshmark will receive payment from Buyer on behalf of Seller. By submitting payment information to Poshmark You authorize Poshmark to store that information and with your confirmation, charge You for any Items purchased.
+Fee Modifications.
+We may change or discontinue, temporarily or permanently, some or all fees for the Service, and such changes will be effective upon Our revision of the Fee Policy.
+
+Shipping. Buyers are responsible for any shipping costs (as detailed in the Fee Policy) incurred with respect to their purchased Item.
+Returns. Unless as otherwise provided herein, Poshmark does not allow returns. If an Item is not as described on the Service, you the Buyer, are required to initially attempt to resolve the issue with the Seller. In the event you are unable to resolve the issue, please report the issue through the Service or by emailing support@poshmark.com within three days after determined delivery of the Item based off tracking information. Poshmark requires evidence of an attempted resolution. Poshmark shall have final determination regarding the accuracy of item descriptions and has the sole authority to determine whether a refund is or is not warranted. Buyer and Seller understand and agree that they will abide by any final determinations made by Poshmark in respect to any such issues and returns.
+
+12. Disclaimer of Warranties
+
+YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, POSHMARK EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, POSHMARK MAKES NO WARRANTY THAT (I) YOU WILL BE ABLE TO SELL OR PURCHASE ANY ITEMS THROUGH THE SERVICE OR THAT THE SERVICE WILL OTHERWISE MEET YOUR REQUIREMENTS, (II) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (III) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE, OR (IV) THE QUALITY OF ANY GOODS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS.
+
+POSHMARK MAKES NO GUARANTEE REGARDING THE AUTHENTICITY, QUALITY, SAFETY, OR LEGALITY OF ANY ITEMS OFFERED OR SOLD, NOR THE TRUTH OR ACCURACY OF ANY LISTINGS, OR ABILITY OF BUYERS AND SELLERS TO TRANSACT ANY BUSINESS ON THE PLATFORM.
+
+13. Limitations on Liability
+
+Poshmark is not liable for (1) any Content posted on Our Services; (2) purchases, sales, or other obligations that may arise between Users; (3) any damages that result through Your use of Our Services; (4) any negative or critical comments that may be posted by other Users through the Services; (5) any of the Third Party Service(s) You may be provided pursuant to Your use of the Services; (6) any third party personally identifiable information you upload or provide to Poshmark pursuant to the Services (7) any cost of substitute goods or services.
+
+You are solely responsible for your interactions with other users, including any purchase or sale transactions. You agree Poshmark will have no liability or responsibility with respect to such interactions, purchases, or sales. Poshmark reserves the right but is under no obligation to become involved in any dispute between You and another user.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU UNDERSTAND AND AGREE THAT IN NO EVENT SHALL POSHMARK BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE SERVICE, WHETHER OR NOT POSHMARK HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY DAMAGES FOR PERSONAL OR BODILY INJURY OR EMOTIONAL DISTRESS ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, OR FROM ANY COMMUNICATIONS, INTERACTIONS OR MEETINGS WITH OTHER USERS OF THE SERVICE, ON ANY THEORY OF LIABILITY (INCLUDING CONTRACT, TORT INCLUDING NEGLIGENCE, OR HOWSOEVER OTHERWISE) ARISING OUT OF, IN CONNECTION WITH, OR RESULTING FROM (1) THE USE OR INABILITY TO USE THE SERVICES; (2) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICES; OR (3) ANY OTHER MATTER RELATED TO THE SERVICES.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, UNDER NO CIRCUMSTANCES WILL POSHMARK BE LIABLE TO A USER, REGARDLESS OF WHETHER THE CLAIM IS BASED IN CONTRACT, TORT INCLUDING NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, FOR MORE THAN THE GREATER AMOUNT OF (1) COMMISSIONS THAT YOU HAVE PAID TO POSHMARK AS A SELLER IN THE LAST SIX (6) MONTHS, OR, (2) ONE HUNDRED U.S. DOLLARS (USD $100).
+
+THE LIMITATIONS OF THIS SECTION WILL NOT APPLY TO ANY LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED BY LAW. Our licensors and service providers will have no liability of any kind under this Agreement. Unless such restriction is prohibited by applicable law, You may not bring any claim under this Agreement more than twelve (12) months after the cause of action arises.
+
+14. Indemnity
+
+You agree to release, defend, indemnify and hold Poshmark, its affiliates and employees (collectively, “Indemnitees”) harmless from any legal claim or demand (including reasonable attorney fees) that arises from Your actions (or inactions), Your use (or misuse) of our Services, Your breach of the Terms, or You and Your accounts infringement of someone else’s rights. If you are a California resident, you waive California Civil Code Section 1542, which says: “A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor.” If you are a resident of another jurisdiction, you waive any comparable statute or doctrine.
+
+15. Mobile Services
+
+When you access the Service through a mobile device, you may incur a fee for data usage or other associated costs from your wireless provider. You agree that You are solely responsible for Your use of the Service on your mobile device and adherence to your wireless provider’s terms and conditions.
+
+16. Apple-Enabled Software Applications
+
+Poshmark offers Software applications that are intended to be operated in connection with products made commercially available by Apple Inc. (“Apple”). With respect to Software that is made available for your use in connection with an Apple-branded product (such Software, “Apple-Enabled Software”), in addition to the other terms and conditions set forth in these Terms, the following terms and conditions apply:
+
+Poshmark and you acknowledge that these Terms are concluded between Poshmark and you only, and not with Apple, and that as between Poshmark and Apple, Poshmark, not Apple, is solely responsible for the Apple-Enabled Software and the content thereof.
+You may not use the Apple-Enabled Software in any manner that is in violation of or inconsistent with the Usage Rules set forth for Apple-Enabled Software in, or otherwise be in conflict with, the App Store Terms.
+Your license to use the Apple-Enabled Software is limited to a non-transferable license to use the Apple-Enabled Software on an iPhone OS Product that you own or control, as permitted by the Usage Rules set forth in the App Store Terms.
+Apple has no obligation whatsoever to provide any maintenance or support services with respect to the Apple- Enabled Software.
+Apple is not responsible for any product warranties, whether express or implied by law. In the event of any failure of the Apple-Enabled Software to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the Apple-Enabled Software to you, if any; and, to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Apple-Enabled Software, or any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty, which will be Poshmark’s sole responsibility, to the extent it cannot be disclaimed under applicable law.
+Poshmark and you acknowledge that Poshmark, not Apple, is responsible for addressing any claims of you or any third party relating to the Apple-Enabled Software or your possession and/or use of that Apple-Enabled Software, including, but not limited to: (i) product liability claims; (ii) any claim that the Apple-Enabled Software fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
+In the event of any third party claim that the Apple-Enabled Software or the end-user’s possession and use of that Apple-Enabled Software infringes that third party’s intellectual property rights, as between Poshmark and Apple, Poshmark, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
+You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+If you have any questions, complaints or claims with respect to the Apple-Enabled Software, they should be directed to Poshmark by e-mail to support@poshmark.com.
+
+Poshmark and you acknowledge and agree that Apple, and Apple’s subsidiaries, are third party beneficiaries of these Terms with respect to the Apple-Enable Software, and that, upon your acceptance of the terms and conditions of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you with respect to the Apple-Enable Software as a third party beneficiary thereof.
+
+17. General
+
+17.1 Governing Law
+
+Each party will comply with all laws, rules, and regulations applicable to this Agreement. This Agreement shall be governed by the laws of the State of California without giving effect to its principles regarding conflicts of law. All disputes shall be resolved exclusively in state or federal court in San Mateo County, California. You acknowledge that the Services are of United States origin and agree to comply with all export laws and regulations of the United States.
+
+17.2 Dispute Resolution, Arbitration Agreement
+
+PLEASE READ THIS SECTION CAREFULLY.
+
+Poshmark is always interested in resolving disputes amicably and efficiently. If you have any concerns or disputes please email customer support at support@poshmark.com. Any unresolved dispute shall be settled by binding and confidential arbitration, notice of which must be sent by You to Poshmark, per the Notice provision set forth herein, and describe the nature of the claim and relief sought. If resolution is not reached within sixty (60) calendar days You or Poshmark may commence an arbitration proceeding. The arbitration will be conducted in a forum convenient to both parties, and if the claims involved total less than US$10,000, then will be conducted through document submission or telephonic hearing unless in person arbitration is legally required. Arbitration shall be subject to the Federal Arbitration Act, or applicable binding arbitration in your jurisdiction. The arbitration will be governed by the AAA’s Commercial Arbitration Rules and, if applicable, the Supplementary Procedures for Consumer Related Disputes. If the value of the relief sought is USD $10,000 or less, at your request, Poshmark will pay all Arbitration Fees. Notwithstanding the foregoing, the Company may seek injunctive or other equitable relief to protect its intellectual property rights in any court of competent jurisdiction. YOU ARE HEREBY GIVING UP YOUR RIGHT TO GO TO COURT. Arbitrator decisions are as enforceable as any court order and are subject to VERY LIMITED REVIEW BY A COURT. Any claims brought by you must be bought in an individual capacity, not as a class member in any representative proceeding. An arbitrator may not consolidate individuals’ claims. The arbitrator will not have authority to award damages in excess of the amount allowed by this Agreement. The arbitrator also shall be authorized to grant any equitable remedy or relief it deems just and equitable and within the scope of the Agreement. All aspects of the proceeding, ruling, decision, or award will be considered confidential between the parties. The arbitration award shall be final and binding upon the parties without appeal or review except as permitted by California law or United States federal law. This Arbitration Agreement does not preclude you from bringing issues to the attention of federal, state, provincial or local agencies, and such agencies can, if the law allows, seek relief against us on your behalf. Notwithstanding anything to the contrary herein, any change made to this Arbitration Agreement may be rejected by You within thirty (30) calendar days of such change, and in the event of such rejection, the terms of the original Arbitration Agreement language will apply.
+
+17.3 Severability, Headings, Non-waiver
+
+The unenforceability of any provision of this Agreement will not affect the enforceability of any other provision. If any provision of this Agreement is deemed to conflict with another, Poshmark will have the sole right to elect which provision remains in force. Headings are provided for convenience only. We reserve all rights under applicable law. Our non-enforcement of any provision of this Agreement or under applicable law will not be construed as Our waiver of any enforcement rights under the same or different circumstances at any time in the future.
+
+17.4 Modifications
+
+THIS AGREEMENT AND THE SERVICES DESCRIBED HEREIN ARE SUBJECT TO CHANGE BY POSHMARK IN ITS SOLE DISCRETION AT ANY TIME. Poshmark may modify or discontinue the service with or without notice. Poshmark is not liable to You or any third party for any such modification or discontinuation. When changes are made to this Agreement, We will make a new copy of the Agreement available by posting on Our Site or through the Services. We will also update the "Last Revised" date at the top of the Agreement. If We make any material changes, and You have registered to use the Services, We may also notify you via email or through the Services. Changes will be effective immediately for new users and will be effective ten (10) days after posting notice of such changes on the Site for existing users. Your continued use of the Service after the date any such changes become effective constitutes your acceptance of the new Terms. If you do not agree to abide by these or any future Terms, do not use or access (or continue to use or access) the Service.
+
+17.5 Termination
+
+We may suspend or terminate the Services or Your account at Our discretion without explanation, notice, and liability to Poshmark including removing and discarding any items or content within the Service, for any reason, though We will strive to provide a timely explanation. Any suspected fraudulent, abusive or illegal activity that may be grounds for termination of your use of Service, may be referred to appropriate law enforcement authorities. You may terminate this Agreement by closing Your account for the Service. Poshmark will not have any liability whatsoever to You for any suspension or termination. All provisions of this Agreement which by their nature should survive termination shall survive termination, including ownership, success fees, warranty disclaimers, indemnity and limitations of liability.
+
+17.6 Export Controls and Laws
+
+All Software and Services may be subject to export control laws in your applicable jurisdiction. You agree that you will not, and are solely responsible for any violation of, such export control laws. Download and use of software, including where You use, is Your responsibility and at Your own risk.
+
+17.7 Electronic Communication, Documentation
+
+When you use the Service or send e-mails to us, you are agreeing to communicate with us electronically. This Agreement and any other documents reference herein will be considered a “writing” or “in writing” to comply with applicable legal requirements, and are legally enforceable between the parties. Printed versions of this Agreement and the documents referenced herein will be admissible in any legal proceeding
+
+17.8 Notices
+
+You agree We will provide notices and messages to You within the Services, or if required, via email or regular mail. You may provide Poshmark notice and will be deemed provided once received by Poshmark, addressed via mail to the address noted in the Questions, Comments section below.
+
+17.9 Questions, Comments
+
+Please contact us with any questions, comments, or to report a violation of this Agreement:
+
+
+Poshmark, Inc.
+203 Redwood Shores Pkwy, 8th Floor
+Redwood City, CA 94065
+support@poshmark.com
+
+18. Geographic Specific Provisions
+
+18.1 Users in California
+
+Notwithstanding anything to the contrary in the rest of the Agreement, the following takes precedence with respect to Users in California:
+
+18.1.1 California Civil Code. Under California Civil Code Section 1789.3, users of the Service from California are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
+
+18.2 Users in Canada
+
+Notwithstanding anything to the contrary in the rest of the Agreement, the following takes precedence with respect to Users in Canada:
+
+18.2.1 Arbitration. the Arbitration Act, RSBC 1996, c. 55 (the “Act”) governs the interpretation and enforcement of the Arbitration Agreement and any reference to the American Arbitration Association “AAA”) is deemed replaced with the British Columbia International Commercial Arbitration Centre (“BCICAC”). If there is an inconsistency between the Arbitration Agreement and the Act, the Arbitration Agreement will prevail.
+
+18.2.2 Governing Law These Terms shall be governed by the laws of the Province of British Columbia without regard to its conflict of law provisions, and you agree to the personal and exclusive jurisdiction of and venue in the provincial courts in Vancouver, British Columbia and waive any objection to such jurisdiction or venue.
+
+18.2.3 Language of Terms English shall be the language of these Terms and the parties waive any right to use and rely upon any other language or translations. Il est la volonte expresse des parties que les presentes Conditions d’utilisation et tous les documents qui s’y rapportent soient rediges en langue anglaise, exception faite des documents pour lesquels la loi exige l’usage exclusif du frangais.

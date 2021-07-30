@@ -1,0 +1,300 @@
+( Date Accessed: 6/09/2021, From: https://www.chick-fil-a.com/legal )
+
+( Embedded Hyperlinks Used: 10
+https://www.chick-fil-a.com/-/media/9F48968184C140698D708EFA3E5A7941.ashx
+https://www.chick-fil-a.com/legal#Contact%20Us%20Section
+https://www.chick-fil-a.com/legal#Franchised%20Operator%20and%20Licensee%20Online%20Services
+https://www.chick-fil-a.com/legal#Franchised%20Operator%20and%20Licensee%20Online%20Services
+https://www.chick-fil-a.com/legal#chick-fil-a_cookie_and_interest-based_advertising_policy
+https://policies.google.com/technologies/partner-sites
+https://tools.google.com/dlpage/gaoptout?hl=en
+https://www.chick-fil-a.com/legal#Franchised%20Operator%20and%20Licensee%20Online%20Services
+https://www.chick-fil-a.com/legal#terms_and_conditions
+https://www.chick-fil-a.com/legal#How%20We%20Use%20Your%20Information
+)
+
+Chick-fil-A, Inc. Privacy Policy
+Effective as of January 1, 2020
+View our prior Privacy Policy link
+
+Chick-fil-A, Inc. and its affiliates, subsidiaries and related entities such as CFA Properties, Inc., CFA Servco, Inc., and Chick-fil-A Canada ULC (collectively, “Chick-fil-A”, “we”, “us”, or “our”) offer you products and services (“Services”), including online services like our websites, mobile applications and other tools like Wi-Fi services at your favorite Chick-fil-A Restaurant (“Online Services”) and offline services through in-person interactions. This privacy policy (“Privacy Policy”) describes our information practices associated with the Services.
+
+We would love for you to know how we gather information about you and use that information to make your Chick-fil-A experience more remarkable across both online and offline worlds. So, this Privacy Policy describes the types of personal information we collect about you and how we process personal information. We have tried to make this Privacy Policy clear and easy to navigate, but if you don’t understand something, please feel free to reach out. You can contact us as described in the “Contact Us”Section.
+
+Please note this Privacy Policy does not apply to any affiliate, subsidiary or related entity of Chick-fil-A, Inc. that maintains its own privacy policy. Also, this Privacy Policy does not apply to the privacy practices of any Franchised Operator or Licensee because Chick-fil-A restaurants are owned and operated by Franchised Operators and Licensees who are independent third parties. Please see the “Franchised Operator and Licensee Online Services” Section for more information.
+
+We Make Updates to This Privacy Policy
+We may update this Privacy Policy from time to time, and the updated Privacy Policy applies to you after the effective date stated in the revised Privacy Policy. Please come back to this page occasionally to check to see if it has been updated. You can also contact us as described in the “Contact Us” Section to receive a copy of the current Privacy Policy. If our information practices change, we will post an updated policy on our website. If we change the policy in a material way, we will provide appropriate notice to you such as posting a prominent notice on our website or emailing you if you provided your email to us.
+1. Information You Provide to Us
+
+We collect information that you provide to us. For example, you may provide information to us when you:
+
+(a) Sign up for our loyalty programs, events, or communications
+
+During the sign-up or registration process or when you communicate with us, you may provide information such as your name, email address, street address, phone number, mobile phone number, date of birth and/or age.
+
+(b) Participate in promotions or respond to surveys and feedback requests
+
+You may provide information to us about you, your household and/or other personal attributes through promotions, surveys, and feedback. This information may include your name, contact information and any information you provide in your survey responses or feedback content. We may use this information to administer your participation in the promotion or survey and to respond to your feedback as well as for analysis either on an aggregate or identifiable basis.
+
+(c) Order or purchase our products or services
+
+You may provide your financial information to us (or we may process your financial information on behalf of our Franchised Operators and Licensees), such as credit and debit card numbers, expiration date, and CVV as well as mailing address through orders, purchases, or other payment services.
+
+(d) Share stories, content or suggestions, or submit requests for information
+
+We collect information when you share stories, content, suggestions, or other input, or submit requests for information from us. This includes information you share when you access or interact with Chick-fil-A pages or accounts on any third-party social media platforms such as Facebook, Twitter, or Instagram.
+
+Content you share on our Online Services or social media pages (e.g., stories, comments, blogs, postings, etc.) may include personal information. You are responsible for all actions resulting from any information you post on our Online Services or social media pages. Please remember that any information you post on social media pages may become publicly available, is not subject to this Privacy Policy, and Chick-fil-A is not responsible for the results of such postings.
+
+2. Information We Collect Automatically or from Others
+We obtain some information automatically, for example, when you:
+
+(a) Access or use the Online Services
+
+Traffic Data. Our Online Services automatically track and collect your IP address, domain server, type of computer or device, and type of web browser. This helps us customize your online experience and assists with our marketing. We use this information to make our online experience better and more relevant for you. For example, we can show you menu items for the correct time of day in your location.
+
+Cookies. We also use cookies, which are small text files that are stored on your computer and allow websites to remember information about you (“Cookies”). You may set your browser to notify you when you receive a cookie or to not accept certain cookies. However, if you decide not to accept Cookies from our Online Services, you may not be able to take advantage of all available features. Please see our Cookie and Interest-based Advertising Policy to learn about the types of Cookies we use, how we use them, and your choices for Cookies.
+
+Web Beacons. Certain pages on the Online Services and social media pages may contain web beacons (also known as Internet tags, pixel tags, and clear GIFs), which are small bits of code embedded in pages or images on the Online Services and social media pages (“Web Beacons”). The Web Beacons may be used with Cookies to understand how you interact with us, so we can manage and improve those interactions. We may also include Web Beacons in e-mails we send to you to learn if messages have been opened, acted on, or forwarded. This helps us improve future messages and makes them more meaningful to you.
+
+Other Technologies. We also utilize other tracking technologies. For example, if permitted by applicable law, we may collect “referrers”. A “referrer” is information your web browser passes along to web servers that refers to the URL from which you accessed the Online Services. Like most websites, we may also collect environmental variables, which include, among other things, the domain from which you access the Internet, the time you accessed the Online Services or social media pages, the type of web browsers and operating system or platform used, the Internet address of the website you left to visit the Online Services or social media pages, the names of the web pages you visit, and the Internet address of the website you visit next. We use these technologies for marketing purposes and to improve your experience with our Online Services.
+
+Information collected automatically may be combined with other personal information we have about you so that we can improve and customize the Online Services and our communications and promotions. When we know how you interact with our Online Services, we can serve you better.
+
+In a nutshell, the following are examples of information we collect with these automated technologies:
+
+your IP address, browser type, and operating system;
+the mobile device you use and its temporary or persistent unique device identifiers (sometimes called “UDID”);
+pages you view within the Online Services;
+websites you visited before coming to the Online Services;
+video viewing history for videos you watch on the Online Services;
+emails from us that you open and/or forward; and/or
+offers or links from us to which you connect.
+We also use third-party data analytics tools and services. For example, we use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), for certain Online Services. Google Analytics collects information such as how often you access the Online Services, what pages you access, and what other sites or services you used previously. We use the information provided by Google Analytics to improve our Online Services and serve you better.
+
+For more information regarding how Google collects, uses and shares your information, please visit: https://policies.google.com/technologies/partner-sites. Google tells us that Google provides you more choices on how your information is collected by Google Analytics by offering you an Opt-out Browser Add-on which can be located at: https://tools.google.com/dlpage/gaoptout?hl=en. According to Google, this Add-On prevents Google Analytics from sharing information about visit activity.
+
+(b) Use location-enabled devices like a mobile phone to access the location-based Services
+
+If you utilize any of the location-based services such as “Find a Restaurant” on our Online Services or from location-enabled devices like your mobile phone, with your consent where required, we may collect, use, and share location data, including the real-time geographic location of your device. We use the location data to provide Services such as mobile order fulfillment, and to improve location-based Services. We may share your location data with third-party service providers who help us provide the Services such as identifying nearby restaurants, surfacing available market offers, and estimating mobile order pickup or delivery timing. You may limit access to your location data by adjusting the permissions in your device. If you grant us permission, we may collect location information when the app is running in the foreground or background.
+
+(c) Order or purchase our products or services
+
+We also collect information, through our business partners, relating to your purchases from us and our Franchised Operators and Licensees to process your transactions and to perform research and marketing analytics, such as the authorization code of the transaction, payment method, the date and time of the transaction, items purchased, and the purchase price. 
+
+(d) Use social media platforms or other connected third-party services
+
+The Online Services and our communications may contain links to other third-party websites, including social media platforms such as Facebook, Twitter, or Instagram (collectively, “Linked Sites”). We are not responsible for the privacy practices, policies, or content of any Linked Sites, even if you followed a link to them from the Online Services or our communications. This Privacy Policy does not apply to any Linked Sites. We encourage you to read and understand the privacy policies of any Linked Sites that you visit.
+
+We may obtain information about you from Linked Sites. For example, when you link your account or engage with the Online Services through Linked Sites such as third-party social media sites, you may be allowing us to have ongoing access to certain information stored on those Linked Sites as described to you by those Linked Sites (e.g., your public profile, profile photo, friends list). We may receive certain information about you which is stored on Linked Sites if other users of those sites give us access to their profiles and you are one of their friends or connections, depending upon your settings on those Linked Sites. The information we have access to from Linked Sites varies and is controlled by your privacy settings on that website and by your consent.
+
+We also obtain some personal information from others, for example:
+
+(e) Your Friends and Family. We may obtain additional information about you when someone, like your friend or family member, provides your information to us as part of a refer-a-friend or other referral program.
+
+If we offer you the ability to share information with a friend or family member through email or other means, we rely on you to ensure that you only share information with individuals with whom you have a personal or family relationship and who would want to receive the communication. We will use the contact information you provide to communicate with your friend or family member on your behalf.
+
+(f) Franchised Operators and Licensees. We process information about you from our Franchised Operators and Licensees when we provide certain services for them. We may access and process personal information to provide these services, for example, to process your payment and manage mobile orders and other services like third party delivery service order fulfilment on behalf of Franchised Operators and Licensees or at your direction. For more information, please see the “Franchised Operator and Licensee Online Services” Section.
+
+(g) Third Parties. We may also collect personal information from third-party providers and business partners, including public databases, social media platforms, or third parties such as analytics or advertising and marketing providers, where permitted under applicable law.
+
+3. How We Use Your Information
+We use the information we collect, on its own and combined with other information we collect about you, for the following purposes:
+
+(a) Providing our products or services to you
+
+We use your information to process your orders and payments, including on behalf of Franchised Operators and Licensees.
+
+(b) Communicating with you
+
+We use your information to communicate with you regarding our restaurants, products, services, events, promotions and other offers and respond to your inquiries, comments, stories, or postings. You can unsubscribe from our marketing communications at any time. See the “Communication Preferences” Section for more information.
+
+(c) Customizing and improving your experience
+
+We use your information to tailor our products, services, promotions, communications and the Services so that they are more useful and relevant to you, such as through targeted advertising and messaging personalization.
+
+(d) Creating and managing your accounts with us
+
+We use your information to create and manage your accounts (e.g., CFA One, registration for events, online ordering, mobile payments, contests, promotions, etc.) and administer your participation in our programs, events and other offerings.
+
+(e) Getting to know our customers
+
+Your information helps us understand your preferences and provide support related to our product and service offerings and marketing efforts. For example, we may use your information to:
+
+develop our products, services, promotions, and other offers;
+improve our Services; and
+conduct research and analysis. 
+(f) Marketing and relevant advertising
+
+We promote our products and services and aim to provide tailored ads to you and others. We may advertise our products and services on third-party websites or online services. Please see our Cookie and Interest-Based Advertising Policy [link] to learn more about our third-party advertising and marketing partners and how you may opt out of targeted advertising delivered by the members of the Digital Advertising Alliance (“DAA”), the Digital Advertising Alliance of Canada (“DAAC”) or the Network Advertising Initiative (“NAI”).
+
+(g) Fraud detection, security & legal enforcement
+
+We use your information to protect the security and integrity of our business and the Services and for enforcement of our Terms and Conditions.
+
+We may combine your information with other information we have acquired from third parties in accordance with applicable law.
+
+4. How We Share Information
+To perform our Services, we may share your information with third parties as necessary to complete your order, to provide our products and services, for purposes described in the “How We Use Your Information” Section, or with your consent. For example, we may share your information with the following types of third parties:
+
+(a) Within Chick-fil-A, with our affiliates, and Franchised Operators and Licensees
+
+We share personal information within Chick-fil-A, Inc. and with our affiliates and Franchised Operators and Licensees to provide our products, services, promotions and other Services to you and for our marketing purposes, in accordance with applicable law. We may also share personal information with our affiliates and Franchised Operators and Licensees at your direction or request.
+
+(b) Service providers
+
+We share personal information with third party service providers that provide a variety of services on our behalf, including but not limited to the development, maintenance, and support of the Services and social media pages, payment processing, online and mobile application ordering, the distribution of email and mobile messages, promotions, advertising services, and marketing research and analysis. Our service providers may be located outside of the jurisdiction in which you reside. Please see the “Transfer Outside Your Jurisdiction” Section for more information.
+
+We may also share the personal information we collect with our analytics vendors and partners to develop aggregate analysis and business intelligence for our advertising and marketing purposes. For example, we use personal information to create custom audiences and measure the success of promotions.
+
+(c) Other disclosures
+
+In addition, we may share personal information with other entities for additional purposes. For example, we may share personal information as part of a sale, merger or change in control, or in preparation for these corporate events. An entity that buys us or part of our business may continue to use your data in accordance with the Privacy Policy, unless you request otherwise.
+
+We may also share personal information as may be necessary to protect the safety, property, or other rights of Chick-fil-A, Inc. and our affiliates, Franchised Operators and Licensees, and their respective employees, customers, visitors, users, or any other person or entity; to comply with law, a court order, or other legal process (which may include access by courts, law enforcement or governmental authorities in the US or other jurisdictions), or in connection with a legal investigation; to enforce any applicable terms and conditions and other agreements; as otherwise may be required or permitted by applicable law; or in accordance with your consent.
+
+We do not sell your personal information to third parties for their marketing purposes.
+
+5. Access to Information and Your Choices
+We provide you with the opportunity to access, update or delete certain information and to opt out of having your information used or disclosed for certain purposes. For example, you may exercise your choices as below. Please be aware that, if you do not allow us to collect and use your personal information, we may not be able to deliver certain products, services, promotions, and offerings to you.
+
+(a) Account information
+
+You may correct or update personal information you have provided to us at any time by accessing your online account or by contacting us using one of the methods listed in the “Contact Us” Section.
+
+(b) Communication preferences
+
+You may change your choices for subscriptions, how we may send you certain communications (e.g., Chick-fil-A One notification and other electronic communications), and whether to receive promotions and other offers from us. You may exercise your choices by following instructions available on the Online Services or in communications sent to you. For example, to unsubscribe from our email communications, follow the unsubscribe instructions contained in each of our email messages. Please note that we may continue to send transactional or account-related messages to you.
+
+You may also receive communications from our Franchised Operators and Licensees. To opt-out of these communications, please refer to the unsubscribe instructions contained in those communications.
+
+Because we plan our communications in advance, it may take up to 3-5 business days for your “unsubscribe” request to become effective. If you continue to receive our communications after submitting an “unsubscribe” request, please let us know by contacting us using one of the methods listed in the “Contact Us” Section so that we can investigate the situation.
+
+(c) Right to access, update and correct your information
+
+You can request to access, update or correct your personal information by contacting us using one of the methods listed in the “Contact Us” Section. We will endeavor to honor your request and, at minimum, respond to you in accordance with our obligations under applicable law.
+
+(d) Account deactivation
+
+You may close your account by calling Chick-fil-A CARES (1-866-232-2040). Please note, you may not be able to close your account when you have a remaining balance on your Chick-fil-A One account. Please contact us at Chick-fil-A CARES (1-866-232-2040) so we can further assist you. When you close your account, we may keep some of your information for legal or our internal business purposes.
+
+6. Information Security
+We seek to keep your personal information secure by implementing reasonable technical, administrative, and physical safeguards to help us protect such information from unauthorized access, use, and disclosure. When we collect or transmit sensitive information such as a credit card number, we endeavor to use industry standard methods to protect that information. We also ask our third-party service providers to use reasonable security measures to protect your information from unauthorized access, use and disclosure. However, please be aware that no method of electronically transmitting or storing information is ever completely secure.
+
+E-mail Security & How You Can Help
+
+“Phishing” is a scam designed to steal your personal information. If you receive an e-mail that looks like it is from us asking you for your personal information which you suspect may be a scam, please notify us as provided in the “Contact Us” Section.
+
+7. Retention
+We retain personal information for as long as necessary to fulfill the purposes for which it is collected or processed. We also retain information for security, legal compliance, and disputes and claims handling.
+
+When you watch videos on the Online Services, you agree that we may share your video viewing with or obtain information about your video viewing from analytics service providers, advertising partners and social media platforms for two years or until you withdraw your consent. Where required by applicable law, we will obtain your consent prior to obtaining or sharing your video viewing data.
+
+8. Notice to California Consumers
+If you are a California consumer, the following provisions apply to our processing of information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with you or your household (“California Personal Information”). For California consumers, the provisions of this California Addendum prevail over any conflicting provisions in other sections of this Privacy Policy.
+
+We have collected the following categories of California Personal Information within the last 12 months from the sources listed below:
+
+(a) Identifiers, such as a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers. This category of information is collected from you, your devices, and third parties such as Linked Sites, your family and friends, Franchised Operators and Licensees, and public databases.
+
+(b) Personal information described in subdivision (e) of Section 1798.80 (California customer records statute), such as a name, address, telephone number, credit card number, debit card number, or other financial information. This category of information is collected from you, your devices, and Franchised Operators and Licensees.
+
+(c) Commercial information, including products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. This category of information is collected from you, your devices, and Franchised Operators and Licensees.
+
+(d) Internet or other similar network activity, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with a website, application, or advertisement. This category of information is collected from you and your devices.
+
+(e) Geolocation data, including physical location or movements. This category of information is collected from you and your devices.
+
+(f) Sensory data, including electronic, visual, or similar information. This category of information is collected from you and third parties such as Linked Sites and Franchised Operators and Licensees.
+
+(g) Inferences, such as a profile about a consumer’s preferences, characteristics, and behavior, drawn from information we collect and insights we receive from third parties such as our marketing and advertising partners and data analytics providers.
+
+Please see the “Information You Provide to Us and Information We Collect Automatically or from Others” Section to learn more about the types of information we collect and how we collect them.
+
+In the context of job applications, we also collect information from you and third parties, including business contact information such as company name, physical address and email address, and education information. Please see more information in the “Collection and Use of Personal Information of Chick-fil-A, Inc. Employment Applicants” Section.
+
+For each of the above categories, we use the California Personal Information for a variety of business purposes such as:
+
+Audits and reporting relating to particular transactions and interactions, including online interactions, you may have with us or others on our behalf;
+Detecting and protecting against security incidents, and malicious, deceptive, fraudulent or illegal activity, and prosecuting the same;
+Debugging to identify and repair errors in our systems;
+Short-term, transient use including contextual customization of ads;
+Providing services on our behalf or on behalf of another, including maintaining or servicing accounts, providing customer service, fulfilling transactions, verifying identity information, processing payments, and other services;
+Conducting internal research to develop and demonstrate technology;
+Conducting activity to verify, enhance, and maintain the quality or safety of services or devices which we may own, control, or provide; and
+Other business purposes described in the “How We Use Your Information” Section.
+We may also use the information we collect for our own or our service providers’ other operational purposes, purposes for which we provide you additional notice, or for purposes compatible with the context in which the California Personal Information was collected.
+
+Within the last 12 months, we have disclosed California Personal Information for our business purposes. To learn more about the categories of third parties with whom we share such information, please see the “How We Share Your Information” Section.
+
+We do not sell and, within the last 12 months, we have not sold, California Personal Information.
+
+Your California Privacy Rights
+If you are a California consumer, you have certain rights related to your California Personal Information, including:
+
+The right to request that we disclose to you:
+the specific pieces of California Personal Information we have collected;
+the categories of California Personal Information we have collected about you;
+the categories of sources from which the California Personal Information is collected;
+our business or commercial purpose for collecting or selling California Personal Information; and
+the categories of third parties with whom we share California Personal Information.
+The right to request that we delete California Personal Information about you, which we have collected from you. 
+You may request to exercise these rights by:
+
+Calling us toll-free at 1-866-232-2040; or
+By completing our rights request form available here.
+As required under applicable law, please note that we will take steps to verify your identity before granting you access to information or acting on your request to exercise your rights. We may require you to provide your email address to verify your identity in response to exercising requests of the above type. You will, therefore, need access to your email account to receive our communications necessary to process your request. Please make sure to check your spam inbox to ensure these important communications are not missed. We may limit our response to your exercise of the above rights as permitted under applicable law.
+
+We may not discriminate against you because of your exercise of any of the above rights or any other rights, subject to the rights and the obligations under the California Consumer Privacy Act, including by:
+
+Denying you goods or services;
+Charging different prices or rates for goods or services, including through the use of discounts, loyalty program, or other benefits or imposing penalties;
+Providing you a different level or quality of goods or services; or
+Suggesting that you will receive a different price or rate for goods or services or a different level or quality of goods or services.
+However, we may offer you certain financial incentives permitted by law that can result in different prices, rates, or quality levels. Any permitted financial incentive we offer will reasonably relate to your personal information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time.
+
+Under California law, you may designate an authorized agent to make a request on your behalf. You may make such a designation by providing the agent with written permission to act on your behalf. We will require the agent to provide proof of that written permission. As permitted by law, we may require you to verify your own identity in response to a request, even if you choose to use an agent.
+You may contact us with questions and concerns about our privacy policies or practices by contacting us using any of the methods listed in the "Contact Us" Section.
+
+California Do Not Track
+California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how we respond to “Do Not Track” browser settings. However, we do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed.
+
+This California-specific addendum was last reviewed and updated as of January 1, 2021.
+
+9. Children's Privacy
+The Online Services are not intended for children under the age of 13, without parental or legal guardian consent. We do not knowingly collect personal information from users in this age group. If you believe your child has provided personal information to us, please contact us via the email listed in the “Contact Us” Section and we will work to delete it.
+
+10. Transfers of Personal Information Outside Your Jurisdiction
+Please be aware that your personal information will be transferred to, stored or processed by us, our affiliates or service providers in the United States, where our servers are located and our central database is operated, or other jurisdictions where our service providers are located for the purposes set out in this Privacy Policy.
+
+11. Contact Us
+If you have any questions or complaints about this Privacy Policy or how we or our affiliates or Service Providers collect, use or disclose your personal information, please contact us using any of the methods below:
+
+By emailing us at privacy@chick-fil-a.com,
+
+By mailing us at the address below:
+Chick-fil-A, Inc.
+5200 Buffington Road,
+Atlanta, Georgia 30349-2998
+Attn: Privacy Team
+
+By visiting the website at <http://www.chick-fil-a.com/Connect/Contact-Us-CARES>
+
+By calling us at 1-866-CFA-2040 or 1-866-232-2040.
+
+Please see below for important additional information:
+The Chick-fil-A Franchise System
+The Chick-fil-A franchise system is a restaurant network made up of company-operated, franchised, and licensed Chick-fil-A restaurant businesses. This means that Chick-fil-A franchisees (“Franchised Operators” or “Operators”) own and operate their own individual franchised businesses and may do certain things differently than us. Franchised Operators and Chick-fil-A licensees (“Licensees”) are independent third parties, and this Privacy Policy does not apply to the privacy practices of any Franchised Operator or Licensee. Please see the “Franchised Operator and Licensee Online Services” Section for more information.
+Franchised Operator and Licensee Online Services
+Chick-fil-A Franchised Operators and Licensees are independent third parties and may own, operate, and maintain a social media page or other online service or communication channel (“Franchised Operator or Licensee Online Services”). This Privacy Policy does not apply to the privacy practices of any Franchised Operator or Licensee. Questions or concerns regarding any Franchised Operator or Licensee Online Services should be directed to the applicable Franchised Operator or Licensee.
+
+We may allow a Franchised Operator or Licensee to link to the Online Services. Chick-fil-A, however, is not responsible or liable for any Franchised Operator or Licensee Online Services, even if it is linked to our Online Services, or for any Franchised Operator's or Licensee's online conduct and privacy practices.
+
+Collection and Use of Personal Information of Prospective Chick-fil-A Franchised Operators
+If you complete an application for a franchise opportunity with Chick-fil-A, Inc. or Chick-fil-A Canada ULC, or express interest or otherwise request information about franchise opportunities, we collect personal information that you provide in connection with your request for information and/or to evaluate your application for a franchise restaurant business opportunity. We may also collect personal information about you from third parties to supplement, update, or verify your information, and/or to process your application for consideration as a Franchised Operator. Applicable law may require that you authorize a third party to share your personal information with us before we can acquire it. Failure to provide any requested information may negatively impact consideration of your application to become a Franchised Operator. By expressing interest in becoming and/or applying to become a Franchised Operator, you consent to our collection, use, and disclosure of your personal information in this manner, to the extent permitted by applicable law.
+
+Collection and Use of Personal Information of Chick-fil-A, Inc. Employment Applicants
+If you complete an application for employment with Chick-fil-A, Inc., or request information regarding such opportunities, we may collect personal information that you provide (such as information contained in a resume or cover letter) in connection with your request for information and/or to evaluate your application for employment with Chick-fil-A, Inc. We may also collect personal information about you from third parties to supplement, update, or verify your information, and/or to process your application for consideration as a Chick-fil-A, Inc. employee. Applicable law may require that you authorize a third party to share your personal information with us before we can acquire it. Failure to provide any requested information may negatively impact consideration of your employment application. By applying to become an employee of Chick-fil-A, Inc., you consent to our collection, use, and disclosure of your personal information as described above, to the extent permitted by applicable law.
+
+Click this link to download the Spanish version of Chick-fil-A's privacy policy.

@@ -1,0 +1,179 @@
+( Date Accessed: 6/02/2021, From: https://www.forddirectprivacy.com/dcterms.html )
+
+( Embedded Hyperlinks Used: 21
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.forddirectprivacy.com/dcterms.html#
+https://www.dca.ca.gov/
+https://www.forddirectprivacy.com/dcterms.html#
+)
+
+DealerConnection Terms and Conditions
+TERMS OF SERVICE
+
+This Terms of Service ("Agreement") govern your use of this website (the "Website") and other related software, applications, interactive features or downloads that are available through the Website (whether accessed directly or through any software, Website, or third party distribution platform) (collectively, the "Service"). In some instances, both this Agreement and separate terms elsewhere on the Service will apply to your use of the Service (“Additional Terms”). References in this Agreement to “Company”, "we", "our", or "us" shall refer to FordDirect and/or the Dealership that is the subject of this Website.
+
+BY ACCESSING OR USING THE SERVICE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT, WHETHER OR NOT YOU ARE A REGISTERED USER OF OUR SERVICE. IF ANY OF THESE TERMS ARE UNACCEPTABLE TO YOU OR IN THE EVENT THAT ANY FUTURE CHANGES ARE UNACCEPTABLE TO YOU, DO NOT USE THE SERVICE. YOUR CONTINUED USE OF THE SERVICE NOW, OR FOLLOWING THE POSTING OF ANY CHANGES IN THIS AGREEMENT, WILL INDICATE ACCEPTANCE AND AGREEMENT BY YOU OF SUCH CHANGES.
+
+Back to top
+Use of the Service by You.
+Content.
+
+The Service is provided for informational purposes only. The Service contains: (i) materials and other items relating to Company and its products and services, and similar items from our licensors and other third parties, including all layout, information, databases, articles, posts, text, data, files, images, scripts, designs, graphics, instructions, illustrations, photographs, sounds, pictures, videos, advertising copy, URLs, technology, software, interactive features, the “look and feel” of the Service, and the compilation, assembly, and arrangement of the materials of the Service and any and all copyrightable material; (ii) trademarks, logos, trade names, trade dress, service marks, and trade identities of various parties, including those of Company; and (iii) other forms of intellectual property (all of the foregoing, collectively “Content”). All right, title, and interest in and to the Service and the Content is the property of Company or our licensors or certain other third parties, and is protected by U.S. and international copyright, trademark, trade dress, patent and/or other intellectual property and unfair competition rights and laws to the fullest extent possible.
+
+Limited License.
+
+Subject to your compliance with this Agreement, you are granted a personal, revocable, worldwide, non-assignable and non-exclusive right to access and use the Service on a personal computer, browser, laptop, tablet, mobile phone, or other internet-enabled device (each, a “Device”) and/or print one copy of the Content as it is displayed to you, in each case for your personal, non-commercial use only, in the manner and for the purposes expressly permitted by the Agreement and our associated policies. The foregoing limited license (i) does not give you any ownership of, or any other intellectual property interest in, any Content, and (ii) may be suspended or terminated for any reason, in Company’s sole discretion, and without advance notice or liability. Your unauthorized use of the Content may violate copyright, trademark, privacy, publicity, communications, and other laws, and any such use may result in your personal liability, including potential criminal liability.
+
+Restrictions.
+
+You may not use the Service unless you are at least thirteen (13) years old.
+
+You agree that (i) you will use the Service solely for your own, non-commercial, personal use in accordance with this Agreement and in accordance with any specific rules or usage provisions specified by us on the Service and (ii) all information supplied by you to us will be true, accurate, current and complete. Please remember that you are solely responsible for your interactions with other users of the Service. We reserve the right, but have no obligation, to monitor disputes between you and any other user of the Service, or any user’s action or inaction.
+
+You represent, warrant, and agree that you will not:
+use the Service or Content for any political or commercial purpose;
+engage in any activity in connection with the Service or Content that is harmful, offensive, sexually explicit, obscene, violent, threatening, harassing, abusive, falsely representative of your persona, invasive of someone else’s privacy, or otherwise objectionable to Company;
+harvest any information from the Service or Content;
+reverse engineer or modify the Service or Content;
+interfere with the proper operation of or any security measure used by the Service or Content;
+infringe any intellectual property or other right of any third party;
+use the Service in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this Agreement and/or any and all applicable local, state, national and international laws and regulations and treaties;
+permit or otherwise enable unauthorized users to access and/or use the Service;
+use the Service to export software or data in violation of applicable U.S. laws or regulations;
+sell, copy, duplicate, rent, lease, loan, distribute, transfer, or sublicense the Service, or otherwise permit any third party to use or have access to the Service for any purpose (except as expressly permitted by us in writing) or decompile, reverse engineer, disassemble, modify, create a derivative work of, display in human readable form, attempt to discover any source code, or otherwise use any software that enables or comprises any part of the Service;
+remove any copyright, trademark, patent or other proprietary notices from the Service;
+distribute, publish, exhibit, or otherwise use the Service, in any manner and for any purpose not expressly permitted under this Agreement;
+exploit the Service or collect any data incorporated in the Service in any automated manner through the use of bots, metaspiders, crawlers or any other automated means;
+register as a user of the Service by providing false, inaccurate, or misleading information;
+post hyperlinks to commercial services or Websites;
+collect personal data about other users of the Service for commercial or any other purposes;
+attempt to gain unauthorized access to our computer systems (including any non-public areas of the Service) or engage in any activity that disrupts, diminishes the quality of, probes for vulnerability, interferes with the performance of, or impairs the functionality of, the Service (or the servers and networks which are connected to the Service); or
+access or use the Service if you have been previously removed from the Service.
+
+Availability.
+
+We cannot always foresee or anticipate technical or other difficulties which may result in failure to obtain data or loss of data, personalization settings, or other interruptions. We cannot assume responsibility for the timeliness, accuracy, deletion, non-delivery, or failure to store any user data, communications or settings. Company may suspend or terminate the availability of the Service and Content, in whole or in part, to any individual user or all users, for any reason, in Company’s sole discretion, and without advance notice or liability. Upon suspension or termination of your access to the Service, or upon notice from Company, all rights granted to you under this Agreement or any applicable Additional Terms will cease immediately, and you agree that you will immediately discontinue use of the Service and Content.
+
+Reservation of Rights.
+
+We reserve all right, title and interest in and to the Service not expressly granted to you under this Agreement. There are no implied licenses under this Agreement. Any unauthorized use of the Content or Service for any purpose is prohibited.
+
+Back to top
+Provision of the Service by Us.
+You acknowledge and agree that your use of the Service, including, without limitation, the storage of any data, files, information and/or other materials on a server owned or under our control or in any way connected to the Service, shall be at your sole risk and responsibility and we shall have no obligation to back-up such data, files, information and/or other materials. We expressly reserve the right to limit storage capacity and to remove and/or delete any data, files, and/or other information stored or used in connection with the Service for any reason including, without limitation, if we deem, in our sole discretion, such data to be in violation of this Agreement and/or any rule or policy of ours and/or any local, state, or federal law or regulation.
+
+You acknowledge and agree that the form and nature of the Service which we provide may change from time to time without prior notice to you. You acknowledge and agree that we may decline to provide you access to the Service or stop (permanently or temporarily) providing the Service (or any features or programs within the Service) to you or to users generally at our sole discretion, without liability or prior notice to you.
+
+Back to top
+Copyright Infringement.
+If you believe that any content on this Website infringes your copyright rights, please contact the designated agent for receiving such notifications in writing as follows:
+
+FordDirect
+Attn: Chief Compliance Officer
+4 Parklane Blvd., Suite 675
+Dearborn, Michigan 48126
+
+In your communication, please include:
+Your physical or electronic signature.
+Identification of the copyrighted work you claim to have been infringed, or, if there are multiple copyrighted works, a representative list of such works.
+Identification of the material that you claim to be infringing, and information reasonably sufficient to permit us to locate the material.
+Information reasonably sufficient to permit us to contact you, such as an address, telephone number, and, if available, an email address.
+A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by you or the law.
+A statement that the information your notification is accurate.
+The url of this Website.
+
+If the communication is submitted by someone on your behalf, the communication must also contain a statement that, under penalty of perjury, the submitter is authorized to act on your behalf.
+
+Back to top
+Third Party Services.
+The Service may contain links to other Websites or services maintained by third parties (“Third Party Services”). We may also integrate third party technologies into our Service and host our content on Third Party Services. By connecting to the Service with a third-party service (e.g., Facebook, Twitter, or Google), you give us permission to access and use information, content and/or material you have supplied to that service as permitted by that service, and to store your log-in credentials for that service. We do not operate or control, in any respect, or necessarily endorse the content found on third-party Websites or services. You assume sole responsibility for your use of third-party links, Websites, products and services. You agree that you will abide by any third-party company policies and terms necessary in using our Website or Service (such as a third-party publisher terms of use, Twitter, Google, or Facebook terms of use).
+
+Back to top
+Intellectual Property.
+You acknowledge and agree that we (or our licensors) own all legal right, title and interest in and to the Service, including, without limitation, any intellectual property rights which subsist in the Service (whether those rights happen to be registered or not, and wherever in the world those rights may exist).
+You agree that you shall not remove, obscure, or alter any proprietary rights notices (including copyright and trademark notices) which may be affixed to or contained within the Service.
+
+You agree that in using the Service, you will not use any trademark, service mark, trade name, logo of any company or organization in a way that is likely or intended to cause confusion about the owner or authorized user of such marks, names or logos.
+
+Back to top
+NO WARRANTIES.
+THE SERVICE IS PROVIDED TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTY OR REPRESENTATION OF ANY KIND. TO THE FULLEST EXTENT PERMITTED BY LAW, WE EXPRESSLY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT, QUALITY, AND/OR FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING THE FOREGOING, WE DO NOT WARRANT THE ACCURACY, RELIABILITY OR COMPLETENESS OF ANY INFORMATION PROVIDED BY US IN CONNECTION WITH YOUR USE OF THE SERVICE, OR THAT THE SERVICE, INCLUDING, WITHOUT LIMITATION, ANY DATA, FILES, AND/OR OTHER INFORMATION STORED ON A SERVER OWNED OR UNDER OUR CONTROL OR IN ANY WAY CONNECTED WITH THE SERVICE, WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE, UNINTERRUPTED, ERROR-FREE, VIRUS-FREE OR SECURE. WE TAKE NO RESPONSIBILITY AND ASSUME NO LIABILITY FOR ANY CONTENT THAT YOU OR ANY THIRD PARTY SUBMITS, POSTS OR SENDS OVER THE SERVICE.
+
+Back to top
+PRICING AND OTHER ERRORS.
+THE SERVICE MAY CONTAIN PRICE, TERM, AND AVAILABILITY, AND OTHER ERRORS. PLEASE CONFIRM THE TERMS AND CONDITIONS OF ANY OFFER.
+
+Back to top
+DISCLAIMER OF LIABILITY.
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL WE, OUR PARENTS, SUBSIDIARIES, CLIENTS, AGENCIES, AFFILIATES, OR ANY OF THEIR DIRECTORS, MEMBERS, MANAGERS, OFFICERS, EMPLOYEES, AGENTS OR THIRD PARTY LICENSORS, BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES OR LOSSES ARISING OUT OF OR RELATING TO THIS AGREEMENT AND/OR THE SERVICE PROVIDED HEREUNDER OR ANY OTHER INTERACTIONS WITH US, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION OF LIABILITY APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, NEGLIGENCE, RECKLESSNESS, PROFESSIONAL NEGLIGENCE, TORT, STRICT LIABILITY OR ANY OTHER BASIS OR LEGAL THEORY. WITHOUT LIMITATION OF THE FOREGOING, THE TOTAL LIABILITY OF US, OUR PARENTS, SUBSIDIARIES, AFFILIATES, OR ANY OF OUR DIRECTORS, MEMBERS, MANAGERS, OFFICERS, EMPLOYEES, OR AGENTS FOR ANY REASON WHATSOEVER RELATED TO USE OF THE SERVICE OR ANY CLAIMS RELATING TO THIS AGREEMENT SHALL NOT EXCEED THE AMOUNTS, IF ANY, PAID BY YOU TO US DURING THE PAST TWELVE MONTHS IN CONNECTION WITH YOUR ACCESS TO THE SERVICE.
+
+The Service is controlled and operated from facilities in the United States. We make no representations that the Service is appropriate or available for use in other locations. Those who access or use the Service from other jurisdictions do so at their own volition and are entirely responsible for compliance with all applicable national, state, local or other laws, statutes, directives, rules, regulations, and all interpretations or orders of any government, administrative or regulatory authority or court, including but not limited to those related to export and import of software, technical information or services. You agree that the United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement or to any sale of goods carried out as a result of your use of the Service. Software related to or made available by the Service may be subject to export controls of the U.S., and, except as authorized by law, you agree and warrant not to export or re-export the software to any county, or to any person, entity, or end-user subject to U.S. export controls or sanctions.
+
+Back to top
+Release and Indemnification.
+You agree to release, indemnify and hold harmless us, our parents, subsidiaries, affiliates, directors, members, officers, employees, clients, agents and third party licensors, third-party publishers, necessary third-party platform providers, from and against any and all liabilities, losses, damages, claims and expenses, including, without limitation, attorneys’ fees, with respect to (i) your access, use or misuse of, or reliance upon, the Service, (ii) your actual or alleged violation or breach of this Agreement or rights of another, (iii) your acts or omissions; (iv) your violation of the rights of any third party, including any intellectual property right, publicity, confidentiality, property or privacy right; (v) your use of a Third Party Service; and/or (vi) any misrepresentation made by you. You agree to cooperate fully with us in the defense of any claim that is the subject of your obligations hereunder. For the avoidance of doubt, this section shall survive the termination of this Agreement.
+
+This provision does not require you to indemnify us for any unconscionable commercial practice by us or for our fraud, deception, false promise, misrepresentation or concealment, suppression or omission of any material fact in connection with the Service.
+
+Back to top
+Term and Termination.
+This Agreement is effective until terminated by us or you. We shall have the right to terminate this Agreement including, without limitation, your right to access and use the Service, at any time in our sole discretion and without advance notice to you. The licenses granted herein by us shall automatically terminate without advance notice if you fail to comply with any material provision of this Agreement. You may terminate this Agreement at any time by discontinuing use of any and all parts of the Service. Upon termination of this Agreement for any reason, you shall immediately cease using the Service.
+
+Back to top
+Governing Law and Venue for Disputes.
+This Agreement, and your relationship with us under this Agreement, shall be governed by the laws of the State of Michigan without regard to its conflict or choice of laws provisions. Any dispute with us, or our parents, subsidiaries, affiliates, officers, directors, employees, agents or affiliates, arising under or in relation to this Agreement shall be resolved exclusively through non-appealable arbitration with one arbitrator in accordance with the rules of the American Arbitration Association in Dearborn, MI. If travelling to Michigan is a burden, you may participate in the arbitration by phone or via document submission to the fullest extent allowable by the arbitrator. Each party will bear their own costs of arbitration unless the arbitrator directs that bearing such costs would be an undue burden and in that case, we will pay for your portion of the arbitration administrative costs (but not your attorneys’ fees).
+
+Back to top
+No Class Actions.
+You agree to resolve any disputes related to this Agreement as an individual and not as a class or join any class. You understand that, in return for agreement to this provision and the dispute provision above, we are able to offer the Service at the terms designated, and that your assent is an indispensable consideration to this Agreement.
+
+You also acknowledge and understand that, with respect to any dispute with us, our officers, directors, employees, agents or affiliates, arising out of or relating to your use of the Service or this Agreement:
+
+YOU ARE GIVING UP YOUR RIGHT TO HAVE A TRIAL BY JURY; and YOU ARE GIVING UP YOUR RIGHT TO SERVE AS A REPRESENTATIVE, AS A PRIVATE ATTORNEY GENERAL, OR IN ANY OTHER REPRESENTATIVE CAPACITY, OR TO PARTICIPATE AS A MEMBER OF A CLASS OF CLAIMANTS, IN ANY LAWSUIT INVOLVING ANY SUCH DISPUTE.
+
+Back to top
+Waiver of Injunctive or other Equitable Relief.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU AGREE THAT YOU WILL NOT BE PERMITTED TO OBTAIN AN INJUNCTION OR OTHER EQUITABLE RELIEF OF ANY KIND, SUCH AS ANY COURT OR OTHER ACTION THAT MAY INTERFERE WITH OR PREVENT THE DEVELOPMENT OR EXPLOITATION OF ANY WEBSITE, APPLICATION, CONTENT, SUBMISSIONS, PRODUCT, SERVICE, OR INTELLECTUAL PROPERTY OWNED, LICENSED, USED OR CONTROLLED BY COMPANY OR A LICENSOR OF COMPANY.
+
+Back to top
+Entire Agreement.
+This Agreement sets forth the entire understanding and agreement between the parties relating to its subject matter. All provisions that should by their nature survive the termination of this Agreement shall survive the expiration of this Agreement including, without limitation, the rights and licenses you have granted hereunder, indemnities, releases, disclaimers, limitations on liability, provisions related to choice of law, no class action, and no trial by jury. Any waiver of or promise not to enforce any right under this Agreement shall not be enforceable unless evidenced by a writing signed by the party making said waiver or promise.
+
+Back to top
+Updates to Agreement.
+We reserve the right, at any time in our sole discretion, to modify or replace any part of this Agreement and any applicable Additional Terms, without prior notice. You agree that we may notify you of any updates to this Agreement and any applicable Additional Terms by posting them on the Service so that they are accessible via a link from the home page, and/or to send you an e-mail to the last e-mail address you provided to us. All such changes are effective immediately when we post them, or such later date as may be specified in the notice of updates to this Agreement and any applicable Additional Terms. If you object to any such changes, your sole recourse is to cease using the Service.
+
+Back to top
+Survival.
+The provisions of this Agreement and any applicable Additional Terms, which by their nature should survive termination of your use of the Service, including sections on Service Use (except for the limited license), Unsolicited Submissions, Copyright Infringement, Subscriptions and Products, Customer Support, Third Party Services, Service Features, Agreement to Arbitrate Disputes and Choice of Law, Disclaimer of Representations and Warranties, Limitations of Our Liability, Indemnification, Waiver of Injunctive or Other Equitable Relief, Updates to Agreement, and General Provisions, will survive.
+
+Back to top
+Severability; Interpretation; Assignment.
+If any provision in this Agreement is invalid or unenforceable or contrary to applicable law, such provision shall be construed, limited, or altered, as necessary, to eliminate the invalidity or unenforceability or the conflict with applicable law, and all other provisions of this Agreement shall remain in effect.
+
+Back to top
+Investigations; Cooperation with Law Enforcement.
+Company reserves the right to investigate and prosecute any suspected breaches of this Agreement or the Service. Company may disclose any information as necessary to satisfy any law, regulation, legal process or governmental request.
+
+Back to top
+California Consumer Rights and Notices.
+Residents of California are entitled to the following specific consumer rights information: you may contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by mail at: 400 R St., Suite 1080, Sacramento, California, 95814, or by telephone at (916) 445-1254. Their website is located at: https://www.dca.ca.gov.
+
+Back to top

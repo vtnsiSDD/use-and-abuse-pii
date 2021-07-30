@@ -1,0 +1,419 @@
+( Date Accessed: 6/09/2021, From: From: https://www.tokopedia.com/terms )
+
+( Embedded Hyperlinks Used: 63
+https://www.tokopedia.com/terms#definisi
+https://www.tokopedia.com/terms#akun
+https://www.tokopedia.com/terms#buy
+https://www.tokopedia.com/terms#sell
+https://www.tokopedia.com/terms#etalase
+https://www.tokopedia.com/terms#komisi
+https://www.tokopedia.com/terms#harga
+https://www.tokopedia.com/terms#tarif-pengiriman
+https://www.tokopedia.com/terms#konten
+https://www.tokopedia.com/terms#item
+https://www.tokopedia.com/terms#PMtopads
+https://www.tokopedia.com/terms#cc
+https://www.tokopedia.com/terms#promo
+https://www.tokopedia.com/terms#pengiriman
+https://www.tokopedia.com/terms#withdrawal
+https://www.tokopedia.com/terms#resolution
+https://www.tokopedia.com/terms#ketentuan-lain
+https://www.tokopedia.com/terms#responsibility
+https://www.tokopedia.com/terms#pelepasan
+https://www.tokopedia.com/terms#ganti-rugi
+https://www.tokopedia.com/terms#pilihan-hukum
+https://www.tokopedia.com/terms#pembaharuan
+https://www.tokopedia.com/terms#biaya-layanan
+https://www.tokopedia.com/help/article/metode-bayar-di-tokopedia
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/help/article/kebijakan-penalti-pengguna
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/help/article/bagaimana-jika-nomor-resi-yang-saya-input-tidak-valid
+https://www.tokopedia.com/help/article/batas-waktu-respon-pesanan-dan-konfirmasi-pengiriman
+https://seller.tokopedia.com/edu/skema-keanggotaan-seller-tokopedia
+https://www.tokopedia.com/terms#
+https://www.youtube.com/t/terms
+https://policies.google.com/privacy
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/help/article/produk-yang-saya-jual-dihapus/
+https://www.tokopedia.com/help/article/video-pada-produk-saya-dihapus
+https://play.google.com/about/developer-content-policy-print/
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://seller.tokopedia.com/edu/power-merchant-pro
+https://www.tokopedia.com/help/article/syarat-dan-ketentuan-pembayaran-dengan-sistem-cicilan
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/help/article/syarat-dan-ketentuan-pembayaran-dengan-sistem-cicilan
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/help/article/apa-itu-tokopoints
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/help/article/faq-pengiriman-non-partner-tokopedia
+https://www.tokopedia.com/help/article/st-0159-layanan-pengiriman-di-tokopedia
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://www.tokopedia.com/terms#
+https://tokopedia.com/help/article/syarat-dan-ketentuan-biaya-layanan
+https://www.tokopedia.com/terms#
+)
+
+Terms & Conditions
+
+Welcome to www.tokopedia.com.
+The terms & conditions set out below govern the use of the services offered by PT. Tokopedia regarding the use of the www.tokopedia.com site. Users are advised to read carefully because it can affect the rights and obligations of the User under the law.
+By registering and/or using the www.tokopedia.com site, the user is deemed to have read, understood, understood and agreed to all contents in the Terms & Conditions. These terms & conditions are a form of agreement as outlined in a valid agreement between the User and PT. Tokopedia. If the user does not agree to one, part, or all of the contents of the Terms & Conditions, then the user is not allowed to use the services at www.tokopedia.com.
+A. Definition
+B. Account, Refund Balance, Income Balance, Password and Security
+C. Purchase Transaction
+D. Sales Transaction
+E. Storefront Arrangement
+F. Commission
+G. Price
+H. Shipping Rates
+I. Content
+J. Types of Goods and Services
+K. Power Merchants and TopAds
+L. Credit Card
+M. Promo
+N. Shipping
+O. Withdrawal of Funds
+P. Resolution Center
+Q. Other Terms
+R. Disclaimer of Warranty and Limitation of Liability
+S. Release
+Q. Indemnity
+U. Choice of Law
+V. Update
+W. Service Fee
+A. Definition
+PT Tokopedia is a limited liability company that operates a web portal service business activity www.tokopedia.com, which is a search site for shops and goods sold by registered sellers. Hereinafter referred to as Tokopedia.
+Tokopedia's website is www.tokopedia.com.
+Terms & conditions are an agreement between a User and Tokopedia that contains a set of rules governing the rights, obligations, responsibilities of users and Tokopedia, as well as procedures for using the Tokopedia service system.
+Users are parties who use Tokopedia services, including but not limited to buyers, sellers or other parties who just visit the Tokopedia Site.
+Buyer is a registered User who makes a request for Goods sold by the Seller on the Tokopedia Site.
+Seller is a registered User who opens a store and/or makes an offer of an item to Tokopedia Site Users.
+Goods are objects that are tangible / have physical goods that can be delivered / meet the delivery criteria by the goods delivery service company.
+Refund balance is a temporary storage facility for Buyer's funds (not a fund storage facility), provided by Tokopedia to accommodate transaction refunds for purchases of goods, digital products, and/or financial products. These funds can only be reused to make purchases on the Tokopedia Site and/or withdrawn to a registered bank account.
+Income Balance is a temporary storage facility for Seller's funds (not a fund storage facility), provided by Tokopedia to accommodate funds from the sale of Goods, investment products, and/or affiliate commissions on the Tokopedia Site. These funds can only be withdrawn to a registered bank account and cannot be used again to make purchases on the Tokopedia Site.
+Feed is a feature on the Tokopedia Site/Application that displays content from Sellers, KOL, or other parties related to certain Goods.
+Key Opinion Leaders or KOLs are parties who promote certain Items or Sellers through Feeds.
+Tokopedia Official Account is a joint account agreed by Tokopedia and users to process buying and selling transactions on the Tokopedia Site. Tokopedia's official account can be found on the https://www.tokopedia.com/help/article/method-pay-di-tokopedia page .
+Internal Dropshipper is a transaction that entirely occurs within the scope of Tokopedia carried out by a Seller by buying goods from other sellers and reselling them through the Tokopedia Site.
+Back to top
+B. Account, Refund Balance, Income Balance, Password and Security
+The user hereby declares that the user is a competent person and is able to bind himself in a legal agreement according to law.
+Tokopedia does not charge a registration fee to users.
+User understands that 1 (one) phone number can only be used to register 1 (one) Tokopedia User account, except for Users who already have multiple accounts with 1 (one) previous phone number.
+Users who have registered have the right to act as:
+Buyer
+Sellers, by taking advantage of shop opening services.
+Users who will act as Sellers are required to choose the option of using an open store service. After using the shop opening service, the User has the right to make arrangements for the items to be traded in the User's personal storefront.
+Users who have opened a store are expected to upload product content to be traded within 90 (ninety) calendar days after the store has been successfully opened. If within 90 (ninety) calendar days the User still does not upload product content, then the User agrees and understands that Tokopedia has the right to moderate and/or close the store without prior notice.
+Tokopedia without prior notification to the User, has the authority to take necessary action for any alleged violation or violation of the Terms & conditions and/or applicable law, namely actions in the form of moving goods to the warehouse, deletion of goods, store moderation, store closures, cancellation of listings. , account suspension, and/or deletion of user accounts.
+Tokopedia has the authority to close stores or User accounts either temporarily or permanently if fraudulent transactions are found, violations of the Tokopedia Terms and Conditions, including but not limited to the User Penalty Policy which you can see HERE . The user agrees that Tokopedia has the right to take other necessary actions regarding this matter, including but not limited to refusing the application for a new store opening if similar data is found.
+The user understands and agrees not to use, modify, disassemble, duplicate, resell and/or other exploiting activities on software systems or hardware, networks and/or Site/Application data with automatic or manual technology without permission from Tokopedia. .
+The user agrees not to use and/or access the Tokopedia system directly or indirectly either in whole or in part with viruses, software, or other technology that can result in weakening, damaging, disrupting or hindering, limiting and/or taking over the functionality and integrity of the software or hardware systems, networks, and/or data on the Tokopedia Site/Application.
+Users are prohibited from creating and/or using hardware/software/features and/or other tools, including but not limited to emulators, robots, macros, crawlers and/or automated devices that aim to access or use services on the Tokopedia system, such as but not limited to: (i) store data manipulation; (ii) create multiple accounts; (iii) manipulating devices aimed at harming Tokopedia; (iv) crawling/scraping or content copying activities; (v) automation activities in transactions, buying and selling, promotions, and so on; (vi) addition of products to storefronts; (vii) collect (harvest) or steal user data; (viii) spamming, sending large amounts of electronic communications, sending chain letters;
+Tokopedia has the authority to adjust the number of store transactions, adjust the number of reputations, and/or carry out the moderation process/close the User's account, if it is known or suspected of fraud by the User aimed at manipulating User transaction data in order to improve the store's reputation (review and or number of transactions). . An example is doing the shopping process to the store itself using a personal account or other personal accounts.
+Refund balances come from refunds for purchases of goods, digital products, and/or financial products on the Tokopedia Site and cannot be added independently (top up).
+Refund balance can be used as a method of payment for purchases of goods, digital products, and/or investment products on the Tokopedia Site, and withdrawals can be made to the bank account registered in the User's account.
+Income balance only comes from the sale of goods, investment products, and/or affiliate commissions on the Tokopedia Site and cannot be added independently (top up).
+Income Balance can only be withdrawn to a bank account registered in the User's account, and cannot be used as a payment method for purchases of goods, digital products, and/or investment products on the Tokopedia Site, but can be used for features subscriptions that help Sellers, such as TopAds or store cashback promos.
+Tokopedia has the authority to freeze Refund Balance and User Income Balance if it is found / suspected of fraud in transactions and / or violation of the terms and conditions of Tokopedia.
+Sellers are prohibited from duplicating stores, duplicating products, or other actions that may be indicated as unfair competition efforts.
+Users have the right to change the store name and/or store domain in accordance with the policies determined by Tokopedia. The User must ensure that the changes to the store name and/or store domain are as desired and the User is personally responsible for changes to the store name and/or store domain made by the User. The User agrees that any engagements and legal actions that occurred prior to the change of the store name and/or store domain remain binding on the User.
+Users have the right to make changes to the account name as much as the number of opportunities provided and Tokopedia has the right to change the number of opportunities to change the account name. The User must ensure that the changes to the account name are in accordance with the wishes and are personally responsible for changes to the account name made by the User. The User agrees that any engagements that occurred prior to the name change remain binding on the User.
+The User is personally responsible for maintaining the confidentiality of the account and password for all activities that occur in the User's account.
+Tokopedia will not ask for a username, password or verification SMS code or OTP code belonging to the User's account for any reason, therefore Tokopedia urges Users not to provide such data or other important data to parties on behalf of Tokopedia or other parties whose security cannot be guaranteed.
+The User agrees to ensure that the User logs out of the account at the end of each session and notifies Tokopedia of any unauthorized use of the User's password or account.
+The user hereby declares that Tokopedia is not responsible for any losses or obstacles arising from the misuse of User accounts caused by User negligence, including but not limited to agreeing and/or providing account login access sent by Tokopedia via notification messages to other parties via the device. Users, lend accounts to other parties, access links or links provided by other parties, provide or show verification codes (OTP), passwords or emails to other parties, or the negligence of other Users which results in losses or problems in the User's account.
+The User understands and agrees that in order to use the one time password (OTP) security facility, the relevant telecommunications service provider may at any time charge the User with the following nominal (i) IDR 500 plus 10% tax for Indosat, Tri, XL, Smartfren, and Esia; (ii) IDR 200 plus 10% tax for Telkomsel.
+Sellers are prohibited from promoting shops and/or goods directly using private messaging facilities, product discussions, product reviews that may disturb the convenience of other users.
+Back to top
+C. Purchase Transaction
+Buyers are required to transact through transaction procedures that have been set by Tokopedia. The buyer makes a payment using the payment method previously chosen by the buyer, and then Tokopedia will forward the funds to the seller if the stages of the sale and purchase transaction on the Tokopedia system have been completed.
+When making a purchase of Goods, the Buyer agrees that:
+The buyer is responsible for reading, understanding, and agreeing to the information/description of the entire Goods (including but not limited to color, quality, function, etc.) before making an offer or commitment to purchase.
+The Buyer acknowledges that the actual color of the product as seen on the Tokopedia Site/Application depends on the Buyer's computer monitor and cellphone screen. Tokopedia has made its best efforts to ensure that the colors in the photos displayed on the Tokopedia Site/Application appear as accurate as possible, but cannot guarantee that the color appearance on the Tokopedia Site and application will be accurate.
+The User enters into a legally binding contract to purchase the Goods when the User purchases an Item.
+Tokopedia does not transfer legal ownership of the goods from the Seller to the Buyer.
+The Buyer understands and agrees that the availability of stock of the Goods is the responsibility of the Seller who offers the Goods. Regarding the availability of stock of goods, it can change at any time, so that when the stock of goods is empty, the seller will refuse the order, and payment for the goods in question is returned to the buyer.
+The Buyer fully understands and agrees that all transactions made between the Buyer and the Seller other than through the Tokopedia Official Account and/or without Tokopedia's knowledge (through private facilities/network, sending messages, setting up special transactions outside the Tokopedia site or other efforts) are personal responsibility from Buyer.
+Tokopedia has full authority to refuse payment without prior notification.
+The Buyer agrees and understands that by using the Tokopedia Site/Application when the Buyer makes a purchase transaction, Tokopedia will forward the Buyer's information data to the Seller.
+Buyers who use the bank transfer payment method, the total value of the payment will be added with a unique code to simplify the verification process. If the payment has been verified, the unique code will be returned to the Buyer's Refund Balance in real time.
+Buyers are required to make payments with the selected payment method with a nominal that corresponds to the amount of the bill along with the unique code (if any) listed on the payment page. PT Tokopedia is not responsible for the losses suffered by the Buyer, if the Buyer makes a payment that does not match the amount of the bill stated on the payment page.
+Payment by the Buyer must be made immediately (at the latest within 1x24 hours) after the Buyer checks out. If within that time limit the payment has not been made by the Buyer, Tokopedia has the authority to cancel the transaction. The user has no right to file a claim or demand for the cancellation of the transaction.
+Buyers are advised to re-check the nominal amount of the payment with the billing amount listed on the payment page. Specifically for payments via bank transfer (manual verification), if there is a lack of payment in the amount of the bill that should be paid, the Buyer will receive a notification via e-mail of the Buyer registered on the Site/Application, in order to make a payment back to the official Tokopedia account, according to the difference in payment stated on the payment page and the nominal amount that has been paid, up to a predetermined time limit.
+Payment by bank transfer payment method (manual verification) is highly recommended to upload proof of payment on the Tokopedia Application to simplify the verification process.
+The Buyer understands and agrees that the problem of delays in the payment process and additional costs caused by the difference between the bank the Buyer uses and the official Tokopedia Account bank is the Buyer's personal responsibility.
+Refunds from Tokopedia to Buyers can only be made in the following certain circumstances:
+Excess payment from the Buyer over the price of the Goods,
+The problem of delivery of the goods has been clearly identified from the seller which resulted in the goods order not arriving,
+The seller cannot accept orders due to out of stock, changes in shipping costs, or other causes,
+The seller has agreed to deliver the goods order, but after the specified time limit it turns out that the seller does not send the goods until the specified time limit.
+Resolution of problems through the Resolution Center in the form of a decision to refund to the Buyer or the result of a decision from Tokopedia.
+In the event of a refund process, the refund will be made through the User's Refund Balance which will increase according to the refund amount. If the User uses the choice of credit card payment method, the refund will refer to the provisions of section M regarding Credit Cards.
+The buyer agrees not to notify or submit proof of payment and/or payment data to parties other than Tokopedia. In the event of a loss due to notification or submission of proof of payment and/or payment data by the Buyer to another party, then this will be the responsibility of the Buyer.
+The buyer is obliged to confirm receipt of the goods, after receiving the shipment of the goods purchased. Tokopedia provides a time limit of 2 (two) days after the delivery is "sent" in the Tokopedia system, for Buyers to confirm receipt of Goods. If within that time limit there is no confirmation or claim from the Buyer, then the Buyer thus agrees to confirm the receipt of the Goods automatically by the Tokopedia system.
+After confirmation of receipt of Goods or confirmation of automatic receipt of Goods, the Buyer's funds sent to the official Tokopedia Account will be continued to be sent to the Seller (the transaction is considered complete).
+The buyer understands and agrees that any claims made after confirmation / automatic confirmation of receipt of the Goods are not the responsibility of Tokopedia. Losses that arise after confirmation / automatic confirmation of receipt of the Goods are the responsibility of the Buyer personally.
+The Buyer understands and agrees that any problems with the delivery of the Goods caused by delays in payment are the responsibility of the Buyer.
+Tokopedia has the authority to make decisions on unresolved transaction problems due to the absence of a settlement agreement, both between the Seller and the Buyer, by looking at the available evidence. Tokopedia's decision is a final decision that cannot be contested and binds the Seller and Buyer to comply.
+Back to top
+D. Sales Transaction
+The seller is prohibited from manipulating the price of the goods for any purpose
+Sellers are prohibited from offering/trading prohibited goods in accordance with the provisions of Point J. Types of Goods.
+The seller is obliged to provide complete and clear photos and product information in accordance with the conditions and quality of the products he sells. If there is a discrepancy between the photo and product information uploaded by the Seller and the product received by the Buyer, Tokopedia has the right to cancel/withhold transaction funds.
+In using the "Product Title", "Product Photo", "Notes" and "Product Description" facilities, Sellers are prohibited from making regulations that are standard clauses that do not meet the prevailing laws and regulations in Indonesia, including but not limited to (i) not receive complaints, (ii) do not accept returns (exchange of goods), (iii) do not accept refunds (refunds), (iv) goods without warranty, (v) transfer of responsibility (including but not limited to covering shipping costs), (vi ) depreciation of the price value and (vii) unilateral delivery of random goods. If there is a conflict between store records and/or product descriptions with the Tokopedia Terms & Conditions, the applicable rules are the Tokopedia Terms & Conditions.
+The seller is obliged to provide a reply to accept or reject the Buyer's Goods order within 2 days from the notification of the Goods order from Tokopedia. If within that time limit there is no reply from the seller, the order will automatically be cancelled.
+In order to maintain the convenience of the Buyer in transactions, the Seller understands and agrees that Tokopedia has the right to moderate the Seller's store if the Seller rejects, cancels and/or does not respond to the Buyer's Goods order with suspicion of manipulating transactions, violating the Terms and Conditions, and/or cheating or other abuse.
+The Seller agrees and understands that by receiving the Buyer's information data contained in the Site/Application, he is obliged to maintain confidentiality and is prohibited from abusing the Buyer's information data in any form. Tokopedia has the right, without prior notice, to investigate and impose sanctions on allegations or reports of misuse of Buyer data.
+Sellers are expected to enter a valid Goods delivery receipt number or AWB (air way bill), namely:
+The date of making the Goods delivery receipt is not earlier than the date of the Goods purchase transaction;
+Goods delivery receipt number must be traceable or found on the tracking website or Tokopedia partner shipping service system; and/or
+Is a receipt for delivery of goods that is intended for the buyer who will receive the package (delivery details must be the same).
+A more complete explanation can be seen here
+The seller is required to enter a valid Goods delivery receipt number within 2 x 24 hours (excluding Saturday/Sunday/National holidays) as of the notification of the Goods order from Tokopedia.
+If the Seller enters an invalid or untraceable Goods delivery receipt number, the Seller must enter a valid Goods delivery receipt number within 1 x 24 hours (excluding Saturday/Sunday/National holidays) as of the notification of the invalid receipt number or not. tracked information provided by Tokopedia to the Seller.
+If within the time limit in the Terms & Conditions Points D. 8 and D. 9 the Seller does not enter a valid Goods delivery receipt number, the order will automatically be considered canceled. If the Seller continues to send the Goods after exceeding the delivery time limit as described above, the Seller understands that the transaction will still be canceled for later the Seller can withdraw the Goods at the courier where the Goods are sent.
+The Seller understands and agrees that the delivery courier cannot be changed by the Seller after the Seller confirms the delivery and is entirely the responsibility of the Seller. A more complete explanation can be found here .
+Tokopedia is authorized to cancel transactions and/or withhold transaction funds in the event that: (i) the courier receipt number for the delivery of Goods provided by the Seller does not match and/or is suspected to be inconsistent with the transactions that occurred on the Tokopedia Site; (ii) the Seller sends the Goods via courier/logistics services other than those provided and connected to the Tokopedia Site; (iii) if the product name and product description do not match/unclear with the product being shipped; (iv) if transaction manipulation is found; and/or (v) include the delivery receipt number of the Goods that has been used by other Sellers (internal dropshipper)
+The Seller understands and agrees that all Taxes related to Sales transactions (but not limited to changes in store information and/or goods), will be reported and managed by each Seller in accordance with the applicable tax provisions in the laws and regulations in Indonesia.
+Sellers who have reached 100 (one hundred) sales transactions will be charged a service fee of 0.5% of each subsequent sales transaction which will take effect after June 14, 2021, this provision only applies to regular Sellers and does not apply to Sellers with Power Merchant status, Power Merchant Pro and/or Official Store, with further conditions that can be seen HERE . 
+Tokopedia has the authority to make decisions on unresolved transaction problems due to the absence of a settlement agreement, both between the Seller and the Buyer, by looking at the available evidence. Tokopedia's decision is a final decision that cannot be contested and binds the Seller and Buyer to comply.
+If agreed by the Seller and the Buyer, the use of Logistics services that are different from the buyer's initial choice can be made (provided that the shipping rate is below the initial shipping rate).
+Tokopedia is authorized to deduct the excess shipping rate from the buyer's payment funds and return the excess shipping rate difference to the buyer.
+Seller fully understands and agrees that the invoice issued is in the name of the Seller.
+Back to top
+E. Storefront Arrangement
+Sellers are prohibited from using storefronts (including but not limited to store information and item information) as a medium to advertise or promote to other web pages outside the Tokopedia site.
+Sellers are prohibited from providing personal contact data with the intention of conducting transactions directly to Buyers / potential Buyers.
+The seller is prohibited from providing information (information on the store and/or goods) other than/outside the description of the store and/or goods in question.
+Naming of Goods and product information must be done in accordance with detailed information, specifications, and conditions of the Goods, thus Users are not allowed to include names, descriptions, pictures and/or words that are not related and/or do not match the Goods.
+Sellers who add video references to their Storefronts sourced from third party links including but not limited to Youtube and Google are required to comply with third party policies, in which case Youtube policies can be viewed HERE and Google Policies can be viewed HERE .
+The naming of the goods and product information must be in accordance with the condition of the goods displayed and the user is not allowed to include names and information that are not in accordance with the condition of the goods.
+Tokopedia has the right without prior notice to withdraw subsidies (cashback), cancel Rewards benefits, decrease content and/or store moderation, if violations are found as stipulated in Points E.4 and E.5.
+The seller must separate each item that has a different size and price.
+Tokopedia has the authority to take over the Seller's store sub-domain if the Seller's account has been inactive for more than 9 months, and/or the owner of the official trademark (in accordance with the General Register of Marks in Indonesia) with the same name as the Seller's sub-domain makes a claim against it because they want to use the sub-domain.
+Tokopedia has the authority to change the name and/or use the name of the Store and/or User's domain for Tokopedia's internal interests.
+Back to top
+F. Commission
+Tokopedia does not charge a commission for transactions made through the Tokopedia Site, unless the User uses certain features or services that are subject to service fees.
+If in the future a commission system will be applied in transactions through the Tokopedia Site, it will be notified to the affected Users through the Tokopedia Site.
+Back to top
+G. Price
+The price of the goods contained on the Tokopedia site is the price set by the Seller. Sellers are prohibited from manipulating the price of goods in any way.
+Sellers are prohibited from setting unreasonable prices on goods offered through the Tokopedia Site. Tokopedia has the right to take action in the form of moving the Goods to the warehouse, checking, delaying, or decreasing content as well as other actions based on Tokopedia's own judgment on the basis of unfair pricing.
+The Buyer understands and agrees that errors in price descriptions and other information caused by not updating the Tokopedia website page due to the browser/ISP used by the Buyer are the responsibility of the Buyer.
+The Seller understands and agrees that typographical errors that cause the price description or other information to be incorrect / appropriate are the responsibility of the Seller. Keep in mind that in this case, if there is an accidental typing error in the price description of the Goods, the Seller has the right to refuse the order of the Goods made by the buyer.
+The user understands and agrees that any problems and/or disputes that occur due to disagreements between the Seller and the Buyer regarding the price are not the responsibility of Tokopedia.
+By placing an order through Tokopedia, the User agrees to pay the total fee to be paid as stated on the payment page, which consists of the price of goods, shipping costs, and other costs that may arise and will be described explicitly on the payment page. The User agrees to make payment through the payment method previously selected by the User.
+The maximum unit price limit for goods that can be offered is Rp. 100,000,000,-
+The Tokopedia site currently only serves goods buying and selling transactions in Rupiah currency.
+Back to top
+H. Shipping Rates
+The buyer understands and understands that Tokopedia has made its best effort in providing accurate delivery rate information to Buyers based on location, but Tokopedia cannot guarantee the accuracy of the data with those at the local branch.
+Therefore, Tokopedia advises Sellers to first record the rates provided by Tokopedia, so that they can be compared with the rates charged at local branches. If you find a difference, please inform us via the contact us menu by providing the price data obtained along with the city of origin and destination, so that we can investigate further.
+The User understands and agrees that the difference in the cost of shipping the Goods is beyond the responsibility of Tokopedia, and therefore, it is the Seller's own policy to cancel or continue to deliver the Goods.
+Back to top
+I. Content
+In using any features and/or services of Tokopedia, Users are prohibited from uploading or using words, comments, pictures, videos or any content that contains elements of SARA, discrimination, demeaning or cornering others, vulgar, threatening, advertising or promoting. to sites other than the Tokopedia Site, or other things that can be considered not in accordance with social values ​​and norms or based on policies determined by Tokopedia itself. Tokopedia has the right to take necessary actions for violations of these provisions, including content deletion, store moderation, account blocking, and others. Further provisions regarding Tokopedia's content policy can be viewed HERE and video terms can be viewed HERE .
+Users are prohibited from using photos/images of goods that have a watermark indicating the ownership rights of others.
+The User hereby understands and agrees that the misuse of the photos/images uploaded by the User is the User's personal responsibility.
+Sellers are not allowed to use photos/images of goods or store logos as media to advertise or promote to other sites outside the Tokopedia Site, or provide personal contact data to make transactions directly to buyers/potential buyers.
+The seller guarantees that the uploaded photos/images do not include content that is prohibited under Point I.1 or violates the property rights of other parties. If it is found that photos/images violate the content based on Point I.1 or there are reports of violations of the rights of other parties, then Tokopedia has the right to take necessary actions for violations of these provisions, including but not limited to deleting content and/or other actions that need to be taken.
+When a User uploads to the Tokopedia Site with content or posts content, the User grants Tokopedia a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sublicensed (through multiple tiers) right to exercise any and all copyright , publicity, trademark, database rights and intellectual property rights that the User has in the content, in any known media now or in the future. Furthermore, to be fully permitted by applicable law, you waive your moral rights and promise not to claim those rights against Tokopedia.
+Users guarantee that they do not violate intellectual property rights in uploading User content to the Tokopedia site. Each User hereby is personally responsible for the violation of intellectual property rights in uploading content on the Tokopedia Site.
+Tokopedia provides a "Product Discussion" feature to make it easier for buyers to interact with sellers regarding the goods offered. The seller is not allowed to use these features for the purpose of increasing the price of his merchandise in any way, including making comments for the first time or providing subsequent / continuous comments on a regular basis (flooding / spam).
+Although we try to offer reliable information, we cannot promise that the catalog will always be accurate and up-to-date, and the User agrees that the User will not hold Tokopedia responsible for any discrepancies in the catalog. The catalog may include copyright, trademark or other proprietary rights.
+Content or material that will be displayed or displayed on the Tokopedia Site/Application via Feed will be subject to the Site Terms, legal regulations, and applicable advertising ethics.
+KOL, Users or other parties who use the Feed feature are fully responsible for the content or material uploaded through the Feed feature.
+Tokopedia has the right to take down content or material contained in the Feed at any time which is considered to violate the Site Terms and Conditions, applicable legal regulations, and applicable advertising ethics.
+Sales of products containing tobacco and/or e-cigarettes are only allowed to be sold into 6 (six) certain categories, namely:
+Other Adult Product Categories;
+Category E-cigarettes;
+Liquid Vape Category;
+Vaporizer Package Category;
+MOD category; and/or
+Atomizer Category.
+Tokopedia reserves the right at any time without prior notice, to take action to reduce content that sells e-cigarette products, e-cigarette devices, e-cigarette liquids, and/or products containing tobacco on the Android platform, including but not limited to tobacco products, nicotine , liquid vape, mod, pod, heatstick, vaporizer and/or E-Cigarette, refer to Google Play Store policy which can be seen HERE .
+Tokopedia reserves the right at any time without prior notice, to take action in the form of a decrease in store reputation or store moderation, if the Seller is suspected of manipulating content as regulated in point I.14, including but not limited to manipulation of the writing of product names, product images, product descriptions and /or other activities that aim to deceive the sale of content as stipulated in point I.14 in order to continue to make offers using the Android Application.
+Back to top
+J. Types of Goods and Services
+The following is a list of the types of goods and services that are prohibited and/or restricted to be traded by the Seller on the Tokopedia Site: All types of drugs or other substances that are prohibited or restricted in circulation according to the applicable legal provisions, including but not limited to the provisions of the Act. -Law on Narcotics, Law on Psychotropics, and Law on Health. Also included in this provision are hard drugs, drugs that require a doctor's prescription, anesthetics and the like, or drugs that do not have a distribution permit from the Food and Drug Supervisory Agency (BPOM).
+Cosmetics and food and beverages that endanger the safety of their users, or who do not have a distribution permit from the Food and Drug Supervisory Agency (BPOM).
+Materials classified as Hazardous Materials according to the applicable Regulation of the Minister of Trade.
+Certain types of Products that are required to have:
+SNI;
+Instructions for use in Indonesian; or
+Labels in Indonesian.
+While those being traded do not include these things.
+Other goods whose ownership or circulation violates the legal provisions in force in Indonesia.
+Goods that are the result of Copyright infringement, including but not limited to media in the form of books, CD/DVD/VCD, information and/or electronic documents, as well as other media that are contrary to the Copyright Law.
+Adult goods of a sexual nature in the form of stimulant drugs, sex aids containing pornographic content, as well as strong drugs and adult drugs, both of which do not have a BPOM distribution permit or whose circulation is limited by applicable legal provisions.
+Alcoholic beverages.
+Advertisement.
+Any form of writing that can negatively affect the use of this site.
+Used underwear.
+Firearms, sharp weapons, air rifles, and all kinds of weapons.
+Government and travel documents.
+Government uniform.
+Human parts/organs.
+Mailing lists and personal information.
+Items that harass certain parties/races or can demean other people.
+Pesticide.
+Police attributes.
+Items resulting from theft.
+Unlocker and all accessories supporting the act of robbery/theft.
+Items that can and or are flammable, ignite or ignite on their own.
+Printed/recorded goods whose contents may disturb security & order as well as national stability.
+Animal.
+Cash includes foreign currency unless the Seller has and can include a license as a Non-Bank Foreign Exchange Business Operator based on Bank Indonesia Regulation No.18/20/PBI/2016 and/or other regulations related to foreign exchange.
+Stamp.
+Signal scrambler, signal remover, and/or other tools that can interfere with the signal or telecommunications network
+Gambling equipment and equipment.
+Amulets, objects that are claimed to have supernatural powers and give supernatural powers.
+Goods with Exclusive Distribution rights that can only be traded with a direct sales system by authorized sellers and/or Goods with a Multi Level Marketing sales system.
+Non-physical products that cannot be sent via courier services, including but not limited to credit/voucher products (telephone, electricity, games, and/or digital credit), airline tickets and/or train tickets.
+Show tickets, including but not limited to concert tickets, both physical and non-physical.
+Official documents such as TOEFL Certificates, Diplomas, Doctor's Letters, Receipts, and so on
+All other types of Goods that are contrary to the regulations for shipping Indonesian Goods.
+Other goods that violate the provisions of applicable law in Indonesia.
+All types of services except for offers from Tokopedia and its affiliates including but not limited to printing services, cleaning services, wedding and parenting services.
+All types of Items whose contents are uncertain, random and/or raffled, including but not limited to Mystery Box Products. This provision is excluded for the Official Store and Tokopedia Affiliates.
+Back to top
+K. Power Merchants and TopAds
+Users can register as a Power Merchant or Power Merchant Pro, which is a service on the Tokopedia Site/Application that makes it easy for Sellers to manage online stores with various exclusive facilities provided by Tokopedia that vary based on membership level, including: (i ) status and symbol "Power Merchant Logo" or "Power Merchant Pro Logo"; (ii) Topads facilities, store statistics, store admin, shop cover and other facilities which can be seen in detail on the https://seller.tokopedia.com/edu/power-merchant-pro page .
+Status, symbols, logos, names or other things related to Power Merchant or Power Merchant Pro are entirely under the authority of Tokopedia and are only given by Tokopedia to Power Merchant customers. Users are not allowed to imitate or use these things in Store Names, Store Descriptions, Product Names, Product Photos, and so on.
+In using the TopAds feature, the User understands and agrees that every advertisement that the User uploads on the Tokopedia site is the User's personal responsibility and releases Tokopedia from any problems that may arise from it.
+Tokopedia without prior notification to Users, has the authority to take action to remove any advertising content that violates Tokopedia's Terms & conditions and/or applicable law. Users can see the terms and conditions regarding TopAds in detail on the https://www.tokopedia.com/help/article/terms-and-conditions-payment-with-system-installment page .
+Tokopedia is authorized to (i) remove advertisements; (ii) store closures; (iii) account closure; in the event that it is suspected and/or there are User activities that violate the legal provisions and/or the terms and conditions of Tokopedia. Thus, the User understands and agrees that any losses arising from the above actions are not the responsibility of Tokopedia, including but not limited to losing TopAds credit.
+Back to top
+L. Credit Card
+Users can choose to use a choice of payment methods using a credit card for purchases of goods and digital products through the Tokopedia Site.
+Purchases of goods using a credit card can be made for purchase transactions with a total shopping value of at least Rp. 50,000 (fifty thousand rupiah) up to a maximum of Rp 50,000,000 (fifty million rupiah) for marketplace and/or digital transactions, transactions can be made up to Rp 500,000,000,- (five hundred million rupiah) specifically for purchasing car products at the Official Store .
+Purchases of goods using a credit card must follow the terms and conditions set by Tokopedia and use the courier/logistics provided and connected to the Tokopedia Site.
+Users are prohibited from using credit card payment methods other than their intended use as a means of payment.
+If there is a purchase of goods using a credit card that violates the legal provisions and/or the terms and conditions of Tokopedia, then Tokopedia is authorized to: hold transaction funds for as long as required by Tokopedia, the Bank, or the relevant payment gateway partner to conduct the necessary investigations, at least 14 (fourteen) days;
+cut funds by 15% (fifteen percent) of the transaction value, as well as withdraw the subsidy value in connection with the use of credit cards.
+Tokopedia is authorized to investigate Credit Card transactions by holding the payment verification process before the transaction is forwarded to the Seller for a certain time until confirmation from the credit card provider bank partner, as well as payment gateway partner and/or canceling the Credit Card transaction if there are indications of a violation. applicable legal provisions and/or Tokopedia Terms and Conditions. 
+In the verification process carried out by the bank partner and/or payment gateway partner, the User will be contacted by the bank partner and/or payment gateway partner, if the User does not deny or cancel the verification, the transaction will be forwarded to the Seller and Tokopedia is not responsible if a loss occurs due to the negligence of the User.
+The User understands and agrees that he is personally responsible for maintaining the confidentiality and/or security of User's Credit Card data by maintaining the confidentiality of the Credit Card number, Credit Card CVV code, and verification SMS code or SMS OTP code ( One-time Password ) that has been sent by the Bank when making a transaction.
+Tokopedia will stop cooperation with Sellers who take actions that can harm the principal, issuer, acquirer and/or credit card holder, including processing cash withdrawal transactions.
+If the purchase transaction is unsuccessful and/or canceled, the bill for the transaction will be canceled and the transaction funds will be returned to the buyer's credit card limit on the next bill. The provisions in this paragraph do not apply to purchases of goods using a credit card that violates the legal provisions and/or the terms and conditions of Tokopedia.
+Purchase transactions using the credit card payment method will be subject to a service fee of 1.5% of the total fee to be paid. This service fee is applied for the purpose of system maintenance and service improvement in shopping.
+Purchase transactions using the credit card installment payment method will be subject to a service fee that is applied for the purpose of system maintenance and service improvement in transactions through Tokopedia, with details as follows:
+Installment 3 (three) months of 2.5% (two point five percent)
+Installment 6 (six) months of 3.5% (three point five percent)
+Installment 12 (twelve) months of 6% (six percent)
+Installment 18 (eighteen) months of 8% (eight percent)
+Installment 24 (twenty four) months of 10% (ten percent)
+If all transactions in one payment using a credit card are canceled, the service fee will be returned to the User's credit card limit. However, if only part of the transaction in one payment uses
+the credit card is canceled, the service fee will not be refunded.
+Further provisions regarding payments using the credit card installment payment method will follow the provisions contained on the https://www.tokopedia.com/help/article/terms-and-conditions-payment-with-system-installment page /.
+Back to top
+M. Promo
+Tokopedia may at any time hold promotional activities (hereinafter referred to as "Promo") with Terms and Conditions that may be different for each Promo activity. Users are encouraged to read carefully the Terms and Conditions of the Promotion.
+Users may only use 1 (one) Tokopedia account to participate in every Tokopedia promo. If it is found that the creation of more than 1 (one) account by 1 (one) User who has the same account information and/or the same payment identity, then the User is not entitled to benefit from the Tokopedia promo.
+On certain transactions, Users will have the opportunity to get Cashback Promos in the form of TokoPoints and/or OVO Points. Especially for TokoPoints, Users are required to follow the provisions of Tokopoints which can be seen HERE . 
+TokoPoints can be obtained and collected by Buyers by making purchases of Physical Products on the Site/Application using promo codes, coupons, and/or certain seller coupons. TokoPoints can be used and exchanged as an element of price reduction for the purchase transaction of Physical Products and/or Digital Products on the Site/Application but TokoPoints is not a payment method but a loyalty program found on the Tokopedia Site/Application. 
+Users who get the Cashback Promo, must activate the OVO account on the Site/Application, within 7×24 hours after the transaction is successful, or the Cashback Promo cannot be used and/or forfeited. Cashback benefits will be received a maximum of 1x24 hours after the transaction is successful and in accordance with the applicable Terms and Conditions.
+Make sure the verified mobile number is active at the time of making the transaction. If there is a change in the mobile number on the user's Tokopedia account because the previous number is no longer active, the user will not get cashback.
+If there is a Promo transaction that uses a credit card payment method that violates the Tokopedia Terms and Conditions, it will refer to the L. Credit Card Points Terms and Conditions.
+Tokopedia has the right, without prior notice, to take the necessary actions including but not limited to withdrawing subsidies or cashback, canceling Rewards benefits, revocation of Promos, canceling transactions, withholding funds, lowering store reputation, closing stores or accounts, and other things. if it is found that there is manipulation, use of invalid receipts in the majority of transactions, manipulation of the weight of goods in the product description (actual weight of goods and weight of goods in the product description must match), violation or use of the Promo for the personal benefit of the User, as well as indications of fraud or violation of the Terms and Tokopedia Terms and legal provisions that apply in the territory of the country of Indonesia.
+In the event of a Free Promo/Delivery Postage:
+If there is a difference between the weight of the Goods in the product description and the weight of the Goods sent by the Seller via courier/logistics services, the postage subsidy provided will refer to the weight of the Goods in the data of the courier/logistics party;
+Sellers who are entitled to receive postage subsidies are sellers who use valid shipping receipts and/or delivery receipts from Tokopedia transactions. Sellers who use invalid shipping receipts and/or shipping receipts that are not from Tokopedia transactions, the Seller is not entitled to receive shipping subsidies and/or 
+If (i) the Seller rejects the Buyer's order, (ii) the transaction is automatically canceled by the Tokopedia system, and/or (iii) the transaction is canceled based on a decision in the Resolution Center, the funds returned to the Buyer are the same as the transaction payment funds made by the Buyer and not including postage subsidies.
+Every Tokopedia Promo does not apply to the use of shipping receipts as follows:
+Delivery receipts that are inputted more than 1 (one) time. If it is found that 2 (two) or more times of receipt input is found, then the Promo benefits will only be given to transactions made by the first Buyer. Promo benefits cannot be forwarded to dropshipper transactions (second buyer). 
+Delivery receipts that are not from Tokopedia transactions. If it is found that the seller includes a delivery receipt that is not from a Tokopedia transaction, then the benefits of the Promo cannot be continued on the transaction and/or the Promo that has been given will be withdrawn in accordance with the one provided by Tokopedia.
+Every Tokopedia Promo is not valid for purchasing precious metal bars, shopping vouchers, internet vouchers, credit vouchers, data packages, and alcoholic beverages.
+Back to top
+N. Shipping
+Delivery of Goods in the Tokopedia system must use the services of an expedition company that has received verification of the Tokopedia partner chosen by the Buyer. If the Seller enters a receipt outside of the receipt of Tokopedia's partner partners (including shipping receipts from overseas couriers), Tokopedia has the right to refuse the receipt; where this may result in the cancellation of an order. More can be read here .
+Any provisions relating to the process of delivering Goods are the full authority of the Goods delivery service provider.
+The seller is obliged to fulfill the conditions set by the delivery service and is responsible for any goods sent.
+The user understands and agrees that any problems that occur during the process of delivering the Goods by the Goods delivery service provider are the responsibility of the delivery service provider.
+In the event that it is necessary to process the return of goods, the User, both Seller and Buyer, is required to deliver goods directly to each Buyer and Seller. Tokopedia does not accept returns or delivery of goods for transactions made by Users under any circumstances.
+In the event of problems in the delivery process in the form of lost goods, damaged goods, and so on, Buyers and Sellers can report to Tokopedia no later than 3x24 hours from the time of delivery for an investigation process.
+More complete information regarding Goods delivery service providers along with the provisions that apply to each Goods delivery service provider can be read here
+Back to top
+O. Withdrawal of Funds
+Withdrawal of funds between banks will be processed within 1x24 hours of working days, while withdrawals of funds between banks will be processed within 2x24 hours of working days.
+For withdrawal of funds with the purpose of account numbers outside of BCA, Mandiri, and BNI banks if there are additional fees charged will be the responsibility of the User.
+In the event that an alleged violation of the Tokopedia Terms and Conditions, fraud, manipulation or crime is found, the User understands and agrees that Tokopedia has the right to take action to check, freeze, postpone and/or cancel the withdrawal of funds made by the User.
+The examination, freeze or postponement of withdrawal of funds as referred to in Point O. 3 can be carried out for as long as required by Tokopedia.
+Back to top
+P. Resolution Center
+Resolution Center is a feature provided by Tokopedia to facilitate the resolution of transaction problems between Buyers and Sellers.
+This feature will automatically withhold funds for payment of goods to the Seller until the problem reported to the Resolution Center is resolved.
+In using this feature, Buyers and Sellers are expected to provide evidence of buying and selling transactions in the form of photos of goods, purchase notes, delivery receipt slips and other supporting evidence that can be used as the basis for justifying each argument issued by each party.
+Resolution of problems through the Resolution Center can be in the form of solutions produced based on a mutual agreement between the Buyer and the Seller.
+If the Seller does not provide an answer within 2 x 24 hours since the problem is created, the problem will automatically be resolved based on the solution proposed by the Buyer.
+If no agreement is found between the Buyer and the Seller within 2 x 24 hours, then Tokopedia has the right to help resolve the problem.
+In the event that Tokopedia helps resolve the problem, then in accordance with the Terms and Conditions of Points C. 16 and Point D. 11, the Buyer and Seller agree that Tokopedia is authorized to make decisions on the matter by looking at the existing evidence and/or new evidence. which must be completed by each party.
+Tokopedia is authorized to mediate and/or make decisions for problem solving in the Resolution Center discussion, even though one of the parties (Buyer or Seller) has not responded to the solution provided by the Resolution Center within 2 x 24 hours, in the event that: (i) The existence of information from third parties related to the course of the transaction, namely, among others, delivery couriers who provide information regarding the current status of package delivery receipts; (ii) Evidence from Buyers and/or Sellers sent via other communication channels (Tokopedia email, User Services, etc.) that needs to be forwarded to the Resolution Center on the basis of transparency of the problem; (iii) Reports from either party due to the negligence of the Buyer or Seller; (iv) One of the parties (Buyer or Seller) is indicated to have committed fraud; or (v) certain conditions that cause Tokopedia to immediately mediate.
+Based on Tokopedia's first decision above, both Buyer and Seller have the right to appeal, with the condition that the party filing the appeal must submit new evidence apart from the previous evidence.
+Buyer and Seller hereby agree that Tokopedia's decision on appeal is a final decision that cannot be contested and binds Seller and Buyer to comply.
+Users understand that the Resolution Center does not apply to used underwear products, problems related to product taste, aroma and/or texture, and all products in the list of types of goods that are prohibited from being traded on Tokopedia as listed on the Terms and Conditions page.
+Buyers and Sellers understand and agree that in resolving problems at the Resolution Center, Buyers and Sellers are required to respond to existing obstacles to completion by complying with the terms and time limits as determined by Tokopedia in the related discussion.
+Buyer and Seller understand and agree that the shipping costs incurred during the dispute resolution process at the Resolution Center are based on evidence and/or an agreement provided by both parties. If the Buyer and/or Seller are not willing to bear the shipping costs, then Tokopedia has the authority to make a decision to cover shipping costs based on the development of the discussion and the available evidence.
+The Buyer understands and agrees that after an agreement has been made to send the Goods back to the Seller, if within a maximum of 2 x 24 hours (excluding national holidays, Saturdays and Sundays) from the time the Seller provides the address, the Buyer has not delivered the goods, then Tokopedia is authorized to make decisions based on the development of the discussion and the available evidence.
+The Seller understands and agrees that the delivery of replacement Goods for Buyers can be made a maximum of 2 (two) working days (excluding national holidays, Saturdays and Sundays) as of the delivery status from the logistics courier that the Items returned by the Buyer have been received by the Seller If it is found that the Seller does not comply with this provision, then Tokopedia has the authority to make decisions based on the development of the discussion and the available evidence.
+Buyers and Sellers understand and agree that the time limit for providing evidence is a maximum of 2 x 24 hours from the time Tokopedia requests proof to Buyers and Sellers for related transactions.
+Details on how to use the Resolution Center can be found on the Resolution Center Help Page.
+Back to top
+Q. Other Terms
+If the User uses the features available on the Tokopedia site, the User hereby declares that he understands and agrees to all the terms and conditions that are specifically regulated in connection with the features below, namely:
+The use of the booking feature and the purchase of train tickets through the Tokopedia site will be further regulated in the following conditions:
+Everything that has not been and/or is not regulated in the special terms and conditions in the feature will fully refer to the general terms and conditions of Tokopedia.
+Back to top
+R. Disclaimer of Warranty and Limitation of Liability
+Tokopedia is a web portal with the Customer to Customer Marketplace model, which provides services to Users to become Sellers or Buyers on the Tokopedia website. Thus, the transactions that occur are transactions between Tokopedia members, so that the User understands that the proportional limitation of Tokopedia's responsibility is as a web portal service provider.
+Tokopedia always strives to keep the Tokopedia Services safe, comfortable, and functioning properly, but we cannot guarantee continuous operation or access to our Services will always be perfect. Information and data on the Tokopedia site may not occur in real time.
+The User agrees that you utilize the Tokopedia Service at the User's own risk, and the Tokopedia Service is provided to you on an "AS IS" and "AS AVAILABLE" basis.
+To the extent permitted by applicable law, Tokopedia (including the Parent Company, directors, and employees) is not responsible for, and you agree not to hold Tokopedia responsible, for any damage or loss (including but not limited to loss of money, reputation, profits, , or other intangible loss) resulting directly or indirectly from:
+User's use or inability to use Tokopedia Services.
+Prices, Shipping or other instructions available in Tokopedia services.
+Delays or interruptions in Tokopedia Services.
+Negligence and losses incurred by each User.
+Goods Quality.
+Delivery of goods.
+Infringement of Intellectual Property Rights.
+Disputes between users.
+Defamation of others.
+Any misuse of goods that have been purchased by the User.
+Loss due to unofficial payments to parties other than to the Tokopedia Official Account, which in any way acts on behalf of Tokopedia or negligence in writing accounts and/or other information and/or negligence on the part of the bank.
+Delivery for repair of goods with an official warranty from the manufacturer. Buyers can bring the Goods directly to the nearest service center with a warranty card and purchase invoice.
+Viruses or other malicious software (bots, scripts, automation tools other than Power Merchant, Power Merchant Pro, hacking tools) obtained by accessing, or connecting to Tokopedia services.
+Any interruptions, bugs, errors or inaccuracies in the Tokopedia Service.
+Damage to your hardware from the use of any Tokopedia Service.
+The content, actions, or inaction of third parties, including those related to Products on the Tokopedia site that are allegedly fake.
+Enforcement actions taken with respect to User accounts.
+There are hacking actions carried out by third parties to user accounts.
+Back to top
+S. Release
+If you have a dispute with one or more users, you release Tokopedia (including the Parent Company, Directors, and employees) from claims and demands for damages and losses (actual and implied) of every kind and nature, known and unknown, arising out of from or in any way related to the dispute, including but not limited to losses arising from the purchase of Goods that have been prohibited in Point J. Types of Goods. Thus, the User intentionally waives all legal protections (contained in the law or other legal regulations) which will limit the scope of this release provision.
+Back to top
+Q. Indemnity
+Users will release Tokopedia from claims for compensation and protect Tokopedia (including the Parent Company, directors, and employees) from any claims or demands, including reasonable legal fees, made by third parties that arise in the event that you violate this Agreement, use the Tokopedia Service improper use and/or your violation of the law or the rights of third parties.
+Back to top
+U. Choice of Law
+This Agreement will be governed by and construed in accordance with the laws of the Republic of Indonesia, without regard to its conflict of laws rules. You agree that any legal action or dispute that may arise out of, relate to, or be in any way related to the site and/or this Agreement will be resolved exclusively within the jurisdiction of the courts of the Republic of Indonesia.
+Back to top
+V. Updates
+Terms & conditions may be changed and/or updated from time to time without prior notice. Tokopedia recommends that you read carefully and check this Terms & Conditions page from time to time for any changes. By continuing to access and use Tokopedia's services, the user is deemed to have agreed to the changes in the Terms & Conditions.
+Back to top
+W. Service Fee
+Service Fee is a fee charged to Users for the purpose of system maintenance and service improvement in transactions through the Tokopedia Site and further provisions regarding service fees can be seen HERE .

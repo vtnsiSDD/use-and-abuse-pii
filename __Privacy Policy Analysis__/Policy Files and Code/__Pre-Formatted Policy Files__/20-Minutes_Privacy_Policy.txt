@@ -1,0 +1,152 @@
+( Date Accessed: 6/08/2021, From: https://www.20min.ch/fr/declaration-confidentialite )
+
+( Embedded Hyperlinks Used: 21
+https://www.tamedia.ch/fr/declaration/entreprises
+https://www.tamedia.ch/fr/declaration/entreprises
+https://consent.connect.ringier.ch/static/fr/dsb.html
+https://www.tamedia.ch/fr/declaration/entreprises
+mailto:protectiondesdonnees@20minutes.ch
+https://www.tamedia.ch/fr/declaration/entreprises
+https://www.tamedia.ch/fr/declaration/entreprises
+https://www.tamedia.ch/fr/declaration/entreprises
+https://www.tamedia.ch/fr/declaration/entreprises
+mailto:protectiondesdonnees@20minutes.ch
+https://www.tamedia.ch/fr/declaration/donneesdutilisation
+https://tools.google.com/dlpage/gaoptout?hl=fr
+https://www.tamedia.ch/fr/declaration/trackingtools
+https://www.tamedia.ch/fr/declaration/plug-ins
+https://www.tamedia.ch/fr/apps-mobiles
+https://www.tamedia.ch/fr/apps-mobiles
+https://www.tamedia.ch/fr/donnees-du-site
+https://support.apple.com/fr-ch/HT202074
+https://support.google.com/ads/answer/2662922?hl=fr
+mailto:protectiondesdonnees@20minutes.ch
+https://www.eprivacy.eu/
+)
+
+Confidentiality declaration
+Updated March 9, 2021, 4:57 PM
+
+This privacy statement from 20minutes.ch, a service of TX Group SA, informs you of how we and TX companies and affiliates (you will find here the complete list of all the companies concerned, hereinafter jointly referred to as "we") process your data, whether when using our websites and our mobile applications (hereinafter also referred to as “digital offers” or “portals”; here you will find a complete list) or in any other way. Regarding these portals, we are responsible for the processing of your personal data and the compatibility of their processing with the law in force. To do this, we comply with the applicable data protection regulations.
+All individual information concerning the personal and material situation of an identified or identifiable natural person constitutes “personal data”. This means that it is information that can be traced back to you and provide information about you. These data protection provisions also use the wording “your data” for this. The term "processing" means any handling of your data, in particular the collection, recording, management, use, transmission, disclosure or deletion of your data.
+Please note that the following indications may be changed at any time. We therefore recommend that you regularly consult this privacy statement. Third party websites accessible through our portal are not subject to the principles set out here. We are not responsible for the respect of data protection by third party sites.
+Below you will find information on the nature of the personal data concerning you that we collect and store when you visit our portals, how we use this data and to whom we may transmit it, if applicable. You will also find information on the rights you hold against us regarding the use of your data:
+
+1. Scope and purpose of the processing of personal data
+	at. When visiting our portals
+	If you use our digital offers without providing further information, the web server technology we use automatically records general technical navigation data in so-called log files. These include, among other things, the IP address of the device used for the visit, data relating to the type of browser, the Internet service provider and the operating system used, our digital offers viewed, the referring pages. / exit, date and duration of the visit.
+	The purpose of collecting and processing this information is to allow the use of our websites (connection), to ensure and strengthen the security and stability of our systems and our offers, to analyze the use of our offers and services, to collect general demographic information and to optimize our internet offering (in particular but not only product improvement, marketing measures, targeted advertising etc.), as well as to obtain internal statistics. The user is then not identified. Likewise, there is in principle no link between this information collected automatically and the personal data stored with us. However, there may be an exception to this rule of principle if you already have a user account registered on one of our portals. You will find in figures 1.b and 1.c below more detailed information on the processing of personal data of registered users.
+	When you send a message to a third party (for example an advertiser) through a corresponding function of our portal, it is possible that we save it. You can also benefit from free services on our portal. It is possible that we use the personal data concerning you that you may have disclosed using a free service or with your message (email address, telephone number, etc.) for marketing or analysis purposes. You will find more precise information on the processing of personal data for marketing or analysis purposes further on in section 4.
+	We may - if necessary by adapting the format - publish on other platforms and media (e.g. in newspapers) the information that you have published on our portal.
+	In addition, when you visit our portals, we use cookies and analysis tools (eg Google Analytics). In this regard, we refer you to ch. 9 and 10 of these data protection provisions.
+	b. When opening a user account
+	Your registration, as well as the creation of a user account, may be required for the use of personalized services or access to protected areas, or for the processing of requests and the management of your subscriptions. We use "Ringier Connect" for this, a registration and login service operated and offered by Ringier AG, Brühlstrasse 5, 4800 Zofingen.
+	If you register in this way and create a user account, you will need to enter some personal data. This includes for example
+	•	first and last name
+	•	nickname
+	•	address (full postal address, postcode, town)
+	•	the phone number the phone number
+	•	the birth date
+	•	sex
+	•	information relating to subscription newsletters or other advertising
+	•	preferred language
+	In addition to the data marked as mandatory for the use of a specific digital offer, you can freely provide and save other personal data.
+	We use the data for the provision and management of our digital offers, for checking the plausibility of the data provided, i.e. for the justification, the structure of the content, the realization and the modification of the contractual relations concluded with you concerning your user account, as well as in the case of paid services for a correct invoicing.
+	If you post contributions (comments, photos, videos, etc.) through the corresponding functions of our Portals in order to share them with other users, it is possible that we disclose them and thus the public can access them. This also applies to your username or a pseudonym that you may have chosen for this purpose. We would like to draw your attention to the fact that such data that you would have published once on the internet may possibly still be consulted by third parties, for example through search engines, even if their deletion or anonymization has been requested.
+	By confirming the entry and transfer of data relating to your user account during registration, you guarantee the accuracy of the data you have entered.
+	In the Ringier Connect data protection regulationsyou will find further information on the registration and login service and on which of your personal data is processed by Ringier AG as a service provider.
+	vs. when using a portal as a registered user
+	When using the portal by a registered user, we collect data for statistical reasons in order to allow the proper functioning of the portal and to analyze, optimize and personalize the use of our offers and services. We collect data about your use of our digital offerings, including what features you use, what advertisements you watch and how you notice them. You will find further information on the processing of this personal data in section 1.d and section 4.
+	As soon as you use our portal as a registered user, statistical data may be viewed by other registered users and entered and evaluated by us.
+	d. during a purchase / during the acquisition of a paid service
+	If you buy a product on our site, or a paid service, certain data such as for example the name and first name, the address (full postal address, postcode, locality) and possibly other data, must be provided given that we need them for the performance of the contract concluded with you. If you choose an online payment option such as a credit card or PayPal for the purchase of a paid product or service, the payment is made via the online payment system of the relevant supplier. The processing of personal and payment data is carried out directly, in this case, via the provider of the payment system concerned. We do not know or record your payment data.
+	As long as you are registered and have a user account, we can save your data in your user account for the next purchase / contract concluded.
+	In any case, we record all information relating to your current and past purchases and concluded contracts, i.e. the products, the services, the number of products and services per purchase, and the amount of the payment. We are authorized to use this information for marketing and analytical purposes.
+	Further information on marketing and analytical goals can be found further under number 4.
+	e. when participating in games, contests (events)
+	We use the data you have provided in order to organize and carry out events as well as to inform the winners and / or communicate their names on our portal, by means of direct communications or via social networks. If you have authorized us to do so, we are entitled to use your data in accordance with numbers 2 and 4 and to transmit them according to number 3.
+	f. during user surveys or market research
+	We only use the data you provide to us to improve the user experience and to develop our products. The results consist exclusively of aggregated and anonymous data. If you have consented, you may also be contacted by other companies in TX to take part, for example, in other user surveys.
+
+2. Direct marketing and online advertising
+Following your registration or your order as a guest on one of our portals (you will find the complete list here), we may also use your personal data for personalized advertising purposes. This concerns both the personalization of advertising by e-mail such as e-mails containing general information or of an advertising nature (newsletter), by telephone, mail, fax, text messages, picture messages as well as via services of instant messaging as the provision of personalized content and advertising on our portals. To this end, we can automatically analyze the information relating to your behavior on our portals as a user that is brought to our attention, in order to prevent you from receiving inappropriate advertising. You can consult these treatments under number 4.
+By creating a user account, in principle you automatically subscribe to our newsletter and your email address can then also be used for our own advertising until you unsubscribe from the relevant newsletter. You will find at the end of each e-mail sent by us a link allowing you to unsubscribe from the newsletter at any time.
+You can also unsubscribe from the newsletter at any time by sending an email to data protection@20minutes.ch. Unsubscription is possible at any time.
+We are entitled to mandate third parties for the technical processing of advertising measures and for our own advertising and to transmit your data for this purpose (see section 3 below).
+
+3. Data transmission to third parties
+We work with other companies or persons or mandate them for the processing and recording of data. These may obtain access to your personal or usage data, but only to the extent that this is necessary for the performance of their tasks.
+We may use and transmit the information you have provided and the personal data concerning you or your user account that we have collected as part of the use measurements carried out in accordance with ch. 1 above, either to companies in TX or related to this group (here you will find the current list of all affected companies) with a view to evaluating, improving and organizing according to the needs of our services and the services of related companies, and for personalization and marketing purposes. Data processing by other companies in the Tamedia group or by companies linked to this group is described in section 4 below.
+The transmission of data to companies in TX or linked to TX (here you will find the complete list of all the companies concerned) according to this section 3 is in principle made with pseudonymised or anonymised data. that is to say that it is no longer possible, without collecting additional information, to make the link between you and this data. We ensure, contractually and by means of technical and organizational measures within the companies of the Tamedia group or linked to the Tamedia group (here you will find the complete list of all the companies concerned), that it is no longer possible to identify people.
+In addition, we pass your data on to third parties insofar as this is necessary for the performance of the contract. For this purpose, we may pass on the required data to transport companies, banks and other service providers. These service providers use your data exclusively for order processing and not for other purposes. Insofar as this is necessary for the purposes mentioned in the first sentence, the data can also be transmitted abroad, for example to deliver goods. You will find more information on data transmission abroad under section 5.
+The personal data concerning you that you put at our disposal are neither sold, nor rented, nor exchanged outside TX companies and companies related to this group.
+With the exception of the transmissions described above, we only transmit your personal data if you have expressly consented to it, if there is a legal obligation to do so or if we need to do so to enforce our rights, in particular those arising from the contractual relationship.
+In the event of a sale, merger or any other reorganization of all or part of the assets of our company, personal data may be transferred, sold or otherwise shared with third parties as part of said transaction or reorganization.
+In the event of an anticipated service, for example in the event of purchase on account, we obtain, if necessary, for the protection of our legitimate interests, a solvency inquiry carried out according to a mathematical and statistical method with an intelligence agency. To do this, we transmit the personal data necessary for carrying out a credit investigation to an intelligence agency and use the information received relating to the statistical probability of a default to make a decision on the merits, the execution or termination of the contractual relationship. The solvency investigation may include probability values (score values) which are calculated on the basis of scientifically recognized mathematical-statistical procedures and which include address data in their calculations, among other things. Your data protection rights are taken into account in accordance with the legal provisions.
+
+4. Processing of your personal data for marketing and analysis purposes
+TX companies or those related to it (here you will find the complete list of all the companies concerned) aim to continuously improve the digital offers that are offered, to structure them according to needs and in a more secure manner.
+To this end, various analysis tools can be put in place to link the user-specific data, future and past, available to us and analyze, aggregate, pseudonymize and anonymize user behavior at the aggregate level. of our offers. In order to update our database, we may use publicly available data or data from third-party providers. The results from your use of our services may be used and evaluated as part of the analysis of user behavior by other participating companies. This data processing is primarily based on pseudonymized or anonymized data.
+
+5. Transmission of personal data abroad
+We are entitled to transmit your personal data to third-party companies (authorized service providers) located abroad, as long as this is appropriate for the data processing described in this data protection declaration. These are subject to the data protection obligation to the same extent as we are. If the level of data protection in a country does not correspond to that of Switzerland, we ensure through contracts that the protection of your personal data corresponds to the level of protection in Switzerland. We use one or more of the following measures to do this:
+•	by concluding EU standard contractual clauses with commissioned service providers, cf. https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_fr
+•	by the presence of Binding Corporate Rules (BCR) recognized by a European data protection authority among the mandated service providers, cf. https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/binding-corporate-rules_en
+
+6. Right to information, rectification, deletion or in the event of a complaint
+You have the right to invoke your data protection rights at any time and to demand information about the personal data concerning you which we process. You can also have your personal data rectified, blocked or deleted at any time by informing us in writing and proving your identity at the following address:
+data protection@20minutes.ch
+We reserve the right to correspond with you on this matter.
+Please note that we are required to partially retain your personal data as part of our legal and contractual retention obligations (e.g. for billing purposes) even after your request for blocking or deletion and in this case only block your personal data to the extent that is required. In addition, the deletion of your personal data may have the effect of preventing you from continuing to acquire or use the services that you have registered. Under certain conditions, you can ask us to send you to you or to a third party designated by you, your personal data in a common format.
+You can object at any time to the processing of your data for marketing and advertising purposes as well as the transmission of your data within the TX according to numbers 2 and 4 by e-mail.
+Such opposition does not entirely exclude the collection of personal data. Under thelinkfollowing you can prevent the collection of your usage data. The opposition only excludes the personal data collected from being processed in a non-anonymized manner for marketing purposes as well as transmitted to other companies for this purpose and processed by them. Completely excluding or at least reducing the collection of personal data requires carrying out the steps mentioned in number 8 concerning the deactivation of cookies. This may have the effect of preventing you from using the services you have ordered.In addition, you have the right to take action against the data processing with the competent supervisory authorities. You can do this with the supervisory authority at your home, workplace or place of the alleged data protection breach.
+
+7. Retention period of your personal data
+We only keep your data for the legal or necessary duration of the processing. During analyzes, we only save your data until the end of the process. If we save your data by virtue of a contractual relationship with you, we only keep them for the duration of this relationship and at most for the limitation periods for any claims in our favor or if the law or contractual provisions so require. plan.
+
+8. Data security
+We employ appropriate technical and organizational security measures to protect your personal data stored with us against unintentional, illegitimate and unauthorized manipulation, deletion, modification, access, transmission or use and against total or partial loss. Our security measures are continuously adapted and improved in line with technological progress. We decline all responsibility in the event of loss of data or of communication thereof to third parties and of their use by them.
+If you register with us as a user, access to your user account is only possible with your personal password. We recommend that you always treat payment and access information confidentially and close the browser window when you have interrupted communication with us, especially when using a common computer.
+We also take internal data protection very seriously. Our employees and those of the service providers we have appointed are bound by secrecy and compliance with legal data protection provisions.
+
+9. Cookies
+Cookies help us to better organize your visit to our websites to make it easier, more enjoyable and more relevant. Cookies are files containing information that the internet browser automatically saves on your computer's hard drive when you visit our website.
+Cookies do not damage your computer's hard drive, nor do they transmit users' personal data to us.
+For example, we use cookies to find out who has visited our portal and to deduce from this how often certain pages or offers are viewed, which parts of the portal are particularly popular and how the portal is used. We use other cookies so that you can browse freely on our portal and use its functions such as accessing protected areas. Such cookies may also be necessary to use the shopping carts and payment functions. The use of cookies also makes it possible to use the choices you have made or the decisions you have taken as parameters to make your visit to our portal more pleasant. In general, the use of cookies serves to improve our services and to make them more efficient and secure. Cookies also make it possible to collect information in order to provide you with advertisements that may be of interest to you. Most internet browsers automatically accept cookies. However, you can configure your browser so that no cookies are saved on your computer or that you are always informed when you receive a new cookie.
+Our digital offers can in principle be used even without cookies, however some functions may be limited.
+
+10. Monitoring and analysis tools
+The use of our digital offers is further measured and analyzed by various technical systems, mainly from third-party providers such as Google Analytics. These measurements can be carried out anonymously or not. It is then possible that the data collected will be transmitted to third parties for processing by us or by third-party providers of these technical systems for processing. The most widely used analysis tool is Google Analytics, a service of Google Inc. Thus, the data collected can in principle be transmitted to a Google server in the USA, but the IP addresses are anonymized by an ad process. -hoc so that no association is possible. Google will therefore not be able to associate the IP address transmitted by your browser as part of Google Analytics with other data that it has about you. It is possible to oppose the entry and processing of this data by Google Analytics by installing an opt-out cookie which prevents the future entry of your data when you browse this website:https://tools.google.com/dlpage/gaoptout?hl=fr
+You can find more information about the systems we use at the following link: https://www.tamedia.ch/fr/declaration/trackingtools
+
+11. Plug-ins and other integrations of offers from third parties
+Our digital offers are connected in various ways with functions and systems of third parties, for example by integrating plug-ins from third-party social networks such as Facebook, Google Plus and Twitter. More information and details on data processing related to plug-ins used within TX and its affiliates can be found under the following link:https://www.tamedia.ch/fr/declaration/plug-ins
+If you have a user account with these third parties, they may also be able to measure and analyze your use of our digital offerings. Other personal data such as the IP address, personal browser settings and other parameters may then be transmitted to these third parties and saved by them. When you use a connection service through social networks such as Facebook Connect, the provider may send us personal data such as name, e-mail address and profile picture, which are stored with the provider. We have no control over the use of such personal data collected by third parties and accept no responsibility. We refer you to the links above for further detailed information on this subject.
+
+12. Location information
+If you use our mobile apps with a mobile device (here you will find a list of all relevant mobile applications), we may use the GPS signal data to collect information about the location of your mobile device (latitude and longitude, horizontal accuracy).
+We use location data to improve your user experience by displaying on your mobile device, through the mobile application (s) (here you will find a list of all relevant mobile applications), location-based online advertising and other location-based digital content (weather and location-based news; display of the user's approximate location). If required by law, we will ask for your consent before collecting your location data for the mentioned applications.
+In this context, we may use the services of other companies within and outside TX (“data processors”). To the extent that the provision of these services requires, we may pass your location data to these companies. You will findherea list of the companies concerned. Through the selection of data processors and through appropriate contractual agreements, we guarantee that the protection of your data is ensured throughout the processing.
+Even after having given your consent, you have the option to deactivate the collection, processing and transmission of your location data at any time. If you do not want to receive online advertising and location-based content, you can deny access to your location or turn off location services in your mobile device settings at any time. To turn off location services, please follow your device manufacturer's instructions: for Apple devices:https://support.apple.com/fr-ch/HT202074, for Android devices: https://support.google.com/ads/answer/2662922?hl=en.
+
+13. Legal basis
+We only process your personal data within the framework of data processing principles and if there is a legal basis. This legal basis exists during the preparation and execution of our contract. In addition, there is an interest in us constantly improving our offers, adapting them to your needs and delivering advertising that interests you. This is necessary in order to continue to develop and finance our offers and to guarantee their security. We therefore assume that our interests prevail. If you have consented to the processing of your data, this is valid.
+
+14. Contact
+If you have any questions relating to data protection on our website, if you wish to obtain information or request the deletion of your data, please contact our contact in charge of data protection law in him. sending an e-mail to the following address: data protection@20minutes.ch.
+The contact details of our data protection officer are as follows:
+TX Group SA
+Data Protection Officer
+Werdstrasse 21, 8004 Zürich
+For requests from the EU, you can contact our representative (art. 27 GDPR):
+ePrivacy GmbH
+Grosse Bleichen 21
+D-20354 Hamburg
+Germanywww.eprivacy.eu
+
+15. Updates and changes to data protection provisions
+The development of our website or the implementation of new technologies may make it necessary to modify these data protection provisions. Each significant modification of these provisions is communicated to registered users by e-mail at the e-mail address indicated during registration or by means of a corresponding notice placed in an appropriate manner after logging into the user account.
+You can also view the data protection regulations currently in force on our website at any time and print them out.
+The original privacy statement is in German. The translated versions are intended to facilitate better understanding. In the event of discrepancies, the German text is binding.
+Version: March 9, 2021
+Copyright © TX Group SA - all rights reserved. Any transformation, redistribution or lasting recording is not permitted without our express prior authorization.

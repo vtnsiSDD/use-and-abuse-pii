@@ -1,0 +1,410 @@
+( Date Accessed: 6/02/2021, From: https://poshmark.com/privacy )
+
+( Embedded Hyperlinks Used: 37
+https://poshmark.com/privacy-2020
+https://poshmark.com/privacy#information-that-we-collect-and-how-we-use-it
+https://poshmark.com/privacy#legal-basis-on-which-Poshmark-collects-your-personal-information
+https://poshmark.com/privacy#sharing-your-information
+https://poshmark.com/privacy#your-rights-and-choices
+https://poshmark.com/privacy#cookies-flash-and-other-means-of-automated-collection
+https://poshmark.com/privacy#data-about-others
+https://poshmark.com/privacy#a-note-about-children
+https://poshmark.com/privacy#other-websites-applications-and-services
+https://poshmark.com/privacy#international-data-transfers
+https://poshmark.com/privacy#security
+https://poshmark.com/privacy#verification
+https://poshmark.com/privacy#changes-to-Poshmarks-privacy-policy
+https://poshmark.com/privacy#contacting-Poshmark
+https://poshmark.com/privacy#important-information-for-california-residents
+https://poshmark.com/right-to-know
+https://poshmark.com/account/export
+https://poshmark.com/account/delete
+mailto:support@poshmark.com
+https://poshmark.com/account/data-sharing
+http://www.allaboutdnt.com/
+http://optout.networkadvertising.org/?c=1
+https://optout.aboutads.info/?c=2&lang=EN
+https://optout.aboutads.info/?c=3&lang=en
+https://youradchoices.com/appchoices
+mailto:support@poshmark.com
+mailto:support@poshmark.com
+https://poshmark.com/privacy#identifiers
+https://poshmark.com/privacy#commercial-information
+https://poshmark.com/privacy#financial-information
+https://poshmark.com/privacy#online-identifiers
+https://poshmark.com/privacy#internet-network-information
+https://poshmark.com/privacy#inferences
+https://poshmark.com/privacy#protected-classification-characteristics
+https://poshmark.com/privacy#education-information
+https://poshmark.com/privacy#physical-description
+https://poshmark.com/privacy#sensory-information
+)
+
+PRIVACY POLICY
+Last Revised 1/13/2021
+
+Prior Version here
+
+Privacy Notice
+
+Poshmark’s mission is to build the worlds most connected shopping experience, while empowering people to build thriving retail businesses. Therefore, it is an essential that the information you submit through the service be made available to other users in your country and around the world. In using our service Your information may also be shared with other services of which you are not a user, as well as potentially transmitted to third parties as set forth herein. Poshmark is committed to protecting the privacy of its users and the information that You share in connection with your use of the Poshmark services. This privacy policy (“Privacy Policy”) describes the privacy practices of Poshmark Inc. and our subsidiaries and affiliates (collectively, “Poshmark”, “we”, “us” and/or “our”) with respect to information, including personally identifiable data, personally identifiable information, personal information, or similar identifiable data that identifies you as an individual personally as defined under applicable law (“Personal Data”) that we collect about individuals (“You” and/or “You”), including through any of our websites, mobile applications, or any other services or offerings which may reference this Privacy Policy (the “Services”)(all of the Your data or information received by, or generated through Your use of, the Poshmark services, including Personal Data defined broadly herein as “Information”). Any Services may also provide additional policies which will govern how Poshmark processes the information with respect to that specific product, service, or promotion. By submitting Information through our Services, you agree to the terms of this Privacy Policy, our Terms of Service as well as any other documentation referenced herein. If you do not agree you should discontinue use of the services immediately. Poshmark retains the right to deny or suspend access to anyone we reasonably believe has violated any provision of this Privacy Policy.
+
+Table of Contents
+
+Information That We Collect and How We Use It
+Legal Basis on Which Poshmark Collects Your Personal Information
+Sharing Your information
+Your Rights and Choices
+Cookies, Flash, and Other Means of Automated Collection
+Data About Others
+A Note About Children
+Other Websites, Applications, and Services
+International Data Transfers
+Security
+Verification
+Changes to Poshmark’s Privacy Policy
+Contacting Poshmark
+Important Information for California Residents
+Information That We Collect and How We Use It
+
+Information That You Provide Us. We will collect Information that you provide to us when you use the Services, such as when you (1) create an account; (2) make a purchase; (3) participate in events or promotions; (4) send questions or comments via the Service, email, or chat to Poshmark or other users; (5) fill out surveys; or (6) otherwise communicate with us or other users through or about the Services. We will also collect information when you sign up for marketing emails, events, or other opportunities through Poshmark. Poshmark uses a variety of technologies to collect Information, including cookies, web beacons, pixel tracking technology, and the like. We also use Information to improve our Services, including for analytics purposes. We may use aggregated, non-personally identifying information to operate, analyze, improve, and optimize our website and service we may collect Information from you, as further described herein. Aggregated, non-personally identifying information is not your Information.
+
+The Types of Information That You Provide Us. Pursuant to Your sign up and use of the Services, You may provide data to Poshmark such as:
+
+Contact data. Such as name, address, and phone number
+Profile data. Such as username, password, picture, interests, preferences, and merchandise sizing
+Education data. Such as college and year of graduation
+Demographic data. Such as postal code, gender, and age
+Your data. Such as text, audio, video and metadata content regarding Your uploads
+Transaction data. Such as payment and other details connected Your purchases
+Communication data. Such as questions and feedback You send to Us
+Financial data. Such as account numbers, payment card information, and related details
+Identity data. Such as national identification numbers, social security, and drivers license details
+Usage data. Such as tracking information regarding Your use of, and interaction with, the Services
+Marketing data. Such as email preferences
+Analytics data. Such as data We create through analysis of Your use of the Services
+Other data. Any other data not specifically listed here collected regarding Your use of the Services
+Information We Collect from Third Parties. You may provide Us Information from various third party services, and we may also obtain Information from various third party services about You, including Facebook, Twitter, Youtube, Instagram, Pinterest, and Tumblr (“Third Party Services”). You may enable these Third Party Services, and in some cases may use Your Poshmark credentials in enabling such Third Party Services. In enabling these Third Party Services You will share data between such Third Party Service and Poshmark. The transfer of Your data from such Third Party Services is governed solely by the settings, policies, and your agreements with those Third Party Services. You are solely and completely responsible for those policies, agreements, and settings. We are not responsible for your agreement with, or the actions take by, such Third Party. We may add this information to the information we have already collected from you via our Services in order to improve the Services we provide to you. Note that we may also obtain Information about You from other third parties, such as marketing partners, publicly available sources, and data providers. If you withdraw our ability to access certain information from a third-party platform or social media network, that choice will not apply to information that we have already received from that third-party.
+
+The Services may provide you with access to YouTube through an application programming interface, or API, and in connection therewith uses YouTube API Services. Use of such API is subject to YouTube’s Privacy Policy and Google’s Privacy Policy, which are currently located at https://www.youtube.com/t/terms and https://www.google.com/policies/privacy. The API collects the following type of information for use and integration with the Services: subscriber count for a specific YouTube channel, post count, average comment count, platform userID, social channel user name and other related items. In addition to our normal procedure for deleting your data as provided below in the section labeled “Your Rights and Choices”, you may prevent access to your data via the Google security settings page at https://security.google.com/settings/security/permissions.
+
+How We Use The Information We Collect. We collect, hold, use and disclose your Information in connection with the Services and features of our Service. Here are some examples of how we use Your information:
+
+To provide, develop and enhance the Service
+Provide and deliver products, information, and the Service itself to you
+Process and fulfill orders
+Enable security features, remembering Your device, sending You security codes
+Enable social features, such as connecting You with other users and Third Party Services
+To provide users with communications, materials, and marketing announcements
+Perform any other actions deemed necessary by Poshmark to provide the Services
+Additional Usage Of Your Information. Additionally, we may use Your Information to (1) analyze and improve the service (2) send You marketing related communications (3) deliver advertising to You, as well as other users and our partners (4) comply with any law, rule, or regulation, including law enforcement requests such as subpoenas (5) protect our, Your, or others’ rights, including privacy rights, (6) prevent fraud (7) create anonymous, aggregated data.
+
+Legal Basis on Which Poshmark Collects Your Personal Information
+
+Poshmark collects and processes your Information on the basis of different legal grounds, depending on the nature of the Information being provided and the type of processing involved, as follows:
+
+Performance of a Contract. Some of the Information processed by Poshmark is performed on the basis that it is necessary for the performance of our agreement with you, or in order to take steps at the request of the user prior to entering such an agreement.
+Legitimate Interest. A second ground relied upon by Poshmark for other types of processing of your Personal Information is that it is necessary for the purposes of legitimate interests pursued by Poshmark. Such legitimate interests will include where Poshmark sends you marketing about our products and services, where we believe you have a reasonable expectation that we will perform a particular type of processing on your behalf, or where such processing is strictly necessary for fraud detection and prevention. Poshmark will only rely on such a ground where an assessment has been performed balancing the interests and rights involved and the necessity of the processing in order to provide our services, products and features to you.
+A Legal Obligation. A third ground relied upon for certain types of processing is that it is necessary in order to allow Poshmark to comply with a legal obligation.
+Consent. Finally, in certain situations Poshmark relies on your consent in order to process your Personal Data, such as marketing communications.
+Sharing Your information
+
+We share your Information with third parties in the following circumstances or as otherwise described in this Privacy Policy:
+
+Business Partners, Affiliates, Advisors and Transfer Participants. We may share your Information with our channel partners, subsidiaries, affiliates, professional advisors (such as financial, insurance, legal accounting, or otherwise), joint ventures, or any other company, to fulfill obligations and requests, to deliver provide users information about Poshmark and other purposes in Poshmark’s sole discretion in its provision of the Services. Poshmark does not control how a business partner may use your Personal Information. Our business partners are responsible for managing the use of Personal information collected in these circumstances. We may also share your Personal Data with our corporate parent, subsidiaries, and affiliates, for purposes consistent with this Privacy Policy, as well as other Poshmark services including those which you are not a user.
+Service Providers. Poshmark will share your Information with companies that provide a service to Poshmark, such as database maintenance, identity verification, fraud monitoring, payment processing, storage, hosting, etc.
+Third Parties. If you enable features or functionality that connects the Service to a third party platform such as a social media network (each, a “Third Party”), then we may disclose Your Information to such Third Party, and do not control the Third Party’s use of Your Information. Additionally, we may share information about You with additional third parties, whether or not authorized by You, in our provision of the Services.
+Other Users. We will share Your Information with others users, including to sellers when you make a purchase on the Service, or to the broader user base when You upload Information publicly. We do not control how other users will utilize Your Information.
+With Your Consent. We will share Your Information in addition in the method and to those listed herein with Your consent, and as described in such consent.
+Publicly. As an essential element of the Service, most of the Personal Information you provide to us when you register or update your profile is displayed on your profile and intended to be shared with other users. Your photos, posts, and other content you post to the Site are also meant for public consumption. We may display this content through our Services, and further distribute it to a wider audience through third party sites and services. Once displayed on publicly viewable web pages, that information can be collected and used by others. We cannot control who reads your postings or what other users may do with the information that you voluntarily post, so it is very important that you do not put any sensitive, confidential, or any other information you do not wish to be shared in your posts. Once you have posted information publicly, while you will still be able to edit and delete it on the Service, you will not be able to edit or delete such information cached, collected, and stored elsewhere by others.
+Authorities. We will share Your information with law enforcement, government authorities, or other parties as, and if, required by law or in good faith that the action is necessary to comply with legal obligations, protect individuals (including Your) rights and safety, or to protect, investigate, and deter fraudulent, harmful, unauthorized, unethical, or illegal activity.
+Feedback. We may share and publish any feedback we receive from you. We may identify you by your first and last name and may also indicate your home city. We may post any feedback on the Service from time to time. If you make any comments on a blog or forum associated with Poshmark, or on the Poshmark Service, you should be aware that you have no reasonable expectation of privacy and that any Personal Data you submit there can be read, collected, or used by other users of these forums, or the Service and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs and forums or on the Service.
+Your Rights and Choices
+
+In addition to the other rights set forth in this privacy policy and at law, the following rights are available to You explicitly through Your use of the Service:
+
+Access, Update and Delete Information. You may access, review update, and delete Your Information (or your account in its entirety) from Poshmark at will through Your use of the Service. In addition, you may have the right to request Poshmark perform these actions directly. Poshmark reserves the right to verify any such requests, and may charge you a fee for such request, where allowable. In certain instances Poshmark may be unable to fully comply with such request, or may reject such requests, and will make best efforts to provide an explanation to you as to why such request was unable to be complied with, or rejected. Please note that we may be required (by law or otherwise) to retain this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). We may retain certain Personal Data indefinitely, unless you delete it or request its deletion. We keep your personal information for no longer than necessary for the purposes for which the personal information is processed. We may retain your information for to satisfy applicable governmental laws, regulations, investigations, proceedings or for reasonable backup, archival, audit, legal or other similar purposes.
+click here to review what personal information is collected (Information)
+click here to get a copy of the personal information collected (Access)
+click here to request to delete personal information (Deletion)
+email support@poshmark.com for any issues You may encounter in exercising the rights set forth herein
+Withdraw Consent. You may withdraw any consent you have provided Poshmark at any time, however withdrawing such consent may limit or restrict Your use or access of our Services.
+Email Communications and Opt Outs. We may send you emails, including marketing, promotional, and third-party related communications. You may opt out of these emails at any time by unsubscribing or selecting this option through our Services. Note that You may need to opt out from each Poshmark Service individually. Despite your election, we may still be required to send you Service-related communications, including any updates to our terms of service or this Policy.
+Do Not Sell.
+We do not sell your Personal Data in the conventional sense (i.e., for money). However, like many companies, we use services that collect information from You (to deliver advertisements to You for example) and this may classify this use as a “sale” of your Personal Data, You can request to opt-out out of this “sale” here: Do Not Sell My Personal Information. If you direct us not to sell your Personal Information, we will stop sharing your personal information if required by applicable law.
+
+Do Not Track.
+Our Service currently does not respond to “Do Not Track” (DNT) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. To find out more about “Do Not Track,” please visit http://www.allaboutdnt.com.
+
+Advertising.
+Your Information may be collected by third parties and business partners through Your use of the Services, and used for advertising purposes (among other purposes). Users may opt out of receiving targeted advertising on websites through members of the Network Advertising Initiative by clicking here or the Digital Advertising Alliance by clicking here. Canadian users may opt out of receiving targeted advertising on websites through members of the Digital Advertising Alliance of Canada by clicking here. Users of our mobile application may opt out of receiving targeted advertising in mobile apps through participating members of the Digital Advertising Alliance by installing the AppChoices mobile app, available here, and selecting the user’s choices. Please note that we also may work with companies that offer their own opt-out mechanisms and may not participate in the opt-out mechanisms that we linked above. If you choose to opt-out of targeted advertisements, you will still see advertisements online but they may not be relevant to you. Even if you do choose to opt out, not all companies that serve online behavioral advertising are included in this list, so you may still receive some cookies and tailored advertisements from companies that are not listed.
+
+Cookies, Flash, and Other Means of Automated Collection
+
+We, and our service providers and business partners, may automatically collect Information such as device data (operating system, version, model, identifiers, etc.) and online activity data (websites visited, location, screens viewed, etc.) through automated means such as Cookies, Flash-based LSOs, web beacons, and similar technologies, including collection through third party software development kits (any of which may also enable third party information collection through our Services).
+
+These means of Automated Collection may also help provide functionality to our Services, allow You to save passwords, and generally monitor Your use and our provision of the Service.
+
+You may instruct your browser to stop accepting cookies at any time or set your browser to prompt you before accepting cookies. Please consult your browser’s settings for further technical information. If you do not accept cookies, you may not be able to use all portions or functionality of the Service. You are responsible for all control over your browser, mobile device, or other applications that control the settings of these means of automated collection.
+
+Data About Others
+
+You may refer friends, share information, or upload contacts of third parties through the Service. When you provide such information, you agree you have the rights to upload such information. We rely upon you to obtain whatever consents may be required by law to allow us to use such information. You or the third party whose information you’ve provided may contact us to request the removal of this information from our database.
+
+A Note About Children
+
+Poshmark does not intentionally collect Information from individuals under the age of 13. If you are under 13 please do not submit any Information through the Service. If we learn that we have received Information from a child under 13 we will attempt to delete the Information as soon as possible. If we know that you are younger than 16 years old, we will ask for your permission (or if you are younger than 13 years old, your parent’s or guardian’s permission) to sell your Personal Information before we do so. If you believe we may have Personal Data from a child under 13 please contact us.
+
+Other Websites, Applications, and Services
+
+This Privacy Policy applies only to the Services. The Services may contain links to third party websites, applications, and services (“Third Party Offerings”). Poshmark does not endorse or represent such Third Party Offerings. Additionally, Poshmark’s content may be included in Third Party Offerings not associated with us. We do not control, and are not responsible or liable for, such Third Party Offerings. Please review the terms and policies of Third Party Offerings before engaging with third party websites, applications, and services.
+
+International Data Transfers
+
+We are headquartered in the United States and may share Personal Data with service providers and other recipients in the United States and worldwide, including jurisdictions where privacy laws applicable to those recipients may not be as protective as those in your jurisdiction and we will not necessarily ensure they meet the particular requirements of your local privacy laws. We may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+Security
+
+Poshmark employs organizational, technical and physical safeguards designed to protect your Personal Data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Depending on the circumstances, our safeguards to protect Personal Data in electronic and physical records include facilities access restrictions, system access controls, firewalls, data encryption and payment processing security.
+
+No Internet, email or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way. Your information may be stored with third-party cloud service infrastructure providers.
+
+Verification
+
+We reserve the right to verify your identity by means acceptable to Us to process your requests to exercise your information, access or deletion rights. You may designate an authorized agent to make a request on your behalf pursuant a valid power of attorney, the requester’s valid government-issued identification, and the authorized agent’s valid government issued identification. We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it.
+
+Changes to Poshmark’s Privacy Policy
+
+We may update this Privacy Policy from time to time and for any reason. We may, and if required by law will, also provide notification of changes but you are ultimately responsible for consulting this Privacy Policy for regular changes. Modifications will be effective upon updating of this Privacy Policy unless otherwise stated by Us. Continued use of our Services shall indicate your acknowledgement of such changes and agreement to be bound by the terms of such changes. If you do not agree, you should immediately discontinue your use of the Services.
+
+Contacting Poshmark
+
+All inquiries regarding this Privacy Policy should be directed to support@poshmark.com , or via post to Poshmark, Inc. Attn: Legal -Privacy 203 Redwood Shores Pkwy, 8th Floor, Redwood City, CA 94065. Please provide all relevant information and detail in such inquiry. We will make best efforts to respond in a reasonable period of time and may consult with third parties in addressing your inquiry. Additionally, you may have the right to provide inquiries directly to relevant data protection authorities, as may be applicable in your jurisdiction.
+
+Important Information for California Residents
+
+This section applies only to California residents. For purposes of this section, “Personal Information” has the meaning given in the California Consumer Privacy Act of 2018 (“CCPA”) but does not include information exempted from the scope of the CCPA. You have the right to request that we disclose the Personal Information we collect, use, disclose and sell about you. Section 2 of this Policy explains the categories of Personal Information we collected over the past twelve (12) months, why we collected this information, and the third parties with which we shared it. California’s “Shine the Light” law (Civil Code section 1798.83) also permits California residents once per calendar year to request and receive information about a business’ disclosure of certain categories of Personal Information to other companies for direct marketing purposes. If you are a California resident and would like a copy of this notice, please submit a written request to us via email at support@poshmark.com or via postal mail at 203 Redwood Shores Pkwy, 8th Floor, Redwood City, CA 94065. You must put the statement “Your California Privacy Rights” in your request and include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. We will not discriminate against you for exercising any of your rights under the CCPA, including, but not limited to (i) denying goods or services to you, (ii) charging different prices or rates for goods or services, or (iii) providing a different level or quality of goods or services to you.
+
+Personal information that we collect, use and share The chart below summarizes how we collect, use and share Personal Information by reference to the statutory categories specified in the CCPA, and describes our practices during the 12 months preceding the effective date of this Privacy Policy.
+
+Statutory category of personal information (PI) (click for details)	Source of the PI	Purpose for collection	Categories of third parties to whom we “disclose” the PI for a business purpose	Categories of third parties to whom we “sell” the PI
+Identifiers	
+You
+Public sources
+Business partners
+Our customers
+Service delivery
+Research & Development
+Marketing
+Advertising
+Compliance & Operations
+Affiliates
+Advertising partners
+Service-related third parties
+Professional advisors
+Authorities and others
+Business transferees
+Third-party Services
+Other Users of the Service and the Public
+Advertising partners
+Service-related third parties
+Commercial Information	
+You
+Our customers
+Service delivery
+Research & Development
+Marketing
+Advertising
+Compliance & Operations
+To create anonymous, aggregated or de-identified data
+Affiliates
+Advertising partners
+Service-related third parties
+Professional advisors
+Authorities and others
+Business transferees
+Third-party Services
+Other Users of the Service and the Public
+Advertising partners
+Service-related third parties
+Financial Information	
+You
+Public sources
+Service delivery
+Research & Development
+Marketing
+Compliance & Operations
+Affiliates
+Service-related third parties
+Professional advisors
+Authorities and others
+Business transferees
+None
+Online Identifiers	
+You
+Our customers
+Automatic collection
+Service delivery
+Research & Development
+Marketing
+Advertising
+Compliance & Operations
+To create anonymous, aggregated or de-identified data
+Affiliates
+Advertising partners
+Service-related third parties
+Professional advisors
+Authorities and others
+Business transferees
+Third-party Services
+Advertising partners (to facilitate online advertising)
+Service-related third parties
+Internet or Network Information	
+You
+Automatic collection
+Service delivery
+Research & Development
+Marketing
+Advertising
+Compliance & Operations
+Affiliates
+Advertising partners
+Service-related third parties
+Professional advisors
+Authorities and others
+Business transferees
+Third-party Services
+Advertising partners (to facilitate online advertising)
+Service-related third parties
+Inferences	
+You
+Our customers
+Automatic collection
+Service delivery
+Research & Development
+Marketing
+Advertising
+Compliance & Operations
+To create anonymous, aggregated or de-identified data
+Affiliates
+Advertising partners
+Service-related third parties
+Professional advisors
+Authorities and others
+Authorities and others
+Business transferees
+Third-party Services
+Advertising partners (to facilitate online advertising)
+Service-related third parties
+Protected Classification Characteristics	
+You
+Service delivery
+Marketing
+Advertising
+Research & Development
+Compliance & Operations
+To create anonymous, aggregated or de-identified data
+Affiliates
+Advertising partners
+Service-related third parties
+Professional advisors
+Authorities and others
+Business transferees
+Third-party Services
+Other Users of the Service and the Public
+Advertising partners (to facilitate online advertising)
+Service-related third parties
+Education Information	
+You
+Marketing
+Advertising
+Research & Development
+To create anonymous, aggregated or de-identified data
+Affiliates
+Advertising partners
+Service-related third parties
+Other Users of the Service and the Public
+Advertising partners (to facilitate online advertising)
+Service-related third parties
+Physical Description	
+You
+Our customers
+Service delivery
+Research & Development
+Marketing
+Advertising
+Compliance & Operations
+Affiliates
+Advertising partners
+Service-related third parties
+Professional advisors
+Authorities and others
+Business transferees
+Third-party Services
+Advertising partners (to facilitate online advertising)
+Service-related third parties
+Sensory Information	
+You
+Our customers
+Service delivery
+Research & Development
+Marketing
+Advertising
+Compliance & Operations
+Affiliates
+Advertising partners
+Service-related third parties
+Professional advisors
+Authorities and others
+Business transferees
+Third-party Services
+Other Users of the Service and the Public
+Advertising partners (to facilitate online advertising)
+Service-related third parties
+Glossary	Statutory Category	What we collect
+Commercial Information	Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.	
+Contact data
+Demographic data
+Transaction data
+Communications
+Identity data
+Marketing data
+Usage data
+Online activity data
+Education Information	Personal information from an educational record, which could include: a student’s name, the names of the student’s parent or other family members, the address of a student or student’s family, a student’s personal identifier (e.g., SSN, student number), other indirect identifiers of the student (e.g., date of birth, place of birth, mother’s maiden name), other information that, alone or in combination, is linked or linkable to a specific student that would allow a reasonable person in the school community, who does not have personal knowledge of the relevant circumstances, to identify the student with reasonable certainty, or information requested by a person who the educational agency or institution reasonably believes knows the identity of the student to whom the education record relates.	
+Education data (optional)
+Financial Information	Bank account number, debit or credit card numbers, insurance policy number, and other financial information.	
+Financial data (optional)
+Transaction data
+Identifiers	Real name, alias, postal address, unique personal identifier, customer number, email address, account name, social security number, driver’s license number, passport number, or other similar identifiers.	
+Contact data
+Profile data
+Identity data
+Data about others
+Inferencess	The derivation of information, data, assumptions, or conclusions from any other category of Personal Information to create a profile about a person reflecting the person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities and aptitudes.	May be derived from your:
+Contact data
+Profile data
+Education information
+Demographic information
+Your content
+Transaction data
+Usage data
+Communications
+Device data
+Online activity data
+Internet or Network Information	Browsing history, search history, and information regarding a person’s interaction with an Internet website, application, or advertisement.	
+Communications
+Usage data
+Device data
+Online activity data
+Online Identifiers	An online identifier or other persistent identifier that can be used to recognize a person, family or device, over time and across different services, including but not limited to, a device identifier; an Internet Protocol address; cookies, beacons, pixel tags, mobile ad identifiers, or similar technology; customer number, unique pseudonym, or user alias; telephone numbers, or other forms of persistent or probabilistic identifiers (i.e., the identification of a person or a device to a degree of certainty of more probable than not) that can be used to identify a particular person or device.	
+Contact data
+Device data
+Physical Description	An individual’s physical characteristics or description (e.g., hair color, eye color, height, weight).	
+Profile data
+Your content
+Protected Classification Characteristics	Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information)	
+Profile data (optional: gender and/or age)
+Sensory Information	Audio, electronic, visual, thermal, olfactory, or similar information.	
+Profile data
+Your content

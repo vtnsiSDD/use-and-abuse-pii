@@ -1,0 +1,106 @@
+( Date Accessed: 6/09/2021, From: https://www.sheetz.com/legal/privacy )
+
+( Embedded Hyperlinks Used:
+https://www.google.com/policies/privacy/partners/
+https://tools.google.com/dlpage/gaoptout?hl=en
+https://orderz.sheetz.com/#/main/feedback
+mailto:privacy@sheetz.com?subject=Privacy
+mailto:privacy@sheetz.com?subject=Privacy
+mailto:privacy@sheetz.com?subject=Privacy
+)
+
+Updated: 9.3.2020
+
+The Sheetz name and reputation were built on a foundation of total customer focus. Therefore, this online privacy statement tells you about the information Sheetz may collect through our web properties, mobile applications and other digital platforms/services that we provide; how we use that information; and how you can opt out of certain uses of information we may collect.
+By accessing our various digital platforms, you are consenting to the information collection and use practices described in this statement. We reserve the right to alter this privacy statement at any time and in any way we deem necessary. If we decide to change our privacy statement, we will post a new statement on our website and change the date at the top of the statement.
+Information Collection, Use and Sharing
+The following is a list of Personal Information that we may have collected within the past 12 months:
+Sometimes you give us information.
+Depending on your digital interactions, it could include:
+•	personal details, such as your full name, postal address, email address, phone number, birthday information, gender and other basic contact information;
+•	account information like your My Sheetz Rewardz Card number, username or password (or anything else that identifies you) used to access our digital platforms or to buy products and services;
+•	transaction information, including details about the products you buy, prices, method of payment and payment details;
+•	shopping information, such as the products/services you’ve considered and historical preferences;
+•	information you provide through surveys, directly through social media or using our customer service systems (including phone calls);
+If you apply for a job with Sheetz, it could also include:
+•	personal details, such as your driver’s license, SSN, employment history, educational background and military service;
+Sometimes we collect information automatically.
+We aren’t trying to be creepy or invasive. This information helps us better serve you and tailor your experience and offerings. We could collect information from your computer system or mobile device when you visit our stores and/or use our digital platforms. We could also utilize cookies, local shared objects and web beacons.
+Depending on your digital interactions, it could include:
+•	System generated unique identifiers;
+•	IP and/or MAC addresses;
+•	Geo-location as derived from permissions you allow within your mobile device and/or Wi-Fi or Bluetooth when at one of our stores;
+•	computer or mobile-device operating system and browser type;
+•	unique device identifier (UDID) or mobile equipment identifier (MEID) for your mobile device;
+•	referring website (one that has led you to us) or application;
+•	activity related to how you use our digital platforms, such as screen interactions, keystrokes, and the pages you visit on our sites or within our mobile apps;
+Sometimes information comes to us from other sources.
+We may collect information about you from other companies with which we do business. This could include information related to your personal preferences as derived from historical details they acquired about you. We may also collect information that is publicly available, such as your details when you interact with us through social media.
+We may also use third-party analytics services – including but not limited to Google Analytics - to help us study how visitors use our digital platforms and serve ads on our behalf across the Internet. We’ve implemented Google Analytics Advertising features such as interest-based advertising, demographics and interests reporting, user segment analysis and impression reporting. For more information on how the Google Marketing Platform uses the data collected through our digital platforms, visit: www.google.com/policies/privacy/partners/.
+For more information on how to opt-out of tracking technology from Google Analytics, please click here.
+Disclosures of Personal Information for a Business Purpose
+In the preceding twelve (12) months, we may have disclosed the following categories of personal information for a business purpose:
+•	Category A: Identifiers
+•	Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
+•	Category C: Protected classification characteristics under California or federal law
+•	Category D: Commercial Information
+•	Category F: Internet or other similar network activity
+•	Category I: Professional or employment-related information
+In the preceding twelve (12) months, we may have disclosed the following categories of personal information for a business purpose:
+•	Service providers;
+•	Distributors, resellers, and suppliers;
+•	Public and government authorities (as required);
+Sale of Personal Information
+In the preceding twelve (12) months, we have sold consumer Personal Information as defined by the California Consumer Protection Act (CCPA).
+Let’s be clear on this one, we are a privately held company and we respect your privacy. We don’t sell your information. We will share certain, limited details with our trusted partners to execute personalized communications on our behalf. Under the CCPA, sharing like this is considered selling.
+CALIFORNIA RESIDENTS RIGHTS AND CHOICES
+California consumers may have the following rights and choices:
+•	Access to Specific Information and Data Portability Rights
+You may have the right to the right to know the following types of information and request that we disclose certain information to you about our collection and use of your personal information. Once we receive and confirm your consumer request, we will disclose to you some or all of the following:
+o	The categories of Personal Information we collected about you;
+o	The categories of sources from which we collected Personal Information about you;
+o	Our business or commercial purpose for collecting your Personal Information, or if applicable, information regarding the sale of your Personal Information;
+o	The categories of third parties with whom your Personal Information was shared in the past 12 months;
+o	The categories of Personal Information shared with third parties for a business purpose;
+o	The specific pieces of Personal Information we collected about you, which if applicable, you may request in a portable format (also called a data portability request).
+•	Deletion Request Rights
+o	You may have the right to request the deletion of your Personal Information. Once we receive and confirm your verified consumer request, we will delete your personal information from our records, unless an exception applies. We may deny your deletion request for other reasons described in the CCPA.
+Please note, we do not provide access, data portability and/or deletion rights for B2B personal information.
+Submitting a Consumer Request
+To exercise your access, data portability and deletion rights, please submit a verifiable consumer request to us by:
+•	Completing the online request form available here
+•	Calling us at 1-800-765-4686
+•	Emailing us at privacy@sheetz.com
+Only you, or someone legally authorized to act on your behalf, may submit a consumer request related to your Personal Information. You may make a verifiable consumer request on behalf of your minor child. To designate an Authorized Representative, please contact us. You may only make a consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:
+•	Provide the information we require to verify you are the person about whom we collected Personal Information or your Authorized Representative. To designate an Authorized Representative please submit a completed “Authorized Representation Designation” form. Contact us at privacy@sheetz.com to obtain the form.
+•	We may require personal and/or commercial identifiers, such as an email address, social security number, employee id number, or some combination of personal identifiers. Depending on the sensitivity of the information in your request, we may ask for additional information to verify your identity.
+•	Describe your request with sufficient detail and specificity so we can properly understand, evaluate and respond to your request. We cannot respond to your request or provide you with personal information if we cannot verify your identity. We will only use personal information provided by you only to verify your identity or authority to make the request.
+Request Response Timing and Format
+We will respond to most verified consumer requests within forty-five (45) days of its receipt. We will contact you if an extension of time is required to response. If we require more time, we will inform you of the extension period.
+Our response will only cover the 12-month period preceding your request. If we cannot respond to your request, we will explain the reasons why. If your request is for data portability, we will respond in a format that is readily useable and will allow you to transmit the information from one entity to another entity without significant hindrance.
+We do not charge a fee to process or respond to your request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+Non-Discrimination Statement
+You can exercise your rights under the CCPA with no fear of discrimination by us. We will not (unless otherwise permitted by the CCPA):
+•	Deny you goods or services.
+•	Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
+•	Provide you a different level or quality of goods or services.
+•	Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+In addition, the California “Shine the Light” law gives residents of California the right, under certain circumstances, to opt-out of the sharing of certain categories of personal information with third parties to be used for direct marketing purposes by the third party. Sheetz has not shared Personal Information with third-parties for their marketing purposes in the past 12 months. If you are a California resident and would like a copy of this notice, please contact us by email or phone above. When requesting to opt-out of the sale of your information or obtain a copy of this notice, please specify that you want a “Sheetz California Shine the Light Privacy Notice.” Please allow at least forty-five (45) days for a response.
+Children’s Privacy
+The Site is intended for a general audience over the age of 13. Being such, Sheetz does not knowingly collect, store or aggregate Personal and/or Non-personal information from children under the age of 13.
+Cookies
+We make use of cookies on our web properties. Cookies are small text files that are stored on a user's computer by a web server based on the permissions set in a user's browser software. A cookie itself is not designed or intended to read any information from a user's computer (other than the contents of the cookie); rather, it is an identifier used by the website that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customize, monitor, or regulate the use of a site based on information stored on the host server.
+We use cookies to allow us to automate access and data entry functions of our web properties. This could be to correlate online ordering information for purchases you may make, tailor the website to your preferences or interests, or customize promotions or marketing. In addition, cookies allow us to track use of the web property to determine those areas which are useful or popular and those that are not thereby enabling us to improve and update systems effectively.
+You may adjust your Web browsers to either alert you of the use of cookies or refuse to accept cookies entirely. Please be aware that if you elect not to accept cookies, our various web properties may not function properly or permit access.
+Social Media
+We maintain a social media presence, such as a Twitter page, a Facebook page and an Instagram page. You can interact with us through these social media outlets, such as by entering our contests, posting content, sharing material from our websites, and using our social media plug-ins. If you interact with us using social media, we may receive information such as your user ID, your profile picture, photos you post, and similar information, which is often determined by your privacy settings at social media sites. We reserve the right to use the information for the same types of purposes we describe throughout this Privacy Policy. Your use of social media sites is primarily governed by the site operators’ privacy policies and terms of service, and the information you share with us and with others is largely controlled by the privacy settings you have established at those sites.
+Promotions
+Any sweepstakes, raffles, surveys, games, or similar promotions offered by Sheetz may be governed by the rules and terms and conditions that are separate from and in addition to this Privacy Policy. If you participate in any such sweepstakes, contest, raffle, survey, game, or similar promotion, you will become subject to those rules.
+Google Maps APIs
+The Mobile App and various web properties incorporate Google Maps APIs. For more information on how Google protects your information, please refer to the Google Privacy Policy (https://www.google.com/policies/privacy). The Google Privacy Policy explains how Google treats your personal information and protects your privacy when you use the service.
+Third-Party Links
+Our web properties may contain links to third-party sites, applications, or services that we feel may be of use to our customers. Such areas have established their own respective policies and practices regarding privacy and data collection. Sheetz, Inc. is not responsible for these third-party sites, applications, or services. We recommend consulting their published policies if you have specific concerns or questions
+Any questions regarding this Privacy Policy can be directed to privacy@sheetz.com or via old-school mail at:
+Sheetz Privacy Team
+5700 Sixth Ave.
+Altoona, PA 16602

@@ -1,0 +1,181 @@
+( Date Accessed: 6/09/2021, From: https://www.medianewsgroup.com/privacy-policy/ )
+
+( Embedded Hyperlinks Used: 11
+https://www.medianewsgroup.com/ca-privacy-policy/
+https://www.medianewsgroup.com/shortened-privacy-policy/
+https://www.medianewsgroup.com/terms-of-use/
+mailto:MNGPrivacy@medianewsgroup.com
+https://optout.liveramp.com/opt_out
+https://optout.liveramp.com/opt_out
+http://privacy.microsoft.com/en-us/privacystatement
+https://www.medianewsgroup.com/ca-privacy-policy/
+mailto:MNGPrivacy@medianewsgroup.com
+mailto:MNGPrivacy@medianewsgroup.com
+mailto:MNGPrivacy@medianewsgroup.com
+)
+
+Privacy Policy
+PLEASE NOTE THAT OUR PRIVACY POLICY CHANGES PERIODICALLY AND IS EFFECTIVE AS OF January 25th, 2021.
+
+If you are a California resident, please view this Privacy Notice for additional rights under California law. 
+
+MediaNews Group, Inc. and its affiliates (“MediaNews Group,” “us,” or “we”) takes this Privacy Policy and the task of protecting your data very seriously.  We believe that privacy is a fundamental right. We believe data represents people and people deserve respect, fairness, and protection. This Privacy Policy (“Policy”) is intended to help you understand:
+
+What This Policy Covers
+What Information We Collect About You
+How We Use Collected Information
+How We Share Information
+How Information is Stored
+Your Rights and Choices
+Changes to This Policy
+( To read a shortened version of this policy, click here.) 
+
+Overview: What This Policy Covers
+This Policy sets out how MediaNews Group will collect, use, share, and protect your personally identifiable information (“Personal Information).  Personal Information is data that can be used to directly or indirectly identify you. This policy covers our use and treatment of Personal Information that we collect or you provide to us on our web sites, including SMS/Text Alerts and Mobile Web owned by MediaNews Group, such as www.medianewsgroup.com (each, a “Web Site”), and our mobile application (the “Application,” together with Web Site, the “Platform”). 
+By accessing or using our services, you acknowledge and agree that you consent to the practices and policies outlined in this policy. If you do not agree with this policy, please do not access or use our services or interact with any other aspect of our business. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. 
+
+We believe strongly in being open and transparent about our practices. If you have questions about our practices, please let us know at MNGPrivacy@medianewsgroup.com.
+
+We have worked hard to make sure our business complies with the European Union General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA), as well as all other applicable data privacy laws and regulations, and our updates in this version of the policy are part of that work. We will continue to monitor the implementation and interpretation of both GDPR and CCPA, and update this policy as necessary. As such, we ask that even if you do not reside in CA or the European Economic Area that you review changes to this policy each time you use the Platform.
+
+As of the release of this policy,  MediaNews Group does not have any establishments in any EU country and does not currently target any data subjects from EU countries. This Privacy Policy is a separate document from our Terms of Use, which describes the terms under which you use our Platform and which are available here.  
+
+What Information We Collect About You
+In order to make your visits to our Platform as worthwhile as possible, we may ask you for Personal Information. We also may collect certain information from your computer each time you visit us that is not Personal Information. For example, non-user specific aggregated data such as information about traffic patterns on the Web Sites.  
+
+We collect Personal Information when you provide it to us on our Websites. Such Personal Information may be collected, for example, when you submit a comment or question to us using a “contact us” or similar feature on our Web Sites, send us an email, sign up for an email newsletter or mobile alerts, or in any other way submit information to us via our Web Sites. As applicable, we may also collect and use the information you submit through any support or customer portal related to our Platform.
+
+You may submit information to us for editorial purposes, for example in connection with a story, personal anecdote, quote, or a poll. We may use your name and any stories you provide to us in articles published online and in our print publications. Editorial content may be attributed to you and we may include your user name and any Personal Information that you provide in an open forum on this Web Site, to facilitate such attribution.
+
+ If you receive an email from us, we use certain tools to capture data related to when you open our message, click on any links or banners it contains, and make purchases. 
+
+If you apply for a job posting, or become an employee, we collect information necessary to process your application or to retain you as an employee.  Providing this information is required for employment.
+
+In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.  For example, if you submit a job application, or become an employee, we may conduct a background check. 
+
+2.1 Your Devices
+
+We may collect information about your computer, phone, tablet, or other devices you use to access our Platform. Device information may include your connection type, settings, operating system, browser type, IP address, URLs of referring/exit pages, or device identifiers. We may also collect how you use or interact with our Web Sites; any search terms you have entered on our Web Sites or a referral site; and other web usage activity and data logged by our web servers. The amount of this information we collect may depend on the type and settings of the device or browser you use.
+
+The data we collect from your device may be used to administer our services.  We also may store some aggregated metadata from your device. Aggregated metadata is data about data, such as numbers that identify the type of device you have or how many people added comments on one article and the dates those comments were created. Metadata mostly helps us figure out how to make content work on different devices. 
+
+2.2 Cookies
+
+We may use “cookies” to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser when you visit a site that are stored on your device. Cookies improve and personalize your experience on our Web Sites. With our third-party partners, we may use cookies and other tracking technologies to provide functionality and to recognize you across different web sites and devices. Some web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Refusing a cookie may negatively impact the display or function of the Web Site.  Please refer to our Cookie Policy for more information on cookies.
+
+2.3 Subscription Purposes
+
+If you decide to subscribe to any of the MediaNews Group content, we will collect some Personal Information from you, such as your name, billing address and information, and email address, required to provide you with a subscription to our products.
+
+2.4 Children
+
+MediaNews Group does not knowingly collect or solicit any information from anyone under the age of 18 or knowingly allow such persons to register for an account.  If you are under the age of 18, please do not attempt to register for an account or service with us.
+
+If you believe that we might have any information from or about such a person, please contact us immediately at: MNGPrivacy@medianewsgroup.com.
+
+How We Use Collected Information
+How we use the information we collect for business purposes depends in part on which services you use, how you use them, and any preferences you have communicated to us. We may use information about you for security purposes (e.g. authentication, account verification, or monitoring suspicious or fraudulent activity), to provide account support, or to operate and maintain the services (e.g.resolve technical issues, respond to your requests for assistance, or to repair and improve the services). 
+
+We may also use this information to communicate and personalize our interaction with you. We may use it for our own research and commercial purposes to make our services smarter, faster, more secure, integrated, and useful to you.  We use collective or aggregated learnings about how people use our services and feedback provided directly to us to troubleshoot and to identify trends, usage, activity patterns and areas for integration and improvement.
+
+Where required by law or where we believe it is necessary to protect our legal rights, interests and the interests of others, we may use information about you in connection with legal claims, regulatory compliance, and audit functions, and disclosures in connection with the acquisition, merger or sale of a business.
+
+With your consent, we may use information about you for a specific purpose not listed above. You can always opt not to disclose information to us, but some information may be required to register with us or to take advantage of some of our offers. 
+
+How We Share Information
+We may share information with our affiliates (such as parent company, subsidiaries, joint ventures, or other companies under common control). If another company acquires our company or our assets, we will also share information with that company. 
+
+4.1 Third Parties
+
+ 
+
+We may disclose your Personal Information to a third party for a business purpose.  Before we disclose Personal Information for a business purpose, we enter into a contract with the third party that describes the business purpose for the disclosure. The agreement also requires the third party recipient to keep the Personal Information confidential and to not use it for any purpose except for fulfilling the business purpose.
+
+MediaNews Group affiliates are forbidden from selling, leasing, or sharing the data they collect from site visitors and subscribers with third parties. We might share data with service providers to help us with statistical analysis, to send you email, provide customer support, or process payments, but we do not allow any companies we work with to use your Personal Information except to perform the services we request. We vet all entities and only work with those that agree to not use the Personal Information for anything other than the business purpose stated in our agreement with them. They are required by contract to keep your data confidential and secure. To make your user experience better, we may embed code from third parties on the service with your permission. 
+
+We have no control over the policies and practices of third party web sites or businesses. If you choose to take part in any transaction or service relating to a third party web site or business, please review all policies of such business or web site.
+
+We may disclose information in response to subpoenas, warrants, or court orders, or other legal process, or to comply with relevant laws. We may also share your information to defend against a legal claim or to investigate, prevent, or take action regarding possible illegal activity, suspected fraud, the threatened safety of persons or property, or any violation of our policies.
+
+4.2 Social Networking
+
+The Platform may offer you the ability to share your Personal Information through a social networking site (e.g., Facebook, Twitter, LinkedIn) (“Social Media”). The use of such integrated tools enables you to share Personal Information about yourself with other individuals or the public through Social Media, however such activity is not governed by this Policy. For more information about the privacy practices those social networking sites, please visit the privacy policies of the entities that provide these social networking sites.
+
+4.3 Service Providers
+
+We may share your information with service providers. Among other things, service providers may help us to administer our Web Site, conduct surveys, provide technical support, process payments, and assist in the fulfillment of orders. 
+
+When you use our website, we share information that we collect from you, such as your email (in hashed form), IP address or information about your browser or operating system, with our identity partners/service providers, including LiveRamp Inc and Microsoft. LiveRamp returns an online identification code that we may store in our first-party cookie for our use in online and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. To opt out of this use, please click here (https://optout.liveramp.com/opt_out).
+
+Microsoft may collect or receive personal data from you to provide targeted advertising. Microsoft's privacy policy can be found here for further details (https://privacy.microsoft.com/en-us/privacystatement). 
+
+ 
+
+4.4 Public
+
+Some of our Web Sites may provide the opportunity to post comments or reviews in a public forum.  If you decide to submit such information, that information may be publicly available.
+
+ 
+
+How Information is Stored
+5.1 General Data Security
+
+MediaNews Group endeavors to protect the privacy of your Personal Information, including using what we believe to be appropriate technical and organizational measures. However, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of your information at any time. We will notify you electronically, in writing, or by telephone of a breach, in accordance with all applicable laws.
+
+5.2 Retention
+
+The length of time we retain certain information  depends on the type of information collected. For example, we may retain account/user-type information for as long as your account is active and for a reasonable period thereafter, in case you decide to re-activate. We may also retain some of your information as necessary to comply with our legal obligations, comply with financial rules or laws, to resolve disputes, to enforce our agreements, to support business operations, or to continue to develop and improve our services. Where we retain information for service improvement and development, we take steps to eliminate information that directly identifies you, and we only use the information to uncover collective insights about the use of our services, not to specifically analyze personal characteristics about you. 
+
+If you have elected to receive marketing emails from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our services, such as when you last opened an email from us. We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created.
+
+After the applicable retention period, we will either delete or anonymize your information. If deletion or anonymization is not possible, then we will securely store your information and isolate it from any further use until deletion is possible.
+
+5.3  Minor Exceptions to the Above
+
+In some cases, after you unsubscribe from an email newsletter or subscription account, MediaNews Group may retain your private profile information for a commercially reasonable time for backup, archival, or audit purposes. Please remember that any information that you choose to make public on the Platform may not be removable, such as comments. 
+
+Your Rights and Choices 
+Depending on the applicable law,  you may have the right to request a copy of your information, to object to our use of your information,  to request the deletion or restriction of your information, or to request your information in a structured, electronic format. This section describes your rights  and explains how to exercise those rights. We will not discriminate against you for exercising any of your rights. 
+
+If you are a California resident, please view this Privacy Notice for additional rights under California law. 
+
+6.1 Objection and Opt-Out.
+
+Depending on applicable law, you may have the right to “opt-out” or object to certain of our uses of your Personal Information at any point. For example, at the time you are requested to provide Personal Information on this Platform, you may have the opportunity to elect to (or not to) have your Personal Information used in certain ways. You may also make this request by contacting us using the information in the “Contact Us” section. In this email, please indicate whether you would like to opt-out of (i) receiving any correspondence from us or from entities affiliated with us or unaffiliated third parties for their marketing purposes; or (ii) opt-out of only specific uses of your Personal Information. You may also opt-out of promotional emails by clicking on an opt-out link within the email you received. In some cases, we may no longer be able to provide you services if you opt-out of certain necessary processing.
+
+6.2 Changing Your Personal Information. 
+
+You may request your Personal Information be updated or changed. Some of our Web Sites may allow you to do so directly. Otherwise you can contact us in relation to such requests at MNGPrivacy@medianewsgroup.com. Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.
+
+6.3 Deletion. 
+
+MediaNews Group generally keeps your Personal Information for as long as is required for the purpose it is collected, unless a longer retention period is required or permitted by law. You may, however, request that we delete your Personal Information. We may also decide to delete your Personal Information if we believe it is inaccurate, incomplete, or that our continued use or storage of the information is prohibited by our obligations to other parties. When we delete Personal Information, it will be removed from active databases but may remain in archives where it is not practical or possible to delete it. In addition, we may keep your Personal Information as needed to comply with legal obligations, resolve disputes, or enforce agreements. 
+
+6.4 Transmission of Personal Information to Other Countries. 
+
+Your Personal Information may be processed in the United States, where privacy laws may be less stringent than the laws in your country. By submitting your Personal Information to us you agree to the transfer, storage and processing of your information in the United States.
+
+6.5 Complaints. 
+
+We take your privacy seriously,  you can contact us with your questions and concerns at MNGPrivacy@medianewsgroup.com. You may also have the right to complain to regulatory bodies about our privacy practices.
+
+6.6 Account Removal
+
+If you stop visiting a MediaNews Group site for at least 13 months, we will mark your account for removal.  The account information will remain for another 12 months and will then be removed.  
+
+Changes To This Policy
+We are committed to complying with data privacy laws in every jurisdiction we do business. As such, we may amend this policy from time to time. We will not make changes to this policy without letting you know nor will we make changes that clearly violate our core value that privacy is a fundamental human right. If we do make changes for business or functionality, we will let you know 60 days in advance of the change so that you can review it, adjust any control settings you have, delete your account, or contact us about the changes  You are bound by any changes to the policy when you use the Platform after such changes have been first posted. If you disagree with any changes to this policy, you will need to stop using the Platform.
+
+7.1 Contact Information
+
+If you have any questions, comments, or complaints concerning our privacy practices, the ways in which we collect and use your Personal Information, your choices and rights regarding such use, please do not hesitate to contact us at:
+
+Web Site: medianewsgroup.com 
+
+Email: MNGPrivacy@medianewsgroup.com
+
+Postal Address:
+
+Attn: Legal
+
+4 North Second Street, Suite 800 San Jose, CA 95113

@@ -1,0 +1,214 @@
+( Date Accessed: 6/09/2021, From: https://policies.hatena.ne.jp/rule )
+
+( Embedded Hyperlinks Used:
+https://policies.hatena.ne.jp/rule
+https://policies.hatena.ne.jp/rule#rule01
+https://policies.hatena.ne.jp/rule#rule02
+https://policies.hatena.ne.jp/rule#rule03
+https://policies.hatena.ne.jp/rule#rule04
+https://policies.hatena.ne.jp/rule#rule05
+https://policies.hatena.ne.jp/rule#rule06
+https://policies.hatena.ne.jp/rule#rule07
+https://policies.hatena.ne.jp/rule#rule08
+https://policies.hatena.ne.jp/rule#rule09
+https://policies.hatena.ne.jp/rule#rule10
+https://policies.hatena.ne.jp/rule#rule11
+https://policies.hatena.ne.jp/rule#rule12
+https://policies.hatena.ne.jp/rule#rule13
+https://policies.hatena.ne.jp/rule#rule01
+https://policies.hatena.ne.jp/rule#rule02
+https://policies.hatena.ne.jp/rule#rule03
+https://policies.hatena.ne.jp/rule#rule04
+https://policies.hatena.ne.jp/privacypolicy-ja
+https://policies.hatena.ne.jp/rule#rule05
+https://policies.hatena.ne.jp/rule#rule06
+https://policies.hatena.ne.jp/rule#rule07
+https://policies.hatena.ne.jp/rule#rule08
+https://policies.hatena.ne.jp/rule#rule09
+https://policies.hatena.ne.jp/rule#rule10
+https://policies.hatena.ne.jp/rule#rule11
+mailto:cs@hatena.ne.jp
+https://policies.hatena.ne.jp/deletion-flow
+https://policies.hatena.ne.jp/deletion-guideline
+https://policies.hatena.ne.jp/disclosure-flow
+https://policies.hatena.ne.jp/rule#rule12
+https://policies.hatena.ne.jp/rule#rule13
+https://policies.hatena.ne.jp/rule-20190904
+)
+
+Hatena Terms of Service
+table of contents
+•	Article 1 (Introduction)
+•	Article 2 (User definition and registration)
+•	Article 3 (user name and password)
+•	Article 4 (Privacy)
+•	Article 5 (User Responsibility)
+•	Article 6 (Prohibited matters)
+•	Article 7 (Usage fee)
+•	Article 8 (Our property rights)
+•	Article 9 (Disclaimer)
+•	Article 10 (Changes in terms and services, etc.)
+•	Article 11 (Contact to us)
+•	Article 12 (Governing law and jurisdiction)
+•	Revision history
+Article 1 (Introduction)
+•	1. These Terms of Use stipulate the terms of use for all services provided by Hatena Co., Ltd. (hereinafter referred to as "the Company") on this site (hereinafter referred to as "the Service"). All users (hereinafter referred to as "users") are required to use this service in accordance with this agreement.
+•	2. In this service, in addition to this agreement, "Help" and various guidelines provide how to use this service and notes. Please read these as they also form a part of this agreement.
+•	3. Regarding the applications that we provide to promote the use of this service, the terms of use of each application will be applied together with this agreement.
+Article 2 (User definition and registration)
+•	1. The user of this service is a general term for registered users and guest users.
+•	2. A registered user is an individual or corporation who has entered and sent data required for the user registration form and approved by the Company. Registered users are defined in the following categories, and different guidelines may be presented for each category when using the service.
+•	1. An individual user is an account registered by an individual among registered users.
+•	2. A corporate user is an account registered by a corporation among registered users.
+•	3. A group user is an account registered by a representative of a group in the name of an individual for the operation of a group that does not have legal personality among registered users.
+•	3. A user who has completed the user registration procedure and has become a temporary registration shall complete the main registration procedure within one month after the temporary registration. If the main registration procedure is not performed within one month after the temporary registration, the temporary registration may become invalid.
+•	4. A guest user is a person who uses services such as browsing and searching that can be used without user registration specified in the preceding paragraph, and uses services approved by the Company via the authentication system of external services. It also includes those who access the service by mechanical means such as patrol by the system.
+•	5. If any of the following items apply, we will not approve the user registration for those who intend to become registered users at our discretion, and for those who have already been approved for user registration, we will not approve the user registration. We may restrict the use of some or all of this service, or cancel user registration, and refuse to use this service altogether. In addition, we will not be liable for any damages incurred by the user or a third party.
+•	a. If the user registration details are false
+•	b. When the user does not change the registration when the content is changed after the user registration
+•	c. If the user violates these Terms
+•	d. When the user does not use this service for a certain period of time even though he / she has registered as a user
+•	e. The user falls under the category of antisocial forces, etc. (Boryokudan, Boryokudan members, Boryokudan-related companies / organizations or their affiliates, and other antisocial forces equivalent to these; the same shall apply hereinafter), or funding or other When the Company determines that it is cooperating with or involved in antisocial forces, etc. by a method
+•	f. When we judge that it is inappropriate
+•	6. We may limit the use as a user or block access at our discretion if any of the following items apply. In addition, we will not be liable for any damages incurred by the user or a third party.
+•	a. When there is an illegal act such as unauthorized access
+•	b. When it interferes with the operation of the service, such as the use of excessive load
+•	c. When there is a prohibited act specified in Article 6 (Prohibited Matters) of this Agreement, such as spamming or harassing.
+•	d. If we determine that it is inappropriate
+•	7. When a minor registers, he / she must obtain the consent of the parent / guardian, and upon completion of the main registration, the consent of the parent / guardian to these Terms of Use and Privacy Policy shall be deemed to be obtained.
+Article 3 (user name and password)
+•	1. The user can acquire an account by registering as a user according to the previous article. In addition, you can use the acquired account as the main account and acquire the number of sub-accounts associated with it as specified by Hatena. Sub-accounts can be obtained from the sub-account setting page prepared by Hatena. A user name and password are set for each account, regardless of whether it is a main account or a sub account.
+•	2. Please observe the following items regarding the handling of the main account and sub-accounts.
+•	The main account and sub-account shall be used by the same user unless otherwise permitted by us.
+•	b. Due to account management issues, it is forbidden to create a mix of multiple account types, such as a mix of individual and group users in the main and sub accounts.
+•	c. The association information between the main account and the sub account is private.
+•	d. Sock puppets, inflating the number of bookmarks, manipulating survey results, attacking third parties, and other fraudulent acts, harassment, and annoying acts using multiple accounts are prohibited.
+•	3. When a corporation registers as a user, the representative of the corporation or one person who has been given the right of proxy is designated as the contract manager for this service, and the contract manager is made to acquire an account. is needed.
+•	4. Registered users are responsible for managing their user names and passwords. The registered user shall be liable for damages caused by insufficient management of the user name or password, mistakes in use, use by a third party, etc.
+•	5. Actions performed using a user name and password are deemed to have been performed by a registered user who has that user name.
+•	6. Registered users can only have a single main account per user. However, this does not apply if our company permits it. The email address and other information registered to obtain your username and password must be accurate and legal.
+•	7. It is prohibited to let a third party use the user name and password, transfer, lend, change the name, buy or sell, etc., unless the Company has given permission in advance. However, this does not apply to the name change due to the change of representative of the group user.
+•	8. If your user name or password is leaked to a third party or used by a third party, please contact us immediately. In addition, we are not responsible for any loss or damage caused by the use of an illegal user name or password due to the user's actions, and we cannot compensate for it.
+•	9. If we deem it necessary, we may delete the user name and password for a specific registered user and prohibit the use of this service.
+Article 4 (Privacy)
+We will obtain the minimum information necessary to provide this service from the user. We take the utmost care in protecting the privacy information we collect from you. For more information about our privacy policy , please see our Privacy Policy .
+Article 5 (User Responsibility)
+•	1. When users use this service, they need to access the Internet, but all devices, software, and communication means for that purpose must be properly prepared, installed, and operated by the users themselves at their own risk and expense. is needed. We are not involved in the user's access environment and are not responsible for their preparation and operation.
+•	2. When we contact registered users, we will contact you by e-mail to the registered e-mail address. The registered user shall maintain the registered e-mail address information correctly so that he / she can receive the e-mail from us, and if for some reason the registered user cannot receive the e-mail, the registered user must promptly change the registered e-mail address appropriately. Must be. The user shall be liable for any disadvantage suffered by the user due to the failure to receive the e-mail from us, and we shall not be liable at all.
+•	3. The user is solely responsible for all information disclosed by the user on this service, including text, audio, video, images and information associated with the images, personal information and location information. Therefore, we do not take any responsibility for the content of the information disclosed by the user in this service.
+•	4. If the user damages the honor of another person, infringes the privacy right, violates the copyright law, or infringes the rights of another person, the user resolves it at his / her own risk and expense. Must be, and we do not take any responsibility.
+•	5. If a person appears to be inconvenienced due to the information disclosed by the user, the user must resolve it at his / her own risk and expense, and the Company shall not be liable at all. ..
+Article 6 (Prohibited matters)
+•	1. The user must not violate the following laws when using this service.
+•	Acts that infringe intellectual property rights such as copyrights and patents
+•	b. Acts that invade privacy
+•	c. Defamation, insulting, or obstructing the business of others
+•	d. Fraud
+•	e. The act of establishing or soliciting or operating an infinite chain lecture (murine lecture)
+•	f. Unauthorized operations on the Company and other people's computers, including acts that violate the Act on Prevention of Unauthorized Access, Acts that fall under the crime of obstructing business such as computer damage (Article 234-2 of the Penal Code) action
+•	g. Other criminal acts or acts that violate laws and regulations
+•	2. The user must not perform the following socially inappropriate acts when using this service.
+•	Acts that may cause a crime, such as a crime notice or guidance of a crime
+•	b. Discriminatory expressions based on race, ethnicity, beliefs, gender, social status, place of residence, physical characteristics, medical history, education, property and income, etc.
+•	c. The act of disclosing information that is ethically problematic, vulgar, harmful, vulgar, or disgusting to others. Pornography, prostitution, genre business, and the act of disclosing information related to these.
+•	d. Annoying acts, harassment acts, slanderous acts, acts that cause mental or financial damage to others without legitimate rights
+•	e. You can call yourself an individual, company, or organization other than yourself, use the name of a specific company or organization without authority, or identify a fictitious individual, company, or organization, or someone else, even if there is no fact. Acts of pretending to have a business alliance or cooperative relationship with a company or organization
+•	f. Acts of impersonating others to use services or falsify information
+•	g. Acts that promote activities of antisocial forces or provide benefits to antisocial forces, etc.
+•	h. Other acts that are offensive to public order and morals or are perceived as socially inappropriate behavior
+•	3. When using this service, the user must not perform the following inappropriate acts in using this service.
+•	Advertising, solicitation and other acts for the purpose of advertising or commercial use. However, this does not apply if we separately specify in the help or guidelines for each service.
+•	b. Search site optimization by means not approved by search sites
+•	c. Sharing an account with other users without our permission, holding multiple main accounts, holding more sub-accounts than we allow, holding an account in the name of an unrealistic corporation or organization Act
+•	d. Acts of using a user name that causes discomfort or misunderstanding to others, or the same or similar user name that may be misunderstood as our company or another person, a commonly known company name, organization name, or product name. Act to use
+•	e. The same applies without justifiable reason, despite receiving cautionary advice from the Company for acts that violate the guidelines for using the service, acts that are unfavorable in terms of social norms, and acts that may cause inconvenience to third parties. Act of continuing to use
+•	f. The act of stealing, collecting, accumulating, changing, and using the personal information and points of others, and the act of illegally manipulating and changing the number of personal information and points of oneself.
+•	g. Due to page design changes within this service, the appearance and position of the headers, footers, advertisements and copyright notices that are displayed as standard by the Company may be changed and displayed or kept private without the permission of the Company.
+•	h. Acts of diverting, selling or reselling this service without our consent
+•	4. Registered users may not assign, transfer, set collateral, or otherwise dispose of their status or rights and obligations under these Terms to a third party without the prior consent of the Company.
+•	5. In addition to the above items, the user must not take any action that the Company deems inappropriate.
+Article 7 (Usage fee)
+•	1. Registered users shall use the paid service of this service and pay the fee specified by this service in accordance with the provisions of "Hatena Terms of Use" and "Help" of each service.
+•	2. The amount of fees and fees related to the use of this service shall be determined separately by the Company.
+•	3. Registered users pay us the costs associated with using our paid services. The payment method shall be determined separately for each service.
+•	4. On this service, "Hatena points" (hereinafter referred to as "points") are provided as a unit to replace the costs required for paid services. Registered users can use paid services by purchasing points in advance. However, this is not the case if we specifically specify a payment method.
+•	5. We will get the prescribed fee from the points paid by the registered user to us. Of the paid services, when we mediate points to registered users and other third parties, the amount of fees received from the point payer minus fees including communication costs, service operating costs and other costs. Shall be paid to the recipient of the points.
+•	6. Registered users shall bear all fees incurred when purchasing or exchanging points.
+•	7. Regarding points held by registered users, the validity period is one year from the last use date when the user actually paid or received points on this service, and points that have passed one year will be invalid. Suppose. The negative points are not equivalent to this.
+•	8. Registered users cannot hold more than 100,000 Hatena points. The purchase limit for points is 50,000 points each time.
+•	9. Points can only be earned by the method specified by the Company. In addition, it cannot be transferred for commercial purposes.
+•	10. We may invalidate points that are illegally acquired by methods other than those specified by us. In addition, if fraudulent activity is discovered when acquiring or using points, we may suspend the use of the account of the user who committed the fraudulent activity, or restrict the purchase or use of points.
+•	11. If a registered user does not pay for the obligations to the Company based on this agreement and this service even after the due date set by the Company, the user will be set by the Company during the period from the day after the due date to the payment date. Delayed damages shall be paid to us.
+•	12. The Company may revise the usage fee of this service without prior notice. In addition, the procedure for purchasing and using points may be changed without notice.
+Article 8 (Our property rights)
+•	1. The Company or the person who licenses the Company owns the property rights regarding the information, services and software contained in this service.
+•	2. All software used in this service includes property rights and trade secrets protected by laws and regulations related to intellectual property rights.
+•	3. The user has the legal right to post or otherwise send the content (all data such as texts and images) posted or transmitted to this service, and a third party. We represent and warrant to us that we have not infringed our rights. For services such as human-powered search Hatenaya Hatenaya blog tags that are posted and edited by multiple users, since there are multiple senders and the service is co-edited, the content posted or sent by the user is It may be modified by other users, or the content may continue to remain even after withdrawal.
+•	4. For the purpose of providing this service, promoting its use, advertising / promotion of this service, and supporting academic research, we will post and distribute the content posted by users free of charge and non-exclusively in the following format. You can and the user grants this.
+•	Posting on this site
+•	b. Posting on client software using the Internet
+•	c. Publishing and distribution as API or RSS feed
+•	d. Provision as academic research data
+•	5. When the user transfers the copyright of the information transmitted to this service owned by the user to a third party, the third party shall consent to the contents of this article, and if the third party does not consent, , The copyright is not transferable.
+•	6. This service may change the design, compress the image, crop the image, etc. The user agrees not to exercise the moral rights of the author against the Company regarding the modification to the extent necessary for the operation of these services.
+Article 9 (Disclaimer)
+•	1. We will do our utmost to make this service useful to all users, but in the content of this service, defects, suspensions, partial deletions, changes, terminations and users caused by them or We will not be liable for any damages of others except when there is intentional or gross negligence.
+•	2. Most of the information disclosed on this service is disclosed by the user, but we are not obligated to monitor this service. The Company shall not be liable for any damages caused to the user or others by using this service, except when there is intentional or gross negligence.
+•	3. We are not obligated to monitor this service, but if there is an act or information disclosure that violates or may violate this agreement, we will delete the information, move the posting location, or use an external site. We may exclude you from crawler patrols and cancel the registration of registered users who have performed the act. In addition, we may report to the police when there is information disclosure such as a crime notice that may pose an imminent danger to people or property. At that time, the user shall not be able to object to the actions taken by the Company.
+•	4. The Company is not responsible for the legality, morality, copyright permission, reliability, and accuracy of the information disclosed in this service and the service provided by the link destination of the information. In addition, we are not responsible for whether or not the link destination of the above information exists.
+•	5. If the information voluntarily disclosed by the user causes damage such as dispute, slander, harassment, fraud, or stalking with another user or a third party, the damage caused by the damage will be caused. We do not take any responsibility except when there is intentional or gross negligence. When exchanging information with other users or third parties, please take the utmost care at your own risk.
+Article 10 (Changes in terms and services, etc.)
+•	1. This agreement is subject to change without notice. We cannot notify users individually, so please refer to the latest terms and conditions at any time when using the service.
+•	2. The contents of this service may be changed, added or deleted without prior notice.
+Article 11 (Contact to us)
+If you lose your user name or password, discover that someone else has violated the user compliance requirements associated with using this service, or if you need to contact us, please contact us at the following e-mail address. .. In addition, if you request the deletion of the contents described in this service, please comply with the petition procedure displayed at the link below.
+mail address
+Atto Cs Hatena.Ne. Jp
+Click here for petition procedure
+Flow of Hatena information deletion
+Click here for detailed criteria for deleting information
+Hatena Information Deletion Guidelines
+Click here for the procedure for requesting sender information disclosure
+Hatena Caller Information Disclosure Flow
+Article 12 (Governing law and jurisdiction)
+•	1. The governing law of this agreement is Japanese law, and the Tokyo District Court shall be the exclusive agreement jurisdictional court.
+Revision history
+•	Revised on August 17, 2020
+•	Revised September 4, 2019
+•	Revised May 23, 2018
+•	Revised August 2, 2015
+•	Revised May 26, 2015
+•	Revised September 26, 2013
+•	Revised May 31, 2013
+•	Revised August 1, 2011
+•	Revised May 30, 2011
+•	Revised on October 5, 2010
+•	Revised April 9, 2010
+•	Revised on January 25, 2010
+•	Revised December 14, 2009
+•	Revised October 14, 2009
+•	Revised September 1, 2008
+•	Revised August 5, 2008
+•	Revised May 19, 2008
+•	Revised June 12, 2007
+•	Revised October 26, 2006
+•	Revised on July 13, 2006
+•	Revised July 7, 2005
+•	Revised June 23, 2005
+•	Revised April 7, 2005
+•	Revised on February 21, 2005
+•	Revised December 1, 2004
+•	Revised April 12, 2004
+•	Revised March 4, 2004
+•	Revised February 26, 2004
+•	Revised February 20, 2004
+•	Revised January 30, 2004
+•	Revised January 23, 2004
+•	Revised January 16, 2004
+•	Revised October 24, 2003
+•	Revised October 2, 2002
+•	Revised January 7, 2002
+•	Revised December 13, 2001
+•	Revised November 8, 2001
+•	Revised October 25, 2001
+•	Created July 15, 2001

@@ -1,0 +1,332 @@
+( Date Accessed: 6/09/2021, From: https://rutube.ru/info/privacy/ )
+
+( Embedded Hyperlinks Used:
+https://rutube.ru/info/personal/
+https://rutube.ru/info/cookies/
+https://rutube.ru/info/privacy/
+https://rutube.ru/info/personal/
+https://rutube.ru/info/agreement/
+https://rutube.ru/info/reglament/
+https://rutube.ru/info/cookies/
+https://rutube.ru/info/agreement/
+http://rutube.ru/info/personal/
+https://rutube.ru/info/privacy/
+https://rutube.ru/info/cookies/
+https://rutube.ru/accounts
+mailto:support@rutube.ru
+https://eur-lex.europa.eu/eli/reg/2016/679/oj
+)
+
+POLICY OF PRIVACY AND PROCESSING OF PERSONAL DATA RUTUBE
+
+1.   GENERAL PROVISIONS. 
+1.1.       This Privacy and Personal Data Processing Policy (hereinafter referred to as the "Policy") is an official document of the Roform Limited Liability Company (INN 7714886605, OGRN 1127747031840), registered at the address: 101000, Moscow, st. Myasnitskaya, 46, bldg. 7, office I, room. 16 (hereinafter referred to as the "Administration"; which is a Party to the first Russian Memorandum of Cooperation in the field of protection of exclusive rights in the era of digital technologies development dated November 01, 2018, as well as the administrator and copyright holder of the website https://rutube.ru/, including mobile applications and services of the Administration under the PLADFORM trademark (hereinafter referred to as "Rutube", "Site" Rutube.ru "or" Site "or" rutube.ru "; as well as by the Operator of Personal Data entered by Roskomnadzor into the relevant Register of Operators ,
+ 
+1.2.       This Privacy Policy (hereinafter - the "Policy") applies to all information and data that LLC "Roform" can receive about a user of the global Internet network (User) using the Site Rutube.ru and its services, and is aimed at regulating the provision of adequate protection of information about users, including their personal data, from unauthorized access and disclosure. Issues related to the collection, storage, distribution and protection of information about Users can be supplemented and set forth in other official documents of the Site Administration and in the norms of the current Russian legislation.
+1.2.1. FOR THE PROCESSING OF PERSONAL DATA AUTHORIZED BY THE USER FOR DISTRIBUTION, THE LAW PROVIDES SPECIAL CONDITIONS AND PROCESSING PROCEDURE (Article 10.1  F OF THE EDERAL LAW  dated July 27, 2006 No. 152-FZ). THUS, THE PROCESSING OF PERSONAL DATA ALLOWED BY THE USER FOR DISTRIBUTION IS CARRIED OUT BY THE OPERATOR ONLY ON THE BASIS OF SEPARATELY OBTAINED WITH THE INFORMED CONSENT OF THE PUBLIC SUBJECTS FOR DISTRIBUTION. WITHOUT this consent OPERATOR personal data subject, the personal data subject MAY NOT PREVENT / ALLOW / publishes ANY of your personal data (OR PERSONAL DATA OF THIRD PARTIES) on the site, the service site in the material, information and content posted on the site , IN THE SERVICES OF THE SITE, WHICH MAY BE AVAILABLE TO AN UNCERTAIN CIRCLE OF PERSONS.       
+ 
+1.3.       An integral part of this policy are the documents that are part of the "Mandatory", such as: Consent to the processing of personal data ( https://rutube.ru/info/personal/ ), Cookies Policy (Information on the use of cookies on the Site and in Services Rutube.ru) ( https://rutube.ru/info/cookies/ ), as well as, in cases established by the current legislation, the Consent to the processing of personal data permitted by the subject of personal data for distribution.
+1.4.       The use of Rutube, the Site (including mobile applications), including any services of the Site, is governed by this Site Privacy Policy ( https://rutube.ru/info/privacy/ ), Consent to the processing of personal data ( https://rutube.ru/info / personal / ), Consent to the processing of personal data permitted by the subject of personal data for distribution (formalized additionally in cases established by the current legislation), the User Agreement of the Site "Rutube.ru" ( https://rutube.ru/info/agreement/), and other Mandatory documents, namely, the Regulations for the consideration of applications by rightholders (and / or a person authorized by the rightholder) related to the posting of content by users on the Rutube.ru website ( https://rutube.ru/info/reglament/ ), Cookies Policy (Information about the use of cookies on the Site and in the Services of Rutube.ru) ( https://rutube.ru/info/cookies/ ), as well as other agreements and conditions named in the text of this Agreement.
+ 
+1.5.       If the User does not agree with the terms of this Policy, then in order to terminate the Policy in relation to him, the User must stop using Rutube, including by visiting the Site. Also, in the  event of a request from a subject who is a potential client of the Administration, a request to restrict processing, delete personal data, or an objection to their processing, the Administration has the right to refuse to provide the subject of personal data with the services of the Administration. 
+ 
+1.6.       The User's use of the Site and / or any Service of the Site (including mobile applications and applications for SmartTV), in any way and in any form within its declared functionality, including: (a) registration and / or authorization on the Site or in any services of the Site ; (b) access to the Site or to any services of the Site using the Mobile Application; (c) other use of the functionality of the Mobile application and / or the Site or any services of the Site, the User confirms that:
+ 
+a) I have read the terms of this Policy and the Mandatory Documents specified therein in full before using the Site or any services of the Site.
+ 
+b) Accepts all the terms of this Policy and the Mandatory documents specified therein in full without any exceptions and restrictions on the part of the User and undertakes to comply with them, or in case of disagreement with any of the terms of this Policy, the User is obliged to completely refrain from using the Site or any services of the Site in any form.
+ 
+c) Putting a mark in the appropriate field when registering / authorizing on the Site (as well as using the Login and Password to access the Site and / or any services of the Site, including mobile applications) in conjunction with other implicated actions of the User (including but not limited to this , the passage of Authentication or the use of the Electronic Key, the passage of the procedure for verifying the User's electronic signature , etc., as these terms are defined in the text of the User Agreement ( https://rutube.ru/info/agreement/ )) are recognized by the Parties as an analogue of the User's handwritten signature when registering ( through software) electronic documents sent from the User to the Administration, including obtaining any necessary consents (including,Consent to the processing of personal data ) and confirmations from the User, and / or exchanged between the Parties, including acknowledged by the Parties in compliance with the written form of the transaction, in compliance with the requirement for a signature, in the event that a person concludes a transaction using electronic or other technical means that make it possible to reproduce on a tangible medium in an unchanged form, the content of the transaction, and the above actions of the User are considered as agreed by the Parties in a way that allows to reliably determine the person who has expressed the will to conclude the transaction.
+ 
+1.7.       The Policy (including any of its parts) and / or the Mandatory Documents specified therein may be changed by the Administration without any special notice to the Users. The new version of the Policy and / or the Mandatory Documents specified therein comes into force from the moment it is posted on the Site, or brought to the attention of the User in another convenient form, at the discretion of the Administration, unless otherwise provided by the new edition of the Policy and / or the Mandatory Documents specified therein documents, the User independently bears the burden of checking changes and / or additions to the Policy. The current version of the Agreement is permanently located on the page at: https://rutube.ru/info/privacy/ .
+ 
+1.8.       The Policy uses the following basic concepts:
+ 
+a)     automated processing of personal data - processing of personal data using computer technology;
+b)     blocking of personal data - temporary termination of the processing of personal data (unless the processing is necessary to clarify personal data);
+c)     information system of personal data - a set of personal data contained in databases and providing their processing of information technologies and technical means;
+d)    depersonalization of personal data - actions as a result of which it is impossible to determine, without the use of additional information, the belonging of personal data to a specific subject of personal data;
+e)     processing of personal data - any action (operation) or a set of actions (operations) performed using automation tools or without using such tools with personal data, including collection, recording, systematization, accumulation, storage, clarification (updating, changing), extraction, use, transfer (distribution, provision, access), depersonalization, blocking, deletion, destruction of personal data;
+f)      operator  (in the terminology of the General Data Protection Regulation (GDPR) adopted by Regulation (European Union) 2016/679: controller) - a public authority, municipal authority, legal entity or natural person, independently or jointly with other persons organizing and (or) carrying out the processing of personal data, as well as determining the purposes of processing personal data, the composition of personal data to be processed, actions (operations) performed with personal data;
+g)     personal data - any information relating directly or indirectly to a specific or identifiable natural person (subject of personal data);
+h)    provision of personal data - actions aimed at disclosing personal data to a certain person or a certain circle of persons;
+i)      dissemination of personal data - actions aimed at disclosing personal data to an indefinite circle of persons (transfer of personal data) or at acquaintance with the personal data of an unlimited number of persons; 
+j)      cross-border transfer of personal data - transfer of personal data to the territory of a foreign state to the authority of a foreign state, to a foreign individual or foreign legal entity;
+k)     destruction of personal data - actions as a result of which it is impossible to restore the content of personal data in the information system of personal data and (or) as a result of which material carriers of personal data are destroyed.
+l) processor is a natural or legal person, public authority, agency or other body that processes personal data on behalf of and on behalf of the controller.
+ 
+1.9. Legal basis for the processing of personal data:
+The processing of personal data in the Company is carried out in accordance with the Federal Law of July 27, 2006 No. 152-FZ "On Personal Data", art. 53 of the Federal Law of the Russian Federation of 07.07.2003, No. 126-FZ "On Communication", the Labor Code of the Russian Federation, Decree of the Government of the Russian Federation of 01.11.2012 No. 1119 "On the approval of requirements for the protection of personal data during their processing in information systems of personal data ”, Resolution of the Government of the Russian Federation dated September 15, 2008 No. 687“ On approval of the Regulation on the specifics of personal data processing carried out without the use of automation tools ”and other regulatory legal acts in the field of personal data protection.
+ 
+2.  Personal information of Users that Rutube receives and processes
+2.1. Within the framework of this Policy, "User's Personal Information" means:
+2.1.1. Personal information, including personal data that the User provides about himself / herself when registering (creating an account) on the Site, in the minimum amount necessary for registration on the Site: name, surname, gender, mobile phone number and / or email address, other information specified in clause 2.1.2. of this Policy.
+2.1.2. Mandatory information, marked in a special way, includes:
+a) a valid mobile phone number, and / or a valid e-mail address, and / or data of accounts of social networks Facebook, Twitter, Mail.ru, Vkontakte, Odnoklassniki, depending on the location of the User and the peculiarities of his registration on the Site, in the mobile Application and / or in the Site Services specified in the Site User Agreement;
+b) consent to the terms of the  User Agreement,  Privacy Policy, Consent to the processing of personal data and other Mandatory documents.
+c) personal data that can be collected and processed by the owner of the personal data base (Site Administration), among other things, can be understood (in this case, a specific list of personal data will be determined solely based on the data of registration and accounting forms of the Site and services of the Site “Rutube. ru "):
+ 
+surname, name, patronymic (if any); Date of Birth; contact information (number of a subscriber device for mobile radiotelephone communication, number of a stationary subscriber device for telephone communication, e-mail address, etc.); city, country and / or residential address (or registration address at the place of residence (stay)); citizenship; floor; social media account; marital status; social status; information about the main identity document (number of the main identity document, information about the date of issue of the specified document and the issuing authority); native language and / or knowledge of foreign languages; information about education; profession, specialization; official position; work experience; information on registration with the tax authority (taxpayer identification number (if any)); insurance number of an individual personal account; area of interest; information about publications of scientific works (discoveries, inventions); IP address of Users' devices (unique network address of a node in a computer network built over IP); information from cookies (a small piece of data sent by the web server and stored on the User's computer, which the web client or web browser sends to the web server each time in an HTTP request when trying to open the page of the corresponding site); User-Agent, including the browser and its version, through which the User accesses the Site and / or any service of the Site (or another program that accesses the display of advertising); time of access to the Site and / or to any service of the Site (or mobile applications, including the SmartTV application); website address, on which the ad unit is located; referrer (address of the previous page); geolocation services data; an impersonal user identifier in an automated system, identification by which an individual is impossible without additional information; characteristics of the user's interaction with the web resource, including the use of the keyboard, mouse, navigation on the web resource; javascript code loaded on the pages of a web resource; structure and attributes of web forms located on web resource pages; attributes of the following HTML elements: iframe, object, embed, applet; URL requests from web pages to third party domains; the content of the DOM-model of a web page or its individual elements; operating system and its version; bitness of the operating system; the name and model of the client's device; Accept-Encoding (HTTP protocol header, which specifies a list of supported ways to encode the content of an entity in transit); Accept-Language (an HTTP protocol header that specifies a list of supported natural languages); screen resolution; color depth; ActiveX availability; Timezone; browser fonts; browser plugins; supported languages; canvas print; the number of logical cores of the CPU; the amount of RAM; WebGL parameters, any other information entered / provided by the User of the Site (or from his device) on his own initiative, and which can be attributed to personal data. Timezone; browser fonts; browser plugins; supported languages; canvas print; the number of logical cores of the CPU; the amount of RAM; WebGL parameters, any other information entered / provided by the User of the Site (or from his device) on his own initiative, and which can be attributed to personal data. Timezone; browser fonts; browser plugins; supported languages; canvas print; the number of logical cores of the CPU; the amount of RAM; WebGL parameters, any other information entered / provided by the User of the Site (or from his device) on his own initiative, and which can be attributed to personal data.
+ 
+At the same time, the User is prohibited from specifying data as part of the transferred personal data that pose a particular risk to the rights and freedoms of the User (the so-called "sensitive personal data"): about racial or ethnic origin, political, religious or ideological beliefs, membership in political parties and trade unions, data related to health, sexuality, biometric or genetic data.
+ 
+2.1.3.   The Administration does not purposefully collect "sensitive personal data", and the Administration cannot request the User's consent to such processing, since it is not aware in advance of the potentially sensitive nature of such personal information, if the User, despite the warning of clause 2.1.2. (C), can provide Administration.
+2.1.4. Based on the stated in clause 2.1.2. of this Policy, at the request of the Site Administration in order to fulfill the Site Administration's obligations to the Users under the terms of the Mandatory Documents and the User Agreement, the Site Administration has the right to additionally request from the User a copy of an identity document or other document containing the User's name, surname, and other additional information, which, at the discretion of the Site Administration, will be necessary and sufficient to identify such a User and will prevent abuse and violations of the rights of third parties.
+ 
+2.1.5.   Optional information includes:
+a) Avatar (an image posted by the User next to the User's Name / Nickname);
+b) Confirmation of the User's access rights to applications of third-party websites.
+ 
+2.1.6.   Data that, as a rule, do not refer to Personal Data by Russian legislation, but which are collected by the Administration in the process of technological interaction, are automatically transferred to Rutube for their use using the software installed on the User's device, including:
+a) electronic data: the IP address of the host (unique computer number of the User), information from the cookie (allowing to identify the User's browser and store the User's settings and other information), information about the User's browser (or other program through which Rutube is accessed) , access time, address of the requested page, type of the user's operating system, browser type, hardware and software versions; information that the User allows the Site Administration to receive by enabling the appropriate device settings (geographic location, Internet service provider, data from the address book, data obtained as a result of access to a camera, microphone, etc.); web beacons / pixel tags, name of mobile operator or provider, language, time zone, internet connection speed, including (optionally) information about other devices located nearby or included in the network through which the User accesses the Site and / or any service of the Site, including mobile applications and applications for SmartTV; battery charge level, signal strength, available memory, etc .;
+ 
+b) the date and time of access to the Sites and / or Services, the types of content viewed, the types of interactions with such content; functions used and actions performed; accounts of other Users with which the User interacts; duration, frequency, time of such actions, etc .;
+ 
+c) information about the User's activity while using the Sites and / or Services (for example, the history of search queries; files uploaded by users stored on the Administration server), information about actions on the device: the location of the window in the foreground or background, the movement of the mouse pointer , etc .;
+ 
+d)    information about geolocation (including data obtained based on the analysis of MAC addresses of wireless network cards of users' mobile devices, device ID, IMEI, SIM, positioning of visitors based on iBeacon technology);
+ 
+e) information provided by any devices of the Users when they access the Site and / or any service of the Site, including mobile applications and applications for SmartTV (for example, data from a mobile device, in order to further improve the effectiveness of personalization of content and advertising, depending on the type of used devices, information about these devices); 
+ 
+f)     other information about the User necessary for processing in accordance with the terms governing the use of specific Sites or Rutube Services;
+ 
+g) information received by the Administration from its partners, which in turn are obliged to carry out such collection and processing in strict accordance with the applicable laws (advertisers, developers, advertising partners, etc.) in accordance with the terms of agreements concluded between the User and the relevant partner , and agreements concluded between the Administration and the partner (including information about the User's device, the Internet sites he visits, the transactions and purchases made (including information about the User's actions and purchases on the Internet and outside the Internet from third-party data providers entitled to provide the Administration Site such information), viewed advertisements and use of partner services, data received from web beacons, pixel tags of the Site Administration,posted on partner sites);  
+ 
+h)     The Administration has the right to use cookies, web beacons, pixel tags to collect Personal Information and associate such personal information with the User's device and web browser (for more details, see the Cookies Policy (Information on the use of cookies on the Site and in the Services of Rutube.ru ) ( https://rutube.ru/info/cookies/ )).
+ 
+i) statistics of transitions and purchases on (or through) the Site or in the services of the Site (including mobile applications and applications for SmartTV), activity in social networks, including referral; scanning purchase receipts in the mobile application of the Site or in the services of the Site. 
+ 
+2.1.7. The administration reserves the right to clarify, update, adapt, change, enrich, aggregate and verify the personal data provided by the subject of his (any) personal data, through mixed (automated and non-automated) processing of personal data, including using information (automated) systems , as well as the systems for technical collection of information of the Administration, or through the use of external services, analytical tools and banks of anonymized data for the purposes of processing personal data specified in this Policy, including by accessing the public pages of the subject of personal data on the Internet (social networks), on which the subject of personal data made available such his personal data (i.e. including registration / authorization of the User through SmartTV applications and systems, etc.); The administration or its partners have the right to apply any legal verification methods for the conformity of the ownership of the personal data provided by the subject.The Administration or its partners (or its partners) of information about such public pages of the subject of personal data on the Internet (social networks), directly to the subject of personal data ... 
+ 
+Enrichment may relate to such User data, including, but not limited to: personal interests, skills, pastime, social circle, personal and professional qualities, wealth and property, as well as other data, incl. listed in clause 2.1. of this Policy.
+ 
+2.1.8. By accepting this Policy, the User grants the Administration the right to receive additional information in the interests of the User, including in the form of marketing communication, if there is a potential interest in such information on the part of the User. Potential interest can be obtained by analyzing data from the User's profile, the history of his activity in the online services of the Site and / or any services of the Site (including mobile applications, and applications for SmartTV) and services of third parties - partners of the Administration. In this case, the User is always given the opportunity to refuse to receive such information further.
+  
+2.2.       This Policy applies only to Rutube. Rutube does not control and is not responsible for the sites and software of third parties to which the User can click on the links available on the Site, and the use of personal information provided by the User on the sites of third parties.
+ 
+2.3.       The Administration does not verify the accuracy of the Personal Information provided by the Users, and does not exercise control over its legal capacity, based on the fact that the User provides reliable and sufficient Personal Information and maintains this information up to date.
+ 
+2.4.       By posting information on his personal page, including his personal data, the User understands and agrees that this information may be available to other Internet users, taking into account the peculiarities of the architecture and functionality of the Site.
+ 
+2.5. The methods of obtaining (collecting) personal data of Users are: 
+2.5.1. When the User specifies the data at the time of registration by the User of an account on the Site, and further, in his personal account (Account) on the Site and / or any service of the Site, including mobile applications and an application for SmartTV.
+2.5.2. The User's indication of data when filling out paper or electronic questionnaires and questionnaires in cases of participation or registration in programs, promotions, events and services, including using existing User profiles from third parties - partners of the Administration.
+2.5.3. Receiving the data specified in the agreements from the partners of the Administration (advertisers; companies - providers of client services; affiliated with the Administration of companies; partners of the Administration).
+2.5.4. By enriching data from technical services, from depersonalized data storages and using analytical tools (including the actions described in clause 2.1.7. Of this Policy).
+ 
+2.6. The methods of obtaining (collecting) other User data, among other things, are: 
+2.6.1. Data on the generation of content by the User (in this case, the Administration can under no circumstances be considered the initiator of the posting and / or distribution of such user content, does not choose the recipient of this information, does not affect the integrity of such transmitted information (including does not contribute any changes and corrections to it); 
+2.6.2. Data obtained when analyzing information from the content provided by the User or data about the user (including metadata), for example, the place where the content was generated, or the date of creation of the file, data reflected by the User in his account, about hashtags and subscriptions, content the preferences with which the User is associated and about the User's interaction with them on the Site and / or any service of the Site (including mobile applications and applications for SmartTV);
+2.6.3. Information about transactions made by the User on (or through) the Site and / or any service of the Site, including mobile applications and applications for SmartTV (bank card number (bank account number), and other data on such a card inherent in making a transaction, other information about account and authentication, including contact details).
+2.7. With regard to any possible personal data (images, voice or any other personal information) that may be contained in any video or other content uploaded by the User to Rutube, the User guarantees that he has the necessary powers for such processing of personal data, including, making them publicly available, and in relation to such data, the User will always act as a Controller, and the Administration will act as a Processor of such data. 
+ 
+3.  Purposes of collection and processing of Personal information of Users
+ 
+3.1.       Rutube collects and stores only the User's Personal Information necessary for the provision of services (execution of agreements and contracts with the User).
+ 
+3.2. The single purpose of processing personal data within the framework of this Policy is “to ensure the possibility of identifying the User within the Site and / or the services of the Site (including mobile applications and applications for SmartTV), to enable RUFORM LLC to use the Site and / or services Site, including, to provide the User with an individual environment and settings of the Site and / or Site services. " 
+ 
+To implement the specified Single Purpose of processing personal data, the Site Administration has the right to carry out the following necessary and inalienable actions, without which the implementation of the Single Purpose of processing personal data is not possible due to the specifics of the functioning of the Site and the services of the Site (including mobile applications and applications for SmartTV), and exactly: 
+ 
+a) registration, identification of the User within the Site and the services of the Site (including mobile applications and applications for SmartTV), restoration of the User Account on the Site and the services of the Site;
+ 
+b) providing the Users of the Site with the opportunity to use the Services of the Administration, as well as identifying the Users of the Site to provide them with an individual environment and settings for the Services of the Administration;
+ 
+transfer of such data by the User in the form of any interactive interactions with the Site Administration or its partners, including registration / authorization of the User through SmartTV applications and systems, etc.); The Site Administration or its partners have the right to use any legal verification methods for the conformity of the ownership of the Site Administration (or its partners) provided by the subject of personal data about such public pages of the subject of personal data on the Internet (social networks), directly to the subject of personal data;
+ 
+d) ensuring the possibility of communication with the User of the Site and / or the services of the Site (including mobile applications and applications for SmartTV), sending him notifications, requests and information, as well as receiving and processing requests, complaints and applications of the Site Users by the Site support service and / or the Service of the Site, carried out by the Administration;
+ 
+e) analysis and research of User preferences in order to improve the Site and / or any service of the Site (including mobile applications and applications for SmartTV), to measure, collect statistics, analytics and use other services for business, including for the purpose providing such anonymized data to third parties (for example, but not limited to: targeted metrics about the types, types and number of views, advertising materials, and the effectiveness of advertising campaigns, User actions outside the Site, as a result of going to the advertiser's website after interacting with advertising on the Site and / or any service of the Site; other generalized statistics in the form of analytical reports and measurement reports);
+ 
+f) sending news, advertising, polling, statistical, marketing and other information about the Site and / or any service of the Site (including mobile applications and applications for SmartTV), or services, goods and services of any partners of the Administration; including to personalize the functions of the Site and / or any service of the Site, content, content preferences, advertisements, advertising offers and other sponsored content, suggestions for recommendations (for example, subscriptions, channels, groups, events that may interest the User, etc.); to develop, test and improve the products of the Administration / partners of the Administration, the Site and / or any service of the Site, including by conducting surveys and research, as well as testing new products and functions and troubleshooting them;
+ 
+g) sending informational messages (for example, to recover the password to access the User's account);
+ 
+h) prevention and detection of fraud and illegal use of the Site and / or any service of the Site (including mobile applications, and applications for SmartTV);
+ 
+i) the sale of goods and services to the Users of the Site through the Site and / or the services of the Site via the Internet (if such functionality is available within the Site and / or any service of the Site (including mobile applications and applications for SmartTV));
+ 
+j) holding promotions that stimulate marketing activities and competitions for Users of the Site and / or any service of the Site (including mobile applications and applications for SmartTV);
+ 
+k) conducting marketing, statistical and audience research, including surveys of satisfaction of the User of the Site and / or any service of the Site (including mobile applications and applications for SmartTV);
+ 
+l) providing Users of the Site and / or any service of the Site (including mobile applications and applications for SmartTV) access to sites on the Internet and services of third parties through interaction with the Site and services of the Site (including mobile applications and applications for SmartTV );
+ 
+m) determining the location of the User (including based on IP, GPS data, information about objects around the user, for example, Wi-Fi access points, cellular antennas and devices with a Bluetooth enabled module) to ensure security, prevent fraud, for mailing news, advertising, polling, statistical, marketing and other information about the Site and / or any service of the Site (including mobile applications and applications for SmartTV), or services of the Administration's partners. At the same time, the types of location data that the Administration can receive depend on the settings of the User's device and his account;
+ 
+n) transmission / distribution (including by making direct contacts with the User of the Site and / or any service of the Site (including mobile applications and applications for SmartTV)) over the mobile radiotelephone network and / or any other type of communication (known in past, present or created in the future), as well as through the Site and / or any service of the Site (including mobile applications and applications for SmartTV), any information messages (including messages of an advertising nature, as in relation to goods and / or services of the Site Administration and its partners, in relation to the goods and / or services offered by them), as well as individual messages containing digital, alphabetic or alphanumeric combinations (codes, passwords), as well as other address messages containing various information (including show ads to the User,meeting his interests).
+ 
+3.3.       If it is necessary to use the User's Personal Information for purposes not mentioned in this Policy, Rutube requests the User's prior consent / permission to do so.
+ 
+4.  Conditions for the processing of the User's Personal Information and its transfer to third parties
+ 
+4.1.       The processing of the User's personal data (User's Personal Information) is carried out by Rutube in accordance with the legislation of the Russian Federation, and additionally, when applicable, in accordance with the General Regulation of the European Union on the Processing of Personal Data (GDPR).
+ 
+4.2.       Principles of processing personal data
+4.2.1. The processing of personal data by the Operator is carried out on the basis of the following principles:
+a) the processing of personal data is carried out by the Operator on a legal and fair basis and is limited to the achievement of specific, predetermined and legitimate goals. Only personal data that meet the purposes of their processing is subject to processing. The content and volume of personal data processed by the Operator correspond to the stated purposes of processing, redundancy of the processed data is not allowed;
+ 
+b)     limiting the processing of personal data to achieve specific, predetermined and legitimate goals;
+ 
+c)     preventing the processing of personal data incompatible with the purposes of collecting personal data;
+ 
+d)    preventing the unification of databases containing personal data, the processing of which is carried out for purposes incompatible with each other;
+ 
+e)     processing only those personal data that meet the purposes of their processing;
+ 
+f)      compliance of the content and volume of the processed personal data with the stated processing purposes;
+ 
+g)     preventing the processing of personal data that is redundant in relation to the stated purposes of their processing;
+ 
+h)    ensuring the accuracy, sufficiency and relevance of personal data in relation to the purposes of processing personal data;
+ 
+i)      destruction or depersonalization of personal data upon achievement of the goals of their processing or in case of loss of the need to achieve these goals, if it is impossible for the Operator to eliminate the violations of personal data, unless otherwise provided by federal law.
+ 
+4.3.       With regard to the User's Personal Information, its confidentiality is preserved, except in cases of voluntary provision by the User of information about himself for general access to an unlimited number of persons.
+ 
+4.4.       Rutube has the right to transfer the User's Personal Information to third parties, as well as the results of automated processing of such data collected on its basis using various information evaluation models, in the form of integer and / or text values and identifiers that correspond to the evaluation criteria specified in requests for data processing by the Administration Site and / or persons specified in this paragraph in the following cases (in all cases, Personal information will be processed only for the purposes set out in section 2 of this Policy, unless otherwise provided by the terms of use of the Sites and / or Services, such third parties ):
+ 
+4.4.1.   The Administration may transfer the Personal Information of Users to its employees (within the limits specified in section 6 of this Policy), and to its affiliates, including other companies from the group of persons, which may include the Administration;
+ 
+4.4.2.   The user has expressed his consent to such actions;
+ 
+4.4.3.   The transfer is necessary to provide a service to the User, or the transfer of Personal Information is required to provide the relevant Service or to fulfill a certain agreement or contract concluded with the User;
+ 
+4.4.4.   The transfer is necessary to comply with the requirements of the current legislation of the Russian Federation (including in order to prevent and / or suppress illegal and / or illegal actions of Users) and / or international regulatory legislation. The disclosure of the information provided by the User can be made only in accordance with the current legislation of the Russian Federation at the request of the court, law enforcement agencies, as well as in other cases provided for by the legislation of the Russian Federation;
+ 
+4.4.5.   The transfer is carried out to the Administration Partners:
+- JSC Gazprom-Media Holding, OGRN 5087746018960; address: Russia, 117420, Moscow City, Nametkina Street, HOUSE 10A, CORPUS 1, and affiliated persons,
+- LLC "GPM PROJECTS", OGRN 1077758485860; address: Russia, 123376, Moscow, Rochdelskaya street, 20,
+- LLC INTERFAX-TV, OGRN 1077758485860; address: Russia, 129272, Moscow, Trifonovskaya street, 57A, floor 5, office 5-20,
+- LLC "UMA.TECH", OGRN 5177746031370; address: Russia, 129272, Moscow, Trifonovskaya street, 57A, floor 8, office 8-01,
+- [in the period until 15.12.2020 inclusive] ETK Pharmaceuticals LLC, OGRN: 1127746573547, address: Russia, 123056, Moscow, Gruzinskaya B. Street, 32-34, bldg. 1,
+- [in the period up to 12/15/2020 inclusive] JSC "TGK", OGRN 1107746493689, Address: Russia, 101000, Moscow, Myasnitskaya street, building 7, pom. I, room one,
+- LLC IB Group,  OGRN 1117746167340; address: Russia, 115088, Moscow, Sharikopodshipnikovskaya street, house 1, office: ET / K 9/2, and affiliated persons, members of the group of companies  " GROUP-IB ".
+ 
+4.4.6.   The transfer is carried out to other partners of the Administration (owners of sites and applications, advertising networks and other partners providing services to the Administration related to the placement and display of advertisements on sites, in programs, products or services that are owned or controlled by such partners). In this case, the list of such partners of the Administration will be additionally indicated on the Administration website at http://rutube.ru/info/privacy/, where the User has the opportunity to familiarize himself with such a list.
+ 
+4.4.7.   The transfer is carried out to third parties in respect of which the assignment of rights or obligations has been made, or novation under the relevant agreement;
+ 
+4.4.8.   The transfer is carried out to any third party in order to ensure legal protection of the Administration or third parties in case of violation by the User of the User Agreement and other Mandatory Documents, or in a situation where there is a threat of such a violation.
+ 
+4.5. The administration has the right to transfer anonymized data to a third party. In this case, if there is a possibility of aggregation of such data with the corresponding personal data held by a third party, the Administration takes all necessary steps to obtain guarantees of protection of the transmitted data by a third party. Also, as part of a partnership with advertising services, for example, Google Ad, some non-personalized data of the online activity of Internet users may be exchanged for the subsequent focal display of advertising banners in the Internet content of the advertising service partners.
+ 
+4.6. The storage of personal data by the Administration is carried out in a form that makes it possible to determine the subject of personal data, no longer than the purpose of processing personal data requires, if the storage period for personal data is not established by federal law, an agreement to which the subject of personal data is a party, beneficiary or guarantor. The processed personal data are subject to destruction or depersonalization upon achievement of the processing goals, unless otherwise provided by federal law.
+ 
+4.7. The processing of personal data is carried out in an automated way in personal data information systems.
+ 
+4.8. Unless otherwise specified in the text of this Policy, the Administration does not carry out cross-border transfer of personal data and does not make decisions regarding the subject of personal data based solely on automated processing.
+ 
+5.   Change by the User of his Personal Information
+ 
+5.1.       The user can at any time change (update, supplement) the Personal information provided by him or a part of it, using the editing function in the  settings
+ 
+5.2.       The user can also completely delete the Personal information provided by him within a certain account, as well as the Materials and Information posted / uploaded by him, using the "Delete account" function.
+ 
+5.3.       If the personal page is deleted, the Site Administration stores personal and other necessary data of the User on its electronic media for the period necessary and established by the current legislation of the Russian Federation (and also, if there are grounds specified in paragraphs 2-11 of part 1 of article 6, part 2 of article 10 and part 2 of article 11 of the Federal Law of July 27, 2006 No. 152-FZ "On Personal Data", has the right to continue processing the User's personal data). In case of self-deletion of his personal page, the User has the right to restore his personal page within 30 days from the moment of self-deletion of the personal page.
+ 
+6.  Measures used to protect the Personal Information of Users
+ 
+6.1.       Rutube takes the necessary and sufficient organizational and technical measures to protect the User's Personal Information from unauthorized access, destruction, modification, blocking, copying, distribution, as well as from other illegal actions of third parties in relation to it.
+ 
+6.2.       The Administration provides access to the User's Personal Information only to those employees, contractors and partners of the Administration who need this information to ensure and improve the level of functioning of Rutube, including the Site, and provide services to the User, and only to the extent necessary and consistent with the processing purposes specified in clause 2. of this Policy. Based on this, Personal Data is processed automatically without access to it by any of the Administration employees or third parties. If such access is needed, then it can be provided only to those employees of the Administration or third parties who need it to perform their tasks. To protect and ensure the confidentiality of data, all employees must comply with internal policies and procedures regarding the processing of Personal Information. They must also follow all technical and organizational security measures in place to protect users' personal data.
+ 
+6.3.       The Administration, taking into account the modern level of technology, the cost of their implementation, the risks associated with the processing and nature of personal data, implements and constantly improves sufficient technical and organizational measures to protect the personal data of users from unauthorized, accidental or illegal destruction, loss, alteration, unfair use, disclosure or access, as well as other illegal forms of processing.
+ 
+6.4.       The administration does not guarantee the safety of the data transmitted by the User to the Site and its services, unauthorized access to which can be obtained by third parties as a result of any illegal actions. Any transfer of data is made by the User at his own risk.
+ 
+6.5.       In order to ensure more reliable protection of information about Users, the Site Administration uses a system for linking the page to a mobile phone. To implement this system, the User must provide the Site Administration with his mobile phone number. As part of the system for linking the page to a mobile phone, the User, in the event of a login or password loss, can restore access to the page using the recovery code contained in the SMS message that the User receives on his mobile phone.
+ 
+6.6. When processing the User's Personal Information, the Administration takes the necessary legal, organizational and technical measures to protect them from unauthorized or accidental access to them, destruction, modification, blocking, copying, provision, distribution, as well as from other illegal actions in relation to such data. To such measures in accordance with the federal law of 27.07.2006. No. 152-FZ "On Personal Data", in particular, includes the following:
+ 
+- a person responsible for organizing the processing and ensuring the security of personal data has been appointed;
+- this Policy has been developed, local acts on the processing of personal data, as well as local acts establishing procedures aimed at preventing and detecting violations of the legislation of the Russian Federation, eliminating the consequences of such violations;
+- an assessment of the harm that may be caused to the subject of personal data in case of violation of the requirements of the Federal Law "On Personal Data" was carried out;
+- the current threats to the security of personal data during their processing on the Sites are identified in accordance with part 5 of Article 19 of the Federal Law "On Personal Data" and the type of threats to the security of personal data during their processing on the Site and / or in the services of the Site is determined, taking into account the assessment of possible harm;
+- organized the implementation of internal control over the compliance of personal data processing with the requirements of the Federal Law and the regulatory legal acts adopted in accordance with it;
+- the employees of the Administration who directly process personal data are familiar with the provisions of the legislation of the Russian Federation on personal data, including the requirements for the protection of personal data, this Policy and local acts of the Administration on the processing of personal data;
+- a personal data protection system of personal data information systems has been created;
+- the procedure for assessing the conformity of information protection means that have passed in the prescribed manner is applied;
+- a regime has been organized to ensure the security of the premises in which the processing of personal data is carried out, preventing the possibility of uncontrolled entry or stay in these premises of persons who do not have the right to access these premises;
+- rules for access to personal data processed on the Sites are defined, as well as registration and accounting of all actions performed with the personal data of Site Users are provided;
+- the facts of unauthorized access to personal data are detected and measures are taken on such facts;
+- recovery of personal data modified or destroyed due to unauthorized access to them is ensured;
+- The administration conducts periodic checks of compliance with the procedure for processing and ensuring the security of personal data.
+ 
+7.   The procedure for storing Personal information of Users
+7.1. Recording, systematization, accumulation, storage, clarification (update, change), extraction of personal data of citizens of the Russian Federation shall be stored by the Administration exclusively on server facilities located in the territory of the Russian Federation.
+ 
+7.2.       For users from the European Economic Area or Switzerland: Russia is a jurisdiction outside the European Economic Area that has not been recognized by the European Commission as providing an adequate level of protection for personal data. On this basis, for such Users, the Administration takes appropriate measures to ensure that such transfer is carried out in accordance with the current EU data protection rules. In particular, the Administration relies on the Standard Contractual Clauses (https://ec.europa.eu/info/law/law-topic/data-protection_en) approved by the European Commission to ensure an adequate level of protection of the Personal information of such users transferred to Russia ...
+ 
+7.3.       The administration is obliged to make sure that the foreign state, to whose territory it is supposed to transfer personal data, provides adequate protection of the rights of subjects of personal data, prior to the start of such transfer.
+ 
+7.4.       Cross-border transfer of personal data on the territory of foreign states that do not provide adequate protection of the rights of subjects of personal data can be carried out in the following cases:
+ 
+a)     there is a written consent of the subject of personal data for the cross-border transfer of his personal data;
+ 
+b) the     performance of a contract to which the subject of personal data is a party.
+ 
+7.5. The processing of personal data of the User of the Site and / or any service of the Site (including mobile applications and applications for SmartTV) is carried out / Consent is valid: within six (6) calendar months, or after the User deletes his Account on the Site and / or in the services of the Site , or after the moment of withdrawal of consent to the processing of personal data.
+ 
+7.6. Consent to the processing of personal data can be revoked by the User by sending a written statement, which is signed by the User and handed over, or sent by registered mail with a receipt notification to Roform LLC at the address indicated at the beginning of this Consent. Consent to the processing of personal data can also be revoked by the User in any legal way, including in information systems using automation tools.
+ 
+8.  RIGHTS and obligations of users
+ 
+8.1. If this is provided by applicable law, the User has the right to access his Personal information processed by the Administration in accordance with this Policy. This means that the User, as a subject of personal data, has the right to send the Administration a request to confirm the fact of processing of his personal data, and in case of confirmation of such processing, he has the right to familiarize himself with the personal data processed by the Administration, as well as information about the purposes of processing, the category of processed data, actions with data, recipients of data and guarantees when transferring data to third parties, processing times, sources of data receipt, the presence of an exclusively automated decision-making process, as well as the right to receive a list of processed personal data.
+ 
+8.2. If the User believes that any information that the Administration stores about the User is incorrect or incomplete, then the User has the right to demand that the Site Administration clarify his personal data, block or destroy it if such data is incomplete, outdated, unreliable, illegal received or not necessary for the stated purpose of processing, and if the User himself cannot, using the software of the Site specially provided for this to the User of the Administration, enter his account and correct his Personal Information on his own;
+ 
+8.3. If this is provided by applicable law, the User has the right:
+ 
+a) require the removal of his Personal Information from the systems of the Administration and / or other available material sources, under one of the following conditions:
+• such data are no longer required for the purposes for which they were obtained;
+• the consent on the basis of which the processing was carried out has been revoked, unless there is another legal basis for continuing the processing;
+• The User objects to the processing of such data (provided that there are no legal grounds that prevent the Administration from fulfilling such a requirement of the User, or in connection with which, the Administration is not obliged to comply with such requirements of the User);
+• data is processed unlawfully;
+• data must be destroyed in accordance with the requirements of applicable law;
+• at the time of collecting such data, the User, for some reason outside the will and control of the Administration, is a minor citizen, while the data itself was obtained from a legal representative or with his participation.
+ 
+b) require restrictions on the processing of all or part of their Personal Information, subject to one of the following conditions:
+• the accuracy of personal data is disputed by the User;
+• unlawful processing of data was revealed, but the User objects to the deletion of his data and instead demands to limit the scope and procedure for their use;
+• The Administration no longer requires such data for the purposes of processing, but they are required by the User for justification, execution or in the framework of legal proceedings;
+• The User objects to the processing of his data (provided that there are no legal grounds that prevent the Administration from fulfilling such a requirement of the User, or in connection with which, the Administration is not obliged to comply with such requirements of the User).
+ 
+c) object to the partial or complete processing of his Personal information, if this is provided for by applicable law, unless the provisions of the current applicable law have greater legal force over the interests, rights and freedoms of the User or such processing is necessary to justify, exercise or defend against legal claims.
+d) request the correction of his Personal information, in case of inaccuracies in the composition of personal data that are processed by the Administration. 
+e) request a list of your Personal Information provided to the Administration for processing in a structured, universal and machine-readable format, and instruct the Administration to transfer its such data to a third party. The provision of this information or transfer to a third party at the direction of the User is possible only if the Administration has the appropriate technical capability. After such a transfer of data, the Administration is not responsible for the actions of a third party committed in the future with the User's Personal Information.
+f) demand to restrict the processing of his Personal Information for the purpose of using it in marketing activities carried out by the Administration.
+g) file a complaint with the national supervisory authority at the place of permanent residence if the Administration in any way violates its rights in the field of personal data processing.
+ 
+8.4.       The administration will fulfill these requests in accordance with applicable law.
+ 
+8.5.       In cases provided for by applicable law, you may also have other rights not listed above.
+ 
+8.6.       Users have the right to send their requests to the Site Administration, including requests regarding the use of their personal data, in writing to the address specified in clause 1.1. of this Policy, or in the form of an electronic document signed with a qualified electronic signature in accordance with the legislation of the Russian Federation, at the email address: support@rutube.ru .
+ 
+8.7.       The request specified in clause 8.6. of this Policy must contain the following information:
+ 
+d) the    number of the main identity document of the user or his representative;
+ 
+e)     information on the date of issue of the specified document and the issuing authority;
+ 
+f)      user account address;
+ 
+g)     mobile phone and / or e-mail number specified by the User when registering on the Site;
+ 
+h) the    signature of the User or his representative.
+ 
+8.8.       The Administration considers and sends a response to the User's request within 30 days from the date of receipt of the request.
+ 
+8.9.       All correspondence received by the Administration from Users (applications in writing or electronic form) refers to information of limited access and is not disclosed without the written consent of the User. Personal data and other information about the User who sent the request cannot be used without the special consent of the User otherwise than in the cases provided for by this Policy, as well as to respond to the topic of the request received or in cases expressly provided for by law.
+8.10. If the User is a person residing in the territory of the European Union, then he also has the right to file a corresponding complaint with the Data Protection Authority about the violation by the Administration of the procedure for processing personal data of such a user (in the manner provided for: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46 / EC (General Data Protection Regulation ). For more information, please contact our Data Protection Officer "European Data Protection Officers, SL" (contact@delegadopd.comtran) or your local data protection authority in the European Union (EU).
+ 
+9.  OTHER CONDITIONS
+9.1. Rutube does not control and is not responsible for the sites and services of third parties to which the User can click on the links / buttons available on Rutube, as well as for the content of such sites and services.
+ 
+9.2.       Any changes in the Policy come into force from the moment the new version of the Policy is published on the Site. Continued use of Rutube after the publication of the new version of the policy on the Site will mean the User agrees with the changes in the policy. in case of disagreement with the changes in the policy that have come into force, the user is obliged to independently stop using Rutube by deleting his account on the site.
+ 
+9.3.       The applicable law under this policy is the law of the Russian Federation. All disputes about the Policy are resolved in accordance with the current legislation of the Russian Federation at the location of the Administration.
+ 
+9.4. The authorized body for the protection of the rights of personal data subjects is the Federal Service for Supervision of Communications, Information Technology and Mass Media (Roskomnadzor), the Office for the Protection of the Rights of Personal Data Subjects. Territorial body: Roskomnadzor Administration for the Central Federal District, the current contact information of which is available, among other things, at 77.rkn.gov.ru.
+

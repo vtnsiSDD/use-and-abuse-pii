@@ -1,0 +1,183 @@
+( Date Accessed: 6/09/2021, From: https://www.kinguin.net/privacy-policy-cookie-restriction-mode)
+
+( Embedded Hyperlinks Used:
+mailto:gdpr@kinguin.io
+)
+
+Privacy Policy Of Kinguin
+Kinguin Digital Limited information statement
+Kinguin Digital Limited, a Hong Kong company with a company number 2535963, 8/F On Hing Building, On Hing Terrace, Central, Hong Kong is a Personal Data Controller („the Controller”):
+
+The Controllers representative is contact details: gdpr@kinguin.io.
+Personal data are processed in order to provide the services to the user and perform the contract and its settlement. Personal data are also processed for the marketing purposes of the Controller or third parties, sending newsletters pursuant to the users consent, as well as in connection with the legitimate interest pursued by the Controller namely marketing of its own products and services, post-sale customer services.
+The recipients of the Personal data may be the entities providing below mentioned services:
+- marketing,
+- customer support,
+- sales,
+- payments
+- as well as public authorities to which Personal data is transferred due to legal regulations.
+The Controller does not intend to transfer Personal data to a third country or international organisation.
+Personal data will be processed during the implementation of a goal for which they have been collected, until the expiry of claims associated with the user or in the case when the processing of data is necessary in order to seek claims or defend against claims, which is a legally justified interest of the Controller, as well until the newsletter will be available or until the consent will be withdrawn.
+You have the right to:
+- to request the access to and rectification or erasure of personal data or restriction of processing concerning the data subject or to object to processing or to raise an objection to the processing, as well as the right to data portability,
+- where the processing is based on art. 6 par. 1 letter a) or art. 9 par. 2 letter a)- to withdraw the consent to the processing at any time; without affecting the lawfulness of processing based on consent before its withdrawal,
+- not being subject to automated decision making, including profiling,
+- to lodge a complaint with the supervisory authority.
+Providing the data is a requirement necessary to enter into an agreement and carry out the transaction. Providing the data is voluntary. The consequence of not providing required Personal data is lack of possibility to use the functionalities of our marketplace, to finalize transaction. In case of the consent for marketing purposes granted by the user the consequence of not giving such consent will be the inability to receive information regarding the services offered by the Controller or third parties in the form of a newsletter or any other form.
+Your personal data will not be processed in an automated way.
+After processing the Personal data for the original purpose such data will not be processed for any other purpose without users consent.
+1. General Provisions
+2. Personal data collection and processing
+3. Objectives, legal basis time of processing of personal data
+4. Transfer of personal data
+5. Third party services
+6. Rights of the user
+7. Period of personal data storage
+8. Information about “cookies”. cookies and other similar technologies
+9. How to manage browser settings?
+10. Links to other parties websites
+11. Technical and organizational measures to protect data
+12. Processing of children’s personal data
+13. Changes in the privacy policy
+14. Contact and right to bring a complaint
+GENERAL PROVISIONS
+In order to preserve the right to privacy of the users of the Kinguin.net platform (hereinafter referred to as “Platform”) and to meet the requirements of the law, Kinguin Digital Limited, a Hong Kong company with a company number 2535963, 8/F On Hing Building, On Hing Terrace, Central, Hong Kong (hereinafter referred to as “Kinguin”) publishes a document in which it explains and informs the manner in which Personal data provided by users of the Kinguin.net platform (hereinafter referred to as “Users”) is collected, processed and secured.
+Before the start of the use the services or making registration, the User should familiarize with the content of this Privacy Policy.
+
+PERSONAL DATA COLLECTION AND PROCESSING
+Kinguin Digital Limited, a Hong Kong company with a company number 2535963, 8/F On Hing Building, On Hing Terrace, Central, Hong Kong is Data Controller (hereinafter referred to as „the Controller”) regarding data provided by the User during use of Kinguin services.
+Kinguin processes Personal Data in accordance with applicable laws, including the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27thApril 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (hereinafter referred to as „GDPR”).
+
+Kinguin provides its Users with the possibility of browsing resources of the Platform anonymously, however, in order to get full access to the content and services offered through the Platform and to order any products available through the Platform it is advisable to register by completing the registration form with detailed Personal Data of the User.
+
+Providing Personal data by the User is voluntary, but the lack of some of them may prevent you from registering on the Platform, using certain services, receiving a newsletter, buying products etc.
+In order to register on the Platform, the User will be asked at least to provide:
+- E-mail address,
+- Password.
+
+To order the services, complete payments and get the ordered products the User is asked to provide additional Personal data such as:
+- First name,
+- Last name,
+- Street address,
+- City,
+- Zip/postal code,
+- Country,
+- in exceptional cases, a mobile phone number
+
+In addition, Kinguin will collect information on Users` interactions with the Platform, content and services including: device and login information, so-called system logs, including the date, time of the visit and the IP number of the device from which the connection was made, as well as data on the statistics of the Platform’s traffic statistics, traffic to and from individual websites. The above activities are aimed at improving the Platform and tailoring services to the User`s needs. Data stored in the server logs are not associated with specific people using the Platform or the service and are not used by the Controller to identify the User. Information about the User Kinguin also receives from payment operators, that is entities that enable the User to make online payments for product purchased On the Platform. We get information from them about the status of the payment for the product. In case of logging in to the account on the Platform via another platform - verification and authentication of the User - Kinguin receives this data from entities providing such a service, ie Facebook, Google or Twitter. We receive such data from them: e-mail address, gender, user ID, date of birth, login generated automatically.
+
+OBJECTIVES, LEGAL BASIS TIME OF PROCESSING OF PERSONAL DATA
+Users` data are processed in particular for the following purposes:
+- providing the services to the User and performing the contract and its settlement,
+- providing content and products to Users, including content/products tailored to their interests,
+- measuring and improving content and services,
+- informing about the services of Kinguin and content and products of other companies cooperating with Kinguin’
+- sending a free newsletter with information on Kinguin, provided that the User has previously agreed to receive marketing correspondence from Kinguin,
+- ensuring the security of information processing in Kinguin,
+- management of ICT systems,
+- claiming.
+
+To the extent to which User’s Personal data are processed in order to improve the content and services of Kinguin, provide information on other Kinguin services, as well as provide personalized marketing content on the Platform, carry out research and analysis regarding products, services, Kinguin and third parties advertising, the legal basis for the processing of Users Personal data is the legitimate interest of Kinguin. It is in the interest of Kinguin to provide, improve its services, ensure their best quality and inform Users about them.
+
+The purpose, legal backgrounds and period for processing your data for specific purposes are as follows:
+
+Processing of Personal data in order to perform a contract on the Kinguin -User line (these agreements are usually regulations that the User accepts before using a given service), including providing services to Users, matching the services to the needs of Users, analysing and improving the services and ensuring the security of the services (hereinafter "performance of the services")- the legal background is art. 6 par. 1 b) GDPR - necessity to perform the contract to which the User is a party; Personal Data will be processed by period: until the termination of the relevant contract between the User and Kinguin, with the proviso that sometimes, these data can be processed also after the expiration of this contract, but only if it is allowed or required under applicable law e.g. processing for statistical, billing or claims purposes.
+Processing of Personal data in order to carry out statistical measurements (hereinafter "statistics"), marketing (including analysing data for marketing purposes) of the administrator`s products and services (hereinafter also "own marketing")- the legal background is art. 6 par. 1 f) GDPR- the legitimate interest of the Controller. Personal Data will be processed until the application of effective opposition.
+Processing of Personal data for the marketing purposes (analysing data for marketing purposes) relating to the products and services of third parties (also referred to as "third parties marketing")- the legal background is art. 6 par. 1 a) GDPR- voluntary consent. Personal Data will be processed until withdrawal of consent.
+Processing of Personal data in order to deliver the newsletter from Kinguin through User’s account on the Platform. Newsletter may contain content tailored to User’s interests, based on User’s activity and viewed content. The legal background in case of newsletter is art. 6 par. 1 a) GDPR- voluntary consent. Personal Data will be processed until withdrawal of consent.
+Processing od Personal data for in order to comply with applicable laws (anti-money laundering obligations, protecting Kinguin’s rights. The legal background is art. 6 par. 1 f) GDPR- the legitimate interest of the Controller. Personal Data will be processed by period: until the termination of the relevant contract between the User and Kinguin, with the proviso that sometimes, these data can be processed also after the expiration of this contract, but only if it is allowed or required under applicable law.
+Providing Personal data is voluntary, but failure to provide data marked as necessary to render services to the User will make impossible to provide them.
+
+TRANSFER OF PERSONAL DATA
+Kinguin, in principle, does not provide User’s Personal data to third parties, except for situations in which Kinguin has a legal basis to do so, and at the request of entitled entities, or when it is necessary to perform services offered at the Platform. User’s Personal data may be transferred to entities processing Personal data on behalf of the Controller, among others, administrative, telco, payment, back office, legal service providers, as well as IT service providers, marketing agencies, etc. - these entities process data on the basis of a contract with the administrator and only in accordance with the administrator`s instructions. The User`s Personal data may also be transferred to entities authorized to obtain them on the basis of the applicable law, eg. law enforcement authorities in the event of a request being made by the authority on the appropriate legal basis (eg. for the needs of pending criminal proceedings). Users` Personal data may be transferred in certain cases to recipients from third countries, ie. from countries outside the European Economic Area, eg. if it is necessary for the provision of services to the User or if it will be conditioned by a different, important legal basis.
+
+THIRD PARTY SERVICES
+Kinguin uses the YouTube API Services in order to provide functionality such as loading thumbnails for YouTube videos. To learn more about how Google manages and protects your information, please see Google’s Privacy Policy https://policies.google.com/privacy.
+
+RIGHTS OF THE USER
+The User has the following rights in relation to the processing of his Personal data by Kinguin:
+
+The right of access to Personal data:
+At the User`s request, Kinguin will confirm what Personal data of the User Kinguin processes and provide User with a copy of such data. In any case, the registered User has access to Personal data provided to Kinguin through the User`s account on the Platform.
+The right to rectify Personal data:
+In case the User`s Personal data is inaccurate or incomplete, the User may demand from Kinguin correcting or supplementing them. In any case, the registered User has the option of correcting User’s Personal data through the User`s account on the Platform.
+The right to erase Personal data (in certain situations):
+In certain situations, the User may claim Kinguin to remove Personal data processed by Kinguin (eg. when data is no longer required to provide services by Kinguin).
+The right to limit the processing of the Personal data:
+The User may demand in certain situations that Kinguin temporarily suspend processing of his Personal data (e.g., not sending marketing information to the email address provided). For example, a user may request to restrict the processing of his Personal data when he objects to the processing or when he questions the correctness of the data. Despite the restriction of processing, Kinguin will still be entitled to hold Personal Data.
+The right to request the transfer of Personal data:
+In certain situations (eg. in relation to data processed on the basis of consent), the User also has the right to receive Personal Data processed by Kinguin in a structured, commonly used machine-readable format to transfer this data to another Controller.
+The right to object to the processing of Personal Data:
+The User may demand that Kinguin cease processing his personal data when:
+- Kinguin processes User`s personal data based on the legitimate interest of his or her third party, except in situations where these interests are superior to the interests, rights and freedoms of the User,
+- User`s data are processed for direct marketing purposes,
+- Processing includes automated decision making towards the User, including profiling.
+The right to lodge a complaint with the supervisory body dealing with the protection of personal data:
+The User who is not satisfied with the way Kinguin processes Users Persona Data shall contact Kinguin at gdpr@kinguin.io and if the answer will not meet User’s expectations, the User can file a complaint to the appropriate Personal Data Protection Authority in the User’s country of residence.
+The right to withdraw consent in the scope in which Personal data are processed on this basis:
+The withdrawal of consent does not affect the lawfulness of the processing of the personal data in the period from the date of consent to the processing personal data until the date of withdrawal of this consent.
+In order to exercise the above rights, please contact the Controller- gdpr@kingin.io.
+
+PERIOD OF PERSONAL DATA STORAGE
+Kinguin stores Users` personal data only for the time that is necessary to achieve the purposes for which the data was collected. After this time, the data is deleted or anonymized in such a way that it is not possible to establish the identity of the User.
+Personal data may be stored for longer if such an obligation arises from the provisions of law or if it is necessary for Kinguin to defend or seek claims against Users.
+
+INFORMATION ABOUT “COOKIES”. COOKIES AND OTHER SIMILAR TECHNOLOGIES
+The Platform use mechanisms of automatic data storage-mechanism of the type: "cookies". They are used to better adapt the Platform to the needs of Users. For purposes of this policy, mechanisms for automatic data storage will be referred to as "Cookies". "Cookies" are files saved on the User`s end device, used to identify the User`s browser while using the Platform. They are used to provide the Controller statistical information about Users `traffic, Users` activity and the manner of using the Platform and its services. They allow Kinguin to adjust the content and services to the User’s preferences. Most "cookie" files are so-called session cookies that are automatically deleted from the hard disk after the session ends (that is, after logging out or closing the browser window). Some of the "cookies" allow the identification of the end device of the User when visiting the Platform again - they are not deleted automatically, they are saved on the end device. In the case of mobile devices, as in the case of stationary devices, the mechanism of accepting "cookies" has been used, which allows memorizing information related to a given User. Kinguin informs that third parties, including those not affiliated with Kinguin, in order to display advertisements on the Platform, may place their "cookie" files in the browsers of the Users. The Platform also use a third party service, thanks to which Kinguin obtains anonymised reports on the use of the Platform and the effectiveness of marketing campaigns. A User who does not agree to such a way to monitor his behaviour should express his opposition on the website of such an entity.
+
+We use cookies and other similar technologies for the purposes of:
+- providing services;
+- adapting the content of the Platform to the User`s preferences and optimizing the use of the Platform; e.g. cookies allow in particular to identify the User`s device and properly display the Platform adapted to its individual needs;
+creating statistics that help to understand how Users use the Platform, which allows improving its structure and content;
+- maintaining the User`s session (after logging in), thanks to which the User does not have to re-enter their login and password on each subpage of the Platform;
+- advertising presentation, including in a way that takes into account the interests of the User or his place of residence (individualising the advertising message) and with the guarantee of excluding the possibility of repeatedly presenting the same advertisement to the User;
+- surveys - in particular to avoid multiple presentations of the same questionnaire to the same Recipient and to present surveys in a way that takes into account the interests of the recipients.
+
+What types of cookies do we use?
+Due to the lifetime of cookies, we use two types of files:
+- sessional - temporary files stored on the User`s end device until logging out, leaving the website and application or turning off the software (web browser);
+- fixed - stored on the User`s end device for the time specified in the cookie file parameters or until they are deleted by the User.
+
+Due to the purpose of cookies:
+- necessary for the operation of the Platform;
+- enabling the use of our services, e.g. authentication cookies used for services requiring authentication;
+- files used to ensure security, e.g. used to detect fraud in the field of authentication;
+- performance - allowing gathering information about the way the User uses the Platform;
+- functional - allowing "remembering" the settings selected by the User and personalizing the User`s interface, eg. in terms of the language or region of the User`s of the font, appearance of the website, etc .;
+- advertising - allowing to provide Users with advertising content more tailored to their interests;
+- statistical - used to count statistics on the Platform.
+
+HOW TO MANAGE BROWSER SETTINGS?
+In many cases, software used for browsing websites (web browser) allows for the storage of information in the form of cookies and other similar technologies by default in the User`s end device. However, the User can change these settings at any time. Failure to change means that the above information can be posted and stored on its end device, and thus that we will store information on the User`s end device and access this information.
+
+From the level of the web browser used by the User, for example, you can manage cookies manually. The most popular browsers include possibility:
+- accepting cookies, which allows the User to fully use the options offered by websites;
+- cookie files management at the level of individual sites selected by the User;
+- defining settings for various types of Cookies, for example accepting files as permanent as session, etc.;
+- blocking or deleting Cookies.
+
+Comprehensive information is available in the software (web browser) settings. Details for using particular browsers, i.e.:
+- Internet Explorer
+- Mozilla Firefox
+- Chrome
+- Opera
+- Etc.
+
+Please be advised that restrictions or exclusions of the use of cookies and other similar technologies may affect some of the functionalities available on the Platform. Additional information about cookies and other technologies can be found, among others at youronlinechoices.com or in the Help section in the browser menu.
+
+LINKS TO OTHER PARTIES WEBSITES
+This document applies only to the Platform whose administrator is Kinguin. Kinguin is not responsible for links placed on the Platform enabling Users to go directly to websites whose administrator is not Kinguin. We encourage you to read the content of the privacy records placed on the websites to which the references lead.
+
+TECHNICAL AND ORGANIZATIONAL MEASURES TO PROTECT DATA
+The information provided by our Users is processed and stored using appropriate security measures in accordance with the requirements set by law. Kinguin secures Users` data against unauthorized access, use or disclosure. The data is processed in a controlled environment while maintaining high standards of protection. At the same time, Kinguin draws attention to the fact that Users do not share their registration data with third parties and use the "log out" option after using the content and services offered by the Platform.
+
+PROCESSING OF CHILDREN’S PERSONAL DATA
+Kinguin`s services offered as part of the Platform are addressed to persons over 16 years of age. In the case of persons who are under the age of 16, the consent of the legal guardian for the processing of the User`s personal data is required. Kinguin will not knowingly collect and process Personal Data of children under 16.
+
+CHANGES IN THE PRIVACY POLICY
+In the Platform footer, the Controller undertakes to maintain the current content of the privacy policy.
+
+CONTACT AND RIGHT TO BRING A COMPLAINT
+Questions, applications and remarks regarding the principles of privacy policy and processing of User`s personal data by Kinguin should be sent by e-mail to the following e-mail address: gdpr@kinguin.io, or in writing to: Kinguin Digital Limited, and Hong Kong company with a company number 2535963, 8 / F On Hing Building, On Hing Terrace, Central, Hong Kong.
+
+Revision date 2018, May 25

@@ -1,0 +1,455 @@
+( Date Accessed: 6/09/2021, From: https://tripadvisor.mediaroom.com/us-privacy-policy )
+
+( Embedded Hyperlinks Used:
+https://tripadvisor.mediaroom.com/us-privacy-policy#_Cookies
+https://tripadvisor.mediaroom.com/US-about-us
+https://www.networkadvertising.org/
+http://optout.aboutads.info/
+http://optout.networkadvertising.org/?c=1
+https://www.tripadvisor.com/MemberProfile
+http://www.aboutads.info/choices/
+http://www.youronlinechoices.com/
+https://privacyportal-cdn.onetrust.com/dsarwebform/da774af3-e615-4e8c-8a28-3d13e98367c5/d294c536-2b05-4be5-b3dc-22f11e5c9d19.html
+https://privacyportal-cdn.onetrust.com/dsarwebform/da774af3-e615-4e8c-8a28-3d13e98367c5/31a9cb36-8e8d-465a-977a-3fe628929deb.html
+https://privacyportal-cdn.onetrust.com/dsarwebform/da774af3-e615-4e8c-8a28-3d13e98367c5/d294c536-2b05-4be5-b3dc-22f11e5c9d19.html
+https://www.tripadvisor.com/MemberProfile
+https://privacyportal-cdn.onetrust.com/dsarwebform/da774af3-e615-4e8c-8a28-3d13e98367c5/d294c536-2b05-4be5-b3dc-22f11e5c9d19.html
+https://privacyportal-cdn.onetrust.com/dsarwebform/da774af3-e615-4e8c-8a28-3d13e98367c5/d294c536-2b05-4be5-b3dc-22f11e5c9d19.html
+mailto:privacy@zendesk.com
+mailto:aws-korea-privacy@amazon.com
+mailto:privacy@snowflake.com
+https://support.google.com/policies/troubleshooter/7575787?visit_id=637109041821835307-4099556209&rd=2
+mailto:DPO@concentrix.com
+mailto:dpo@onetrust.com
+mailto:privacy@tableau.com
+mailto:privacy@twilio.com
+https://privacyportal-cdn.onetrust.com/dsarwebform/da774af3-e615-4e8c-8a28-3d13e98367c5/d294c536-2b05-4be5-b3dc-22f11e5c9d19.html
+mailto:tripadvisor@labpartners.co.kr
+https://tripadvisor.mediaroom.com/us-privacy-policy-2019
+)
+
+Privacy and Cookie Statement
+Effective: 4 February 2021
+We know that sharing your personal information with us is based on trust. We take this seriously and are committed to ensuring that we respect your privacy when you visit our website or use our services. Please review this Statement carefully to learn about our privacy practices.
+We operate an online service that provides users with recommendations for travel and travel planning, including hotels, holiday rentals and other accommodations, attractions and experiences, restaurants, flights, cruises, travel guides and lots more. In this Statement, these are collectively referred to as our Services.
+Our Services are owned and operated by Tripadvisor LLC. By visiting our websites and related applications, whether on a computer, phone, tablet, or similar device (these are all referred to as a “Device”), you are accepting the practices described below.
+As a global company, we operate in a number of countries and territories where the laws and customs differ. This Statement provides a general overview of our privacy practices; you can view certain country-specific information by selecting your place of residence in the jurisdiction links at the bottom of this Statement
+Information Collected
+When you access or use our Services, we collect information from and about you to provide a more personalized and relevant experience. Some information we collect automatically. Other information we collect from different sources, including affiliated entities, business partners, and other independent third-party sources. When you use our Services by “clicking-through” from a third-party site or when you visit third-party sites via our Services, those third-party sites may share information with us about your use of their service. Information collected may include the following:
+Contact information, including name, phone number and postal and email addresses
+Billing or payment information (such as your credit card number, cardholder name, expiration date, authentication code, and billing address)
+User name and password
+Photos, reviews, forum and social posts, and videos you may have provided to us
+Geolocation information
+Device information, such as when you accessed our Services and information about the Device used (for example, IP address, software or internet browser used, preferred languages, unique Device identifiers and advertising identifiers)
+Online activity, including pages you have visited, content reviewed, and apps reviewed
+Purchasing history
+Information about your travel plans and preferences
+We may also collect, in instances where you have provided it, information about other travellers, including their email address and other travel-related information. If you are sharing information with us about other individuals, you must obtain their consent. You must obtain the consent of any other individuals if you are providing their data to us.
+In addition to the categories noted above, we may also collect location information if you have instructed your Device to send such information via the privacy settings on that Device, or, for example, if you have uploaded photos tagged with location information. We may use your location information directly and/or share your location with third-parties. We collect and share location information in order to provide you with relevant content, to analyze your use of our Services, to improve our Services and to provide contextual advertising or recommendations. For example, we may use your location to show you reviews of hotels, restaurants or attractions near you when you are traveling.
+You can change the privacy settings of your Device at any time in order to turn off the functionality that collects and shares location information and/or the functionality to tag your photos with location information. However, turning off location-sharing may affect certain features we offer. If you have any questions about the privacy settings of your Device, we suggest you contact the manufacturer of your Device or your mobile service provider for help.
+Please see the section on Cookies below for more information regarding the use of cookies and other technology described in this section, including regarding your choices relating to such technologies.
+Information Uses
+We are committed to providing you with relevant content on our Services and respect the data privacy laws of the different jurisdictions which we operate in. We use information about you so we can help you enjoy and use our Services, including in the following ways:
+Register and manage your account, including to allow you access to and use of our Services
+Facilitate your bookings
+Measure interest in and improve our Services
+Notify you about special offers and products or services available from us, our affiliates, or our partners that may be of interest to you
+Communicate with you
+Enable communication between registered users and owners/representatives of listings on our Services
+Enable us to publish your reviews, forum posts, photos, videos and other content
+Customize your experience, including customizing the ads shown to you on our Services and across the internet
+Make inferences about your interests or preferences
+Provide you with an optimized experience and to group users of our Services based on, for example, usage and demographics
+Send you survey or market research invitations
+Respond to your questions and comments
+Resolve disputes or troubleshoot problems
+Prevent potentially prohibited or unlawful activities
+Enforce our terms of use and notices; and as otherwise described to you at the point of collection
+Please note some information about you is required in order for us to provide you with relevant offerings from us, our affiliates, and our partners and to enable you to enjoy other benefits of being a registered user. Please review the “Information Choices” section below with respect to your choices related to the collection and use of your information.
+Information Sharing
+In order to provide some of our Services, we may need to share information with certain other third-parties, including our group of companies, in the following circumstances:
+Our Group of Companies. We share information with companies in our corporate family so we can provide you with information about products and services, both travel-related and others, which might interest you. These companies and websites will comply with this Statement and all applicable laws governing the transmission of promotional communications.
+Suppliers. We share information with certain suppliers used to facilitate our Services, including to help with transactions, such as any reservations you might make, for example, sharing data with a restaurant if you make a reservation using our Services.  
+Business Partners. We may share information about you, your Devices and your use of our Services with our trusted business partners. For example, we may share information so that we can provide you with relevant content or in order to facilitate payment for products or services you may purchase on the websites of our partners. This sharing is generally pursuant to written agreements which include confidentiality, privacy and security obligations; however, note that we do not control the privacy practices of these third-party business partners.
+Social Media Sites. When you use our Services and elect to share information with third-party social media sites, the information you share will be governed by the privacy policies of those social media sites and the privacy settings you have set with those social media websites.
+Advertising Networks. We sometimes collect and share information about your interests with advertising networks. Some of these companies are members of the Network Advertising Initiative, or the Digital Advertising Alliance, which offer a single location to opt-out of ad targeting from member companies. To learn more, please click here.
+Other third-parties, such as referring websites. Third-parties may also assist us in collecting information by, for example, operating features of our website or facilitating the delivery of online advertising tailored to your interests. We may share audience segments and other information with third-parties that use that information for tailored advertising to you.
+Third-parties may only collect or access information as needed to perform their permitted functions.
+Certain Device operating system versions permit you to opt out of certain types of information sharing, including to certain advertising networks. Please check your Device settings if you want to limit such tracking.
+Information Choices
+You have options with respect to the collection and use of your information. You can access, update and even close your account by visiting the Member Profile page on our website
+Your options:
+●    You may choose the way we communicate with you. You can choose not to provide us with certain information, although it may be needed to take advantage of certain features offered on our websites.
+●    You can prevent the collection of geolocation information, but note that turning off location sharing may affect certain features of our Services.
+●    You also can add or update information and close your account. If you close your account, we will deactivate your account and remove your profile information from active view. We may retain some information associated with your account (including past transactions) for internal purposes including backups, fraud prevention, dispute resolution, investigations, and legal compliance for the period necessary to fulfill the purposes outlined in this Statement.
+●    As a registered member, you can modify your marketing subscriptions, including email subscription choices at any time within your member settings. You also will be given the opportunity to unsubscribe from promotional messages, including emails with travel-related opportunities, in any such email we send.
+Information Transfers
+We are a global company and operate in many different jurisdictions. If we transfer your information to other countries, we will use and protect that information as described in this Statement and in accordance with applicable law.
+Information Security
+We have implemented appropriate administrative, technical, and physical security procedures to help protect your information.
+We only authorize specific employees to access personal information and they may do so only for permitted business functions. We use encryption when transmitting your information between your system and ours, and between our system and those of the parties with whom we share information. We also employ firewalls and intrusion detection systems to help prevent unauthorized access to your information. However, we cannot guarantee the security of information from unauthorized entry or use, hardware or software failure, or other circumstances outside of our control.
+Information Retention
+We will retain copies of your information for as long as you maintain your account or as necessary in connection with the purposes set out in this Statement, unless applicable law requires a longer retention period. In addition, we may retain your information for the duration of any period necessary to establish, exercise or defend any legal rights.
+Do Not Track Signals
+Our website is not designed to currently respond to “Do Not Track” (“DNT”) signal requests from browsers. This is due to the lack of global standardized interpretation that defines “Do Not Track” signals. Once the industry has settled on standards related to this issue, we may re-evaluate this approach.
+Cookies
+We want your access to our Services to be as easy, efficient and useful as possible. To help us do this, we use cookies and similar technologies to improve your experience, to enhance site security and to show you relevant advertising.
+What are cookies?
+Cookies are small text files that are automatically placed on your Device when you visit almost any website. They are stored by your internet browser and contain basic information about your internet use. Your browser sends these cookies back to a website every time you revisit it, so it can recognize your Device and improve your experience by, among other things, providing you with personalized content. We also use cookies to remember your login details, so you don’t have to re-enter them repeatedly when you use our Services. Other cookies help us understand your preferences.
+The cookies we use fall into three categories.
+Category
+Example
+ 
+Essential
+These cookies are necessary to help you access and move around the website and use all its features. Without these cookies, the website would not work properly and you would not be able to use certain important features. For example, we use a cookie to keep you logged in during your visit, so the site does not require you to log in repeatedly to access different pages. We may also use essential cookies for fraud detection and prevention purposes.
+You cannot turn off essential cookies through the Cookie Consent Tool, as such cookies are necessary for you to access and use the features of the website.
+ 
+Analytics and customisation
+We use these cookies to help us understand how the website is being used and how we can improve your experience on it. These cookies can provide us with information to help us understand which parts of the website interest our visitors and if they experience any errors. We use these cookies to test different designs and features for our sites and we also use them to help us monitor how visitors reach the website.
+We also use cookies to save your settings and preferences on the website, such as language preference and information you've previously entered when searching for travel options. Some customization cookies are essential if you want to use certain features of the website.
+ 
+Advertising
+Advertising cookies help ensure that the advertisements you see are as relevant to you as possible. For example, some advertising cookies help select ads that are based on your interests. Others help prevent the same ad from continuously reappearing for you.
+We also use cookies to make it easy to share content from the website with your friends through your favorite social networks. Social media sites, may set cookies that recognize you when you view content on the website and allow you to share content across both the website and the social media site via the use of sharing settings. For further details, please check your social media site’s terms of use and privacy policy.
+We also work with third-party advertisers to give you access to travel content that might be of interest, and may set cookies on our Services to provide you with advertising that matches your interests and preferences. These "third-party cookies" collect information about your browsing behaviour and interaction with ads or the Services more generally. This information also helps us limit the number of times you may see the same ads and improve your online experience.
+
+Cookie Consent Tool
+To give you control, we provide you with a Cookie Consent Tool, which allows you to review the first party and third-party cookies placed through our website and adjust your cookie settings, including whether to accept or decline such cookies.
+You can access the Cookie Consent Tool by clicking the “Cookie Consent” link at the bottom of every page or by modifying your preferences in our cookie banner. In addition, you can manage cookies through the settings of your internet browser. You can have the browser notify you when you receive a new cookie, delete individual cookies or delete all cookies.
+Most advertising networks offer you a way to opt out of advertising cookies. See www.aboutads.info/choices/ and www.youronlinechoices.com for useful information on how to do this.
+If you delete your cookies, your access to some functionality and areas of our Services might be degraded or restricted.
+Our use of any information we collect through cookies is subject to this Statement, which is linked on every page of our website.
+Statement Changes and Notification
+We may update this Statement in the future. If we believe any changes are material, we will let you know by doing one or more of the following: sending you a communication about the changes, placing a notice on the website and/or posting an updated Statement on the website. We will note at the top of this Statement when it was most recently updated. We encourage you to check back from time to time to review the most current version and to periodically review this Statement for the latest information on our privacy practices
+Contact
+If you have a data privacy request, such as a request to delete or access your data, please visit our dedicated privacy portal by clicking here.  For general data privacy inquiries or questions concerning our Privacy and Cookies Statement, please contact our privacy team by clicking here.
+Europe
+General Data Protection Regulation Privacy Statement (“GDPR Statement”)
+This GDPR Statement applies to persons in the European Economic Area (“EEA”), including those based in the United Kingdom. This GDPR Statement supplements our Statement; however, where the Statement conflicts with the GDPR Statement, the GDPR Statement will prevail as to persons in the EEA.
+Controller of Personal Information
+Tripadvisor LLC is the data controller of personal information we collect, however, in accordance with applicable data privacy law, we have appointed  representatives within the European Union and United Kingdom.
+The contact details of our European Union representative are:
+Tripadvisor Ireland Limited
+Bloodstone Building,
+Bloodstoney Road,
+Dublin 2
+D02 KF24
+Attn: Privacy Officer
+The contact details of our United Kingdom representative are:
+Tripadvisor Limited
+7 Soho Square
+London
+W1D 3QB
+United Kingdom
+Attn: Privacy Officer
+ 
+Tripadvisor Ireland Limited and Tripadvisor Limited’s roles in this respect are limited solely to being a contact point for questions on data protection from European residents and data protection supervisory authorities. For the avoidance of doubt, neither Tripadvisor Ireland Limited and Tripadvisor Limited can field other communications or legal process on behalf of Tripadvisor LLC.
+Your rights under GDPR
+You have certain rights regarding your personal data.
+Your rights with respect to your own personal data include the following:
+The right to request access to your personal data. This enables you to receive a copy of the personal data we hold about you.
+ 
+The right to request to correct your personal data if it is inaccurate. You may also supplement any incomplete personal data we have, taking into account the purposes of the processing.
+ 
+The right to request deletion of your personal data if:
+your personal data is no longer necessary for the purposes for which we collected or processed them; or
+you withdraw your consent if the processing of your personal data is based on consent and no other legal ground exists; or
+you object to the processing of your personal data and we do not have an overriding legitimate ground for processing; or
+your personal data is unlawfully processed; or
+your personal data must be deleted for compliance with a legal obligation.
+ 
+The right to object to the processing of your personal data. We will comply with your request, unless we have a compelling overriding legitimate interest for processing or we need to continue processing your personal data to establish, exercise or defend a legal claim.
+ 
+The right to restrict the processing of personal data, if:
+the accuracy of your personal data is contested by you, for the period in which we have to verify the accuracy of the personal data; or
+the processing is unlawful and you oppose the deletion of your personal data and request restriction; or
+we no longer need your personal data for the purposes of processing, but your personal data is required by you for legal claims; or
+you have objected to the processing, for the period in which we have to verify overriding legitimate grounds.
+ 
+The right to data portability. You may request that we send this personal data to a third-party, where feasible. You only have this right if it relates to personal data you have provided to us where the processing is based on consent or necessity for the performance of a contract between you and us, and the processing is conducted by automated means.
+You also have the right to lodge a complaint before your national data protection authority.
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights described in this Statement). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive.
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. In an effort to speed up our response, we may also contact you to ask you for further information in relation to your request. You can exercise several of your rights through the personal information section of your account. To exercise your other rights you can file a request by clicking here.
+Information Uses
+We will only use your personal data when the law allows us to.
+Pursuant to GDPR, we will use your personal data in one or more of the following circumstances:
+Where we need to perform the contract we are about to enter into or have entered into with you
+Where it is necessary for our legitimate interests (or those of a third-party) and your interests and fundamental rights do not override those interests
+Where we need to comply with a legal or regulatory obligation
+With your consent
+International Transfers
+Your personal data may be stored or transferred to countries outside the EEA for the purposes described in this Statement. When we store or transfer your personal data outside the EEA, we take the following precautions to ensure that your personal data is properly protected.
+Whenever we store or transfer your personal data outside the EEA, we will do so in accordance with applicable law and we will ensure a similar degree of protection is afforded to it by implementing appropriate safeguards. Transfers of personal data are made:
+to a country recognised by the European Commission as providing an adequate level of protection; or
+to a country which does not offer adequate protection but whose transfer has been governed by the standard contractual clauses of the European Commission or by implementing other appropriate cross-border transfer solutions to provide adequate protection.
+By using our services, you understand that your personal data may be transferred to our facilities and those third-parties with whom we share it as described in this Statement.
+California
+California Consumer Privacy Act Privacy Statement (“CCPA Statement”)
+This CCPA Statement is provided pursuant to the California Consumer Privacy Act (“CCPA”) and applies to California residents and supplements our overall Statement with additional disclosures and rights.
+Your rights under CCPA
+As of January 1 2020, California law permits residents of California to request certain details about how their personal information is shared with third-parties or affiliated companies for direct marketing purposes.
+California residents may also take advantage of the following rights:
+You may request, up to two times each year, that we disclose to you the categories and specific pieces of personal information that we have collected about you, the categories of sources from which your personal information is collected, the business or commercial purpose for collecting your personal information, the categories of personal information that we disclosed for a business purpose, any categories of personal information about you that we sold, the categories of third-parties with whom we have shared your personal information, and the business or commercial purpose for selling your personal information, if applicable.
+You may request that we delete any personal information that we have collected from or about you. As described in more detail in our Statement, there are some reasons we will not be able to fully address your deletion request, such as if we need to complete a transaction for you, to detect and protect against fraudulent and illegal activity, to exercise our rights, or to comply with a legal obligation. You can also access, update, and remove your information by visiting the Member Profile  page on our website.
+You may request to opt out of our sale of your personal information to third-parties for their direct marketing purposes. This means that, if you opt out, going forward, we will not share your information with such third-parties to use for their purposes unless you later direct us to do so. To effect the opt out, please click on the Do Not Sell My Personal Information link on our website footer or submit a request in writing to the contact information below.
+To take advantage of your disclosure and deletion rights, please contact us via our dedicated privacy portal by clicking here. We may need to verify your identity to enable us to process your request. We value your privacy and will not discriminate in response to your exercise of privacy rights. We will respond to your request within 45 days of receipt of your request, after proper verification, unless we need additional time, in which case we will let you know.
+Disclosures
+For purposes of compliance with the CCPA, in addition to the further details as described in the Statement, we make the following disclosures:
+We collect the following categories of personal information:  Identifiers/Contact Information, transactional information, Internet or other electronic network activity information, geolocation, visual and audio information, and inferences drawn from the above.
+We sell the following categories of personal information:  Identifiers/Contact Information, Internet or other electronic network activity information, and inferences drawn from the above.
+We disclose the following categories of personal information for a business purpose:  Identifiers/Contact Information, commercial information, Internet or other electronic network activity information, geolocation, visual and audio information, and inferences drawn from the above. 
+Korea
+Korean Privacy Laws Statement (“Korea Statement”)
+This Korea Statement applies to persons in the Republic of Korea (“Korea”). This Korea Statement supplements our Statement; however, where the Statement conflicts with the Korea Statement, the Korea Statement will prevail as to persons in Korea.
+Purpose and Retention of Information Collected
+We, Tripadvisor LLC, process the personal data we have collected for the purposes set forth below. We will retain your personal data in accordance with the Statement and as described in further detail below.
+Type of personal data
+Purpose and use
+Retention period
+Contact information, including email address, name, username (Mandatory)
+To manage user registration, the account, and facilitate access to and use of the website/app.
+To publish user generated content such as reviews, ratings, forum posts, etc.
+To facilitate and manage reservations, including sending booking confirmations and updates.
+To communicate with users in general, particularly regarding the website/app and the services; user questions and comments; notifying users of changes to terms, including privacy policies; prompting users to leave a review or complete a survey; and to administer the website/app and diagnose problems.
+To measure interest in and improve our products, services and site; and to customise user experiences.
+To notify users about promotions and targeted marketing campaigns.
+To administer and protect our business, to resolve disputes or troubleshoot problems, and to prevent potentially prohibited or illegal activities.
+We will retain copies of your information for as long as you maintain your account or as necessary in connection with the purposes set out in this Statement, unless applicable law requires a longer retention period. In addition, we may retain your information for the duration of any period necessary to establish, exercise or defend any legal rights.
+Contact information, including postal address, telephone number (Optional)
+User submitted content (to the extent that it contains personally identifiable attributes) (Mandatory)
+To publish user generated content, such as reviews, ratings, forum posts, etc.
+IP and/or browser/device data (Mandatory)
+To manage user registration, the account, and facilitate access to and use of the website/app.
+To publish user generated content such as reviews, ratings, forum posts, etc.
+To facilitate and manage reservations, including sending booking confirmations and updates.
+To communicate with users in general, particularly regarding the website/app and the services; user questions and comments; notifying users of changes to terms, including privacy policies; prompting users to leave a review or complete a survey; and to administer the website/app and diagnose problems.
+To measure interest in and improve our products, services and site; and to customise user experiences.
+To notify users about promotions and targeted marketing campaigns.
+To administer and protect our business, to resolve disputes or troubleshoot problems, and to prevent potentially prohibited or illegal activities
+Email user subscription preferences, including unsubscribe status (Mandatory)
+To communicate with users in general, particularly regarding, the website/app and the services; user questions and comments; notifying users of changes to terms, including privacy policies; prompting users to leave a review or complete a survey; and to administer the website/app and diagnose problems.
+Session data and online activity (such as content viewed, how you interacted with our website(s), pages visited, searches, and/or reservations facilitated or made) (Mandatory)
+To measure interest in and improve our products, services and site; and to customise user experiences.
+To notify users about promotions and targeted marketing campaigns.
+To administer and protect our business, to resolve disputes or troubleshoot problems, and to prevent potentially prohibited or illegal activities.
+Location data (Optional)
+To measure interest in and improve our products, services and site; and to customise user experiences.
+To notify users about promotions and targeted marketing campaigns.
+
+Rights under Korean Privacy Laws
+You have certain rights regarding your personal data. Your rights with respect your own personal data include those under the Statement and the following:
+The right to consent to the collection of your personal data. When we request your personal data, the data that is mandatory for the services that are being provided will be marked accordingly. You can choose not to provide us with the requested data but this may impede your use or access of the relevant services. 
+ 
+The right to consent to the sharing of your personal data, delegation of processing of your personal data or international transfer of your personal data.
+ 
+The right to request access, correction, deletion, suspension of processing of personal data to the extent permitted under Article 35, Section 5 and Article 37, Section 2 of the Personal Information Protection Act. 
+ 
+You can exercise your rights by filing a request here. You may also appoint an attorney-in-fact to exercise your rights by submitting a power of attorney to us in the form of Appendix 11 prescribed under the Regulations of the Personal Information Protection Act. We reserve the right to request specific information from you to help us confirm your identity or verify the identify and relationship of your attorney-in-fact and ensure your right to access your personal data (or to exercise any of your other rights).
+Children’s Data
+Tripadvisor is a general audience site and does not offer services directed to minors. We do not knowingly collect data relating to minors. If a person whom we know is under 14 years of age sends us personal data, we will delete or destroy this information as soon as reasonably possible.
+Information Sharing and International Transfers
+We, Tripadvisor LLC, may share information with third-parties, such as those listed below, in order to facilitate some of our services and products.There may also be legal reasons that we have to share your personal data. Some of our services and products require that we share information with the third-parties listed below. There may also be legal reasons that we have to share your personal data.
+To efficiently provide our services to you, we have delegated certain processing functions as described below to the third-parties listed below. We will obtain your consent when provide your information and delegate processing to such third-parties pursuant to the agreements in place with such third parties
+Your personal data may be stored or transferred to countries outside Korea for the purposes described in this Statement. When we store or transfer your personal data outside Korea, we will notify you and request for your consent unless such transfer is being made for the purpose of performing the services requested by you and to further your convenience. 
+ 
+Third Party Details
+Purpose and Use
+Shared/Transferred Personal Data
+Retention period
+Salesforce.com, Inc.
+USA
+Salesforce Data Protection Officer (Salesforce Privacy Team)
+415 Mission St., 3rd Floor
+San Francisco, CA 94105, USA
+To manage user registration, the account, and facilitate access to and use of the website/app.
+ 
+To publish user generated content such as reviews, ratings, forum posts, etc.
+ 
+To facilitate and manage reservations, including sending booking confirmations and updates.
+ 
+To communicate with users in general, particularly regarding the website/app and the services; user questions and comments; notifying users of changes to terms, including privacy policies; prompting users to leave a review or complete a survey; and to administer the website/app and diagnose problems.
+ 
+To administer and protect our business, to resolve disputes or troubleshoot problems, and to prevent potentially prohibited or illegal activities.
+(Mandatory)
+Contact information, including email address, name, username.
+ 
+User submitted content (to the extent that it contains personally identifiable attributes.
+We will retain copies of your information for as long as you maintain your account or as necessary in connection with the purposes set out in this Statement, unless applicable law requires a longer retention period. In addition, we may retain your information for the duration of any period necessary to establish, exercise or defend any legal rights.
+ 
+ 
+(Optional)
+Contact information, including postal address, telephone number
+Zendesk, Inc.
+USA
+Zendesk’s European Representative:
+Zendesk International Ltd
+Attn: Rachel Tobin, AGC, EMEA & Global Privacy Counsel
+55 Charlemont Place, Saint Kevin’s, Dublin, D02 F985 Ireland
+privacy@zendesk.com
+To manage user registration, the account, and facilitate access to and use of the website/app.
+ 
+To publish user generated content such as reviews, ratings, forum posts, etc.
+ 
+To facilitate and manage reservations, including sending booking confirmations and updates.
+ 
+To communicate with users in general, particularly regarding the website/app and the services; user questions and comments; notifying users of changes to terms, including privacy policies; prompting users to leave a review or complete a survey; and to administer the website/app and diagnose problems.
+ 
+To administer and protect our business, to resolve disputes or troubleshoot problems, and to prevent potentially prohibited or illegal activities.
+(Mandatory)
+Contact information, including email address, number, username.
+ 
+User submitted content (to the extent that it contains personally identifiable attributes).
+ 
+IP and/or browser/device data
+ 
+Email user subscription preferences, including unsubscribe status
+ 
+Session data and online activity (such as content viewed, how you interacted with our website(s), pages visited, searches, and/or reservations facilitated or made.
+(Optional)
+Contact information, including postal address, telephone number
+Amazon Web Services, Inc.
+USA
+AWS Korea Privacy
+Email: aws-korea-privacy@amazon.com
+To manage user registration, the account, and facilitate access to and use of the website/app.
+ 
+To administer and protect our business, to resolve disputes or troubleshoot problems, and to prevent potentially prohibited or illegal activities.
+(Mandatory)
+Contact information, including email address, name, username.
+ 
+IP and/or browser/device data
+ 
+Session data and online activity (such as content viewed, how you interacted with our website(s), pages visited, searches, and/or reservations facilitated or made.
+(Optional)
+Contact information, including postal address, telephone number
+Snowflake Computing, Inc.
+USA
+privacy@snowflake.com
+To manage user registration, the account, and facilitate access to and use of the website/app.
+ 
+To administer and protect our business, to resolve disputes or troubleshoot problems, and to prevent potentially prohibited or illegal activities.
+(Mandatory)
+Contact information, including email address, name, username.
+ 
+IP and/or browser/device data
+ 
+Session data and online activity (such as content viewed, how you interacted with our website(s), pages visited, searches, and/or reservations facilitated or made.
+(Optional)
+Contact information, including postal address, telephone number
+Google LLC
+USA
+Keith Enright
+Chief Privacy Officer
+Google LLC
+Google Data Protection Office
+1600 Amphitheatre Parkway
+Mountain View, California 94043
+https://support.google.com/policies/troubleshooter/7575787?visit_id=637109041821835307-4099556209&rd=2
+To manage user registration, the account, and facilitate access to and use of the website/app.
+ 
+To measure interest in and improve our products, services and site; and to customise user experiences.
+ 
+To administer and protect our business, to resolve disputes or troubleshoot problems, and to prevent potentially prohibited or illegal activities.
+(Mandatory)
+Contact information, including email address, name, username.
+ 
+IP and/or browser/device data
+ 
+Session data and online activity (such as content viewed, how you interacted with our website(s), pages visited, searches, and/or reservations facilitated or made.
+(Optional)
+Contact information, including postal address, telephone number
+ 
+Location data
+SYNNEX-Concentrix UK Limited
+United Kingdom
+Vasanthika Srinath
+DPO@concentrix.com
+To communicate with users in general, particularly regarding the website/app and the services; user questions and comments; notifying users of changes to terms, including privacy policies; prompting users to leave a review or complete a survey; and to administer the website/app and diagnose problems.
+(Mandatory)
+Contact information, including email address, name, username.
+ 
+IP and/or browser/device data
+ 
+Email user subscription preferences, including unsubscribe status
+(Optional)
+Contact information, including postal address, telephone number
+OneTrust, LLC
+USA
+OneTrust, LLC
+1200 Abernathy Road
+Atlanta, GA 30328
+United States
+Andrew Clearwater
+dpo@onetrust.com
+To communicate with users in general, particularly regarding the website/app and the services; user questions and comments; notifying users of changes to terms, including privacy policies; prompting users to leave a review or complete a survey; and to administer the website/app and diagnose problems.
+(Mandatory)
+Contact information, including email address, name, username.
+ 
+IP and/or browser/device data
+ 
+Email user subscription preferences, including unsubscribe status
+ 
+Session data and online activity (such as content viewed, how you interacted with our website(s), pages visited, searches, and/or reservations facilitated or made.
+(Optional)
+Contact information, including postal address, telephone number
+Tableau Software, Inc.
+USA
+Tableau Software, Inc., Attn: Tableau Legal, 1621 N 34th St., Seattle, Washington 98103
+privacy@tableau.com
+To measure interest in and improve our products, services and site; and to customise user experiences.
+(Mandatory)
+Contact information, including email address, name, username.
+ 
+IP and/or browser/device data
+ 
+Email user subscription preferences, including unsubscribe status
+ 
+Session data and online activity (such as content viewed, how you interacted with our website(s), pages visited, searches, and/or reservations facilitated or made.
+ 
+(Optional)
+Contact information, including postal address, telephone number
+ 
+Location data
+Twilio, Inc.
+USA
+375 Beale Street, Suite 300, San Francisco, CA 94105
+Office of the Data Protection Officer
+privacy@twilio.com
+To notify users about promotions and targeted marketing campaigns.
+(Mandatory)
+Contact information, including email address, name, username.
+ 
+IP and/or browser/device data
+ 
+Session data and online activity (such as content viewed, how you interacted with our website(s), pages visited, searches, and/or reservations facilitated or made.
+(Optional)
+Contact information, including postal address, telephone number
+ 
+Location data
+
+Information Security
+We want you to feel confident about using our Services so we are committed to protecting the information we collect. We have implemented the following administrative, technical, and physical security procedures to help protect the personal information you provide to us.
+Administrative Security Procedures: Only a limited number of authorised workers are permitted access to personal data in accordance with internal access controls. Access is granted on a role permission basis only for permitted business functions.
+ 
+Technical Security Procedures: Personal data is encrypted when it is transmitted. We use firewalls and intrusion detection systems to help prevent unauthorised persons from gaining access to personal data. Certain user data may be hashed depending on its sensitivity.
+ 
+Physical Security Procedures: Data is secured in lockdown restricted cages. This data is stored in restricted data centers. Hard drives are physically destroyed when replaced and we have internal procedures in place to secure access to restricted server rooms and physical assets.
+Destruction and Deletion of Information
+We will destroy or delete your data in the event the data retention period has lapsed, you no longer maintain your account or if the purpose of data collection has been achieved. 
+The procedure and method of destruction and deletion is as follows: 
+Procedure: Personal Information is disposed of, destroyed or deleted for the protection of information in accordance with our internal company policy and other applicable laws, after the purpose of its collection has been fulfilled.
+Method: Personal Information in paper format will be destroyed using paper shredder, and Personal Information stored in electronic format will be destroyed using technical methods which make the records unrecoverable.    
+Contact
+You can exercise several of your rights through the personal information section of your account. To exercise your other rights you can file a request by clicking here or you can contact our representative in Korea who has been appointed in accordance with the applicable Korean law for the purpose of handling personal data protection questions or requests in Korea. 
+The contact details of our representative are:
+LAB Partners (Managing Partner: Youngju Kim)
+Tel:                  02-6956-6311
+E-mail:             tripadvisor@labpartners.co.kr
+Address:          8th Floor, VPLEX, 501 Teheran-ro,
+Gangnam-gu, Seoul, Korea 06168
+LAB Partner’s role in this respect is limited solely to being a contact point for questions or requests on personal data protection from persons in Korea and data protection supervisory authorities.  For the avoidance of doubt, LAB Partners cannot field other communications or legal process on behalf of Tripadvisor LLC.
+ 
+Previous: https://tripadvisor.mediaroom.com/us-privacy-policy-2019
+
+

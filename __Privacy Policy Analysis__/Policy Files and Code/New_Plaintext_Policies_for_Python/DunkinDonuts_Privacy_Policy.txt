@@ -1,0 +1,341 @@
+( Date Accessed: 6/09/2021, From: https://www.dunkindonuts.com/en/privacy-policy )
+
+( Embedded Hyperlinks Used: 15
+https://www.dunkindonuts.com/en/privacy-policy#whatcollect
+https://www.dunkindonuts.com/en/privacy-policy#howuse
+https://www.dunkindonuts.com/en/privacy-policy#howdisclose
+https://www.dunkindonuts.com/en/privacy-policy#socialmedia
+https://www.dunkindonuts.com/en/privacy-policy#choices
+https://www.dunkindonuts.com/en/privacy-policy#caprivacy
+https://www.dunkindonuts.com/en/privacy-policy#navedarights
+https://www.dunkindonuts.com/en/privacy-policy#euprivacy
+https://www.dunkindonuts.com/en/privacy-policy#children
+https://www.dunkindonuts.com/en/privacy-policy#international
+https://www.dunkindonuts.com/en/privacy-policy#datasecurity
+https://www.dunkindonuts.com/en/privacy-policy#updates
+https://www.dunkindonuts.com/en/privacy-policy#contact
+https://www.dunkindonuts.com/en/privacy-policy#caresidents
+https://www.dunkindonuts.com/en/privacy-policy#euresidents
+)
+
+PRIVACY POLICY
+
+Last Updated : April 27, 2021
+
+THIS PRIVACY POLICY APPLIES TO YOUR ACCESS AND USE OF ANY DUNKIN' BRANDS (INCLUDING DUNKIN’ DONUTS AND BASKIN-ROBBINS®) ONLINE SERVICES THAT POST A LINK TO THIS PRIVACY POLICY, INCLUDING OUR WEBSITES, APPLICATIONS, PLATFORMS, LOYALTY PROGRAM, STORED VALUE CARDS, FRANCHISEE PROGRAMS AND OTHER ONLINE PROGRAMS (“DD/BR ONLINE SERVICES”). BY DOWNLOADING OR USING ANY OF THE DD/BR ONLINE SERVICES, YOU ARE AGREEING THAT YOU HAVE READ AND AGREE TO BE BOUND BY THIS PRIVACY POLICY, OUR TERMS OF USE, AND CONSENT TO OUR COLLECTION, USE AND DISCLOSURE PRACTICES, AND OTHER ACTIVITIES DESCRIBED IN THIS PRIVACY POLICY. IF YOU DISAGREE WITH ANY PART OF THIS PRIVACY POLICY OR OUR TERMS OF USE, THEN PLEASE DO NOT USE ANY OF THE DD/BR ONLINE SERVICES.
+
+This Privacy Policy describes the types of information that Dunkin' Brands and its affiliates (“Dunkin' Brands” or “we” or “us”) collects from you when you visit DunkinDonuts.com, BaskinRobbins.com, or DunkinBrands.com (“Websites”) and other parts of the DD/BR Online Services, and how we use, share and protect that information. Please note, this Privacy Policy does not apply to information collected by our franchisees, or through any other entity sites that link to or are accessible from the DD/BR Online Services. Please read on for more details about our Privacy Policy.
+
+You can jump to specific areas of our Privacy Policy by clicking on the links below, or you can read on for the full Privacy Policy:
+What Kind of Information We Collect
+How We Use the Information We Collect
+How We May Disclose Information We Collect
+Social Media and Technology Integration
+Your Rights and Choices
+Your California Privacy Rights
+Your Nevada Rights
+Your European Privacy Rights
+Children’s Online Privacy
+International Transfer
+Data Security
+Updates to this Policy
+Contact Us
+Additional Disclosures for California Residents
+Additional Disclosures for Data Subjects in Europe
+
+Expand All
+Collapse All
+15 Items
+What Kind of Information We Collect
+Information You Provide
+
+Whether accessing the DD/BR Online Services from your home computer, mobile phone, or other device, Dunkin’ Brands and its agents collect information you directly provide. For example, we collect information when you register an account, join our loyalty program (hereinafter “Loyalty Program”), enroll in our mailing lists or text message campaigns, locate a restaurant, apply for a job, interact with Customer Care, or otherwise communicate or transact with us through the DD/BR Online Services. We also collect information when you access the DD/BR Online Services using voice functionality services available through the microphone on a device. 
+
+The information we collect includes information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, to you (“personal information”). The categories of information we collect, which includes the kinds of information we have collected in the last 12 months, include the following:
+
+Name and Contact Data:  We collect your first and last name; mailing address; telephone number; e-mail address, and other similar contact data.  If you are a franchisee, we collect your contact information and that of certain of your employees to whom you direct us for a specific purpose;
+Credentials:  We collect username and password , and similar security information (for account authentication and administration)
+Demographic Data:  We collect information about your interests and activities, your gender, month and day of birth, and other demographic information;
+Payment Data:  We collect data necessary to process your payments if you make purchases through the DD/BR Online Services, such as your financial account information and other payment information, or other forms of payment including Stored Value Cards;
+Contacts: In some cases, and with your consent, we collect information that you provide about others, including first and last name, email address, and phone number of your personal contacts, such as when you send your contacts benefits, coupons, or gifts. We will use the information you provide to fulfill your requests, including (if applicable) sending them a text message, and we will not send marketing communications to your contacts unless they have a separate relationship with us. Such functionality is intended only for United States residents. By using this functionality, you acknowledge and agree that both you and your contacts are based in the U.S. and that you have your contacts’ consent for us to use their contact information to fulfill your request;
+Content:  We collect the content of messages you send to us, such as feedback and information you provide to customer service.  We also collect the content of your communications as necessary to provide you with the DD/BR Online Services you use;
+Contests/Promotions: We collect additional information necessary for the administration of certain promotional events or features of our Loyalty Program; and
+Resume Data.   We collect data as necessary to consider you for a job opening if you submit an application to us, such as your employment and education history, transcript, writing samples, and references.
+If you are accessing the DD/BR Online Services as a current or potential franchisee, we may ask you to provide additional Information, including your full date of birth, contact information, financial information, and employment history.
+
+When you visit a DD/BR franchise, we may also collect your name from your payment card information that you input through an in-store kiosk in order to display your name when your order is ready.
+
+You may choose to voluntarily submit other information to us through the DD/BR Online Services that we do not request, and, in such instances, you are solely responsible for such information. Please note that if you access the DD/BR Online Services using voice functionality services available through the microphone on a device, it may collect background noise or communications that you do not voluntarily provide. Therefore, you should take steps to prevent the communication of unnecessary information when accessing the DD/BR Online Services using voice functionality services.
+
+Information once “de-identified” is not subject to this Privacy Policy and we may treat it as non-personal Information and use it without obligation to you except as prohibited by applicable law.  
+
+Information Collected Automatically
+
+In addition, we automatically collect information about your device and how your device interacts with the DD/BR Online Services. We also use Service Providers and business partners to collect this information. The categories of information we automatically collect, including what we collected in the last 12 months, include the following:
+
+Service Use Data: We collect data about the features you use, the pages you visit, the e-mails and advertisements you view, the products and services you view and purchase, the time of day you browse, your referring and exiting pages, and other similar information.
+Device Connectivity and Configuring Data: We collect data about the type of device or browser you use, your device’s operating software, your internet service provider, your device’s regional and language settings, and other similar information: This data also includes IP address, MAC address, device advertising ID (e.g., IDFA or AAID), and other device identifiers.
+Location Data: We collect data about your device’s location, which can be precise (e.g., latitude/longitude data) or imprecise (e.g., location derived from an IP address or data that indicates a city or postal code level).
+We use various tracking technologies to automatically collect information (“Tracking Technologies”), when you use the DD/BR Online Services, including the following:
+
+Log Files: A log file is a file that records events that occur in connection with your use of the DD/BR Online Services, such as your service use data.
+Cookies: Cookies are small data files stored on your device browser directories to store your information about your use of the DD/BR Online Services and your activities online (collectively, “Cookies”). A Cookie will typically contain the name of the domain (internet location) from which the Cookie has come, the “lifetime” of the Cookie (i.e. when does it expire), and a value, usually a randomly generated unique number. We use Cookies so that we can improve your online experience – for example, by remembering you when you come back to visit us and making the content you see more relevant to you. Cookies also enable us to track online purchases made through the DD/BR Online Services.
+Pixel Tags (“Web Beacons” or “clear gifs”): Pixel Tags are small graphic images, also known as “web beacons” or “clear gifs,” embedded in web pages, e-mail messages, video, or advertisements that send information about your use to a server. There are various types of pixel tags (which contain JavaScript code). When you access or view a website, video, email, or advertisement that contains a pixel tag, the pixel tag permits us or a separate entity to drop or read cookies on your browser. Pixel tags are used in combination with cookies to track activity by a particular browser on a particular device. We incorporate pixel tags from separate entities that allow us to count the number of visitors to the DD/BR Online Services, to monitor how users navigate the DD/BR Online Services, to count content views, bring you advertising both on and off the DD/BR Online Services, including geographically relevant advertising based on your IP address, and provide you with additional functionality, such as the ability to connect the DD/BR Online Services with your social media account.
+Embedded Scripts: An embedded script is programming code designed to collect information about your interactions with the DD/BR Online Services. It is temporarily downloaded onto your device from our web server or a separate entity with whom we work, is active only while you are connected to the DD/BR Online Services, and deleted or deactivated thereafter.
+Location-identifying Technologies: GPS (global positioning systems) software, geo-filtering, Bluetooth, beacons, and other location-aware technologies locate you (sometimes precisely) for purposes such as verifying your location and delivering or restricting relevant content based on your location. An example of how we may use location-aware technologies is, if you have enabled location services on your device with respect to the DD/BR Online Services, we may use your real time geographic location data to determine if you are near a Dunkin’ Brands physical location (or another retailer), to predict your arrival time at our drive-through or pick-up counter after you have placed an order, allowing our restaurants’ crew members to better sequence your order, or to send you advertising or promotions via push notifications. We may also associate your location captured via location-aware technologies with your device identifier and combine that data with transactional information to improve the services offered to you.  You may limit access to your location data by adjusting the permissions in your device. If you grant us permission, we may collect location information when the app is running in the foreground or background.
+Voice Processing Technologies: Voice processing technologies collect audio through the microphone on your device, for purposes such as responding to your instructions or requests, and providing you with relevant content based on your requests. We only maintain the audio long enough to complete your instruction or request and then immediately delete it. We use non-audio data associated with the collection for additional purposes such as data analytics and in accordance with this Privacy Policy.
+Device Fingerprinting: Device fingerprinting is the process of analyzing and combining sets of information elements from your device’s browser, such as JavaScript objects and installed fonts, in order to create a “fingerprint” of your device and uniquely identify your browser, device and applications.
+In-App Tracking Methods: There are a variety of tracking technologies that may be included in mobile apps, and these are not browser-based like cookies and cannot be controlled by browser settings. Some use device identifiers or other identifiers such as mobile Ad IDs to associate app user activity to a particular app and to track user activity across apps. Our apps may also include Software Development Kits or “SDKs,” code that sends information about your use to a server. These SDKs allow us to track our conversions, bring you advertising both on and off the DD/BR Online Services with your social media account. For example, we use the Facebook SDK to allow you to connect your Facebook account to the DD/BR Online Services.
+Connected Devices: We use technology in connected devices, including your vehicle, home assistant, or smartwatch, to determine your location, serve advertising, or provide promotional offers. Information we collect through your connected devices will depend on the device and your settings, but may include voice, location, payment information, or biometric data. We also associate the information from connected devices to your device identifier and combine that with transactional information to improve the services offered to you. For more information please refer to the sections on “Location-identifying Technologies” and “Voice Processing Technologies” above.  
+Some information about your use of the DD/BR Online Services and other sites and apps may be collected using Tracking Technologies across time and services and used by us and others for purposes such as to associate different devices you use, and deliver relevant ads and/or other content to you on the DD/BR Online Services and certain other sites and apps.
+For further information on how we use Tracking Technologies for analytics and advertising and your rights and choices regarding them, please see the “Analytics and Advertising” and “Your Rights and Choices” sections below.
+
+ 
+
+Information from Franchisees and Other Sources
+
+We also receive information about you from other sources. For instance, we receive information about your purchases and inquiries from payment processors. Likewise, we receive information about you from our franchisees and Affiliates. To the extent we combine such sourced information from other sources with information we have collected about you through the DD/BR Online Services, we will treat such information in accordance with this Privacy Policy, plus any additional restrictions imposed by the source of the data. The categories of sources from which we have collected information in the last 12 months include the following:
+
+Dunkin' Brands franchisees, which are independent entities. We process information received from the franchisees to provide them with services as well as for our own purposes in accordance with this Privacy Policy.
+Affiliates.
+Data brokers or resellers from which we or our vendors purchase demographic data and geolocation information to supplement the data we collect.
+Social networks when you reference Dunkin' Brands or our DD/BR Online Services, or grant permission to Dunkin’ Brands to access your data on one or more of these services.
+Partners with which we offer co-branded services, sell or distribute our products, or engage in joint marketing activities.
+Publicly-available sources such as open government databases or other data in the public domain.
+For further information on services provided by other entities, see the “Social Media and Technology Integrations” section below.
+
+How We Use the Information We Collect
+We collect and use information about you for our legitimate interests, business and commercial purposes in accordance with the practices described in this Privacy Policy. Our business purposes for using information, including but not limited to in the last 12 months, include the following:
+
+process and manage the DD/BR Online Services, including your use of our products and services;
+perform services requested by you, such as to respond to your inquiries or requests;
+communicate with you in connection with our and separate entity products, services, offers, promotions, rewards, and marketing efforts, such as when we send you offers and promotions that you can take advantage of through the DD/BR Online Services or at your local Dunkin’ or Baskin-Robbins shop (for information about how to manage these communications and marketing efforts, please see “Your Rights and Choices” below);
+maintain, market, and improve our Loyalty Program;
+further our business purposes, such as to perform data analysis, audits, and fraud monitoring and prevention; to prevent and address breach of policies or terms and threats or harm; to enhance, improve, or modify the DD/BR Online Services; to identify usage trends; to conduct research, including focus groups and surveys; to determine the effectiveness of our promotional campaigns; and to operate, improve, and expand our business activities;
+create and deliver personalized content, features, and promotions, including based on the amounts and types of purchases you make and benefits you receive;
+communicate with you about Dunkin’ Brands, including about your orders or purchases, your services, your accounts, reminders about events, contests you entered into, and your requests for information; sending you technical notices, security alerts, and support and administrative messages; and updating you about changes to the DD/BR Online Services, policies, and/or terms;
+allow you to send communications or benefits (for example gifting through the Dunkin’ mobile application) to friends or family through the DD/BR Online Services if you and your friends/family are located in the US;
+if you are accessing the DD/BR Online Services as a current or potential franchisee, we use the information that you provide to assist in the assessment of your application for a Dunkin' Brands franchise as well as improve and conduct our franchise marketing efforts. We use the contact information you provide to communicate with you and your employees about important information relevant to franchisees; and
+fulfill any other business or commercial purposes at your direction or with your consent.
+In addition, as noted above, when you visit a DD/BR franchise, we may collect your name from your payment card information that you input through an in-store kiosk in order to display your name when your order is ready.
+
+If and to the extent required by applicable law, we will obtain your consent to use information about you for certain purposes. For example, where required by applicable laws, we will obtain your consent to use your information in order to create and deliver personalized content, features, and promotions, including based on the amounts and types of purchases you make and benefits you receive, and to allow you to send communications or benefits (for example gifting through the Dunkin’ mobile application) to friends or family through the DD/BR Online Services if you and your friends/family are located in the US.
+
+We use information that does not identify you (including information that has been aggregated or de-identified) for any purpose and without obligation to you except as prohibited by applicable law. For information on your rights and choices regarding how we use your information, please see the section entitled “Your Rights and Choices” below.
+
+How We Disclose Information We Collect
+We share information about you with other entities for any purposes consistent with our statements and practices described in this Privacy Policy or as permitted by applicable law. The categories of entities to whom we disclose information, including in the last 12 months, include the following:
+
+Service Providers
+
+We disclose information to entities that process the information on our behalf. These service providers provide us with services such as website hosting, professional services, information technology services and related infrastructure, customer service, marketing, e-mail delivery, auditing, and other similar services. We endeavor to contractually prohibit our service providers from retaining, using, or disclosing information about you for any purpose other than performing the service for us, although we may permit them to use information that does not identify you (including information that has been aggregated or de-identified) for any purpose except as prohibited by applicable law.
+
+Vendors
+
+We share information with vendors, including analytics and advertising technology companies. Vendors may act as our service providers, or in certain contexts, independently decide how to process your information. For more information on advertising and analytics, see the “Advertising and Analytics” section below.
+
+Affiliates
+
+We disclose information to our affiliates (“Affiliates”) for the purposes described in this Privacy Policy, including for their own direct marketing purposes (California residents and data subjects in Europe have certain rights set forth in “Additional Disclosures for California Residents” and “Additional Disclosures for Data Subjects in Europe” below), and to be consistent with our goal of providing our consumers with the superior product and consumer experience that our customers have come to expect from us around the globe. Affiliates are those companies that are under common control of our parent company Inspire Brands, Inc.
+
+Franchisees
+
+We disclose information to our franchisees (“Franchisees”) for the purposes described in this Privacy Policy (California residents and data subjects in Europe have certain rights set forth in “Additional Disclosures for California Residents” and “Additional Disclosures for Data Subjects in Europe” below), and to be consistent with our goal of providing our consumers with the superior product and consumer experience that our customers have come to expect from us around the globe. Franchisees are independent owner/operators of one or more Dunkin’ Brands stores and their processing of information is subject to their own privacy policies.
+
+Business Partners and Other Entities
+
+We disclose information to our business partners and other entities for their own business purposes, including direct marketing purposes.
+
+We do not generally sell information as the term “sell” is traditionally understood. However, to the extent the California Consumer Privacy Act is interpreted to include advertising technology activities such as those disclosed in the “Analytics and Advertising” section as a “sale,” we will comply with applicable law as to such activity. We disclose the following categories of personal information for commercial purposes: contact information and identifiers such as cookies, characteristics, commercial or transactions information, demographic information, service use data, internet or other electronic network activity information such as IP Address, geolocation data, and profile information such as inferences drawn. California residents have certain rights set forth in “Additional Disclosures for California Residents” below and should review that section to learn how to opt out.
+
+Sweepstakes, Contests, Promotions
+
+We offer sweepstakes, contests, surveys, and other promotions (each, a “Promotion”) jointly sponsored or offered by separate entities that may require submitting information. If you voluntarily choose to enter a Promotion, we share information as set out in the official rules that govern the Promotion as well as for administrative purposes and as required by law (e.g., on a winners list). By entering a Promotion, you agree to the official rules that govern that Promotion, and may, except where prohibited by applicable law, allow the sponsor and/or other entities to use your name, voice and/or likeness in advertising or marketing materials.
+
+Sharing at Your Request
+
+We disclose information in order to perform services you request or functions you initiate, such as when you post information and materials on our message boards and forums. When you post information in a public forum it becomes public information, and you are solely responsible for that information. Once you have posted information, you may not be able to edit or delete such information, subject to the additional rights set out in the “Your Rights and Choices” section below. In addition, we may disclose information in order to identify you to anyone to whom you send communications through the DD/BR Online Services, including through our gifting program.
+
+Corporate Transactions or Events
+
+We reserve the right to disclose information in connection with, or during negotiations of, any proposed or actual corporate reorganization, merger, sale, joint venture, assignment, purchase, transfer or any other disposition or acquisition or business combination of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings.
+
+Other Legal Reasons
+
+In addition, we use or disclose information as we deem necessary or appropriate: (1) under applicable law, including laws outside your country of residence; (2) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (3) to comply with subpoenas and other legal processes; (4) to pursue available remedies or limit damages we may sustain; (5) to protect our operations or those of any of our Affiliates; (6) to protect the rights, property, life, health, privacy, safety or property of Dunkin' Brands, our Affiliates, you and others; and (7) to enforce our terms and conditions.
+
+Facilitating Requests
+
+We share information at your request or direction, such as when you choose to share information with a social network about your activities on the DD/BR Online Services.
+
+Consent
+
+We share information for any other purpose disclosed to you and with your consent.
+
+Without limiting the foregoing, in our sole discretion, we may share aggregated information which does not identify you or de-identified information about you except as prohibited by applicable law.
+
+For information on your rights and choices regarding how we share information, please see the “Your Rights and Choices” section below.
+
+Social Media and Technology Integrations
+We offer parts of our DD/BR Online Services through websites, platforms, and services operated, controlled, or owned by separate entities. In addition, we integrate technologies operated or controlled by separate entities into parts of our DD/BR Online Services. Some examples include: links to order.dunkindonuts.com and order.baskinrobbins.com, ordering our products, finding a route to the closest store location, sending a gift card, applying for a job, “liking” or “sharing” our content over social media, registering or logging-in to the DD/BR Online Services through your social media or email account, chatting with a bot, or using voice-activated platforms. If you use a separate entity’s website, platform, or service, both Dunkin' Brands and the applicable entity may have access to certain information about you and your use of the DD/BR Online Services and the other entity’s service. Similarly, if you publicly reference the DD/BR Online Services on another entity’s website, platform, or service (e.g., by using a hashtag associated with Dunkin' Brands in a tweet or post), we may use your reference on or in connection with the DD/BR Online Services. To the extent we combine information from these separate entities with information we collect directly from you on the DD/BR Online Services, we will treat the combined information in accordance with this Privacy Policy. However, these other entities are not under our control, and may use Tracking Technologies to independently collect information about you and may solicit information from you. Further, to the extent that you access the DD/BR Online Services using voice functionality services available through the microphone on a device, that device may collect information about you. When you use a separate entity’s website, platform, or service, you are bound by the privacy policy of that entity and Dunkin' Brands does not control and is not responsible for the privacy practices or the content of any such entity or device. You should consult the privacy policy of the separate entity to or from which you access content or link to determine the information practices of that separate entity.
+
+Analytics and Online Advertising
+
+We use Google Analytics and other companies for analytics services (i.e., to help us understand how users access and use the DD/BR Online Services). These services use Tracking Technologies to track the actions of users of the DD/BR Online Services, to measure statistics of user activity on the DD/BR Online Services, and provide other services relating to DD/BR Online Services activity and internet usage. We also engage and work with agencies, advertisers, ad networks, and other technology services to serve advertisements about our products and services on the DD/BR Online Services and/or on other websites and services. For example, we place ads through Google and Facebook that you may view on their platforms as well as on other websites and services.
+
+As part of this process, we incorporate Tracking Technologies into our DD/BR Online Services (including our website and emails) as well as our ads displayed on other websites and services. Some of these Tracking Technologies track marketing efforts and deliver “interest-based advertisements” that may be more relevant to individual consumers by tracking your activities across time and services for purposes of associating the different devices you use, and delivering relevant ads and/or other content to you. For example, if your information indicates that you live in an area where a particular in-store promotion is going on (such as a new snack offering), you may receive an advertisement on the DD/BR Online Services and/or on another entity’s website that is specific to that promotion. As above, the information collected and stored by any such entity remains subject to their own policies and practices.
+
+We serve ads on and through other entities, such as Apple, Facebook and Google, that are targeted to reach people (or people similar to people) who have visited our DD/BR Online Services or are identified in one or more of our databases (“Matched Ads”). This is generally done by us uploading a customer list to a technology service or incorporating a pixel from a technology service on our DD/BR Online Services, and the technology service matching common factors between our data and their data. For instance, we incorporate the Facebook pixel on our DD/BR Online Services and may share your email address with Facebook as part of our use of Facebook Custom Audiences. Some technology services, such as LiveRamp, may provide us with their own data, which is then uploaded into another technology service for matching common factors between those datasets. To opt-out of receiving Matched Ads, please contact the applicable technology service. If we serve Matched Ads in Apple services, you should be able to click into the box in the lower right corner of such ads to find out how to opt-out or limit those ads. If we use Facebook Custom Audiences to serve Matched Ads on Facebook services, you should be able to hover over the box in the right corner of such Facebook ads and find out how to opt-out. We are not responsible for such technology service’s failure to comply with your opt-out instructions.
+
+We also use vendors in order to personalize our email offers based on your geographic location. We do this by sharing your IP address in real time when you view one of our emails with our vendors, who in turn use outside services to identify your location. This information is then merged with information in our systems, such as your email address and Loyalty Program activity, in order to target geographically relevant email offers to you.
+
+To the extent the California Consumer Privacy Act is interpreted to include these kinds of Matched Ads or geographically targeted email offers activities as “sales,” we will comply with applicable law as to such activity. California residents have certain rights set forth in “Additional Disclosures for California Residents” below and should review that section to learn how to opt out.
+
+As indicated above, vendors may act as our service providers, or in certain contexts, independently decide how to process your information. We encourage you to familiarize yourself with and consult their privacy policies and terms of use.
+
+For further information on Tracking Technologies and your rights and choices regarding analytics, please see “Information Collected Automatically” above and “Your Rights and Choices” below.
+
+Your Rights and Choices
+Review and Update of Account Information
+
+You can visit the account section of the DD/BR Online Services to access, remove, or update certain account information we have on file about you and that you have submitted through the DD/BR Online Services. Alternatively, you may call us at 1-800-859-5339 to request that it be updated or removed. We may require additional information from you to allow us to confirm your identity. Please note that if you ask us to remove information, we will remove it from consumer-facing parts of the DD/BR Online Services, but may continue to store and use the information for internal analytics purposes as permitted under applicable law.
+
+We may retain your information for as long as your account is active or as reasonably useful for commercial purposes. We will retain and use your information as necessary to comply with our legal obligations or data retention policies, resolve disputes, and enforce our agreements.
+
+Communications
+
+We send you occasional updates about our products, as well as special offers for savings at your local Dunkin’ or Baskin-Robbins and from our Affiliates (as defined in this Privacy Policy) and third parties. We also send you “transactional or relationship” communications, such as notices to facilitate a transaction you have conducted or messages that provide information about your existing account. We require opt-in consent for text messages or push notifications.
+
+If, at any time, you decide you would rather not receive these types of communications, you can opt-out by following the instructions contained in those communications. For email communications, you may click the unsubscribe link at the bottom of any email sent from Dunkin’ Brands or its Affiliates to opt-out, or emailing us at the email address set out in the “Contact Us” section below with the word UNSUBSCRIBE in the subject field of the email. For text message communications and calls to your phone number, you may opt-out at any time by (i) for text messaging, texting “STOP” to the appropriate shortcode available from our confirmation text message or contacting us as set out in the “Contact Us” section below and specifying you want to opt-out of text messages; and (ii) for calls, requesting opt-out during any call you receive from us or contacting us as set out in the “Contact Us” section below and specifying you want to opt-out of calls. For push notifications or in-app messages, you may adjust the permissions in your mobile device or uninstall our app. You can also update contact preferences for your Dunkin’ Brands account by visiting the DD/BR Online Services. Please note that your opt-out is limited to the e-mail address, phone number, or device used and will not affect subsequent subscriptions or, for e-mails, “transactional or relationship” communications, such as those about your account, transactions, servicing, or Dunkin’ Brands’ ongoing business relations.
+
+Tracking Technologies Generally and "Do Not Track”
+
+If you do not wish to receive Cookies or wish to manage when you accept Cookies in general, you may set your browser to reject or delete Cookies or to alert you when a Cookie is placed on your device. If you use multiple browsers on your device, you will need to instruct each browser separately. Your ability to limit Cookies is subject to your browser setting and limitations. Although you are not required to accept our Cookies, if you set your browser to reject Cookies, you may not be able to use all of the features and functionality of the DD/BR Online Services. For example, you may not be able to add items to your Shopping Cart, proceed to Checkout, or use any products and services that require you to sign in. To find out more about Cookies, including how to see what Cookies have been set on your device and how to manage and delete them, visit www.allaboutcookies.org.
+
+With respect to our mobile apps, you can stop all collection of information via the app by uninstalling the app. You may be able to exercise specific privacy choices, such as enabling or disabling certain location-based services, by adjusting the permissions in your mobile device. You can also reset your device Ad ID at any time through your device settings, which is designed to allow you to limit the use of information collected about you. Please be aware that if you disable or remove these technologies some parts of the DD/BR Online Services may not work.
+
+Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals. Accordingly, unless and until the law is interpreted to require us to do so, we do not monitor or take action with respect to “Do Not Track” signals or other mechanisms. For more information on “Do Not Track,” visit http://www.allaboutdnt.com.
+
+Analytics and Interest-Based Advertising
+
+You may exercise choices to opt out of the use of certain information collected by Google Analytics at https://tools.google.com/dlpage/gaoptout, by Google Analytics for Display Advertising or the Google Display Network at https://www.google.com/settings/ads/onweb, or downloading the Google Analytics Opt-out Browser Add-on.
+
+Most of the companies with whom we work to provide you with targeted ads support the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (“DAA”) (“Principles”). This means that they allow you to exercise choice regarding the collection of information about your online activities over time and across websites for online interest based advertising purposes. More information about these Principles can be found at www.aboutads.info/. If you want to “opt out” of receiving online interest-based advertisements on your internet browser from advertisers and other companies that participate in the DAA Self-Regulatory Program for Online Behavioral Advertising and perform advertising-related services for us and our partners, please follow the instructions at www.aboutads.info/choices, or http://www.networkadvertising.org/choices. An “opt-out” Cookie will be placed on your device indicating that you do not want to receive interest-based advertisements. Opt-out Cookies only work on the internet browser and device they are downloaded onto. If you want to opt-out of interest-based advertisements across all of your browsers and devices, you will need to opt-out on each browser on each device you actively use. If you delete Cookies on your device generally, you will need to opt-out again. If you want to “opt out” of receiving online interest-based advertisements on your mobile apps, please follow the instructions at http://www.aboutads.info/appchoices.
+
+To opt out of us using your data for Matched Ads, please contact us as set forth in the “Contact Us” section below and specify that you wish to opt out of matched ads. We will request that the applicable technology service not serve you matched ads based on information we provide to it. Alternatively, you may directly contact the applicable technology service to opt out.
+
+Please note that when you “opt-out” of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on the DD/BR Online Services. It means that the online ads that you do see from participants should not be based on your particular interests. Dunkin' Brands is not responsible for effectiveness of, or compliance with, any other entity’s opt out options or programs or the accuracy of their statements regarding their programs. In addition, other entities may still use Tracking Technologies to collect information about your use of the DD/BR Online Services, including for analytics and fraud prevention as well as any other purpose permitted under the Principles.
+
+Your California Privacy Rights
+California residents have additional rights as set out in the “Additional Disclosures for California Residents” section below.
+
+Your Nevada rights
+Nevada law (NRS 603A.340) requires each business to establish a designated request address where Nevada consumers may submit requests directing the business not to sell certain kinds of personal information that the business has collected or will collect about the consumer. A sale under Nevada law is the exchange of personal information for monetary consideration by the business to a third party for the third party to license or sell the personal information to other third parties. Dunkin' Brands does not currently sell personal information as defined under Nevada law. However, if you are a Nevada consumer and wish to submit a request relating to our compliance with Nevada law, please contact us as at customerservice@dunkinbrands.com and include the words “Nevada Rights” in the subject line.
+
+Your European Privacy Rights
+Data subjects in Europe have additional rights as set out in the “Additional Disclosures for Data Subjects in Europe” section below.
+
+Children’s Online Privacy
+Dunkin' Brands recognizes the importance of protecting the privacy of children online. The DD/BR Online Services are intended for general audiences and are not directed to children under thirteen (13). We do not knowingly collect personal information as defined by the U.S. Children’s Online Privacy Protection Act (“COPPA”) from children in a manner that is not permitted by COPPA. If you are a parent or guardian and you believe that we have collected information from your child in a manner not permitted by law through the DD/BR Online Services, we ask that you e-mail us at customerservice@dunkinbrands.com with the words “Children’s Privacy” in the subject line. If we become aware that a child under 13 has provided us with personal information as defined by COPPA, we will delete the child’s information from our records to the extent required by COPPA.
+
+In California, we do not knowingly “sell” the personal information of minors under 16 years old.
+
+If you are a California resident under 18 years old and you are registered with a Service, you can ask us to remove content or information you have posted to a Service. Email us at customerservice@dunkinbrands.com with “California Under 18 Content Removal Request” in the subject line and tell us what you want removed. We may require additional information from you to allow us to verify your identity as well as details about where the content is posted. We will make reasonable good faith efforts to remove the post from prospective public view, although we cannot ensure the complete or comprehensive removal of the content and may retain the content as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+International Transfer
+Dunkin' Brands controls and operates the DD/BR Online Services from within the United States of America. If you are accessing the DD/BR Online Services from outside of the US, please be aware that information collected through the DD/BR Online Services may be transferred to, processed, stored, and used in the US and other jurisdictions. Our online privacy practices are governed by the laws of the United States and Massachusetts, which may differ from privacy laws in your state or home country. By using the DD/BR Online Services, you are expressly consenting to the transfer to and from, processing, usage, sharing, and storage of your information in the US and other jurisdictions as set forth in this Privacy Policy. If your data is collected in the European Union (“EU”), we will transfer your personal data subject to appropriate or suitable safeguards, such as Standard Contractual Clauses.
+
+This English-language privacy policy is Dunkin' Brands official statement of its online privacy practices. In case of any inconsistency between this English-language privacy policy and its translation into another language, this English-language document shall control.
+
+Data Security
+We implement and maintain reasonable administrative, physical, and technical security measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. Nevertheless, transmission via the internet is not completely secure and we cannot guarantee the security of your information collected through the DD/BR Online Services.
+
+Updates to this Policy
+We may change this Privacy Policy from time to time. Any changes will be effective immediately upon posting of the revised Privacy Policy. Your continued use of the DD/BR Online Services indicates your consent to the Privacy Policy then posted. If we make any material changes to this Privacy Policy, we will post those changes through a prominent notice on the DD/BR Online Services or notify you directly. Regardless of our efforts, we encourage you to review this Privacy Policy each time you visit the DD/BR Online Services.
+
+Contact Us
+If you have any questions regarding this Privacy Policy, our privacy practices, our data practices, or our compliance with applicable law, you can email us at customerservice@dunkinbrands.com. You also can call us at 1-800-859-5339, or you can write to us at Dunkin' Brands Customer Service, Dunkin’ Brands, Inc., 130 Royall Street, Canton, MA 02021.
+
+If you have a disability and would like to access this Privacy Policy in an alternative format please contact us in any of the ways provided above.
+
+Additional Disclosures for California Residents
+These additional disclosures apply only to individuals who reside in California. The California Consumer Privacy Act of 2018 (“CCPA”) provides additional rights to know, delete, and opt out, and requires businesses collecting or disclosing personal information to provide notices and means to exercise rights.
+
+A.   Notice at Collection
+
+In the past 12 months, we have collected the following categories of personal information enumerated in the CCPA:
+
+Identifiers, including name, postal address, email address, phone number, online identifiers (including IP address and device identifiers), and IDs or numbers assigned to your account.   This includes your name, which we collect from your payment card information that you input through an in-store kiosk when you visit a DD/BR franchise in order to display your name when your order is ready.
+Customer records, including phone number, billing and shipping address, and credit or debit card information. 
+Characteristics of protected classifications under California or federal law, including gender. 
+Commercial or transactions information, including records of  products or services purchased, obtained, or considered, and your engagement with the DD/BR Online Services.
+Internet activity, including browsing history, search history, and interactions with our websites, emails, applications, or advertisements.
+Audio or visual data, including pictures or videos you post on our DD/BR Online Services.
+Geolocation data, including location enabled services such as WiFi and GPS.
+Employment and education information, including information you provide when you apply for a job with us.
+Inferences drawn, including information about your interests, preferences and favorites, and inferences drawn from the above-listed information about your predicted characteristics and preferences.
+For further details on information we collect, including the sources from which we receive information, review the “What Kind of Information We Collect” section above. We collect and use these categories of personal information for the business purposes described in the “How We Use the Information We Collect” section above, including to manage the DD/BR Online Services.
+
+Please review the “How We Disclose Information We Collect” and “Social Media and Technology Integration” sections above for further details about the categories of parties with whom we share information for business purposes and commercial purposes.
+Right to Know and Delete
+
+If you are a California resident, you have the right to know certain information about our data practices in the preceding 12 months. In particular, you have the right to request the following from us:
+
+The categories of personal information we have collected about you;
+The categories of sources from which the personal information was collected;
+The categories of personal information about you we disclosed for a business purpose or sold;
+The categories of third parties to whom the personal information was disclosed for a business purpose or sold; and
+The business or commercial purpose for collecting or selling the personal information.
+You also have the right to request the specific pieces of personal information we have collected about you.
+
+In addition, subject to certain exceptions, you have the right to delete the personal information we have collected from you.
+
+To exercise any of these rights, please submit a request through our online form available here, call our toll free number at 1-800-859-5339, or email us at customerservice@dunkinbrands.com, with the words “California Privacy Rights” in the subject line. In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. We may require specific information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know or delete.
+
+Do Not Sell My Personal Information
+
+To the extent Dunkin' Brands sells your personal information as the term “sell” is defined under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information by us to third parties at any time. You may submit a request to opt-out by clicking here. You may also submit a request to opt-out by calling our toll-free number at 1-800-859-5339 , or emailing us at customerservice@dunkinbrands.com, with the words “California Privacy Rights” in the subject line.
+
+Authorized Agent
+
+You can designate an authorized agent to submit requests on your behalf. However, we will require written proof of the agent’s permission to do so and verify your identity directly.
+
+Right to Non-Discrimination
+
+You have the right not to receive discriminatory treatment by us for the exercise of any of your rights.
+
+Financial Incentives
+
+Financial incentives, as defined under the “CCPA, include programs, benefits, or other offerings, including payments to consumers as compensation, for the disclosure, deletion, or sale of personal information about them. Although we do not consider our Dunkin’ Loyalty Program or our BR Birthday Club to be a “financial incentive,” each may be interpreted to be one under California law.
+
+We offer discounted prices to consumers who sign up for and voluntarily provide certain requested personal information to us in connection with our Dunkin’ Loyalty Program and/or our BR Birthday Club. You can find a full description of the Dunkin’ Loyalty Program, including the benefits offered, and related legal terms, here.
+You can opt-in to our Dunkin’ Loyalty Program by completing the form here. You can opt-in to the BR Birthday Club by completing the form here. You have the right to withdraw from the Dunkin’ Loyalty Program or the BR Birthday Club at any time by contacting Consumer Care at 1-800-859-5339 or by emailing us at customerservice@dunkinbrands.com.
+
+We generally do not treat consumers differently if they exercise a privacy right under California law. However, you will need to be a Dunkin’ loyalty member or a Birthday Club member (and voluntarily provide the personal information requested through each program) in order to receive certain member discounts or benefits. In such circumstances, we offer a price difference that is reasonably related to the value of your data to us in connection with the program.
+
+Shine the Light
+
+Dunkin' Brands may share personal information as defined by California’s “Shine the Light” law with third parties and/or Affiliates for such third parties’ and Affiliates’ own direct marketing purposes. If you are a California customer, you are entitled to request (i) a list of the categories of personal information disclosed by us to third parties during the immediately preceding calendar year for those third parties’ own direct marketing purposes; and (ii) a list of the categories of third parties to whom we disclosed such information. To request such a notice, please send a letter to: Dunkin' Brands, Inc., 130 Royall Street, Canton, MA 02021, Attn: Customer Service, or email us at customerservice@dunkinbrands.com. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that Dunkin’ Brands is not required to respond to requests made by means other than through the provided mail address or email address.
+
+Additional Disclosures for Data Subjects in Europe
+Roles
+
+Data protection laws in Europe distinguish between organizations that process personal data for their own purposes (known as “controllers”) and organizations that process personal data on behalf of other organizations (known as “processors”).
+
+Dunkin' Brands acts as a controller with respect to personal data collected as you interact with our websites, emails, and advertisements. In some instances, Dunkin' Brands acts as a processor on behalf of Dunkin' Brands franchisees, which are independent entities. Any questions that you may have relating to the processing of personal data by Dunkin' Brands as a processor should be directed to the relevant franchisee.
+
+Lawful Basis for Processing
+
+Data protection laws in Europe require a “lawful basis” for processing personal data. Our lawful bases include where: (a) you have given consent to the processing for one or more specific purposes, either to us or to our service providers, partners, or franchisees; (b) processing is necessary for the performance of a contract with you; (c) processing is necessary for compliance with a legal obligation; or (d) processing is necessary for the purposes of the legitimate interests pursued by us or a third party, and your interests and fundamental rights and freedoms do not override those interests. Some of our lawful bases for processing your information stem from our independent franchisees on whose behalf we provide services.
+
+Your Data Subject Rights
+
+If you are a data subject in the European Economic Area (“EEA”), you have the right to access, rectify, or erase any personal data we have collected about you through the DD/BR Online Services, subject to certain exceptions. You also have the right to data portability and the right to restrict or object to our processing of personal data we have collected about you through the DD/BR Online Services, subject to certain exceptions. You may withdraw your consent at any time for any data processing we do based on consent you have provided to us.
+
+To exercise any of these rights, contact us as set forth in the section entitled “Contact Us” above and specify which European privacy right you intend to exercise. We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Please note that we store information as necessary to fulfill the purposes for which it was collected, and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
+
+Complaints
+
+If you have any issues with our compliance, you have the right to lodge a complaint with an EEA supervisory authority. We would, however, appreciate the opportunity to address your concerns before you approach a data protection regulator, and would welcome you directing an inquiry first to us. In addition to the contact information in the “Contact Us” section above, please contact our Data Protection Officer (“DPO”) at dpo@dunkinbrands.com.
+
+©2021 DD IP Holder LLC. Name, design, logos and related marks are registered trademarks of DD IP Holder LLC. All rights reserved.

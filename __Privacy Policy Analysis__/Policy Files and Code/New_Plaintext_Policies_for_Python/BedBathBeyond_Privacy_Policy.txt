@@ -1,0 +1,192 @@
+( Date Accessed: 6/06/2021, From: https://www.bedbathandbeyond.com/store/static/PrivacyPolicy )
+
+( Embedded Hyperlinks Used: 36
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#types-we-collect
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#types-we-collect
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#use-and-processing
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#use-and-processing
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#sharing-info
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#sharing-info
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#your-choices
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#your-choices
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#protect-info
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#protect-info
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#how-long-info
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#how-long-info
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#cali-residents
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#cali-residents
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#non-us-residents
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#non-us-residents
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#third-party
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#third-party
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#contact-info
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#contact-info
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#changes-privacy-poli
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#changes-privacy-poli
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#cali-info-sharing
+https://www.bedbathandbeyond.com/store/static/PrivacyPolicy#cali-info-sharing
+http://optout.networkadvertising.org/?c=1#!%2F
+http://optout.aboutads.info/?c=2&lang=EN#!%2F
+https://www.bedbathandbeyond.com/store/personalInformationRequestForm
+https://www.bedbathandbeyond.com/store/personalInformationRequestForm
+https://www.bedbathandbeyond.com/store/personalInformationRequestForm
+https://www.bedbathandbeyond.com/store/personalInformationRequestForm
+https://maps.google.com/help/terms_maps/
+https://policies.google.com/privacy?hl=en&gl=us
+https://www.bedbathandbeyond.com/store/account/Login
+https://www.bedbathandbeyond.com/store/static/beyondplustnc_BPLUS_LEGACY_29
+https://www.bedbathandbeyond.com/store/personalInformationRequestForm
+https://www.bedbathandbeyond.com/store/personalInformationRequestForm
+)
+
+Privacy Policy
+
+This privacy policy describes how Bed Bath & Beyond and its affiliates collect, use, and share personal information, unless a particular affiliate has a different privacy policy posted on its website, in which case that privacy policy shall describe that affiliate's collection, use, and sharing of personal information. The "affiliates" referred to in this privacy policy includes concepts such as buybuy BABY, Harmon and Harmon Face Values, Decorist, and such other affiliates as we may acquire or launch from time to time.
+
+Table of Contents
+•	Types Of Information We Collect
+•	Use And Processing Of Your Personal Information
+•	Sharing Of Personal Information
+•	Your Choices
+•	How We Protect Personal Information
+•	How Long We Retain Information
+•	Information for California Residents
+•	Information for Non-US Residents
+•	Third Party Applications/Websites
+•	Contact Information
+•	Changes To This Privacy Policy
+•	California Information Sharing Disclosure
+
+Types Of Information We Collect
+Personal information means information that allows someone to identify or contact you. Non-personal information means information that does not directly identify you. We collect both types of information about you.
+The following provides examples of the types of information that we collect about you and how we use the information.
+Context	Types of Information	Primary Purpose for Collection and Use of Information
+Account Registration	We collect your name and contact information when you create an account.	We have a legitimate interest in providing account relating functionalities to our users. Accounts can be used for easy checkout and to save your preferences and transaction history.
+BEYOND+ Membership Program	If you sign up for our BEYOND+ membership program, we collect your name, contact information (such as e-mail address and phone number), billing address, and payment card information. We use reasonable efforts to protect such payment card information from unauthorized access, use, or disclosure (for more information please see the section below titled “How We Protect Personal Information”).	We have a legitimate interest in administering our BEYOND+ Membership Program, including, among other things, processing your payment for the membership, communicating with you about program benefits, providing you with membership benefits, detecting security incidents, and protecting against malicious, deceptive, fraudulent, or illegal activity.
+Brand Credit Cards	If you apply for one of our brand credit cards, we collect your name, address, last 4 digits of your social security number, and income information. When you use your brand credit card, we also receive information from the financial institutions that we partner with, such as transaction history (including credit card number) and account profile. We use reasonable efforts to protect such credit card information from unauthorized access, use, or disclosure (for more information please see the section below titled “How We Protect Personal Information”).	We use your information to perform our contract to provide you with the benefits associated with our credit cards, such as tracking the rewards/points you earn for purchasing products. We also have a legitimate interest in performing audits and maintaining business records associated with our credit card programs.
+Demographic Information	We may collect information from you, such as your age or location.	We have a legitimate interest in understanding our users and providing tailored services and products.
+Distance Information	When you use one of our Apps we collect your location from the GPS, Wi-Fi, and/or cellular technology in your device to determine your distance from a store.	We have a legitimate interest in understanding our users and providing tailored services and products. In some contexts, our use is also based upon your consent to provide us with geo location information.
+Email Interconnectivity	If you receive email from us, we use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases.	We have a legitimate interest in understanding how you interact with our communications to you.
+Employment	If you apply for a job posting we collect information necessary to process your application or to retain you as an employee. Employees are provided a separate privacy notice that relates to employment data.	In some contexts, we are required by law to collect information about our employees. We also have a legitimate interest in using your information to have efficient staffing and work force operations.
+Feedback/Support	If you provide us feedback or contact us for support we will collect your name and e-mail address and possibly other personal information, as well as any other content that you send to us in order to reply.	We have a legitimate interest in receiving, and acting upon, your feedback or issues.
+Loyalty or Rewards Programs	If you sign up for one of our loyalty or rewards programs, we collect your name and contact information (such as email address and telephone number).	We have a legitimate interest administering our loyalty and rewards programs. That administration includes, among other things, communicating with you about program benefits, providing you with membership benefits, detecting security incidents, and protecting against malicious, deceptive, fraudulent, or illegal activity.
+Mailing List	When you sign up for one of our mailing lists we collect your email address or postal address.	Where required by law, we have obtained your consent to share information about our products or services, and we use your email address or postal address to share such information. We also have a legitimate interest in sharing information about our products or services, and we use your email address or postal address to share such information.
+Mobile Devices	We collect information from your mobile device such as unique identifying information broadcast from your device when visiting our website or when visiting one of our stores.	We have a legitimate interest in identifying unique visitors, and in understanding how users interact with us on their mobile devices.
+Order Placement	We collect your name, billing address, shipping address, e-mail address, phone number, and payment card information when you place an order. We use reasonable efforts to protect such payment card information from unauthorized access, use, or disclosure (for more information please see the section below titled “How We Protect Personal Information”).	We use your information to perform our contract to provide you with products or services.
+Partner Promotion	We collect information that you provide as part of a co-branded promotion with another company.	We have a legitimate interest in fulfilling our promotions.
+Surveys	When you participate in a survey we collect additional information that you provide through the survey. If the survey is provided by a third party service provider, the third party's privacy policy applies to the collection, use, and disclosure of your information.	We have a legitimate interest in understanding your opinions, and collecting information relevant to our organization.
+Sweepstakes or contests	When you participate in a sweepstakes or contest we collect information about you which includes contact information to notify you if you are selected.	We have a legitimate interest in operating the sweepstakes. In some contexts we are also required by law to collect information about those that enter into our sweepstakes, and we have a legitimate interest in complying with those laws.
+Third Party Tracking	We participate in behavior-based advertising. This means that a third party may use technology (e.g., a cookie (further described below)) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests. That advertising may appear either on our websites, or on other websites. You can opt-out of receiving advertising based upon your browsing behavior from some network advertising companies by going to the Network Advertising Initiative and the Digital Advertising Alliance websites. Cookies may be managed by following instructions provided by your browser.	We use this information to provide advertising about products and services tailored to our user’s interest.
+Web logs	We collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet), domain name, click-activity, referring website, and/or a date/time stamp for your visit.	We have a legitimate interest in monitoring our networks and the visitors to our websites. Among other things, it helps us understand which of our services is the most popular.
+Cookies	"Cookies" are small pieces of information that a website sends to your device while you are viewing a website. We use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your device until you delete them). Among other things, cookies allow us to provide you with a more personal and interactive experience tailored to your interests and to improve our marketing efforts. Cookies may be managed by following instructions provided by your browser. If you choose to disable cookies some areas or features of our websites may not work properly.	We use this information to make our websites operate efficiently, to improve user experience on our websites, and to understand website traffic and how our websites are being used.
+Wedding, Baby, and/or Gift Registry	We may collect your name, contact information, shipping address, and information about an event for which you are registering.	We have a legitimate interest in offering gift registry related services.
+
+In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.
+
+Use And Processing Of Your Personal Information
+In addition to the uses described above, we use your personal information in the following ways:
+•	To identify you when you visit our websites or our stores.
+•	To provide the products and services you request, or to process returns.
+•	To improve our services and product offerings.
+•	To streamline your checkout process.
+•	To conduct analytics (e.g., to enhance user experience on our website).
+•	To respond to your inquiries related to support, employment opportunities, or other requests.
+•	To send marketing and promotional materials, including information relating to products, services, sales, or promotions.
+•	For internal administrative purposes, as well as to manage our relationship with you.
+•	To detect security incidents, and protect against malicious, deceptive, fraudulent, or illegal activity, including attempts to manipulate or violate our policies, procedures, and terms and conditions.
+•	To comply with legal obligations, to establish or exercise our rights, to defend against a legal claim, and to investigate, prevent, or take action regarding possible misconduct.
+
+Sharing Of Personal Information
+In addition to the specific situations discussed elsewhere in this policy, we disclose personal information in the following situations:
+1.	Affiliates and Acquisitions. We may share your personal information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control). If another company acquires (or proposes to acquire) our company, any of our affiliates, business, or our assets, we will also share your personal information with that company, including at the negotiation stage.
+2.	Financial Companies. We may offer credit cards for some of our brands. If you apply for one of our brand credit cards, we transfer that information to the financial companies we partner with. Additionally, if you use one of our brand credit cards, we transfer transaction records to those financial companies as part of the program administration.
+3.	Other Disclosures with Your Consent. We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.
+4.	Other Disclosures without Your Consent. We may disclose personal information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your personal information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third party intermediary.
+5.	Public. Some of our websites provide the opportunity to post comments, or reviews, in a public forum. If you decide to submit information on these pages, that information may be publicly available.
+6.	Partner Promotion. We may offer contests, sweepstakes, or other promotions with third party partners. If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner the information that you provide will be shared with us and with them. Their use of your information is not governed by this privacy policy.
+7.	Service Providers. We share your personal information with service providers. Among other things, service providers may help us to administer our website, support our loyalty programs, conduct surveys, provide technical support, respond to complaints or other issues, and assist in the fulfillment of orders.
+8.	Wedding, Baby, and/or Gift Registry. Some of our websites provide the opportunity to create public registries where you can indicate to others what types of products you might be interested in receiving. We share the information that you provide about your event (e.g., name, date, location, etc.) with the public to permit others to search for that information. In some cases we may provide you with options to restrict the extent to which that information will be shared. We may also share your information with third party wedding and gift registry portal sites. Among other things this provides your guests with additional means of finding your registry and coordinating gifts.
+
+Your Choices
+You can make the following choices regarding your personal information:
+•	Promotional Emails. You may choose to provide us with your email address for the purpose of allowing us and our affiliates to send free newsletters, surveys, offers, and other promotional materials to you, including targeted offers from third parties. You can stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive. Although we will remove your name from our mailing list after receiving your request within the timeframe permitted by law, you may still receive mailings from us that had been initiated prior to your name being removed. If you decide not to receive promotional emails, we may still send you transactional communications, such as those about your account, to fulfill orders you have made, to ask you to rate the product you purchased, or other service-related communications.
+•	Promotional Mailings. If at any time you do not want to receive offers and/or circulars from us you can remove yourself from our mailing lists by emailing us (our contact information is below) with "NO SNAIL MAIL" in the subject line along with your name, address and zip code. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed.
+•	Changes To Your Personal Information. We rely on you to update and correct your personal information. Most of our websites allow you to modify your account profile. Note that we may keep historical information in our backup files as permitted by law.
+•	Online Tracking. We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.
+
+How We Protect Personal Information
+No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. In the event that we are required by law to inform you of any unauthorized access to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.
+Some of our websites permit you to create an account. When you do you will be prompted to create a password. You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you. You should notify us of any unauthorized use of your password or account.
+
+How Long We Retain Information
+We retain your personal information for the period necessary to fulfill the purposes outlined in this privacy policy, unless a longer retention period is required or permitted by law.
+Information for California Residents
+•	California Information Sharing Disclosure. California law indicates that organizations should disclose whether certain categories of information are collected, “sold” or transferred for an organization’s “business purpose” (as those terms are defined under California law). You can find a list of the categories of information that we collect and share at the end of this privacy policy. Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself. If you would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing please submit a written request to us using the information in the "Contact Information" section below.
+•	Rights with Respect to Personal Information. If you are a resident of California, you may have additional rights under applicable data protection laws, with respect to your personal information including:
+•	Request Access. If required by law, upon request, we will grant reasonable access to the personal information that we hold about you, including in some cases the right to data portability. You can exercise this right by completing and submitting a Request Form or by contacting us at 1-800-GO-BEYOND (1-800-462-3966) between 7:00 am and 1:00 am EST, seven (7) days a week.
+•	Request Deletion. In certain circumstances, you may request that we delete your personal information. If required by law we will delete your personal information after such a request is made. We may also decide to delete your data if we believe that the data is incomplete, inaccurate, or that our continued use and storage are contrary to our obligations to other individuals or third parties. When we delete personal information it will be removed from our active database, but it may remain in archives where it is not practical or possible to delete it. You should note that there are some situations in which we may decline to delete your personal information. For example, we may keep your personal information as needed to comply with our legal obligations, where permitted by law, to resolve disputes, and/or to enforce any of our agreements. You can exercise this right by completing and submitting a Request Form or by contacting us at 1-800-GO-BEYOND (1-800-462-3966) between 7:00 am and 1:00 am EST, seven (7) days a week.
+•	Annual Data Requests. The following chart contains statistics about consumer data requests received in 2020. This chart will be updated annually.
+ 	Total received requests	Complied with in whole or in part	Denied (e.g. unable to verify the identity of the requestor)	Mean (average) days to respond
+Access Requests	105	70	35	16
+Deletion Requests	1199	844	355	18
+Opt-out of Sale Requests	N/A (we do not “sell” your personal information)	
+You can exercise these rights by completing and submitting a Request Form or by contacting us at 1-800-GO-BEYOND (1-800-462-3966) between 7:00 am and 1:00 am EST, seven (7) days a week. We do not discriminate against California residents who exercise any of their rights described in this privacy policy.
+When we receive a request to access or delete information we take steps to verify the identity of the individual making the request. Our verification may include asking that you confirm your email address by clicking on a link that we send to you. If you do not have an email address, we may ask you to provide a photo ID confirming your identity. Following a request, we will use reasonable efforts to supply or delete personal information about you in our files.
+If you are an authorized agent submitting a request on behalf of an individual, please submit the following information through our Request Form : The consumer’s name, email address, mailing address, phone number, request type, and applicable affiliate(s). After an authorized agent submits a request, we will communicate directly with the consumer to verify the consumer’s identity and respond to the request.
+
+Information for Non-US Residents
+If you are a customer located outside the United States, and you are not satisfied with our response, you may have a right to lodge a complaint with your local data protection regulatory authority.
+
+Third Party Applications/Websites
+We have no control over the privacy practices of websites or applications that we do not own. For example, to enhance your experience on this Site, we use Google Maps APIs including at account and registry creation, and at checkout. Google has specifically requested that we inform you that your use of such services is subject to the Google Maps/Google Earth Additional Terms of Service (including the Google Privacy Policy).
+
+Contact Information
+If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below. We will attempt, where practical, to respond to your requests and to provide you with additional privacy-related information.
+privacy.information@bedbath.com
+Bed Bath & Beyond Inc.
+Attn: Customer Service – Privacy
+650 Liberty Avenue
+Union, New Jersey 07083
+Changes To This Privacy Policy
+We may change our privacy policy and practices over time. To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information.
+Updated and Effective: March 17, 2021
+
+California Information Sharing Disclosure
+California Civil Code Sections 1798.115(c), 1798.130(a)(5)(c), 1798.130(c), and 1798.140 indicate that organizations should disclose whether the following categories of personal information are collected, transferred for “valuable consideration,” or transferred for an organization’s “business purpose” (as those terms are defined under California law). The table below indicates the categories of personal information we collect and transfer in a variety of contexts. Please note that because this list is comprehensive, it may refer to types of information that we collect and share about people other than yourself. For example, while we transfer credit card or debit card numbers for our business purpose in order to process payments for orders placed with us, we do not collect or transfer credit card or debit card numbers of individuals that submit questions through our website’s “contact us” page. We do not “sell” your personal information. In addition, we may disclose information when requested to government entities, auditors, lawyers, consultants, and other parties as required by law concerning any category (e.g., in response to a subpoena).
+Categories of Personal Information That We Collect	Categories of Third Parties to Whom We Disclose Personal Information for Business Purpose
+Identifiers – such as name, postal address, phone number, unique personal identifier, online identifier, internet protocol (IP) address, device ID, email address, account name, signature, social security number (the last 4 numbers in connection with processing your application for a credit card with us), driver’s license number (e.g., in some cases to process product returns), passport number (if needed to verify your identity), or other similar identifiers.	•	Service Providers
+•	Product and service fulfillment companies
+•	Internet service providers
+•	Advertising Networks
+•	Social Networks
+•	Payment Processors and financial institutions
+•	Data analytics providers
+Financial information – such as bank account number, credit or debit card number, or other financial information.	•	Service Providers
+•	Payment Processors and financial institutions
+Commercial information – such as information about products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.	•	Service Providers
+•	Product and service fulfillment companies
+•	Payment Processors and financial institutions
+Network activity data – internet or other electronic network activity information, such as browsing history, search history, and information regarding an individual’s interaction with an internet website, application, or advertisement.	•	Service Providers
+•	Product and service fulfillment companies
+•	Internet service providers
+•	Advertising Networks
+•	Social Networks
+•	Data analytics providers
+Biometric information (on a very limited basis to test new technologies to better serve customers).	•	Service Providers
+Geolocation data – such as when you use our App, or the IP address assigned to your computer when you use the Internet and visit our website.	•	Service Providers
+•	Internet service providers
+•	Advertising Networks
+•	Social Networks
+•	Data analytics providers
+Electronic and sensory data – such as audio, electronic, visual, thermal, olfactory, or similar information (e.g., pictures, security video surveillance footage).	•	Service Providers
+Professional/employment information – such as occupation and professional references or estimated information provided by a third party for marketing purposes.	•	Service Providers
+Education information – such as information contained in education records, if you have a college registry, or estimated information provided by a third party for marketing purposes.	•	Service Providers
+Inferences – drawn from any of the information listed above to create a profile	•	Service Providers
+•	Notice of Financial Incentive under California Law. We offer our customers a rewards program that provides certain perks, such as rewards, promotions, and exclusive offers (the “Rewards Program”). When you sign up for the Rewards Program we will ask you to provide your name and email address. Because the Rewards Program involves the collection of personal information, it might be interpreted as a “financial incentive” program under California law. The value of your personal information to us is related to the value of the free or discounted products or services that you obtain in connection with the Rewards Program, and it is based on the expense related to offering those free or discounted products or services. You may withdraw from participating in the Rewards Program at any time through your account at or by calling customer service at 1-866-532-6826. Visit the Rewards Program’s Terms and Conditions to view full program rules, including how to join.
+•	Transmission Of Information To Other Countries If you are a customer located outside the United States, please be aware that your personal information may be processed in the United States, where privacy laws may be less stringent than the laws in your country. By submitting your personal information to us you agree to the transfer, storage and processing of your information in the United States.
+•	Rights With Respect to Personal Information. If you are a resident of the European Union, you may have additional rights under applicable data protection laws with respect to your personal information, including:
+•	Request Access. If required by law, upon request, we will grant reasonable access to the personal information that we hold about you, including in some cases the right to data portability. You can exercise this right by completing and submitting a Request Form or by contacting us at 1-800-GO-BEYOND (1-800-462-3966) between 7:00 am and 1:00 am EST, seven (7) days a week.
+•	Request Deletion. In certain circumstances, you may request that we delete your personal information. If required by law we will delete your personal information after such a request is made. We may also decide to delete your data if we believe that the data is incomplete, inaccurate, or that our continued use and storage are contrary to our obligations to other individuals or third parties. When we delete personal information it will be removed from our active database, but it may remain in archives where it is not practical or possible to delete it. You should note that there are some situations in which we may decline to delete your personal information. For example, we may keep your personal information as needed to comply with our legal obligations, where permitted by law, to resolve disputes, and/or to enforce any of our agreements. You can exercise this right by completing and submitting a Request Form or by contacting us at 1-800-GO-BEYOND (1-800-462-3966) between 7:00 am and 1:00 am EST, seven (7) days a week.
+•	Request Modification. You may request to rectify or update your inaccurate or out-of-date personal information by contacting us at privacy.information@bedbath.com.
+•	Object To Processing. In certain circumstances, you may object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. You may exercise this right by contacting us at privacy.information@bedbath.com.
+•	Revoke Consent. We rely on the processing of personal information that you have provided. If you revoke your consent for the processing of personal information then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity. You may exercise this right by contacting us at privacy.information@bedbath.com.

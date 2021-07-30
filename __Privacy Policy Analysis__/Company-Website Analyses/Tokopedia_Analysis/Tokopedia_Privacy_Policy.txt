@@ -1,0 +1,141 @@
+( Date Accessed: 6/09/2021, From: https://www.tokopedia.com/privacy )
+
+( Embedded Hyperlinks Used: 26
+http://www.tokopedia.com/
+https://www.tokopedia.com/privacy#data-pengguna
+https://www.tokopedia.com/privacy#penggunaan-data-pribadi
+https://www.tokopedia.com/privacy#data-pribadi-pengguna
+https://www.tokopedia.com/privacy#cookies
+https://www.tokopedia.com/privacy#pengguna-transparansi
+https://www.tokopedia.com/privacy#keamanan-data
+https://www.tokopedia.com/privacy#akses-data
+https://www.tokopedia.com/privacy#pengaduan-data
+https://www.tokopedia.com/privacy#hubungi-kami
+https://www.tokopedia.com/privacy#penyimpanan-penghapusan-informasi
+https://www.tokopedia.com/privacy#pembaharuan-kebijakan-privasi
+https://www.tokopedia.com/privacy#
+https://www.tokopedia.com/privacy#
+https://www.tokopedia.com/help/article/program-tokopedia-tukar-tambah
+https://www.tokopedia.com/help/article/faq-seputar-langsung-laku
+https://www.tokopedia.com/privacy#
+https://www.tokopedia.com/privacy#
+https://www.tokopedia.com/privacy#
+https://www.tokopedia.com/privacy#
+https://www.tokopedia.com/privacy#
+https://www.tokopedia.com/privacy#
+https://www.tokopedia.com/help
+https://www.tokopedia.com/privacy#
+https://www.tokopedia.com/privacy#
+https://www.tokopedia.com/privacy#
+)
+
+Privacy Policy
+
+The existence of this Privacy Policy is a real commitment from Tokopedia to respect and protect any personal data or information of users of the www.tokopedia.com site, its derivative sites, as well as the Tokopedia mobile application (hereinafter referred to as the "Site"). 
+This Privacy Policy (along with the terms of use of the Tokopedia site as stated in the Terms & Conditions and other information listed on the Site) establishes the basis for obtaining, collecting, processing, analyzing, displaying, transmitting, opening, storing, changing, deleting and/or or all forms of management related to data or information that identifies or can be used to identify Users that Users provide to Tokopedia or that Tokopedia collects from Users or third parties (hereinafter referred to as "Personal Data").
+By clicking "Register" (Register) or a similar statement available on the registration page of the Site, the User declares that each User's Personal Data is true and valid data, the User acknowledges that he has been notified and understands the provisions of this Privacy Policy and the User gives consent to Tokopedia to obtain, collect, process, analyze, display, transmit, open, store, modify, delete, manage and/or use such data for the purposes as stated in the Privacy Policy.
+Collection and Collection of User's Personal Data
+Use of Personal Data
+Disclosure of User's Personal Data
+Cookies
+User Choice and Transparency
+Security, Storage and Deletion of User's Personal Data
+Access and Correction of User's Personal Data or Withdrawal of Consent
+Complaints regarding the Protection of Users' Personal Data 
+Contact us
+Information Storage and Deletion
+Privacy Policy Update
+A. Collection and Collection of User's Personal Data
+Tokopedia collects User Personal Data with the aim of processing User transactions, managing and expediting the process of using the Site, as well as other purposes as long as permitted by applicable laws and regulations. The User data collected is as follows:
+Data submitted independently by the User, including but not limited to data submitted when the User:
+create or update a Tokopedia account, including user name, email address, phone number, password, address, photo, and other information that can identify a User;
+contacting Tokopedia, including through customer service;
+fill out surveys sent by Tokopedia or other parties officially appointed to represent Tokopedia;
+interact with other Users through messaging features, product discussions, reviews, ratings, Resolution Centers (as defined in the Terms and Conditions) and other interactive features (either one-way or two-way) contained on the Site;
+use the services on the Site, including detailed transaction data, including the type, amount and/or description of the product or service purchased, delivery address, payment channel used, transaction amount, transaction date and time, and other transaction details;
+fill in payment data when the User conducts payment transaction activities through the Site, including but not limited to bank account data, credit cards, virtual accounts, instant payments, internet banking, retail outlets; and/or
+use features on the Site that require access to relevant data stored on the User's device.
+Data recorded when the User uses the Site, including but not limited to:
+real or approximate location data such as IP address, Wi-Fi location and geo-location;
+data in the form of time from each User activity in connection with the use of the Site, including registration, login and transaction times;
+User usage data or preferences, including User interactions in using the Site, saved choices, and selected settings. The data is obtained using cookies, pixel tags and similar technologies that create and maintain a unique identifier;
+device data, including the type of device used to access the Site, including hardware model, operating system and version, software, IMEI number, file name and version, language selection, unique device identifier, advertising identifier, serial number, device movement information, and/or cellular network information; and/or
+data records (logs), including records on servers that receive data such as device IP addresses, access dates and times, application features or pages viewed, application work processes and other system activities, browser type, and/or sites or services third parties that the User uses before interacting with the Site.
+Data obtained from other sources, including but not limited to:
+data in the form of geo-location (GPS) from Tokopedia's business partners who help Tokopedia in developing and providing services on the Site to Users, including payment service providers, logistics or courier partners, site infrastructure, and other partners.
+data in the form of email, phone number, name, gender, and/or date of birth of a Tokopedia business partner where a User creates or accesses a Tokopedia account, such as social media services, or sites/applications that use the Tokopedia application programming interface (API) or those used by Tokopedia ;
+data from financial service providers, including but not limited to credit rating agencies or bureaus or the Credit Information Management Agency (LPIP);
+data from financial service providers (if the User uses specific features such as applying for a loan through the Tokopedia Site/Application); and/or
+data in the form of emails from marketing service providers.
+Tokopedia may combine data obtained from these sources with other data in its possession.
+Back to top
+B. Use of Personal Data
+Tokopedia may use Personal Data obtained and collected from Users as mentioned in the previous section for the following matters:
+Process all forms of requests, activities or transactions made by Users through the Site, including for the purpose of sending products to Users.
+Provision of features to deliver, deliver, maintain and improve our products and services, including:
+offer, obtain, provide, or facilitate marketplace services such as homepage, search, search, TopAds advertising, product recommendations, Tokopedia Feed, insurance, financing, loans, or other products through the Site;
+enable features to personalize User's Tokopedia account, such as Shopping Cart, Wishlist and Favorite Stores; and/or
+carry out internal activities required to provide services on the Tokopedia site/application, such as solving software problems, bugs, operational problems, conducting data analysis, testing, and research, and to monitor and analyze usage trends and activities.
+Helping Users when communicating with Tokopedia Customer Service, including to:
+examine and resolve User problems;
+direct User inquiries to appropriate customer service personnel to resolve issues; 
+supervise and improve Tokopedia's customer service response;
+contacting the User via email, letter, telephone, fax, and other communication methods, including but not limited to assisting and/or completing the transaction process or problem solving process, as well as delivering news or other notifications in connection with the protection of User's Personal Data by Tokopedia, including failure of protection of User's Personal Data;
+use information obtained from Users for research, analysis, product development and testing purposes in order to improve the security of services on the Site, as well as develop new features and products; and
+inform Users regarding products, services, promotions, studies, surveys, news, latest developments, events and other information, either through the Site or through other media. Tokopedia may also use this information to promote and process contests and sweepstakes, provide prizes, and serve relevant advertisements and content about the services of Tokopedia and its business partners.
+Conduct monitoring or investigations on suspicious transactions or transactions which indicated an element of fraud or violations of these Terms and Conditions or any applicable laws, and perform the necessary actions to follow up on the results of monitoring or investigation of the transaction.
+In certain circumstances, Tokopedia may need to use or disclose User Personal Data for law enforcement purposes or to fulfill the requirements and obligations of applicable laws and regulations, including in the event of a dispute or legal process between the User and Tokopedia, or suspected criminal acts such as fraud. or data theft.
+Facilitate merger transactions, sale of company assets, consolidation or restructuring, financing or acquisitions involving Tokopedia.
+Back to top
+C. Disclosure of User's Personal Data
+Tokopedia is committed to maintaining the confidentiality of User's Personal Data which is under the control of Tokopedia and guarantees that there is no disclosure, sale, transfer, distribution and/or borrowing of User's Personal Data to other third parties, without the consent of the User, except in the following cases: 
+it is necessary to disclose User Personal Data to partners or other third parties who assist Tokopedia in providing available services or services that will later be available on the Site and process all forms of User activity on the Site, including processing transactions, payment verification, promotions, and delivery. product.
+Tokopedia may provide User Personal Data to business partners in accordance with the User's agreement to use the services of business partners, including other applications or sites that have integrated their API or services, or business partners with whom Tokopedia has collaborated to organize promotions, competitions, or special services. available on the Site, such as the Exchange Add or Direct Laku program organized by Tokopedia. 
+Tokopedia may provide User Personal Data to third parties who use and integrate public APIs provided by Tokopedia (including but not limited to service providers for Tokopedia's business partners) with applications or sites it operates for the purpose of completing transactions between Buyers and Sellers on the Site or for the purpose of use. Other Personal Data mentioned in Part B of this Privacy Policy. 
+communication is needed between Tokopedia's business partners (such as logistics, payment, and feature providers or other service facilities) with Users in terms of resolving obstacles or other matters.
+Tokopedia may provide User Personal Data to vendors, consultants, marketing partners, research firms/institutions, or similar service providers in the context of marketing activities carried out by third parties, improving and maintaining the quality of Tokopedia services, as well as other publication activities.
+Users contact Tokopedia through public media such as blogs, social media, and certain features on the Site, where communication between Users and Tokopedia can be seen and known by the general public.
+Tokopedia may share User Personal Data with its subsidiaries and affiliates to help provide services or perform data processing for and on behalf of Tokopedia.
+Tokopedia may disclose and/or provide User's Personal Data to interested parties in the context of carrying out the User's creditworthiness analysis. 
+Tokopedia discloses User Personal Data in an effort to comply with legal obligations and/or legitimate requests from law enforcement officers or authorized state administration agencies.
+In connection with the disclosure of User Personal Data as described above, Tokopedia will/may need to disclose User Personal Data to third party service providers, agents and/or affiliates or companies related to Tokopedia, and/or other third parties located outside the territory of Indonesia. However, third party service providers, agents and/or affiliates or related companies and/or other third parties will only manage and/or utilize User's Personal Data in connection with one or more purposes as stipulated in this Privacy Policy and in accordance with the provisions of the regulations. applicable legislation.
+Back to top
+D. Cookies
+Cookies are small files that will automatically take place on the User's device that performs the function of saving User preferences and configurations while visiting a site.
+These cookies are not intended to be used when accessing other data that the User has on the User's computer, other than what the User has agreed to submit.
+although the User's computer device will automatically accept cookies, the User can make the choice to make modifications through the User's browser settings, namely by choosing to refuse cookies (this choice can prevent the optimal availability of Tokopedia services when the User accesses the Site).
+Tokopedia uses the Google Analytics Demographics and Interest feature. The data that Tokopedia obtains from these features, such as age, gender, User interests and other information that can identify the User, will be used by Tokopedia for the development of features, facilities, and/or content contained on the Tokopedia Site. If the User does not want his data to be tracked by Google Analytics, the User can use the Google Analytics Opt-Out Browser Add-On.
+Tokopedia may use the features provided by third parties in order to improve Tokopedia's services and content, including assessment, adjustment, and serving of advertisements to each User based on interests or history of visits. If the User does not want ads to be displayed based on these adjustments, then the User can set it through the browser.
+Back to top
+E. User Choice and Transparency
+Mobile devices in general (iOS and Android) have settings so that the Tokopedia application cannot access certain data without the consent of the User. iOS devices will notify Users when the Tokopedia application first requests access to the data, while Android devices will provide notifications to Users when the Tokopedia application is first loaded. By using the application and providing access to the application, the User is deemed to have given his consent to the collection and use of the User's Personal Data on his device.
+After the sale and purchase transaction through the Site is successful, the Seller and the Buyer (as defined in the Terms and Conditions) have the opportunity to provide an assessment and review of each other. This information may be publicly viewable with the User's consent.
+Users can access and change information in the form of email addresses, telephone numbers, date of birth, gender, list of addresses, payment methods, and bank accounts through the settings feature on the Site.
+Users can opt-out of information or notifications in the form of bulletins, reviews, product discussions, private messages, or private messages from Admins sent by Tokopedia through the settings feature on the Site. Tokopedia can still send messages or emails in the form of transaction descriptions or information related to User accounts.
+As long as it does not conflict with the provisions of the applicable laws and regulations, Users can contact Tokopedia to withdraw approval for the acquisition, collection, storage, management and use of User data. If this happens, the User understands the consequences that the User cannot use the Site services or other Tokopedia services.
+Back to top
+F. Security, Storage and Deletion of User's Personal Data
+Tokopedia protects every User's Personal Data stored in its system, and protects such data from unauthorized access, use, modification, retrieval and/or disclosure by using a number of security measures and procedures, including User passwords and OTP (One Time Password) codes.
+User Personal Data may also be stored or processed overseas by parties working for Tokopedia in other countries, or by third party service providers, vendors, suppliers, partners, contractors, or Tokopedia affiliates. In that case, Tokopedia will ensure that the Personal Data is protected in accordance with Tokopedia's commitment in this Privacy Policy.
+Although Tokopedia has used its best efforts to secure and protect User's Personal Data, please note that data transmission over the Internet is never completely secure. Thus, Tokopedia cannot guarantee 100% security of the data provided or sent to Tokopedia by the User and the provision of information by the User is at the User's own risk.
+Tokopedia will delete and/or anonymize User's Personal Data under Tokopedia's control if (i) User's Personal Data is no longer needed to fulfill the purpose for which it was collected; and (ii) retention is no longer required for the purpose of compliance with applicable laws and regulations. 
+Please note that there is still a possibility that some User's Personal Data is stored by other parties, including authorized state administration agencies. In the event that we share User's Personal Data with authorized state administration agencies and/or other agencies that may be appointed by the competent government or have cooperation with Tokopedia, the User agrees and acknowledges that the storage of User's Personal Data by the agency will follow the respective data retention policies. - each of these agencies. 
+Back to top
+G. Access and Correction of User's Personal Data or Withdrawal of Consent
+Tokopedia takes reasonable steps to ensure that User's Personal Data is processed accurately and completely. However, it is important for the User to notify Tokopedia in a timely manner about any changes to the User's Personal Data or if there is an error in the User's Personal Data which is under Tokopedia's control.
+Users have the right to access or correct User's Personal Data which is under the control of Tokopedia through the Tokopedia customer service available in this Privacy Policy. However, the application will only be processed by Tokopedia if the User has submitted sufficient proof of identity to access or correct the data. Tokopedia has the right to refuse applications to access, or to correct, some or all of the User's Personal Data that Tokopedia has or controls if permitted or required under applicable laws. This includes situations where the Personal Data may contain references to other people or where a request for access or a request for correction is for reasons that Tokopedia deems irrelevant, not serious,
+Tokopedia may charge an administration fee to the User to handle User's request to access or correct the User's Personal Data. 
+The User can withdraw the consent that the User has given in relation to the processing of the User's Personal Data which is under the control of Tokopedia by submitting the request through the Tokopedia customer service listed in this Privacy Policy. Tokopedia will process the User's request within a reasonable period of time since the request for withdrawal of consent is submitted, and subsequently does not process the User's Personal Data in accordance with the User's initial request, unless required by applicable laws and regulations. In the event that there is a withdrawal of consent, Tokopedia may not be able to carry out its obligations under any agreement between the User and Tokopedia. In connection with that matter, 
+Back to top
+H. Complaints regarding User Data Protection
+If the User has concerns about Tokopedia's handling or treatment of User's Personal Data or if the User believes that his privacy has been violated, the User can contact Tokopedia through Tokopedia's customer service or to the Tokopedia contact listed in this Privacy Policy by explaining the identity and nature of the User's complaint.
+Tokopedia will investigate User complaints and endeavor to provide a response to the complaint within a reasonable time after receiving the complaint submitted by the User.
+Back to top
+I. Contact Us
+In the event that the User has questions, comments, complaints, or claims regarding this Privacy Policy or the User wants to gain access and/or make corrections to his/her Personal Data, please contact Tokopedia customer service via the https://www.tokopedia.com/help page .
+Back to top
+J. Storage and Deletion of Information
+Tokopedia will store information as long as the User's account remains active and can make deletions in accordance with the provisions of the applicable legal regulations.
+Back to top
+K. Privacy Policy Update
+Tokopedia may make changes or updates to this Privacy Policy at any time. Tokopedia recommends that Users read carefully and check this Privacy Policy page from time to time for any changes. By continuing to access and use the Site's services and other Tokopedia services, the User is deemed to have agreed to the changes in the Privacy Policy.

@@ -1,0 +1,79 @@
+( Date Accessed: 6/09/2021, From: https://www.vz.net/datenschutz)
+
+( Embedded Hyperlinks Used:
+mailto:vorzimmer@vznetworks.de
+mailto:datenschutz@vznetworks.de
+https://developers.facebook.com/docs/plugin
+https://www.facebook.com/policy.php
+https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active
+https://twitter.com/de/privacy
+https://twitter.com/personalization
+https://www.vz.net/%3Ehttps://noscript.net/
+https://tools.google.com/dlpage/gaoptout
+javascript:gaOptout()
+https://support.google.com/analytics/answer/2838718?hl=de&ref_topic=6010376
+https://www.privacyshield.gov/list
+https://www.google.com/intl/de_US/help/terms_maps.html
+https://www.privacyshield.gov/list
+https://developers.google.com/fonts/faq
+https://www.google.com/policies/privacy/
+http://www.google.de/intl/de/policies/privacy
+https://firebase.google.com/support/privacy/
+https://policies.google.com/privacy?hl=de
+https://www.plista.com/de/about/privacy/
+https://www.plista.com/de/about/opt-out/
+https://www.tisoomi-services.com/datasecurity
+https://www.tisoomi-services.com/datasecurity
+https://www.hotjar.com/legal/policies/privacy
+https://www.hotjar.com/legal/compliance/opt-out
+https://www.tubia.com/
+https://doodle.com/de/datenschutzrichtlinie
+https://www.giphy.com/privacy
+javascript:gaOptout()
+http://www.zendesk.com/company/privacy
+)
+
+Conditions
+Welcome to VZ!
+The VZ platform enables you to form groups, exchange ideas on common topics, plan events, maintain friendships, make new contacts, communicate with other VZ users, play games and use other exciting VZ functions . The terms of use regulate both the relationship between VZ Networks GmbH (hereinafter "VZ") as the operator of the VZ network and you as a user (hereinafter jointly "the parties"), as well as the relationship between VZ users among themselves.
+1. Scope and subject matter of the contract
+These terms of use apply to all VZ services, but not to third-party services or offers that you use via our platform.
+2. Registration
+2.1 The use of the VZ services is free of charge. In order to be able to use the VZ network, you must first register on our platform. Only natural persons who have reached the age of 13 can be registered.
+2.2 You are only allowed to register once for the VZ network and assure when registering that you are not yet a registered VZ user.
+2.3 There is no entitlement to the conclusion of a usage contract or the permission to use it. VZ can refuse registration without giving reasons; in this case, VZ will immediately delete the data that you submitted with the registration form.
+2.4 You must provide the data requested during registration completely and correctly. You can then freely choose the name of your user profile; However, you are prohibited from impersonating another, real person, because you are violating their personal rights.  
+2.5 Your registration data are to be treated confidentially and may not be disclosed to third parties. You are not permitted to enable third parties to use the VZ services with your data. You are obliged to inform VZ immediately if there is reason to suspect that a third party has knowledge of your access data and / or is misusing your account.
+2.6 After registration you will receive an email with an (activation) link. If you click on this link, the registration is complete and the contract for the use of the VZ network (hereinafter referred to as the “user contract”) between you and VZ is concluded. If the registration is not carried out completely, VZ will delete the account and the data entered up to then.
+3. Use
+3.1 After successful registration, you are permitted to use the VZ services to the extent provided by VZ. VZ can temporarily limit or discontinue the services provided, for example to carry out technical measures (e.g. maintenance), or permanently without giving reasons. VZ will announce such changes in advance on the website, as far as appropriate and possible.
+3.2 You are prohibited from taking measures that could lead to an excessive load on the VZ network (e.g. mass sending of notifications or messages [SPAM]) or to unreasonable harassment of other users. It is also forbidden to process the data of other users for your own purposes, e.g. to send advertising content.
+3.3 Electronic attacks of any kind on the VZ network (including all hardware and software used to operate the VZ network) or on individual users are prohibited. Such electronic attacks include the measures listed below: Hacking attempts, ie attempts to overcome, bypass or otherwise override the security mechanisms of the VZ network, the use and / or spread of viruses, worms Trojans, brute force attacks, other measures or processes that interfere with the VZ network including all hardware and software used to operate the VZ network and / or damage VZ Networks GmbH or users.
+4. Content
+4.1 You are solely responsible for the content of any kind (e.g. texts, images, videos, links, etc.) that you make accessible or disseminate via the VZ services, e.g. in groups or on your profile. This also applies to content that you are permitted to distribute by other users. It is therefore your responsibility to ensure that the respective content is lawful, above all does not violate the law and does not violate the rights of third parties.
+4.2 It is forbidden to make content accessible via the VZ network or to distribute it if and to the extent that it violates statutory provisions, in particular copyright or trademark law, the rights of third parties or common decency. In addition, you undertake to observe the code of conduct (link) that is binding for all users for the use of the VZ network, which can also be stricter than the applicable legal regulations.
+4.3 Contents made accessible via the VZ network may not be copied, distributed or otherwise made publicly accessible without the consent of the respective rights holder. In this respect, the use of computer programs for the automated reading of data, such as crawlers or bots, is also prohibited.
+4.4 You are solely obliged to adequately mark advertising content as such in accordance with the applicable statutory provisions.
+4.5 VZ reserves the right to remove content at its own discretion without prior notice, in particular if and to the extent that it violates legal regulations, common decency, the rights of third parties or the code of conduct.
+5. Termination of the license agreement
+5.1 If you no longer want to use VZ, you can terminate the user contract at any time without giving reasons and without observing any deadlines. For such a termination, it is sufficient that you unsubscribe in the "My Account" section using the "Delete my account" button. Alternatively, you can simply send the notice of termination by email to abmeldung@vz.de or send it to VZ in writing, stating the email address last used to use the VZ network.
+5.2 VZ can terminate the user contract at any time without giving reasons with a period of 14 days to the end of the month.
+5.3 Both contracting parties can terminate the contract without notice for an important reason. An important reason exists in particular if the user violates the obligations under this agreement, the code of conduct or the applicable laws.
+5.4 A termination can be preceded by the following sanctions: Warning of users Partial or complete deletion of content Temporary blocking of users
+5.5 Upon termination, your account and all of your personal data will be permanently deleted. Those posts that you made publicly available in the VZ network before your termination (e.g. as a group entry in forums, channels or chat groups) will still be available after deactivating your account - but without specifying your name and with the Notice that your post is from a user who has since been deleted.
+5.6 If your account has been temporarily or permanently blocked or deleted, you are prohibited from further using the VZ services. In addition, blocked users are prohibited from registering again.
+6. Liability
+6.1 VZ has unlimited liability in the event of willful intent or gross negligence, for injury to life, limb or health, in accordance with the provisions of the Product Liability Act and to the extent of an assumed guarantee.
+6.2 In the event of a slightly negligent breach of an obligation that is essential for achieving the purpose of the contract (cardinal obligation), the amount of VZ's liability is limited to the damage that is foreseeable and typical for the type of business in question.
+6.3 VZ has no further liability.
+6.4 The above limitations of liability also apply to the legal representatives, executives or other vicarious agents of VZ.
+6.5. You release VZ from all claims that third parties assert against VZ due to a violation of their rights through content that you have posted or distributed within the VZ network or through your other use of the VZ services. The exemption from liability includes the costs of a necessary legal defense including court and lawyer fees in the statutory amount. In addition, in the event of a claim by third parties, you are obliged to immediately, truthfully and completely inform VZ of all information available to you that is necessary for the examination of the claims and a defense. Any further claims for damages by VZ Networks GmbH against you remain unaffected.
+7. Data protection
+The parties are obliged to comply with the statutory provisions on data protection. Information on how and on what basis VZ processes your data can be found in our privacy policy (link).
+8. Final provisions
+8.1 VZ reserves the right to change these terms of use at any time and without giving reasons. You will be notified of any changes in good time before they take effect. You can object to the applicability of the changed terms of use with a period of 6 weeks. If there is no objection, the terms of use will take effect against you. If you object to the validity of the changed terms of use within the aforementioned period, VZ is authorized to terminate the contractual relationship with you with a period of fourteen days to the end of the month.
+8.2 In place of VZ, third parties can, subject to a notice period of one month, fully or partially assume the rights and obligations arising from this contract for VZ. In such a case, the users are authorized to withdraw from the contract by terminating the contractual relationship with VZ without giving reasons.
+8.3 German law applies. The place of jurisdiction is Berlin, insofar as this is permissible in individual cases. The statutory provisions on the restriction of the choice of law and the applicability of mandatory provisions, in particular of the state in which the user as a consumer has his habitual residence, remain unaffected.
+Berlin, September 1st, 2019
+
+

@@ -1,0 +1,79 @@
+( Date Accessed: 6/09/2021, From: https://dccc.org/terms-service/ )
+
+( Embedded Hyperlinks Used: 7
+https://dccc.org/terms-service/#choices
+https://dccc.org/terms-service/#choices
+http://www.fec.gov
+www.aboutads.info/choices
+www.adobe.com/products/flashplayer/security
+www.aboutads.info/choices
+mailto:info@dccc.org
+)
+
+PRIVACY POLICY
+Last Updated: February 5, 2021
+
+This Privacy Policy explains how DCCC d/b/a the Democratic Congressional Campaign Committee (“DCCC”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile sites, and mobile application that link to this Privacy Policy (collectively, the “Site”).
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Site or otherwise interact with us to stay informed about our information practices and the choices available to you.
+COLLECTION OF INFORMATION
+Information You Provide to Us
+We collect information you provide directly to us. For example, we collect information when you request information, make a donation, sign a petition, make a purchase, sign up to receive updates or alerts, fill out a form, connect through a social feed, sign up to be a volunteer, sign up to attend or host an event, submit a resume, create an account or profile, request support, communicate with us via third party social media sites, send us an email, or otherwise communicate with us. We also may collect any information you provide when you post comments or other content or participate in surveys, petitions, contests, or promotions. The types of information we may collect include your name, password, contact information (such as email address, postal address, and phone number), credit card and other payment information (which may be collected directly by a third-party processor), demographic information, and any other information you choose to provide.
+In addition, the Federal Election Commission (FEC) may require us to collect certain personal information from donors. For example, the FEC requires us to collect (and disclose to them) the name, mailing address, occupation, and employer of all individuals whose donations to the DCCC exceed $200 per calendar year.
+Automatically Collected Information
+When you access or use our Site, we automatically collect information about you, including:
+Log and Usage Information: We collect information related to your access to and use of the Site, including the type of browser you use, app version, access times, pages viewed, your IP address, and the page you visited before navigating to our Site.
+Device Information: We collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+Transactional Information: If you make a donation or purchase, we may collect information about the transaction, such as donation amount, purchase price, product detains, and date and location of the transaction.
+Location Information: We may derive the approximate location of your device, such as from your IP address.
+Information Collected by Cookies and Similar Tracking Technologies: We (and our service providers) use different technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Site and your experience, see which areas and features of our Site are popular, and count visits. Web beacons (also known as “pixel tags” or “clear GIFs”) are electronic images that may be used in our Site or emails and help deliver cookies, count visits, and understand usage and effectiveness. For more information about cookies and how to disable them, see Your Choices below.
+Information We Collect from Other Sources
+We and our service providers may also obtain information about you from other sources and combine that with information we collect about you. For example, we may collect voter file data and other information about you from outside sources, such as state parties and other democratic organizations, public databases, and private organizations.
+USE OF INFORMATION
+We may use the information we collect to:
+Provide, maintain, and improve our Site;
+Provide and deliver the information you request, process donations and transactions and send you related information, including confirmations and receipts,
+Send you technical notices, updates, security alerts, and support and administrative messages and provide technical support;
+Respond to your emails, submissions, comments, questions and requests, request feedback or support, and otherwise contact you about your use of the Site;
+Send you newsletters and alerts and otherwise provide you with news and information that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, activities, and resources (see Your Choices below for information about how to opt out of these communications at any time);
+Help connect you with other supporters, and to solicit volunteers, donations and support for the DCCC and for candidates, issues, and organizations that we support;
+To solicit volunteers, donations and support for the DCCC and the candidates, issues and organizations that we support and to connect you with other volunteers;
+Contact you if Federal election laws require us to request additional information from you;
+Remind you to vote and register to vote and assist you in registering to vote and in finding your registration information, polling location and campaign events near you;
+Monitor and analyze trends, usage, and activities in connection with our Site;
+Personalize the Site and provide advertisements, content or features based on your preferences, interests, and browsing and online activities;
+Serve ads on this and other websites or media and to understand how users respond to our ads;
+Facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards;
+Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of the DCCC and others; and
+Carry out any other purpose described to you at the time the information was collected.
+SHARING OF INFORMATION
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+With vendors, service providers, volunteers, and consultants who need access to such information to carry out work on our behalf;
+With organizations, candidates, campaigns, media organizations, charities, nonprofits, groups, causes, co-ops, or other entities that we believe have similar political viewpoints or principles or share similar goals or objectives and with organizations that facilitate communications and information sharing among such groups; Text messaging originator opt-in data and consent will not be shared with any third party, except: (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process; and (3) if the user consents to our sharing of such information.
+To report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in a calendar year (for additional information, visit the FEC website at http://www.fec.gov);
+In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;
+When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
+If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property, and safety of the DCCC, its employees, volunteers, constituents, or others;
+In connection with, or during negotiations of, any reorganization, formation of new committee or successor organization, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of the DCCC; and
+With your consent or at your direction, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information.
+We may also share aggregated or de-identified information that cannot reasonably be used by those third parties to identify you.
+LINKS TO OTHER WEBSITES
+The Site may contain links to other websites. For example, we may link to third-party sites to facilitate donations or purchases or to assist you with voter registration. Any personal information you provide on such linked pages is provided directly to that third party and is subject to that third party’s privacy policy, and not this privacy policy. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
+ONLINE PETITIONS
+If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available. In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state to national, state or local leaders, or to the press.
+SOCIAL SHARING FEATURES
+The Site may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Site with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending your privacy for the relevant social media site. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+ADVERTISING AND ANALYTICS SERVICES PROVIDED BY OTHERS
+We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Site and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information.  This information may be used by the DCCC and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on other websites, and better understand your online activity.
+For example, we may use Remarketing with Google Analytics or other remarketing tools to advertise online. This enables third-party vendors, including Google, to show our ads on sites across the Internet.  Such third-party vendors may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our Site. For information on how you can opt out of Google’s use of cookies for interest-based ads please visit Google’s Ads Settings.
+For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices.
+TRANSFER OF INFORMATION TO THE U.S.
+The DCCC is based in the United States, and is directed to U.S. residents, and we process and store information in the U.S. If you are located outside the U.S., we and our service providers may transfer your information to, or store or access to your information in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction.
+YOUR CHOICES
+Cookies
+Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies. To delete or disable flash cookies please visit www.adobe.com/products/flashplayer/security for more information.  Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Site. You can also review your choices regarding behavioral advertising cookies at www.aboutads.info/choices.
+Promotional Communications
+You may opt out of receiving promotional emails or text messages from the DCCC by following the instructions in those emails or text messages. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
+Mobile Push Notifications/Alerts
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+CONTACT US
+If you have any questions about this Privacy Policy, please contact us at: info@dccc.org.

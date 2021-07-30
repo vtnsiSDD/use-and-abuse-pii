@@ -1,0 +1,73 @@
+( Date Accessed: 6/02/2021, From: https://www.pesapal.com/terms-and-conditions )
+
+( Embedded Hyperlinks Used: 1
+https://www.pesapal.com/privacy-policy
+)
+
+Terms And Conditions
+
+This Terms of Service is a legal agreement between you and Pesapal that governs your access to and use of the Pesapal service as a purchaser of merchandise, goods, or services. Please review this entire Terms of Service before you decide whether to accept it and continue with the registration process.
+
+Definitions
+The following defined terms appear in this Terms of Service.
+
+"You", “you” or "Buyer": A Customer that applies to, or registers to use, or uses, the Service to make Payment Transactions.
+Customer: A person that registers with the Service as a Buyer or a Seller.
+Seller: A Customer that uses the Service to process Payment Transactions from Buyers.
+Payment Instrument: The mobile payment option that is registered by a Customer with the Service or credit card or debit card to facilitate the processing of Payment Transactions.
+Payment Transaction: The processing of a payment through the Service that results in the debiting or charging of the Purchase Amount to a Buyer’s Payment Instrument and the crediting of funds to a Seller.
+Product: Any merchandise, good or service that is listed for sale that a Buyer may pay for using the Service.
+Purchase Amount: The amount of a Payment Transaction to pay for a Product, and any related fees, taxes or shipping charges, as applicable.
+Service: The Pesapal service, described in this Terms of Service, that facilitates the processing of Payment Transactions on behalf of a Seller.
+“We”, or “us”: Pesapal.
+Requirements For Registration
+In order to use the Service, you hereby consent to provide and agree to complete all required information elements on the Service registration web pages. You must register a valid mobile payment option as a Payment Instrument or use a Credit Card to make Payment Transactions and pay fees and other obligations arising from your use of the Service. You undertake and agree to provide current, complete and accurate information and maintain it as current and accurate. We may require you to provide additional information as a condition of continued use of the Service, or to assist in determining whether to permit you to continue to use the Service.
+
+We, in our sole and absolute discretion, may refuse to approve or may terminate existing registrations with or without cause or notice, other than any notice required by any applicable law, and not waived herein.
+
+By agreeing to this Terms of Service for Buyers, you represent that you are:
+
+18 years old or older; and
+capable of entering into a legally binding agreement.
+Payment Transaction Processing
+The Service facilitates the processing of Payment Transactions to complete a payment for a purchase between a Buyer and a Seller. The Service will store information from Buyers, such as their Payment Instruments, and will process Payment Transactions on behalf of Sellers. We may delay payment processing of suspicious transactions or transactions which may involve fraud, misconduct, or violate applicable law, this Terms of Service for Buyers, or other applicable Pesapal policies, as determined in Pesapal’s sole and absolute discretion. Buyer authorizes the charge or debit to Buyer’s Payment Instrument as necessary to complete processing of a Payment Transaction. Buyer also authorizes the crediting to Buyer’s Pesapal Credit in connection with reversals, refunds, or adjustments through the Service.
+You acknowledge and agree that your purchases of Products are transactions between you and the Seller, and not with Pesapal. Pesapal is not a party to Buyer’s purchase of Products, and Pesapal is not a buyer or a seller in connection with any Payment Transaction, unless expressly designated as such in the listing of the Product on a Pesapal Web Site.
+You acknowledge and agree that payments to requests from other Buyers are transactions between you and the Buyer and not with Pesapal.
+You acknowledge and agree that you are not able to withdraw money from your Pesapal Credit account.
+Limitations On The Use Of Service
+We reserve the right to change, suspend or discontinue any aspect of the Service at any time, including hours of operation or availability of the Service or any Service feature, without notice and without liability. We also reserve the right to impose limits on certain Service features or restrict access to parts or all of the Service without notice and without liability.
+ 
+
+We do not warrant that the functions contained in the Service will be uninterrupted or error free, and we shall not be responsible for any service interruptions (including, but not limited to, power outages, system failures or other interruptions that may affect the receipt, processing, acceptance, completion or settlement of Payment Transactions or the Service).
+We may limit or suspend your use of the Service at any time, in our sole and absolute discretion. If we suspend your use of the Service, we will attempt to notify you by electronic mail and/or SMS.
+Username And Password Information
+You are responsible for: 1) maintaining the confidentiality of your username and password, 2) any and all transactions by persons that you give access to or that otherwise use such username or password, and 3) any and all consequences of use or misuse of your username and password. You agree to notify us immediately of any unauthorized use of your username or password or any other breach of security regarding the Service of which you have knowledge.
+
+Privacy
+You understand and agree that personal information provided to us in connection with the Service is subject to the Service’s Privacy Policy.
+
+Service Fees
+We do not charge a fee to use the Service to purchase goods or services as a Buyer. Service fee may be applicable to other services provided, such as receiving payments against requests issued by you to other Buyers.
+
+Disputes
+Pesapal will provide various tools to assist Customers in communicating with each other to resolve a dispute that may arise between Buyers and Sellers with respect to their transaction. If Customers are unable to resolve a dispute, we can mediate disputes between buyers and sellers if either party requests assistance.
+
+Pesapal Not A Banking Institution
+Pesapal processes Payment Transactions on behalf of Sellers. Pesapal is not a bank or other chartered depository institution.
+
+Termination Of Service
+We may, in our sole and absolute discretion without liability to you or any third party, terminate your use of the Service for any reason, including without limitation inactivity or violation of this Terms of Service or other policies we may establish from time to time.
+
+Upon termination of your use of the Service, you remain liable for all Payment Transactions and any other obligations you have incurred. Upon termination, we have the right to prohibit your access to the Service, including without limitation by deactivating your username and password, and to refuse future access to the Service by you.
+
+No Endorsement Of Products
+Pesapal does not represent or endorse, and shall not be responsible for: (a) the safety, quality, accuracy, reliability, integrity or legality of any Product, the truth or accuracy of the description of Products, or of any advice, opinion, offer, proposal, statement, data or other information (collectively, “Content”) displayed or distributed, purchased or paid through the Service; or (b) the ability of Buyers to buy Products or Sellers to deliver Products. Pesapal hereby disclaims any liability or responsibility for errors or omissions in any Content or in the Service.
+
+Limitations Of Liability; Force Majeure
+Pesapal shall not be liable to the Buyer in the event of any disruption of the Service or the Payment Platform or any part thereof resulting from Force Majeure and Pesapal may suspend the Service or part thereof in such an event. Force Majeure for purposes of this Terms of Service means any situation or event that makes it impossible for Pesapal to perform its obligations and includes but is not limited to any act of God such as lighting, floods, earthquakes, prohibitive decisions made by the government or local authority or civil war conflict and industrial strikes as well as any global or partial dysfunction of the Service caused by disruption or suspension of the telecommunication facilities.
+
+Jurisdiction; Governing Law
+This Terms of Service shall be governed in all aspects in accordance with the Laws of Kenya and a court of complete jurisdiction in Kenya shall determine every claim or dispute arising out of or in connection with this Terms of Service.
+
+Modification Of Terms Of Service For Buyers
+We have the right, in our sole and absolute discretion, to change, modify, or amend any portion of this Terms of Service at any time by posting notification on Pesapal Web Site or otherwise communicating the notification to you. The changes will become effective, and shall be deemed accepted by you, after the initial posting and shall apply on a going-forward basis with respect to Payment Transactions initiated after the posting date. In the event that you do not agree with any such modification, your sole and exclusive remedy is to terminate your use of the Service.

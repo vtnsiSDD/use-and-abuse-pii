@@ -1,0 +1,310 @@
+( Date Accessed: 6/09/2021, From: https://www.leboncoin.fr/dc/cookies )
+
+( Embedded Hyperlinks Used:
+https://www.atinternet.com/rgpd-et-vie-privee/exemption-cnil-web-analytics/
+https://www.realytics.io/fr/notre-vision/
+https://www.leboncoin.fr/support/form/0?id=1&ca=12_s
+https://www.leboncoin.fr/support/form/0?id=1&ca=12_s
+https://www.iasonline.org/privacy-policy/
+https://www.comscore.com/About-comScore/Privacy-Policy
+https://www.leboncoin.fr/dc/cookies/
+https://emploicadres.leboncoin.fr/docs/politique-de-confidentialite/
+https://immobilierneuf.leboncoin.fr/annexe/privacy
+https://leboncoinpublicite.fr/
+https://leboncoinpublicite.fr/
+https://privacy.communaute.leboncoin.info/
+https://presse.leboncoingroupe.com/politiques-de-confidentialite/
+https://www.avendrealouer.fr/RealEstate/Other/Ethical
+https://www.videdressing.com/static/privacy.html
+https://legal.here.com/en-gb/privacy
+https://www.adyen.com/policies-and-disclaimer/privacy-policy
+https://www.iasonline.org/privacy-policy/
+https://www.comscore.com/About-comScore/Privacy-Policy
+https://www.mondialrelay.fr/donnees-personnelles
+https://assistance.leboncoin.info/hc/fr?flash_digest=afa865bfd4327c09b0ca051d5cb4001ac27b4ae6
+https://www.mangopay.com/fr/privacy/
+https://www.realytics.io/optout/
+https://www.leboncoin.fr/support/form/0
+https://www.leboncoin.fr/support/form/0
+https://www.leboncoin.fr/support/form/0
+https://www.leboncoin.fr/support/form/0
+https://www.youtube.com/watch?v=khGP18LsoXg&feature=youtu.be
+https://www.atinternet.com/rgpd-et-vie-privee/exemption-cnil-web-analytics/
+https://www.realytics.io/fr/notre-vision/
+https://www.sri-france.org/qui-sommes-nous/charte-qualite-du-sri/
+https://www.iabfrance.com/article/iab-france
+https://privacy.microsoft.com/en-us/ie11-win7-privacy-statement
+https://www.apple.com/legal/privacy/en-ww/
+https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en
+https://support.mozilla.org/fr/kb/activer-desactiver-cookies-preferences?redirectlocale=fr&redirectslug=activer-desactiver-cookies
+https://www.opera.com/fr/privacy
+http://www.youronlinechoices.eu/
+https://www.iabfrance.com/
+http://www.networkadvertising.org/
+https://www.leboncoin.fr/support/form/0
+https://www.leboncoin.fr/support/form/0
+)
+
+Privacy Policy
+(March 26, 2021)
+In order for you to use the leboncoin Service with confidence, this Privacy Policy aims to transparently describe what data is processed by LBC France, how and why.
+
+We may collect the following data about you:
+
+The data you provide
+The mandatory or optional nature of the data you provide is indicated to you when they are collected by an asterisk.
+
+Submission of ad
+To place an advertisement, you must give us your pseudonym, your email address, your telephone number, and your city or postal code. When your telephone number is displayed on your ad, a pictogram is associated with it by default indicating that you refuse any sales canvassing. You can choose to change this setting when you submit ads. You can also subscribe to the Bloctel telephone canvassing opposition list.
+In addition, you can choose to provide us with your geolocation details via the geolocation functionality of our site's advertisements, by clicking on the button provided for this purpose.
+If you subscribe to a paid option to promote your ad, we also ask you for payment information (credit card number).
+We use, on the basis of our legitimate interest, an automatic analysis technology of the content of the ads, in order to detect unsolicited content, including fraudulent ones. This technology is based on the information you provide when submitting your ad and in your account, the history of the latter and technical data related to your use of the website.
+Account creation
+When you create your Personal Account, you must provide us with your username and email address.
+You can also choose to provide us with the following information:
+	Civility, Name, First name
+	Phone number
+	Address
+	Date of Birth
+	Socio-Professional Category
+	Interests
+When you create your Professional Account, you must give us your last name, first name, postal address, telephone number and your email address.
+You can also choose to provide us with the following information:
+	Civility
+	Date of Birth
+	Socio-Professional Category
+	Interests
+If you buy credits from your Account, you must also provide us with payment information (credit card number).
+Contact customer support or report announcements
+When you contact our customer support or post an ad, you must give us your name, first name, and email address.
+Respond to an ad
+When you respond to an ad without being logged into a Personal or Professional Account, you must provide us with your name, first name, and email address. If you are responding to a job posting, you must import your CV. This is saved to facilitate your future applications. When you respond to an advertisement by being connected to an Account, we send the Advertiser the contact details of your account (email and telephone) and we are also likely to transmit to a Professional Advertiser your search criteria allowing you to consult said Announcement.
+We use automatic message content analysis technology, based on our legitimate interest, to detect unsolicited content, including fraudulent ones, or malicious computer programs.
+You can subscribe to the Bloctel telephone canvassing opposition list.
+Plan request form
+When you request a plan from an Advertiser, we collect the following information:
+	Last name
+	E-mail
+	Phone
+	City
+Share an ad
+When you use the function of sharing an announcement we collect the sending email and the recipient's email.
+Share a profile
+When you use the profile sharing feature we collect the recipient's email address and use your account email to share the profile to your recipient.
+Using our Integrated Messaging
+As part of our Integrated Messaging, we use automatic message content analysis technology to detect unsolicited content, including fraudulent ones, or malicious computer programs.
+Look around me
+By clicking on “Search around me” on the home page of our site, you agree to provide us with your geolocation data so that we can respond to your search for Ads close to you.
+Information Forms
+When you request information from us concerning our offers, on leboncoin.fr as well as on the pro.leboncoin.fr site, dedicated to our professional offers, we are likely to collect your last name, first name, telephone number and email address.
+Secure Payment and Sale Service
+If you are a Seller and you carry out a transaction via our Secure Payment Service, or our Secure Payment Service for Vehicles, to receive your payment, you must communicate “Know Your Customer” information to our payment providers; Adyen within the framework of the Secure Payment Service and Mangopay SA within the framework of the Security Payment Service for Vehicles. They use them to verify your identity, in accordance with regulations aimed at the fight against money laundering and the financing of terrorism.
+This information is as follows:
+	Last name and first name
+	Address
+	E-mail adress
+	Date of Birth
+	ID
+	RIB (beyond a certain volume of Transactions and only for Adyen)
+To receive the money from your sale your IBAN will be required.
+Secure Payment and Purchase Service
+If you are a Buyer and you wish to make a payment to an advertiser on our site, we collect your payment data (number, expiration date and security code of your bank). To this end, they are transmitted to our PCI-DSS certified payment service provider, which technically contributes to achieving the above purpose.
+In order to avoid having to re-enter your bank details during your next transactions, you can choose to opt for One-click Payment by checking the box provided for this purpose. Your bank details can be modified at any time from your Account.
+If you use the Secure Payment Service for Vehicles, the funds you transfer to us are held in an escrow account through our payment provider until the Transaction is finalized.
+Delivery service
+If you are a buyer and want to collect a package purchased from a seller on our site, we collect the following data:
+	Last name and first name
+	Delivery postal code, in order to display the nearest Mondial Relay point
+If you are a seller and you want to sell a package with the Mondial Relay Delivery Service offered on our site, we collect your first and last name in order to display them on the Parcel Dispatch Voucher.
+Professional customer support
+If you are a professional and have subscribed to one of our automatic ad import offers or our advertising offers, we may record your telephone conversations with your client advisor. We give you the means to oppose this recording during the conversation.
+
+The data we collect through your use of our services
+We use cookies and other trackers to record usage data when you access our services (or use them in any way), which includes our Site and our Applications, especially when you perform a search, when you answer or post Ads, or when using our Messaging or Secure Payment Service. We also collect technical data about your internet connection, internet connection, browser and devices.
+In particular, we carry out audience measurements, with which we measure, for example, the number of pages viewed, the number of visits to the Site, as well as the activity of visitors to the Site and their frequency of return. For this we use the audience measurement tool of our AT Internet service provider, meeting the CNIL exemption conditions (for more information click here ).
+By accepting audience measurement cookies you allow us, from indirectly identifying personal data, to obtain more complete statistical results allowing us to improve our service. If you refuse audience measurement cookies, you will be in “consent exempt status”, implying the maintenance of a partial audience measurement. In this case, the data collected will only be linked to an identifier generated specifically for our site used only to recognize your terminal.
+We also use the Realytics audience measurement tool that meets the conditions of the CNIL exemption, which allows us to measure the effectiveness of our service's televised promotional campaigns (for more information click here ).
+You can object to the processing of personal data for these purposes in the section “how to exercise your rights”.
+We also use this data to improve your experience, to offer you a personalized experience on our Site according to your profile and to offer you personalized advertising. To learn more about the purposes of cookies, please see our Cookies Policy.
+As part of the telephone call tracking service offered to the Advertiser, we are likely to collect the details of the calls made to the Advertiser having subscribed to this offer (time of the call, duration, sender number and the recipient). These data are collected for the exclusive purposes of monitoring telephone calls and statistics, under no circumstances do we collect the content of the telephone conversation which remains strictly private and confidential between the User and the Advertiser.
+
+Partner data
+We are likely to receive personal data concerning you from our customers and partners (example: data aggregators).
+Use of your data
+We use your data for the following purposes:
+
+Use of your data on the basis of contract fulfillment
+On the basis of the execution of the contract between us, we use your data to provide you with our services, and in particular:
+	ensure the publication of your Ad;
+	ensure the creation and management of your Account;
+	provide you with our Integrated Messaging service;
+	sell and invoice the credits and paid options that you subscribe;
+	send you push notifications and emails about your use of our services;
+	transmit to the professional concerned the data you have provided in the context of the online quote offer that we offer to Advertisers;
+	answer your questions to customer support;
+	allow you to carry out transactions via the Secure Payment Service;
+	allow you to make deliveries via the Mondial Relay Delivery Service;
+	allow you to share an ad / profile with a friend by email;
+	allow you to share on social networks.
+Use of your data on the basis of our legitimate interest
+On the basis of our legitimate interest, we use your data to:
+	carry out marketing statistics and analysis, in order to understand how you use our services;
+	measure the effectiveness of our service's televised promotional campaigns;
+	automatically estimate, from your data on the use of our services, the degree of interest of your research. This strictly indicative information may be communicated to the Advertiser Pro when you respond to his Advert and be used by the latter to improve his management of contact requests;
+	provide you with personalized content and improve your user experience;
+	send you announcements that have appeared on our site that may be of interest to you, with regard to the announcements that you consult or those to which you respond,
+	send you as a User commercial and / or promotional proposals, emanating only from LBC France and exclusively concerning the LEBONCOIN service;
+	carry out surveys (eg satisfaction, opinion, etc.). You are free to participate and can object according to the terms provided at the time of the survey.
+	fight against fraud, your account and payment data being able in particular to be processed in an automated way, during your transactions and your sending of messages and, in the event of anomalies detected, give rise to an automatic suspension of your transaction or to blocking of messages you send. We also use automatic ad content analysis technology to detect unsolicited content, including fraudulent ones. This technology is based on the information you provide when submitting your ad and in your account, the history of the latter and technical data related to your use of the website. For more information, contact our customer service ;
+	for the purpose of improving service and training our customer advisers to record your telephone conversations with our professional customer support;
+	calculate your average response time to messages sent to you; for more information, contact our customer service ;
+	facilitate your next applications,
+	provide a follow-up service for telephone calls and compile statistics,
+	for evidentiary purposes.
+Use of your data with your consent
+We are likely, with your consent:
+	to allow you to be contacted by an Advertiser;
+	to allow you to search for ads around you based on your location data;
+	to personalize the advertisements that appear on our site or third-party sites, so that you are not exposed to advertisements that are irrelevant to you. We are likely to personalize them with the following data, used in combination or individually:
+- data from advertising technologies such as web beacons, pixels, advertising tags, cookies and device identifiers;
+- the information you have communicated to us;
+- the data obtained through the use of our service (frequency of visits, categories of advertisements visited, keywords entered, etc.) and the connection identifiers and technical data referred to in the previous article;
+- information from third parties (eg advertising partners and data aggregators);
+- the information that we can deduce from the data described above.
+You can configure and refuse to personalize advertisements at any time by clicking here .
+	to share your data with our advertising partners, data controllers, in order to improve the performance of our partners' campaigns on our site. You can configure and refuse this data sharing at any time, by clicking here ;
+	to personalize the advertisements that appear on our site according to your immediate environment. You can configure and refuse this personalization at any time by clicking here .
+We are also likely to have our partners IAS and Comscore , acting as data controllers, carry out data processing aimed at controlling the quality of our advertising impressions as well as the rate of fraudulent clicks on them.
+We do not share your personal data with our third party partners without your consent. However, if you click on an advertisement, its advertiser will know that you have visited the page where you clicked.
+We are also likely to send you commercial and / or promotional proposals from third parties, only with your consent, obtained in particular on the occasion of receiving a message from LBC France offering access to the offers of these third-party companies. In this context, your data will not be transmitted to our partners. They will only be used to communicate their offers to you by email, redirecting you to their websites.
+Your data is under no circumstances sold to third-party companies by LBC France.
+
+Use of your data to comply with our legal obligations
+Finally, we are likely to process your data within the framework of compliance with our legal obligations.
+Data controller
+LBC France, registered with the RCS of PARIS under the number SIREN 521 724 336, having its registered office at 24 rue des Jeûneurs - 75002 Paris, represented by Mr. Antoine JOUTEAU, in his capacity as Chief Executive Officer, is responsible for processing the data that it collects as part of your use of the Leboncoin Service.
+As part of its administrative (legal, accounting, etc.) and technical (analysis tools, etc.) support for the purposes pursued by LBC France, the company Adevinta France, parent company of LBC France, is also data controller.
+As a group, leboncoin offers several services on different sites and applications including leboncoin, leboncoin employment executives, leboncoin new real estate, leboncoin publicity, leboncoin community, leboncoin group, For sale for rent, Videdressing. These are edited by the same data controller, LBC France. The data related to the use of one of these services may be used by another service in order to facilitate your navigation and to offer you a harmonized experience on all of our sites and applications. With the exception of certain sites sharing a common connection mechanism, the management of your personal data on these various services / sites is independent. To get more
+	the good corner
+	leboncoin management jobs
+	leboncoin new real estate
+	leboncoin advertising
+	leboncoin community
+	leboncoin group
+	For Sale For Rent
+	Videdressing
+Data recipients
+The data we collect are accessible to our service providers, acting as subcontractors , who contribute administratively and technically to the achievement of the purposes referred to above (hosting provider, payment provider, advertising technology, etc.)
+In this context, the data we collect may be transferred outside the European Union. In this case, we make sure that this transfer is made to countries recognized as ensuring an adequate level of protection of your personal data or, at the very least, on the basis of the appropriate guarantees provided by law.
+In order to comply with our legal obligations, your personal data may also be transmitted to authorized administrative and judicial authorities , only on judicial request.
+Some service providers we use are likely to collect, with your consent, data in their capacity as data controller . It is :
+	our advertising service providers referred to here (by clicking on "see the list of all partners"), you can also control the deposit of cookies by them at the link above,
+	our geolocation service provider HERE, which may collect the following data: postal codes, postal addresses (if applicable) and IP addresses. These data are subject to an anonymization process in accordance with the regulations in force regarding personal data. To learn more, click here.
+	our payment provider Adyen, which collects the so-called “Know Your Customer” information referred to above. The latter uses them to verify your identity, in accordance with the regulations aimed at the fight against money laundering and the financing of terrorism. To learn more, click here.
+	our IAS and Comscore service providers , who perform data processing aimed at controlling the quality of our advertising impressions as well as the rate of fraudulent clicks on them,
+	our delivery provider Mondial Relay, which collects the first and last names of buyers and sellers, in order to provide the Delivery Service, for more information click here .
+Our service provider Mangopay SA acts as co-controller with LBC France for the provision of a Secure Payment Service for Vehicles. Mangopay SA carries out all data processing related to Transactions using the data that we collect via our site. We provide customer service in collaboration with Mangopay SA. The rights are exercised in the “Your rights” section of this privacy policy. Mangopay SA also processes the data for its own purpose in order to meet its legal obligations in terms of money laundering and terrorist financing. For more information, see Mangopay's Privacy Policy .
+Finally, when you respond to an Advert or complete a quote or plan request form, your contact details are sent to the Advertiser concerned, having the quality of data controller, who is at the origin of it. In the case of a Pro Advertiser, we are also likely to send him your search criteria which enabled you to consult the said Advert, your average response time to messages sent to you as well as the level of interest of your research as an indication.
+Indeed, any Pro Advertiser placing an advertisement on leboncoin.fr is responsible for processing all personal data that it is likely to receive from users of leboncoin.fr.
+As such, he undertakes to comply with the legal and regulatory provisions in force relating to the personal data of the users that he collects. In particular, he undertakes to implement all technical means to maintain the integrity, security and confidentiality of personal data as well as to guarantee the security of access to the storage systems for this personal data.
+The Advertiser Pro is informed of the obligations incumbent on him as data controller, and in particular respect for the rights of users and in particular, their right to access, oppose and rectify information concerning them. If users wish to exercise their rights, they should contact the relevant advertiser directly.
+The Advertiser Pro is liable in the event of non-compliance with these obligations and guarantees and will indemnify LBC France and its service providers (including legal costs and attorney's fees) against any action, claim or request brought by an authority or a third party following any breach by the advertiser under the terms of this article.
+The duration of the conversation
+The retention period of your personal data varies depending on the purpose of their collection:
+	Account data (identity, electronic contact details, history of use of services, imported CV) are kept for 3 years from the end of the commercial relationship;
+	The data relating to the management of your Account and your Ads are kept for a period of 5 years from their deletion and this, exclusively for the purposes of proof;
+	The accounting documents and documents are kept for 10 years, as accounting proof;
+	The data relating to your bank card are kept by our payment service provider until full payment and, for the purposes of proof in the event of a complaint, for 13 months, or 15 months in the case of a payment card. deferred debit. In the context of One-Click Payment, the data relating to the bank card are kept until the expiration of your card or until you delete it from your Account;
+	Emails collected for ad and profile sharing are deleted as soon as the email is sent to the designated recipient;
+	Data likely to be the subject of a judicial requisition (connection data, identity, contact details, transaction data) are kept for 12 months from their collection;
+	The data stored when you carry out a "search around you" are only kept for the duration of this research;
+	Telephone conversations with our professional customer support are kept for a period of 6 months.rights
+What are your rights ?
+Right of access : this is your right to obtain confirmation that your data is being processed or not, and if so, to access this data.
+Right of rectification : this is your right to obtain, as soon as possible, that your inaccurate data be rectified, and that your incomplete data be completed. You can also, at any time, modify the personal data of your Personal Account and / or Professional Account, except your email address. All you have to do is go to your Personal Account and / or Professional Account and click on the “Settings” tab.
+Right of deletion / Erasure : this is your right to obtain, as soon as possible, the erasure of your data, subject to our legal retention obligations.
+Right of limitation : this is your right to obtain the limitation of the processing when you object to it, when you dispute the accuracy of your data, when you believe that their processing is unlawful, or when you need it to the establishment, exercise or defense of your legal rights.
+Right to object: this is your right to object at any time to the processing of your data by LBC France, except in the case of legitimate and compelling reasons of LBC France. You can also object to the processing carried out for prospecting purposes.
+Right to portability : this is your right to receive your data in a structured, commonly used, machine-readable and interoperable format, and to transmit it to another controller without us obstructing it.
+Right not to be the subject of a decision based on automated processing : you have the right not to be the subject of a decision based exclusively on automated processing producing legal effects concerning or affecting you, except when this decision is necessary for the conclusion or performance of a contract, or is legally authorized.
+Complaints : you have the right to lodge a complaint with a supervisory authority.
+Instructions in the event of death : you have the right to give instructions for the fate of your personal data in the event of death.
+
+How to exercise your rights?
+If you are an individual, you can exercise your rights of access, rectification, deletion and portability via your Account in the “Settings” tab.
+If you wish to exercise your right of opposition:
+	to the processing of personal data for audience measurement purposes on our site via our service provider AT internet click here .
+	to the processing of personal data in order to measure the effectiveness of the televised promotional campaigns of our service via our provider Realytics click here .
+To exercise your other rights, you must contact our customer support via our contact form.
+If you are a professional, the exercise of rights must be carried out by contacting our customer support, either by phone or via our contact form.
+You can also exercise your choices regarding our use of cookies by clicking here .
+IMPORTANT: In the event that a Transaction is initiated by you or your contact via our Secure Payment Service, the deletion of your account will be suspended until your transaction is completed.
+Security of your data
+We protect your information using physical, electronic and administrative security measures. Our safeguards include, but are not limited to, firewalls, physical access controls to our data centers, and information access authorization controls.
+To understand everything in pictures on data protection click here .
+
+Cookies policy
+LBC France wishes to inform you in a clear and transparent manner about the use of cookies when you browse our Site and our Applications.
+What is a cookie ?
+A cookie (or other tracer) is a text file stored on the hard drive of your terminal (computer, tablet, mobile) by means of your browser software when consulting an online service.
+The cookies saved by us or by third parties when you visit our Site or our Applications do not recognize you personally as an individual, but only recognize the device you are using. Cookies do not store any sensitive or directly identifying personal data but simply provide information about your browsing so that your terminal can be recognized later.
+Cookies do not cause any damage to your device, but make it easier, for example, to find your preferences, to pre-fill certain fields and to adapt the content of our services.
+You alone choose whether you want to have cookies saved on your device and you can easily control the storage of cookies. For specific information on the management and control of cookies, please refer to the section “Your choices regarding cookies”. The word "cookies" in this policy designates all tracers that can be used as part of our Service and in particular those used in our Applications.
+The cookies used by LBC FRANCE
+Cookies necessary for the operation of the service
+The cookies necessary for the operation of the service that we issue allow us in particular:
+	to identify you when you connect to our Site or our Applications and to secure your connection,
+	to adapt the presentation of our Site, Applications and advertising spaces to the display preferences of your terminal (language used, display resolution, operating system used, etc.), depending on the viewing or reading hardware and software that your terminal has,
+	to keep your choice of cookies.
+Audience measurement cookies
+The audience measurement cookies that we place allow us to analyze the use of our Sites and Applications and to improve our user experience by establishing statistics and volumes of visits and use (sections and content visited, routes. ..).
+For this we use the audience measurement tools of our following service providers, meeting the conditions for exemption from the consent of the CNIL:
+	AT Internet for the purpose of measuring the audience of our Site and our Applications,
+	Realytics in order to measure the effectiveness of the televised promotional campaigns of our service.
+For more information, please see “the data we collect through your use of our services” section of our Privacy Policy.
+
+User experience improvement cookies
+These cookies allow you to benefit from a better experience on our Site or our Applications by taking advantage of generic improvements that are not linked to your profile or to test them. They allow us, for example, to keep your contact details to pre-fill a form.
+
+Service personalization cookies
+These cookies allow you to benefit from a personalized experience on our Site or our Applications according to your navigation, your areas of interest and your uses of our service. They thus allow us to offer or test content, communications, offers and / or functionalities that are most suited to your profile.
+We allow you to benefit from:
+	Content adapted to your profile, for example in order to improve the relevance of your search results, to recommend other advertisements that may be of interest to you, to offer you functionalities adapted to your profile on our Site or our Applications,
+	Promotional offers personalized according to your profile,
+	Personalized marketing communications, for example when receiving our emails.
+Personalized advertising cookies
+When you visit our Site or our Applications, we may place cookies on your device in order to create user segments based on your areas of interest and to provide you with personalized advertising content relevant to you and your areas of interest, on our site as well as on third-party sites, as explained in our Privacy Policy.
+Personalized advertising cookies are also used:
+	to limit the number of times you see an advertisement and to help measure the effectiveness of an advertising campaign
+	to allow us to know if a user who saw an advertisement subsequently visited the advertiser's site and took an action there (for example, subscribing to a newsletter)
+The lifespan of our targeted advertising cookies is 60 days.
+As a member of the Syndicat des Régies Internet ( SRI ), of the Interactive Advertising Bureau France ( IAB ), LBC France is committed to respecting good practices concerning the use of advertising cookies and in particular to complying with the Charter. “European IAB Europe relating to Online Behavioral Advertising”, the objective of which is to promote the transparency and control of Internet users of their personal data in terms of targeted advertising (http://www.edaa.eu/participating-companies /).
+Cookies from our partners
+Cookies may be placed on your browser, with your consent, by our partners acting as data controllers. This is called a third-party cookie. This is the case for the display of certain personalized advertisements. LBC France does not manage the cookies of these partner companies and has no control or responsibility over these cookies and the use of the data collected through them. In this regard, we advise you to consult the own policy of these partners related to these cookies.
+You can consult the list of these partners and control the deposit of their cookies on your browser by clicking here .
+Your choices regarding cookies
+You can express or modify your wishes in terms of cookies at any time by clicking here , or by the means described below:
+
+Settings for your browser and mobile devices
+You can configure your browser at any time so that cookies are saved in your terminal (opt-in) or, on the contrary, that they are rejected (opt-out). Some browsers allow you to set rules to manage cookies on a site-by-site basis.
+For the management of cookies, the configuration of each browser is different. It is described in the help menu of your browser, which will allow you to know how to modify your wishes:
+	Internet Explorer
+	Safari
+	Chromium
+	Firefox
+	Opera
+In addition, the procedure for disabling ad targeting from your mobile devices is as follows:
+	on iOS, go to the privacy settings, go to the "advertising" option and activate the "limited advertising tracking"
+	on Android, go to the "Google settings" application, activate the option "disable ads by interest" and "reset advertising identifier".
+You can also configure the geolocation options of your mobile device and the applications, including leboncoin, that have access to it:
+	on iOS, go to the privacy settings, access the “Location service” option and configure the applications that can access your location data;
+	on Android, go to your phone's “Settings”, then to “Applications”. Select "Leboncoin" then "Authorizations". There you will find a list of all the permissions that we are likely to ask you, and in particular the one called "Position", which you can activate or deactivate. To simplify this access, we have set up a shortcut in our leboncoin application: go to “Practical information”, then “Help” then “Permissions” and press the “Access settings” button.
+Other useful resources
+To learn more about targeted advertising and the choices you have in this area, you can consult the resources below:
+	European Interactive Digital Advertising Alliance
+	Internet Advertising Bureau France
+	Network Advertising Initiative
+We also invite you to contact us for any question or request relating to cookies placed on our site and / or targeted advertising, by following this link.
+Data protection officer
+Adevinta France, of which LBC France is one of the subsidiaries, has appointed a data protection officer. He can be contacted by email: fr.privacy+leboncoin@adevinta.com or by post: Adevinta France, Data Protection Officer, 24 rue des Jeûneurs - 75002 Paris.
+We also invite you to contact us with any questions or requests relating to this policy by following this link.

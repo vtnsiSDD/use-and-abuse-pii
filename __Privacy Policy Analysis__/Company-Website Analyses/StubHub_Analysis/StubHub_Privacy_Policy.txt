@@ -1,0 +1,402 @@
+( Date Accessed: 6/09/2021, From: https://www.stubhub.com/legal )
+
+( Embedded Hyperlinks Used: 4 + 4
+mailto:privacy@stubhub.com
+http://stubhub.custhelp.com/app/answers/answer_view/a_id/1001296/categoryRecordID/RN_CATEGORY_435/categorySelected/RN_CATEGORY_435
+mailto:privacy@stubhub.com
+https://www.stubhub.com/contact-us/
+
+mailto:safety@stubhub.com
+http://www.youronlinechoices.eu/
+http://www.aboutads.info/choices/
+http://www.networkadvertising.org/choices/#completed
+)
+
+User Privacy Notice
+Posted on October 1, 2018
+
+StubHub is committed to your privacy. This Privacy Notice explains our collection, use, disclosure, retention, and protection of your personal information.
+
+User Privacy Notice: Table of Contents
+Scope
+Personal Information We Collect
+How We Use Your Personal Information
+Your Choices About How We Use Your Personal Information
+Ways You Can Access Control and Correct Your Personal Information
+How We Might Share Your Personal Information
+How Long We Keep Your Personal Information
+Cookies and Similar Technologies
+How Do We Protect Your Personal Information
+Data Controllers and Data Protection Officers
+Other Important Privacy Information
+California Consumer Privacy Act Privacy Policy
+Contact Us
+Scope
+
+This Privacy Notice applies to any Stubhub website, application, service, or tool (collectively "Services") where this Privacy Notice is referenced, regardless of how you access or use them, including through mobile devices.
+This Privacy Notice also applies to the provision of Stubhub's services through any Stubhub partner's website, application, service, or tool where it is referenced and/or where your listings and their content may be published or advertised in accordance with the terms of this Privacy Notice.
+We may amend this Privacy Notice at any time by posting the amended version on this site including the effective date of the amended version. We will announce any material changes to this Privacy Notice through the Service or via email.
+ 
+Personal Information We Collect
+What is Personal Information?
+Personal Information is information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier, or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+We do not consider personal information to include information that has been anonymized or aggregated so that it can no longer be used to identify a specific natural person, whether in combination with other information or otherwise.
+We collect personal information from you and any devices (including mobile devices) you use when you: use our Services, register for an account with us or register for an account with one of our partners where we provide ticketing services directly or through third party processors/providers, provide us information on a web form, or in the context of promotions (including prize draws), update or add information to your account, participate in a community board discussion chat, or when you otherwise correspond with us.
+Some of this personal information, such as a way to identify you, to enable your use of the Services or to process a transaction, is necessary to enter into our “User Agreement” (defined as the User Agreement or Terms and Conditions associated with the Services a user is accessing). The provision of other personal information is voluntary, but may be necessary in order to use our Services.
+
+We may also collect personal information from other sources, as described below.
+Personal information you give us when you use our Services or register for an account with us
+•	Identifying information such as your name, addresses, telephone numbers, email addresses, business seller information, or tax identification number when you register for an account with us.
+•	Information you provide us when creating a profile on StubHub, which may include a profile picture and access to your camera and/or photo library (if you choose to enable this service on your computer or device); events you will be attending or have attended based on your purchases on StubHub (“My Activity”); your favorite artists, shows, teams, venues, genres or any other event-related interests based on your scanned music library(ies) (if you choose to enable this service on your computer or device) and anything you identify as a favorite on StubHub (collectively, your “Favorites”); your StubHub viewing history of events or artists; your friends’ identity and contact information based on the contacts in your phone’s address book (if you choose to enable this service on your computer or device) and your friend list on any linked social media accounts
+•	Buying, or selling information you provide during a transaction, or other transaction-based content that you generate or that is connected to your account as a result of a transaction you are involved in.
+•	Other content that you generate, or that is connected to your account (such as viewing tickets or attempting checkout).
+•	Financial information (such as credit card, debit card, or PayPal or bank account information) in connection with a transaction.
+•	Postage, shipping, billing and other information used to purchase or send an item, as well as, where postal services are provided through one of our programs, information required to clear customs (such as Tax ID or other identification numbers) and relevant postage information (such as tracking numbers and tracking updates).
+•	In some instances, when you use our Services, you may provide age, gender, interests and favorites.
+•	You may also provide us other information through a web form, by updating or adding information to your account, through your participation in community discussions, chats, dispute resolution, or referral services, or when you otherwise communicate with us.
+•	Recordings of telephone communications, provided that consent has been obtained for recording in accordance with applicable laws;
+•	Additional information we are required or authorized by applicable national laws to collect and process in order to authenticate or identify you or to verify the information we have collected.
+Personal Information We Collect Automatically When You Use Our Services or Register for an Account With Us
+•	We collect information about your interaction with our Services, your advertising preferences, and your communications with us. This is information we receive from devices (including mobile devices) you use when you access our Services. This information could include the following: Device ID or unique identifier, device type, ID for advertising, and unique device token.
+•	Location information, including location information from your mobile device. Keep in mind that most mobile devices allow you to control or disable the use of location services by any application on your mobile device in the device's settings menu.
+•	Computer and connection information such as statistics on your page views, traffic to and from the sites, referral URL, ad data, your IP address, your browsing history, and your web log information.
+Personal Information We Collect Using Cookies and Similar Technologies
+•	We use cookies, web beacons, unique identifiers, and similar technologies to collect information about the pages you view, the links you click, and other actions you take when using our Services, within our advertising or email content.
+•	For more information about our use of these technologies, and how to control them, see Cookies, Web Beacons and Similar Technologies (alternatively referred to as Cookie Notice).
+Personal Information Collected From Other Sources
+•	We supplement the personal information we collect directly with information collected from third parties and add it to your account information. For example, we collect and use demographic and other information that is publically available in an applicable jurisdiction, additional contact information, credit check information, and information from credit bureaus, as allowed by applicable national laws
+•	We allow you to share information with social media sites, or use social media sites to create your account or to connect your account with the respective social media site. Those social media sites may give us automatic access to certain personal information retained by them about you (e.g., content viewed by you, content liked by you, and information about the advertisements you have been shown or have clicked on, etc.). If you provide us with access to any site with video content, then you agree that we can share your video viewing with, or obtain information about your video viewing from, third-party social media sites for at least two years or until you withdraw authorization or connection to the social media site. You control the personal information you allow us to have access to through the privacy settings on the applicable social media site and the permissions you give us when you grant us access to the personal information retained by the respective social media site about you. By associating an account managed by a social media site with your account and authorizing us to have access to this information, you agree that we can collect, use and retain the information provided by these social media sites in accordance with this Privacy Notice. We may also use plug-ins or other technologies from various social media sites. If you click on a link provided via a social media plug in, you are voluntarily establishing a connection with that respective social media site.
+•	If you give us personal information about someone else, you must do so only with that person’s authorization. You agree to inform them how we collect, use, disclose, and retain their personal information according to our Privacy Notice.
+
+How We Use Your Personal Information
+We use your personal information to provide and improve our Services, provide you with a personalized experience on our sites, contact you about your account and our Services, provide you customer service, provide you with personalized advertising and marketing, and to detect, prevent, mitigate and investigate fraudulent or illegal activities.
+We use the personal information we collect from you for a range of different business purposes and according to different legal bases of processing. The following is a summary of how and according to which legal bases we use your personal information.
+We use your personal information to fulfill a contract with you and provide you with our Services, to comply with our legal obligations, protect your vital interest, or as may be required for the public good. This includes:
+•	To provide payment processing and account management, operate, measure and improve our Services, keep our Services safe, secure and operational, and customize site content that includes items and services that you may like in response to actions that you take.
+•	To contact you regarding your account, to troubleshoot problems with your account, to resolve a dispute, to collect fees or monies owed or as otherwise necessary to provide you customer service.
+o	When contacting you for such purposes as outlined above, we may contact you via email, telephone, SMS/text messages, postal mail, and via mobile push notifications.
+o	When contacting you via telephone, to ensure efficiency, we may use autodialed or pre-recorded calls and text messages as described in our User Agreement and as authorized by applicable law. Message and data rates may apply.
+•	To provide other services requested by you as described when we collect the information.
+•	We use general location information to provide you with location based services (such as advertising, search results, and other personalized content).
+•	To prevent, detect, mitigate, and investigate fraud, security breaches or other potentially prohibited or illegal activities and/or otherwise comply with regulatory requirements.
+•	To enforce our User Agreement, this Privacy Notice, or other policies.
+We use your personal information to pursue our legitimate interests where your rights and freedoms do not outweigh these interests. We have implemented controls to balance our interests with your rights. This includes to:
+•	Personalize, measure, improve our Services and develop new Services.
+•	Personalize, measure, and improve our content and advertising based on your advertising customization preferences.
+•	Contact you via email or postal mail in order to offer you coupons, discounts and special promotions, poll your opinions through surveys or questionnaires and inform you about our Services, as authorized by applicable law.
+•	Contact you about public policy matters, or other current events, related to your ability to use our Services. This could include an invitation to join a petition, letter writing, call or other sort of public policy related campaigns.
+•	Deliver targeted marketing, service updates, and promotional offers based on your communication preferences.
+•	Measure the performance of our email marketing campaigns (e.g. by analyzing open and click rates).
+•	Measure a sellers' performance
+•	Monitor and improve the information security of our site and mobile applications.
+With your consent, we may use your personal information to:
+•	Provide you with marketing, notifications or price alerts based on your preferences via telephone calls, email, SMS or text.
+•	Provide you with marketing from other StubHub Inc. corporate family members.
+•	Provide you with marketing from third parties.
+•	Customize third party advertising you might see on third party websites.
+•	Use your precise geo-location to provide location based services.
+•	Use your sensitive personal information to facilitate transactions in certain categories.
+You have the right to withdraw your consent at any time.
+We may use technologies considered automated decision making or profiling. We will not make automated-decisions about you that would significantly affect you, unless such a decision is necessary as part of a contract we have with you, we have your consent, or we are required by law to use such technology.
+ 
+Your Choices About How We Use Your Personal Information
+You have choices about how we use your personal information to communicate with you, to send you marketing information, how we provide you with customized and relevant advertising, and whether you want to stay signed into your account.
+
+Communication preferences
+You can control your email communication preferences within My Account.
+
+Marketing
+If you do not wish to receive marketing communications from us, you can unsubscribe via the link in an email you received, change your Notification Preferences within My Account, indicate your communication preferences using the method described within the direct communication from us or contact us as described in the Contact Us section below. We do not sell, rent, or otherwise disclose your personal information to third parties for their marketing and advertising purposes without your consent.
+
+Advertising
+If you do not wish to participate in our advertising personalization programs, you can opt-out by following the directions provided within the applicable advertisement, or through the programs described in Cookies, Web Beacons and Similar Technologies. The effect of an opt-out will be to stop personalized advertising, but it will still allow the collection of personal information as otherwise described in this Privacy Notice. We do not allow third parties to track or collect your personal information on our sites for their own advertising purposes, without your consent.
+
+Automatic friending
+If you elect to sync your Facebook profile and/or your address book with your StubHub account, you will automatically see your friends’ activities (e.g. if they attended or are attending an event) and their Favorites in your My Activity feed and vice versa. You can disable the automatic friending feature and your sharing preferences (including choosing to share or not share certain elements within your My Activity feed) in your account settings.
+Staying Signed in
+When you sign in to your account on our Services, we give you the option to stay signed in to your account for certain amount of time. If you are using a public or shared computer, we encourage you not to choose to stay signed in. You or any other user of the computer/browser you signed in on will be able to view and access most parts of your account and take certain specific actions during this signed in period without any further authorization. The specific actions and account activities that you or any other user of this computer/browser may take include:
+•	View an item
+•	Check out or add items to your cart
+•	Add favorites
+•	View the My Account page
+•	View or edit order details
+•	View the profile page or information about your friends
+•	Conduct after-sale activities,
+If you attempt to change your password, User ID, update any other account information or attempt other account activity beyond those listed above, you may be required to enter your password.
+You can typically end your signed in session by either signing out and/or clearing your cookies. If you have certain browser privacy settings enabled, simply closing your browser may also end your signed in session. If you are using a public or shared computer, you should sign out and/or clear your cookies when you are done using our Services to protect your account and your personal information.
+
+Ways You Can Access, Control, and Correct Your Personal Information
+We respect your right to access, correct, request deletion or request restriction of our usage of your personal information as required by applicable law. We also take steps to ensure that the personal information we collect is accurate and up to date.
+•	You have the right to know what personal information we maintain about you
+•	We will provide you with a copy of your personal information in a structured, commonly used and machine readable format on request, and we can provide it to other companies as well.
+•	If your personal information is incorrect or incomplete, you have the right to ask us to update it
+•	You have the right to object to our processing of your personal information
+•	You can also ask us to delete or restrict how we use your personal information,but this right is determined by applicable law and may impact your access to some of our Services
+Access, correction, and deletion of your personal information
+You can see, review and change most of your personal information by signing in to your account. Please update your personal information immediately if it changes or is inaccurate. Keep in mind, once you make a public posting, you may not be able to change or remove it.
+We will honor any statutory right you might have to access, modify or erase your personal information. To request access and to find out whether any fees may apply, if permitted by applicable national laws, please contact us following the instructions in the Contact Us section below. Where you have a statutory right to request access or request the modification or erasure of your personal information, we can still withhold that access or decline to modify or erase your personal information in some cases in accordance with applicable national laws.
+If you request that we stop processing some or all of your personal information or you withdraw (where applicable) your consent for our use or disclosure of your personal information for purposes set out in this Privacy Notice, we might not be able to provide you all of the Services and customer support offered to our users and authorized under this Privacy Notice and our User Agreement.
+Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable national laws.
+ 
+How We Might Share Your Personal Information
+ We may disclose your personal information to other members of the StubHub Inc. corporate family or to third parties. This disclosure may be required for us to provide you access to our Services, to comply with our legal obligations, to enforce our User Agreement, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to our Services. We attempt to minimize the amount of personal information we disclose to what is directly relevant and necessary to accomplish the specified purpose. We do not sell, rent, or otherwise disclose your personal information to third parties for their marketing and advertising purposes without your consent.
+We may disclose your personal information to the following parties for the following purposes:
+StubHub Inc. corporate family members, based on our corporate legitimate interests, who may use it to:
+•	Provide joint content and services (like registration, transactions, and customer support)
+•	Help detect, investigate, mitigate and prevent potentially fraudulent and illegal acts, violations of our User Agreement, and data security breaches
+•	Provide you personalized advertising
+•	Improve their products, sites, applications, services, tools, and marketing communications.
+•	Members of our StubHub Inc. corporate family will use your personal information to send you marketing communications only if you have consented to receive such communications from them or if otherwise permitted by the law.
+StubHub Business Partners
+•	We may share certain identification data, and other personal information about your transaction that may include personal data, with business partners when such disclosure is deemed necessary in order for StubHub to offer you or for you to be able to use the Services.. For example, we may share this kind of information with partner teams, venues, artists, leagues or other third parties involved in the event for which you sell or buy a ticket
+•	With your consent, we may share your personal data with business partners that request it in order to provide you with a better experience when using our Services or the services of the business partner (including their independent marketing purposes subject to their privacy policies).
+Service Providers and financial institutions partners as follows:
+•	Third party service providers who help us to provide our Services, payment processing services, assist us in providing customized advertising, to assist us with the prevention, detection, mitigation, and investigation of potentially illegal acts, violations of our User Agreement, fraud and/or security breaches, bill collection, affiliate and rewards programs, co-branded credit cards and other business operations.
+•	Third party financial institutions with whom we partner to offer financial products to you, for them to provide joint content and services (such as, registration, transactions and customer support). These third party financial institution partners will use your personal information to send you marketing communications only if you have requested their services.
+•	Third party shipping providers (e.g., DHL, UPS, USPS, etc.) with whom we share delivery address, contact information and shipment tracking information for the purposes of facilitating the delivery of items purchased and other delivery related communications.
+•	Third party providers of websites, applications, services and tools that we cooperate with so that they can publish or advertise your listings and their content on their websites or in their applications, services and tools. If we transfer personal information along with the content of your listings to third party providers, this will be solely on the basis of an agreement limiting use by the third party provider of such personal information to processing necessary to fulfill their contract with us and obligating the third party provider to take security measures with regard to such data. Third party providers are not permitted to sell, lease or in any other way transfer the personal information included in your listings to third parties.
+Law enforcement, legal proceedings, and as authorized by law
+•	To comply with our legal requirements, enforce our User Agreement, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property or safety.
+•	To law enforcement or governmental agencies, or authorized third-parties, in response to a verified request or legal process relating to a criminal investigation or alleged or suspected illegal activity or any other activity that exposes us, you, or any other of our users to legal liability. We will only disclose information we deem relevant to the investigation or inquiry, such as name, city, state, postcode, telephone number, email address, User ID history, IP address, fraud complaints, and listing and sales and purchase history.
+•	To credit agencies or bureaus as authorized by applicable national laws (e.g. information on late or missed payments or other defaults on your account that may be reflected in your credit report or file).
+•	To third parties involved in a legal proceeding, if they provide us with a subpoena, court order or substantially similar legal basis, or we otherwise believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+•	To third parties in response to a legitimate and verified legal complaint.
+Other StubHub users as authorized by you or your use of our Services
+•	When necessary, sellers may receive information about you necessary to complete the transaction, to provide box office services or to ensure you access to the venue, such as your name, email address, contact details, shipping and billing address, or other information. Buyers may see information about the seller in certain cases, e.g. where included as a return address on the ticket shipment.
+•	The other user receiving your information may only use it for purposes related to the transaction. Unless you have consented to receive marketing from them, they should not contact you for marketing purposes.
+•	Contacting users with unwanted or threatening messages is a violation of our User Agreement.
+We may disclose your personal information to PayPal Inc. and its corporate family
+•	To prevent, detect, mitigate, and investigate potentially illegal acts, fraud and/or security breaches, and to assess and manage risk, including to alert you if fraudulent activities have been detected on your StubHub or PayPal accounts
+•	To provide customer services, including to help service your account or resolve disputes (e.g., billing or transactional disputes)
+•	To facilitate the processing of payment cards when you pay within our Services with a payment card and we use PayPal to process your payment
+•	To facilitate shipping and related services for purchases you made using PayPal
+Change of Ownership
+If we are subject to a merger or acquisition with/by another company, we may share information with them. Should such an event occur, we will require that the new combined entity follow this Privacy Notice with respect to your personal information. If we intend to handle your personal information for any purposes not covered in this Privacy Notice, you will receive prior notification of the processing of your personal information for the new purposes.
+ 
+How Long We Keep Your Personal Information
+We retain your personal information for as long as necessary to provide the Services you have requested, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our policies.
+Our specific retention times for personal information are documented. How long we retain personal information can vary significantly based on context of the Services we provide and on our legal obligations.
+The following factors typically influence retention periods:
+•	How long is the personal information needed to provide our Services? This includes such things as maintaining and improving the performance of our products, keeping our systems secure, and maintaining appropriate business and financial records. This is the general rule that establishes the baseline for most of our data retention periods.
+•	Is the personal information sensitive? If so, a shortened retention time is generally appropriate.
+•	Have you provided consent for a longer retention period? If so, we will retain data in accordance with your consent.
+•	Are we subject to a legal, contractual, or similar obligation to retain your personal information? Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or personal information retained for the purposes of litigation.
+After it is no longer necessary for us to retain your personal information, we will dispose of it in a secure manner according to our data retention and deletion policies.
+ 
+Cookies and Similar Technologies
+When you visit or interact with our sites, services, applications, tools or messaging, we or our authorized service providers may use cookies, web beacons and other similar technologies for storing information to help provide you with a better, faster and safer experience, and for advertising purposes. You can read our Cookie Notice for more information.
+
+ 
+How Do We Protect Your Personal Information
+We protect your personal information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls. For more information about staying safe while buying and selling online, or to report an issue with your account please visit our Security Center.
+
+Data Controllers and Data Protection Officers
+ Learn more about who is your data controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with this Privacy Notice, as well as any applicable national laws.
+Data Controllers and Data Protection Officers
+Your data controller for the Services is as follows:
+•	If you reside within the United States your data controller is StubHub, Inc. (including its affiliate Last Minute Transactions, Inc. (operator of Last Minute Services (LMS))), 199 Fremont Street, 4th Floor, San Francisco, CA 94105 United States.
+•	If you reside within Canada, your data controller is StubHub Canada Ltd., 500 King Street West, Suite 200, Toronto, Ontario M5V1L9 Canada.
+•	If you reside within the United Kingdom, your data controller is StubHub (UK) Limited, 5 New Street Square, London EC4A 3TW United Kingdom.
+•	If you reside elsewhere, your data controller is Ticketbis S.L., Calle Uribitarte nº6, 48001 Bilbao, Biscay, Spain.
+Your data controller is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with this Privacy Notice, as well as any applicable national laws.
+Your data controller may transfer data to other members of the StubHub Inc. corporate family as described in this Privacy Notice.
+We may process and retain your personal information on our servers in the U.S. and elsewhere in the world where our data centers are located. If you are located within the European Union, StubHub has adopted appropriate safeguards to ensure that your data is processed in accordance with applicable legal requirements. You can request further information about these safeguards by contacting us through the Contact Us section below.
+Where we have a legal obligation to do so, we have appointed data protection officers (DPOs) to be responsible for the privacy program at each of the respective data controllers. You can contact any of our DPOs via the Contact Us information detailed below in this Privacy Notice.
+Regardless of your domicile, the data controller in respect of your personal data when you use our Payment Services in accordance with the Payment Services Agreement is eBay S.à r.l., 22-24 Boulevard Royal, L-2449 Luxembourg.
+
+Other Important Privacy Information
+ This section describes some additional privacy information related to your use of our Services that you may find important.
+When you share your personal information on our sites or applications – what happens?
+Other users may have access to the information you share on StubHub as described above in Automatic Friending or as necessary and appropriate to complete a transaction as described above in How We Might Share Your Personal Information.
+Your responsibilities over transactional information you receive through StubHub
+For certain transactions, we may provide you with the personal information of the other user (such as their name, email address, contact details and transaction data) to complete the transaction or enable entry to a venue. Independent from us, you are the controller of such data and we encourage you to inform the other user about your privacy practices and respect their privacy. In all cases, you must comply with the applicable privacy laws, and must give the other user a chance to remove them from your database and them a chance to review what information you have collected about them.
+You may use the personal information that you have access to only for StubHub transaction-related purposes, or for other services offered through StubHub, and for purposes expressly consented by the user to whom the information relates. Using personal information of other users that you have access to for any other purpose constitutes a violation of our User Agreement.
+
+Unwanted or threatening email
+We do not tolerate abuse of our Services. You do not have permission to add other users to your mailing list (email or postal), call, or send him/her text messages for commercial purposes, even if this user purchased something from you, unless the user has given his/her explicit consent. Sending unwanted or threatening email and text messages is against our User Agreement. To report StubHub-related spam or spoof emails please forward the email to
+
+Communication tools
+We may scan messages automatically and check for spam, viruses, phishing and other malicious activity, illegal or prohibited content or violations of our User Agreement, this Privacy Notice or our other policies.
+
+Children's privacy
+Our websites are general audience websites and not intended for children. We do not knowingly collect personal information from users deemed to be children under their respective national laws.
+
+Third-party privacy practices
+This Privacy Notice addresses only our use and handling of personal information we collect from you in connection with providing you our Services. If you disclose your information to a third party, or visit a third-party website via a link from our Services, their privacy notices and practices will apply to any personal information you provide to them or they collect from you.
+We cannot guarantee the privacy or security of your personal information once you provide it to a third party and we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your personal information. This is true even where the third parties to whom you disclose personal information are bidders, buyers or sellers on our site.
+
+LAST UPDATED: July 29, 2020
+
+
+CALIFORNIA CONSUMER PRIVACY ACT
+PRIVACY POLICY
+Pursuant to the California Consumer Privacy Act of 2018 (“CCPA”), StubHub, Inc. is providing the following details regarding the categories of Personal Information that we collect, use, and disclose about California residents. This CCPA Privacy Policy does not apply to our job applicants, employees, contractors, owners, directors, or officers where the Personal Information we collect about those individuals relates to their current, former, or potential role with us. Under the CCPA, “Personal Information” is information that identifies, relates to, or could reasonably be linked with a particular California resident or household.
+
+No Sale of Personal Information
+We do not sell Personal Information and have not sold Personal Information within the preceding 12 months, as “sale” is defined in the CCPA. We do not sell the Personal Information of minors under age 16.
+
+Collection and Disclosure of Personal Information
+The following chart details which categories of Personal Information we plan to collect, as well as the categories of Personal Information we have collected and disclosed for our operational business purposes in the preceding 12 months. We collect this Personal Information from you and your devices, as well as from our corporate affiliates, publicly available databases, other StubHub customers, credit agencies (as allowed by applicable laws), and social media sites.
+Categories of Personal Information	Disclosed to Which Categories of Third Parties for Operational Business Purposes
+Identifiers, such as name, contact information, IP address and other online identifiers	•	Corporate affiliates
+•	Third-party service providers, who assist us for example with payment processing, marketing and advertising, shipping, fraud prevention, rewards programs and information technology support;
+•	Business partners, such as partner teams, venues, artists, and sports leagues, to provide our event services
+•	Credit agencies, as allowed by applicable law
+•	Legal authorities
+•	PayPal, Inc., to provide our services, facilitate your purchases and prevent fraud
+•	Financial institutions with whom we partner to offer financial products to you
+•	Other StubHub users as authorized by you or your use of our services
+Personal information, as defined in the California customer records law, such as government-issued ID number (e.g., your tax identification number when you register for an account with us), and financial information such as payment card number	•	Corporate affiliates
+•	Third-party service providers, who assist us for example with payment processing, marketing and advertising, shipping, fraud prevention, rewards programs and information technology support;
+•	Credit agencies, as allowed by applicable law
+•	Legal authorities
+•	PayPal, Inc., to provide our services, facilitate your purchases and prevent fraud
+•	Financial institutions with whom we partner to offer financial products to you
+Characteristics of protected classifications under California or federal law, such as age and gender	•	Corporate affiliates
+•	Third-party service providers, who assist us for example with payment processing, marketing and advertising, shipping, fraud prevention, rewards programs and information technology support
+•	Business partners, such as partner teams, venues, artists, and sports leagues, to provide our event services
+•	Credit agencies, as allowed by applicable law
+Commercial information, such as transaction information and purchase history	•	Corporate affiliates
+•	Third-party service providers, who assist us for example with payment processing, marketing and advertising, shipping, fraud prevention, rewards programs and information technology support
+•	Business partners, such as partner teams, venues, artists, and sports leagues, to provide our event services
+•	Credit agencies, as allowed by applicable law
+•	Legal authorities
+•	PayPal, Inc., to provide our services, facilitate your purchases and prevent fraud
+•	Financial institutions with whom we partner to offer financial products to you
+•	Other StubHub users as authorized by you or your use of our services
+Internet or network activity information, such as browsing history and interactions with our website Geolocation data, such as device location and approximate location derived from IP address.	•	Corporate affiliates
+•	Third-party service providers, who assist us for example with payment processing, marketing and advertising, shipping, fraud prevention, rewards programs and information technology support
+•	Business partners, such as partner teams, venues, artists, and sports leagues, to provide our event services
+•	PayPal, Inc., to provide our services, facilitate your purchases and prevent fraud
+Geolocation data, such as device location and approximate location derived from IP address.	•	Corporate affiliates
+•	Third-party service providers, who assist us for example with payment processing, marketing and advertising, shipping, fraud prevention, rewards programs and information technology support
+Audio, electronic, visual, similar information, such as photographs and call recordings	•	Corporate affiliates
+•	Third-party service providers, who assist us for example with payment processing, marketing and advertising, shipping, fraud prevention, rewards programs and information technology support
+•	Other StubHub users as authorized by you or your use of our services
+Inferences drawn from any of the Personal Information listed above to create a profile about, for example, an individual’s preferences and characteristics	•	Corporate affiliates
+•	Third-party service providers, who assist us for example with payment processing, marketing and advertising, shipping, fraud prevention, rewards programs and information technology support
+
+Use of Personal Information
+We use Personal Information to operate, manage, and maintain our business, to provide our products and services, and to accomplish our business purposes and objectives, including, for example, to: develop, improve, repair, and maintain our products and services; personalize, advertise, and market our products and services; conduct research, analytics, and data analysis; maintain our facilities and infrastructure; undertake quality and safety assurance measures; conduct risk and security control and monitoring; detect and prevent fraud; perform identity verification; perform accounting, audit, and other internal functions, such as internal investigations; comply with law, legal process, and internal policies; maintain records; and exercise and defend legal claims.
+
+Rights and Requests
+If you are a California resident, you have the right to make the following requests:
+(1) Request to Know
+You may request that we disclose to you the following information covering the 12 months preceding your request:
+•	The categories of Personal Information we collected about you and the categories of sources from which we collected such Personal Information;
+•	The specific pieces of Personal Information we collected about you;
+•	The business or commercial purpose for collecting Personal Information about you; and
+•	The categories of Personal Information about you that we otherwise shared or disclosed, and the categories of third parties with whom we shared or to whom we disclosed such Personal Information (if applicable).
+(2) Request to Delete
+You may request that we delete Personal Information we collected from you.
+To make a Request to Know or a Request to Delete, you may contact us via 1.866.788.2482 or privacy@stubhub.com. Registered StubHub users may contact us through their account or by visiting our Help Center.
+We will verify and respond to your request consistent with applicable law, taking into account the type and sensitivity of the Personal Information subject to the request. We may need to request additional Personal Information from you, such as email address, state of residency, or mailing address, in order to verify your identity and protect against fraudulent requests. If you maintain a password-protected account with us, we may verify your identity through our existing authentication practices for your account and require you to re-authenticate yourself before disclosing or deleting your Personal Information. If you make a Request to Delete, we may ask you to confirm your request before we delete your Personal Information.
+You have the right to be free from unlawful discrimination for exercising your rights under the CCPA. You have the right to be informed, at or before the point of collection, of the categories of Personal Information to be collected from you and the purposes for which that Personal Information will be used.
+
+Authorized Agents
+If you want to make a request as an authorized agent on behalf of a California resident, you may use the submission methods noted above. As part of our verification process, we may request that you provide, as applicable:
+•	Proof of your registration with the California Secretary of State to conduct business in California;
+•	A power of attorney from the California resident pursuant to Probate Code sections 4000-4465;
+•	Written permission that the California resident has authorized you to make a request on the resident’s behalf. This permission must be signed (via physical or e-signature) by the California resident.
+If you are making a Request to Know or a Request to Delete on behalf of a California resident and have not provided us with a power of attorney from the resident pursuant to Probate Code sections 4000-4465, we may also require the resident to:
+•	Provide you with a written permission signed by the resident to make the Request to Know or Request to Delete on the resident’s behalf;
+•	Verify the resident’s own identity directly with us;
+•	Directly confirm with us that the resident provided you permission to submit the Request to Know or Request to Delete.
+
+Contact Us
+Please contact us at privacy@stubhub.com if you have any questions regarding our privacy policies or practices.
+
+Contact Us
+If you have a question or a complaint about this Privacy Notice or our information handling practices, you can reach the Global Privacy Office in writing at: StubHub Inc, Attn: Legal - Global Privacy Office, 199 Fremont Street, 4th Floor, San Francisco, CA 94105 United States.
+Your right to file complaints with a data protection supervisory authority remains unaffected.
+
+Mobile Privacy Notice
+This Mobile Privacy Notice summarizes your privacy rights regarding our collection, use, sharing and protection of your personal information. It applies to any StubHub Mobile Application Service (App) where this Mobile Privacy Notice is referenced. BY INSTALLING AND USING THIS APP YOU EXPRESSLY ACKNOWLEDGE AND AGREE TO OUR COLLECTION, USE, SHARING, AND PROTECTION OF YOUR PERSONAL INFORMATION AS SUMMARIZED BELOW AND AS FULLY DESCRIBED IN OUR USER PRIVACY NOTICE. If you are a California resident, please see our CCPA Privacy Policy, located here
+In order to maximize the benefits of this App, please opt-in or modify the collection settings in your phone's privacy settings (where applicable). If you have a question or complaint about this Privacy Notice or our information handling practices, please contact us.
+
+Collection, Use, Sharing and Protection of Your Personal Information
+
+Collection
+With your authorization, we may access precise location information from your mobile device to provide you a customized experience
+With your authorization, we may access your mobile device contact information to help you manage your communication with others
+With your authorization, we may access calendar information from your mobile device to help you schedule reminders
+With your authorization, we may access the camera or photo library on your mobile device so that you can do things like list an item
+When you connect your StubHub account with a third party social networking or sign-in service, we may create and authenticate your account or connect your account with other features and services. You control the personal information we have access to through (a) the privacy settings in the App and (b) the permissions you express on the device used to grant us access to your personal information retained within, and collected by, the App
+With your authorization, we may access your mobile device’s music library and music preference information to offer you a customized experience
+
+Use
+We may use your information to serve you customized advertising if you allow us. You can opt-out using your device’s setting
+
+Sharing
+Only with your consent will we share your information with third-parties to use for their own marketing purposes
+We share your information with service providers under contract who help us operate our business and who process your information according to our instruction
+We share your information with law enforcement or authorized third parties, to investigate illegal activity or violations of our user agreement
+
+Protection
+We protect your information using technical and administrative security measures designed to reduce the risks of loss or misuse
+
+
+Cookies, Web Beacons and Similar Technologies
+
+Summary
+
+When you visit or interact with our sites, services, applications, tools or messaging, we or our authorized service providers may use cookies, web beacons and other similar technologies for storing information to help provide you with a better, faster and safer experience, and for advertising purposes.
+
+This page is designed to help you understand more about these technologies and our use of them on our sites and in our services, applications and tools. Below is a summary of a few key things you should know about our use of such technologies. You can review the contents of our Cookie Notice below.
+
+Our cookies and similar technologies have different functions. They are either necessary for the functioning of our services, help us improve our performance, give you extra functionalities or help us to serve you relevant and targeted ads. We use cookies and similar technologies that only remain on your device for as long as you keep your browser active (session) and cookies and similar technologies that remain on your device for a longer period (persistent). You're free to block, delete or disable these technologies if your device allows this. You can manage your cookies and your cookie preferences in your browser or device settings.
+
+Where possible, security measures are set in place to prevent unauthorized access to our cookies and similar technologies. A unique identifier ensures that only we and/or our authorized service providers have access to cookie data.
+
+Service providers are companies that help us with various aspects of our business, such as site operations, services, applications, advertisements and tools. We use some authorized service providers to help us to serve you relevant ads on our services and other places on the internet. These service providers may also place cookies on your device via our services (third party cookies). They may also collect information that helps them identify your device, such as IP-address, or other unique or device identifiers.
+
+Cookie Notice
+
+
+What Are Cookies Web Beacons And Similar Technologies?
+
+Like most sites, we use technologies that are essentially small data files placed on your computer, tablet, mobile phone or other devices (referred to collectively as a "device") that allow us to record certain pieces of information whenever you visit or interact with our sites, services, applications, messaging, tools, and to recognize you across devices.
+The specific names and types of the cookies, web beacons, unique identifiers, and similar technologies we use to collect information (e.g. about the pages you view, the links you click, and other actions you take on our Services, within our advertising or e-mail content) and other similar technologies we use may change from time to time. In order to help you better understand this Policy and our use of such technologies we have provided the following limited terminology and definitions:
+•	Cookies - Small text files (typically made up of letters and numbers) placed in the memory of your browser or device when you visit a website or view a message. Cookies allow a website to recognize a particular device or browser. There are several types of cookies:
+o	Session cookies expire at the end of your browser session and allow us to link your actions during that particular browser session.
+o	Persistent cookies are stored on your device in between browser sessions, allowing us to remember your preferences or actions across multiple sites.
+o	First-party cookies are set by the site you are visiting.
+o	Third-party cookies are set by a third party site separate from the site you are visiting.
+o	Cookies can be disabled or removed by tools that are available in most commercial browsers. The preferences for each browser you use will need to be set separately and different browsers offer different functionality and options.
+•	Web beacons - Small graphic images (also known as "pixel tags" or "clear GIFs") that may be included on our sites, services, applications, messaging, and tools, that typically work in conjunction with cookies to identify our users and user behavior.
+•	Similar technologies - Technologies that store information in your browser or device utilizing local shared objects or local storage, such as flash cookies, HTML 5 cookies, and other web application software methods. These technologies can operate across all of your browsers, and in some instances may not be fully managed by your browser and may require management directly through your installed applications or device. We do not use these technologies for storing information to target advertising to you on or off our sites.
+We may use the terms "cookies" or "similar technologies" interchangeably in our policies to refer to all technologies that we may use to store data in your browser or device or that collect information or help us identify you in the manner described above.
+
+Your Choice and Our Use of Cookies Web Beacons and Similar Technologies
+
+We offer certain site features, services, applications, and tools that are available only through the use of these technologies. You are always free to block, delete, or disable these technologies if your browser, installed application, or device so permits. However, if you decline cookies or other similar technologies, you may not be able to take advantage of certain site features, services, applications, or tools. You may also be required to re-enter your password more frequently during your browsing session. For more information on how you can block, delete, or disable these technologies, please review your browser or device settings.
+Generally, these technologies allow our sites, services, applications, and tools to store relevant information in your browser or device and later read that information in order to identify you to our servers or internal systems. Where applicable, we protect our cookies and other similar technologies to help ensure that only we and/or our authorized service providers can interpret them by assigning them a unique identifier that is designed for interpretation only by us. We do not store any of your personal information on any of our cookies or other similar technologies.
+Any personal information that we collect and store through use of these technologies is first obtained through notice and consent: We obtain your consent by providing you with transparent notice of use of the technologies and, to the extent described herein providing you with the opportunity to make a choice to disable these technologies as set forth above.
+Our uses of such technologies fall into the following general categories:
+•	Operationally Necessary. We may use cookies, web beacons, or other similar technologies that are necessary to the operation of our sites, services, applications, and tools. This includes technologies that allow you access to our sites, services, applications, and tools, that are required to identify irregular site behavior, prevent fraudulent activity and improve security, or that allow you to make use of our functions such as shopping carts, saved search, or similar functions;
+•	Performance-Related. We may use cookies, web beacons, or other similar technologies to assess the performance of our websites, applications, services, and tools, including as part of our analytic practices to help us understand how our visitors use our websites, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our website content, applications, services, or tools;
+•	Functionality-Related. We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our sites, services, applications, or tools. This may include identifying you when you sign into our sites or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our sites;
+•	Advertising or Targeting-Related. We may use first-party or third-party cookies and web beacons to deliver content, including ads relevant to your interests, on our sites or on third party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that has been delivered to you, such as whether you have clicked on an advertisement.
+
+We offer you the ability to opt-out of our use of first-party advertising-related cookies through the AdChoices program. AdChoices is a global program that lets you choose whether to receive customized advertising on StubHub and on the websites of our advertising partners. If you prefer not to see customized ads, you can tell us your preference, by clicking on the AdChoices icon located on all advertisements participating in the program. If you opt-out of receiving customized ads, you'll still see advertisements-they just won't be tailored to your interests.
+To opt-out of the use of third-party advertising-related cookies and web beacons, see the section Ad Networks and Exchanges authorized by third-parties below. Opting out of our first-party advertising-related cookies, or out of third-party advertising-related cookies and web beacons as described below, does not necessarily mean that you will not see our advertising - only that this advertising will not be targeted to you through the use of first-party or third-party cookies, web beacons or related technologies.
+If you would like to opt-out of all other types of technologies we employ on our sites, services, applications, or tools, you may do so by blocking, deleting, or disabling them as your browser or device permits.
+
+Use of These Technologies by Authorized Third-Party Service Providers
+
+We may work with third-party companies, commonly known as service providers, who are authorized to place third-party cookies, web beacons, or similar technologies for storing information on our sites or in our services, applications, and tools with our permission. These service providers help us to provide you with a better, faster, and safer experience.
+These service providers may use these technologies to help us deliver our own content and advertising, and compile anonymous site metrics and analytics. These service providers are subject to confidentiality agreements with us and other legal restrictions on their use or collection of any personal information. Third-party cookies are covered by the third parties' privacy policy.
+You may encounter cookies and tracking technologies from our third-party service providers, including but not limited to (1) Facebook to provide advertising services through Facebook’s advertising and marketing platforms (e.g., Audience Network, Website Custom Audiences) and other social networking plug-ins or marketing tools, and (2) Google to provide advertising services through Google’s advertising and marketing platforms (e.g., DoubleClick for Publishers, Google DoubleClick AdX Service, Adwords). Facebook and Google may use the personal information that they have collected about you on our sites pursuant to their own privacy policies (Facebook Data Policy: https://www.facebook.com/privacy/explanation and Google Privacy Policy: https://www.google.com/intl/en/policies/privacy/).We do not permit any of these service providers to collect any of your personal information on our sites or in our services, applications, or tools for their own purposes. These service providers are subject to confidentiality agreements with us and other legal restrictions on their use or collection of any personal information. Third-party cookies are covered by the third parties' privacy policy.
+With the exception of the use of such technologies by our service providers or other authorized third parties, we do not permit any third-party content on sites (such as item listings, member-to-member communications, classified listings, comments, reviews, etc.) to include or utilize any cookies, web beacons, local storage, or similar technologies for tracking purposes or to collect your personal information. If you believe a listing or other third-party content might be collecting personal information or using tracking technologies on one of our sites, please report it to safety@stubhub.com.
+
+Ad Networks and Exchanges Operated by Authorized Third Parties
+We may use third parties, such as advertising networks and exchanges, to allow us to serve you advertisements. These third-party ad networks and exchange providers may use third-party cookies, web beacons, or similar technologies to collect information. They may also collect your device identifier, IP address, or identifier for advertising (IDFA). The information that these third parties collect may be used to assist us in providing you with more relevant advertising that we serve on our sites or elsewhere on the web, and as described above. Third-party cookies are covered by the third parties' privacy policy.
+For more information on third-party advertising-related cookies and how to opt-out of them, please visit one of the following third-party websites:
+•	Your Online Choices
+•	The Self-Regulatory Program for Online Behavioral Advertising (available in English only)
+•	Network Advertising Initiative Consumer Opt-Out (available in English only)
+
+Do Not Track
+California law requires us to let you know how we respond to web browser Do Not Track (DNT) signals. Because there currently isn't an industry or legal standard for recognizing or honoring DNT signals, we don't respond to them at this time. We await the result of work by the privacy community and industry to determine when such a response is appropriate and what form it should take.
+
+Back to top

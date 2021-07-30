@@ -1,0 +1,426 @@
+( Date Accessed: 6/02/2021, From: https://www.mcdonalds.com/us/en-us/privacy.html )
+
+( Embedded Hyperlinks Used: 51
+https://www.mcdonalds.com/us/en-us/privacy.html#united-states
+https://corporate.mcdonalds.com/corpmcd/our-company/where-we-operate.html
+https://www.mcdonalds.com/us/en-us/privacy.html#q1
+https://www.mcdonalds.com/us/en-us/privacy.html#q2
+https://www.mcdonalds.com/us/en-us/privacy.html#q3
+https://www.mcdonalds.com/us/en-us/privacy.html#q4
+https://www.mcdonalds.com/us/en-us/privacy.html#q5
+https://www.mcdonalds.com/us/en-us/privacy.html#q6
+https://www.mcdonalds.com/us/en-us/privacy.html#q7
+https://www.mcdonalds.com/us/en-us/privacy.html#q8
+https://www.mcdonalds.com/us/en-us/privacy.html#q9
+https://www.mcdonalds.com/us/en-us/privacy.html#q10
+https://www.mcdonalds.com/us/en-us/privacy.html#q11
+https://www.mcdonalds.com/us/en-us/privacy.html#q12
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+https://corporate.mcdonalds.com/corpmcd/our-company/where-we-operate.html
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+https://corporate.mcdonalds.com/corpmcd/gdpr-rights-center.html
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+http://www.aboutads.info/choices
+http://www.networkadvertising.org/managing/opt_out.asp
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+https://www.privacyshield.gov/list
+https://www.jamsadr.com/
+https://www.jamsadr.com/eu-us-privacy-shield
+https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint
+https://www.privacyshield.gov/welcome
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+mailto:contact.privacy@us.mcd.com
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+mailto:contact.privacy@us.mcd.com
+https://www.mcdonalds.com/us/en-us/privacy.html#q1
+https://www.mcdonalds.com/us/en-us/privacy.html#q1
+https://www.mcdonalds.com/us/en-us/privacy.html#q1
+https://www.mcdonalds.com/us/en-us/privacy.html#q2
+https://www.mcdonalds.com/us/en-us/privacy.html#q3
+https://www.mcdonalds.com/us/en-us/privacy/do-not-sell-my-personal-information.html
+https://www.mcdonalds.com/us/en-us.html
+http://optout.networkadvertising.org/?c=1#!%2F
+http://optout.aboutads.info/?lang=EN&c=2#!%2F
+https://www.mcdonalds.com/us/en-us/privacy/do-not-sell-my-personal-information.html
+mailto:accessibility@us.mcd.com
+https://www.mcdonalds.com/us/en-us/accessibility.html
+mailto:contact.privacy@us.mcd.com
+https://www.mcdonalds.com/us/en-us/privacy.html#top
+)
+
+McDonald’s Global Privacy Statement 
+Last updated: September 08, 2020
+
+This privacy statement describes how McDonald’s in the countries listed below – collect, use, protect and share the personal information of our customers. Customers include those who visit our restaurants, use our websites and mobile apps, and otherwise interact with us.
+
+Some of the countries in which we operate have laws that require us to share specific privacy information with our customers in those countries. As such, this privacy statement is comprised of two sections – a globally applicable statement and country specific addendum.
+
+This initial section describes how McDonald’s collects, uses, protects and shares customer information. Where there are variations for a specific country or additional information that is required to be provided under applicable country law, customers in that country can refer to the applicable country specific addendum:
+
+Austria
+Hungary
+Portugal
+United States
+
+Belgium
+Ireland
+Slovakia
+Czech Republic
+Italy
+Spain
+France
+Netherlands
+Switzerland
+Germany
+Poland
+United Kingdom
+The data controller of your personal information is the McDonald’s entity in the jurisdiction where your personal information is collected. Please note that in some countries, there may be an additional entity that is the data controller. Please refer to the applicable country specific addendum for more information regarding the data controller of your personal information.
+
+If you are a customer in a country not listed above, please visit the country’s McDonald’s website for the applicable privacy statement.
+
+Many of our restaurants are owned and operated by franchisees, who are independent businessmen and women. This privacy statement does not apply to our franchisees or to websites or mobile apps they operate. Please review our franchisees’ privacy notices for information on how they use customer information.
+
+Information We Collect
+How We Use The Information We Collect
+How We Share The Information We Collect
+Children's Privacy Notice
+Your Choices
+Use Of Our Online Services And Other Technology
+Links To Other Websites And Social Media
+Information Security
+Retention
+International Data Transfers
+Changes To Our Privacy Statement
+How To Contact Us
+1.  Information we collect
+We may collect personal information about you when you visit our restaurants, use our websites or mobile apps (“online services”), and otherwise interact with us (collectively, “services”). The information we collect falls into three categories: (a) information you provide us; (b) information we collect through automated methods, and (c) information we collect from other sources.
+
+Generally, your providing of your personal information is voluntary. However, there may be situations where your providing of personal information is necessary to provide a service or is required by law. Please note that in certain cases, we may be unable to provide you with our services unless you provide the information. We will let you know when the providing of your personal information is necessary.
+
+We may combine the information you provide us with information that we collect through automated methods, and with information we receive from other sources.  For example, when you add a method of payment to your profile in our mobile app, we may combine your profile with information we receive from our payment processors or other providers regarding transactions made with the same payment credentials in our restaurants.
+
+We collect information you provide us
+You may provide the following information to us, depending on how you interact with us:
+
+personal details, such as your name, postal and email addresses, phone number, birthday information and other contact information, when you register with our online services, log-in to Wi-Fi, enter one of our competitions, or contact us by phone or through our online services;
+transaction information, including information about the products you buy, prices, method of payment and payment details;
+account information, such as your username or password (or anything else that identifies you) used to access our online services or to buy or use our products and services;
+profile information, including products and services you like, or times you prefer to visit us; and
+other personal information you choose to provide us when you interact with us.
+We collect information through automated methods
+We may use automated technology to collect information from your computer system or mobile device when you visit our restaurants, use our online services, or in-restaurant technology. Automated technology may include cookies, local shared objects, and web beacons. There is more information below about cookies and other technologies in Section 6.
+
+We may collect information about your:
+
+internet protocol (IP) address;
+computer or mobile-device operating system and browser type;
+type of mobile device and its settings;
+unique device identifier (UDID) or mobile equipment identifier (MEID) for your mobile device;
+device and component serial numbers;
+advertising identifiers (for example, IDFAs and IFAs) or similar identifiers;
+referring website (a site that has led you to ours) or application;
+online activity on other websites, applications or social media;
+communications to us or regarding us on social media; and
+activity related to how you use our online services, such as the pages you visit on our sites or in our mobile apps.
+Our online services and in-restaurant technology may collect information about the exact location of your mobile device or computer using geolocation and technology such as GPS, Wi-Fi, Bluetooth, or cell tower proximity.  For most mobile devices and computer systems, you are able to withdraw your permission for us to collect this information by using the device or web-browser settings.  If you have any questions about how to prevent us from collecting exact information about your location, we recommend you contact your mobile-device service provider, the device manufacturer, or your web-browser provider.  Some online services and in-restaurant technology may not work properly without information about your location.  If you would like us to delete information we have collected which could identify your location, please contact us at the address, phone number or email address below.  By law, we may need to keep certain information.
+
+We collect information from other sources
+We may collect information about you from other companies and organizations.  We may also collect information that is publicly available.  For example, we may collect information about you when you interact with us through social media.
+
+Back to Top
+
+2. How We Use The Information We Collect
+We may use the information we collect in the following ways.
+To provide our services and contract with you:
+
+carry out your requests, fulfill orders, and process payments for our products and services;
+communicate with you about your orders, purchases or accounts with us, requests, questions, and comments;
+provide online services to you, which includes our websites or mobile apps; and
+provide customer support, including to process any concerns about our services.
+To market to you, improve our services, and the following additional legitimate business interests:
+
+tell you about our products and services, competitions, offers, promotions or special events that we believe may interest you;
+tell you about the products and services of our business partners;
+personalize your experience in our restaurants and on our online services;
+manage our business, including developing new products and services, conducting consumer and operations research, and assessing the effectiveness of our sales, marketing, and advertising;
+use analytics and profiling technology to personalize your experience, deliver content (including advertising) tailored to your interests and how you use our online services or in-store technologies, manage our business, help diagnose technical and service issues, administer our online services and in-store technologies, identify users of our online services, identify a device for fraud prevention purposes, gather demographic information about our customers, and determine usage patterns of our services;
+maintain, manage, and improve our products, offers, promotions, and online services and other technology;
+ensure the security of our networks and systems.
+To comply with applicable law:
+
+protect against, identify and prevent fraud and other crime, claims and other liabilities;
+comply with legal obligations and our policies;
+establish, exercise or defend a legal claim; and
+monitor and report compliance issues.
+With your consent (where required by applicable law), we may use the information we collect for the following purposes:
+
+to send you e-mails or text messages about our products and services, competitions, offers, promotions or special events that we believe may interest you;
+to send you e-mails or text messages about the products and services of our business partners;
+provide location-based services;
+provide online services to children (if parental consent is provided);
+deploy cookies and similar technologies; and
+provide online services to you, which includes our websites or mobile apps.
+We may use the information we collect about you in other ways, which we will tell you about at the time we collect it or for which we will seek your consent.
+
+Back to Top
+
+3. How We Share The Information We Collect
+We do not sell your personal information and only share your information as described in this privacy statement. Please note that some state statutes may define a “sale” to include sharing of personal information with third parties for valuable consideration.  Many companies have common arrangements with online advertising networks and analytics companies that may potentially be considered sales under these definitions.  Please review our Additional Notice for California Consumers below for more information. 
+
+We may share your personal information within the McDonald's Family. The McDonald's Family includes McDonald’s Corporation, our affiliates, our subsidiaries, and our franchisees. A list of these entities, or where you can find more information, is available at the country's McDonald's website for the applicable privacy statement. Members of the McDonald’s Family who receive this information from us are not authorized to use or share the information, except as set out in this privacy statement.
+
+We may share your personal information with vendors who provide services to us, such as fulfilling orders, providing data processing and other information technology services, managing promotions, contests, prize draws and sweepstakes, carrying out research and analysis, and personalizing individual McDonald’s customer experiences. We do not allow these vendors to use this information or to share it for any purpose other than to provide services on our behalf. We may also share your personal information with vendors and partners who use the information to detect or prevent fraud for McDonald’s, and who may use the information to provide fraud detection and prevention services to others.
+
+We may, for strategic or other business reasons, decide to sell or transfer all or part of our business. As part of that sale or transfer, we may pass information we have collected and stored, including personal information, to anyone involved in the sale or transfer.
+
+There may be times where we may share information when it does not directly identify you. For example, we may share anonymous, aggregated statistics about your use of our online services. Or we may combine information about you with other customers and share the information in a way that does not link to a specific customer.
+
+We have the right to use or share personal information as necessary to keep to any law, regulation or legal request, to protect our online services and in-restaurant technology, to bring or defend legal claims, to protect the rights, interests, safety and security of our organization, our employees or franchisees, or members of the public, or in connection with investigating fraud or other crime, or violations of our policies.
+
+Back to Top
+
+4. Children's Privacy Notice
+We understand how important it is to protect your privacy when you use our online services. We are especially committed to protecting the privacy of children who visit or use our online services. For more information on how a specific country protects children’s privacy, please review the country specific addendum below.
+
+We urge parents to regularly monitor and supervise their children's online activities. If you have any questions about our children’s privacy practices, please contact us at our Global or Local Data Protection Office using the contact information provided below. If you are contacting a Local Data Protection Office, please choose the office in the country in which you are a customer.
+
+Back to Top
+
+5. Your Choices
+Marketing Communications
+If you have agreed to receive marketing communications from us, you can later opt out by following the opt-out instructions in the marketing communications we send you. You can also generally find your communication preferences with instructions on how to opt out in the profile section of the online services that you use. You may also have the ability to change your communication preferences using your device settings. You can also opt out by contacting us at our Global or Local Data Protection Office using the contact information provided below. If you are contacting a Local Data Protection Office, please choose the office in the country in which you are a customer.
+
+If you do opt out of receiving marketing communications from us, we may still send communications to you about your transactions, any accounts you have with us, and any contests, competitions, prize draws or sweepstakes you have entered. Opting out of one form of communication does not mean you have opted out of other forms as well. For example, if you opt out of receiving marketing emails, you may still receive marketing text messages if you have opted in to receiving them. Please note that if you are receiving communications from a McDonald’s franchise, then you will need to opt out from them directly.
+
+We do not share personal information with third parties for their own direct marketing purposes, unless you give us permission to do so. When we give you notice, and you consent, we will share your personal information as you direct us to.
+
+Your Personal Information Rights
+In certain countries, individuals are entitled to the right to access, correct, transmit, restrict, delete and object to processing of the personal information we have collected. In these certain countries, individuals are also entitled to withdraw consent to processing of personal information. For more information regarding these rights, and the countries where these rights are available, please see the country specific addendum below. You can also visit the GDPR Rights Center.
+
+Back to Top
+
+6. Use of Our Online Services and Other Technology
+We, and our vendors who provide services to us, may use cookies, web beacons and other similar technologies on our online services and in other areas related to our business, such as online advertising, to collect information and provide you with the services or products that you have requested.
+
+Cookies and other technologies
+A “cookie” is a small text file that is placed onto an Internet user’s web browser or device and is used to remember and/or obtain information about the user. Some countries in which we operate may have a cookies policy. That specific information, by country, is provided below.
+
+A “web beacon” is a small object or image that is embedded into a web page, application, or email and is used to track activity. They are also sometimes referred to as pixels and tags.
+
+Please note the following:
+
+You might be assigned a cookie when using our online services.
+We offer certain features that are available only through the use of cookies and other similar technologies.
+We may use both session (for the duration of your visit) and persistent (for the duration of a fixed period of time) cookies and other tracking technologies.
+Our online services and other areas related to our business may have web beacons.
+We use cookies, web beacons and other similar technology, to collect information for the purposes described in this privacy statement. We may also combine the information collected by these technologies with information we have collected about you by other means that are described in this privacy statement.
+
+We may use these technologies to:
+
+uniquely identify you or your device;
+allow you to access and use our online services, where without them, our online services may not work properly;
+further system security where appropriate;
+statistical purposes, in order to measure use of our websites and mobile apps;
+improve our products and services;
+help us monitor the performance (e.g., traffic, errors, page load time, popular sections, etc.) of our online services;
+remember you, for your convenience, when you visit our online services
+help customize your experience;
+to market to you through targeted advertising; and
+for other purposes described in the section of this privacy statement titled, “How we use the information we collect.”
+For example, we may use certain technologies to determine whether you have opened an e-mail or selected a link contained in an e-mail, how you use the pages and content in our mobile apps, or whether you have selected a McDonald’s online advertisement.
+
+Both we and others (such as our advertising networks) may use these technologies to collect information about your online activities, over time and across third-party websites and devices, and when using our online services to further personalize your experience with us.
+
+Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Select the “Help” section of your browser to learn how to change your cookie preferences. If you disable all cookies, you may not be able to take advantage of all the features available on a website.
+
+Some newer web browsers may have a "Do Not Track" preference that transmits a "Do Not Track" header to the websites you visit with information indicating that you do not want your activity to be tracked. McDonald’s does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+Where video is available on our online services, we may target and track the videos you view. You consent to our tracking of your video viewing through online services or third-party social media for up to two years, or as otherwise permitted by applicable law, or until you withdraw your consent.
+
+More information regarding how cookies and technology are used in a country in which you are a customer may be available in the country specific addendum.
+
+Targeted advertising
+When you use our online services, we (and our vendors who provide services to us) may collect information about your activities so that we can provide you with advertising tailored to your interests.
+
+Because we take part in advertising (“ad”) networks, you may see certain ads on other websites. Ad networks allow us to target the information we send you based on your interests, other information related to you, and contextual means. These ad networks track your online activities over time by collecting information through use of cookies, web beacons, and web-server logs. The ad networks use this information to show you advertisements that may be of particular interest to you. The ad networks we take part in may collect information about your visits to websites that also take part in the relevant ad network, such as the pages or advertisements you view and how you use the websites. We use this information, both on our online services and on third-party websites that take part in the ad networks, to provide you with advertising tailored to you, and to help us assess how effective our marketing is.
+
+You can opt out of targeted advertising by visiting the Digital Advertising Alliance website or the Network Advertising Initiative website . If you choose to opt out, you will continue to receive advertisements but they will not be tailored to your interests.
+
+Back to Top
+
+7. Links to Other Websites and Social Media
+Our online services may offer links to websites that are not run by us but by third parties. If you visit one of these linked websites, you should read the website’s privacy policy, terms and conditions, and their other policies. We are not responsible for the policies and practices of third parties. Any information you give to those organizations is dealt with under their privacy policy, terms and conditions, and other policies.
+
+We may also have providers of other apps, tools, widgets and plug-ins on our online services, such as Facebook “Like” buttons, which may also use automated methods to collect information about how you use these features. These organizations may use your information in line with their own policies.
+
+Back to Top
+
+8. Information Security
+We are committed to taking appropriate measures designed to keep your personal information secure. Our technical, organizational and physical procedures are designed to protect personal information from accidental, unlawful or unauthorized loss, access, disclosure, use, alteration, or destruction. While we make efforts to protect our information systems, no website, mobile application, computer system, or transmission of information over the internet or any other public network can be guaranteed to be 100% secure.
+Back to Top
+
+9. Retention
+We keep your information for the length of time needed to carry out the purposes outlined in this privacy statement and to adhere to our policies on keeping records (unless a longer period is needed by law). Our records policies reflect applicable laws. We will retain and use your information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your information to comply with applicable tax/revenue laws), resolve disputes, enforce our agreements, and as otherwise described in this statement.
+
+Back to Top
+
+10. International Data Transfers
+McDonald’s is a global organization with business processes, management structures and technical systems that cross borders. As such, we may share information about you within the McDonald’s Family and transfer it to countries in the world where we do business in connection with the uses identified above. Any international data transfers will be in accordance with this Privacy Statement and in compliance with applicable laws. Some countries in which we operate may have requirements pertaining to international data transfers. That specific information, by country, is provided below in the country specific addendum, where applicable.
+
+McDonald’s Corporation and McDonald’s Global Markets LLC’s participation in the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
+On 16 July 2020, the European Court of Justice ruled that the Commission Implementing Decision (EU) 2016/1250 on the adequacy of the protection provided by the EU-US Privacy Shield is invalid.
+
+Notwithstanding the above, McDonald’s Corporation and McDonald’s Global Markets LLC, a wholly-owned subsidiary, participate in the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks (“Privacy Shield”) administered by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. For purposes of this Privacy Shield section only, McDonald’s Corporation and McDonald’s Global Markets LLC are each individually and collectively referred to as “McDonald’s Global”. McDonald’s Global participation in the Privacy Shield subjects it to the investigatory and enforcement power of the Federal Trade Commission. You can view a complete list of all Privacy Shield participants, including McDonald’s Global, at the Privacy Shield participants page.
+
+As a Privacy Shield participant, McDonald’s Global is committed to and has certified that it adheres to the Privacy Shield Principles for all personal information received from the European Union and Switzerland in reliance on the Privacy Shield. Please note the following:
+
+McDonald’s Global may share personal information that is subject to the Privacy Shield Principles with vendors who provide services to it, as described above in Section 3. McDonald’s Global may be liable under the Privacy Shield if these vendors process such personal information in a manner inconsistent with the Privacy Shield and McDonald’s Global is responsible for the event giving rise to the damage.
+McDonald’s Global may disclose personal information received in reliance on the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+You have the right to request access to personal information received by McDonald’s Global in reliance on the Privacy Shield, and to exercise choice in limiting McDonald’s Global use and disclosure of such information. If you are interested in exercising your right and choice, please contact McDonald’s Global at the address, phone number or email address below.
+McDonald’s Global privacy practices are provided in this Privacy Statement. McDonald’s Global encourages you to contact it at any time with questions, concerns or complaints about its privacy practices and participation in the Privacy Shield; simply use the address, phone number or email address provided below. You may also refer a complaint to your local data protection authority and McDonald’s Global will work with them to resolve your concern.
+
+If McDonald’s Global is unable to resolve your concern regarding your personal information received by McDonald’s Global under the Privacy Shield, you have the right to direct your unresolved concern to JAMS, an independent dispute resolution service based in the United States, to provide recourse at no charge to you. To seek recourse for an unresolved concern, visit JAMS' Privacy Shield Dispute Resolution page . If JAMS is unable to resolve your concern, you may have the right to invoke binding arbitration under certain conditions. To learn more about this option, visit the Privacy Shield "How to Submit a Complaint" page.
+
+Please note that the foregoing processes apply only to the resolution of disputes regarding personal information received by McDonald’s Global under the Privacy Shield. All other disputes that you may have with McDonald’s Global or any other members of the McDonald’s Family, or any agents, representatives, agencies, officers, directors, or employees, must be resolved in accordance with the terms and conditions of any applicable websites, mobile apps, email newsletters, email subscriptions or other digital properties owned or controlled by a member of the McDonald’s Family.
+
+For more information about the Privacy Shield program, and to view McDonald’s Global certification, please visit the Privacy Shield website.
+
+Back to Top
+
+11. Changes To Our Privacy Statement
+This privacy statement is in effect as of the date noted at the top of the statement.  We may change this privacy statement from time to time.  If we do, we will post the revised version here and change the “last updated date” (the date it applies from) at the top of the statement.  You should check here regularly for the most up-to-date version of the statement.
+Back to Top
+
+12. How To Contact Us
+You can contact us at any time about McDonald’s privacy practices at our Global or Local Data Protection Offices. Our Local Data Protection Offices can assist with country-specific queries or information. Contact information for our Local Data Protection Offices can be found in the country specific addendum.
+
+Global Data Protection Office
+Attention: Global Data Protection Office
+Privacy at McDonald's, Dept. 282
+110 North Carpenter Street
+Chicago, IL 60607-2101, USA
+contact.privacy@us.mcd.com
+
+Back to Top
+
+United States
+Last updated: May 20, 2021
+
+McDonald’s USA is committed to protecting the information of our customers. The below is meant to provide additional information regarding our privacy practices in the United States.
+
+Children’s Privacy Notice
+We do not knowingly collect personal information through our online services from children under the age of 13.  We may offer certain features on our online services, such as games, coloring activities, and digital books, that children can use without providing any personal information.  In the future, should we decide to collect personal information from children under 13 through our online services, we will do so in compliance with applicable law, including any notices to and obtaining any consents from parents or guardians that are required by law.
+
+We urge parents to regularly monitor and supervise their children's online activities. If you have any questions about our children’s privacy practices, please contact us at:
+
+Privacy at McDonald's, Dept. 282
+110 North Carpenter Street
+Chicago, IL 60607-2101, USA
+contact.privacy@us.mcd.com
+
+Notice to California residents under 18 years of age
+If you are a registered user of online services under the age of 18, and we have actual knowledge of your age, then under California law you may request and obtain removal of certain content or information you have posted on our online services. To do so, please contact us at the address, phone number or email address below. Please note that removal does not ensure complete or comprehensive removal of the content. For example, removal may not be possible or permitted if another provision of law requires the content to be maintained, if it was posted or reposted by others, or if we paid compensation to you in exchange for the posting.
+
+Additional Notice for California Consumers
+This part of our Privacy Statement applies to consumers who reside in the State of California.
+
+1.  Personal information we collect about California consumers
+We describe the personal information we have collected about California consumers in the twelve (12) months preceding the “Last Updated” date of this Privacy Statement in the part titled, “Information we collect.” The information we have obtained includes the following:
+
+Identifiers such as name, postal and email addresses, internet protocol (IP) address, social media handles, username, password and other contact information used to register and access McDonald’s products and services, log-in to Wi-Fi, enter one of our competitions, or contact us by phone or through our online services. The following categories of personal information described in California Civil Code § 1798.80(e): (1) the personal information listed in the preceding bullet point as “identifiers,” (2) signatures, (3) telephone number, (4) payment information (including payment card details or online payment services number and invoicing address) and financial information (such as bank account numbers), (5) physical characteristics or description, and (6) the other information that identifies, relates to, describes, or is capable of being associated with, a particular individual that we describe in “Information we collect.” 
+Commercial information, including (1) records of products or services purchased or received from McDonald’s, (2) username, password, or other account information used to obtain access to McDonald’s online services; (3) information on actions taken on McDonald’s websites or mobile apps, which may include information about McDonald’s products or services considered and the times you visit our websites or use or mobile apps, and (4) information about consumer preferences and behavior that we collect on our websites and mobile apps or purchase from third parties in order to target consumers for digital advertisements or to personalize content we deliver on our websites and mobile apps.
+Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an Internet Web site, application, or advertisement, as well as the information listed above in the section titled “Information we Collect:”
+computer or mobile-device operating system and browser type;
+type of mobile device and its settings;
+unique device identifier (UDID) or mobile equipment identifier (MEID) for your mobile device;
+device and component serial numbers;
+advertising identifiers (for example, IDFAs and IFAs) or similar identifiers;
+referring website (a site that has led you to ours) or application;
+online activity on other websites, applications or social media; and
+activity related to how you use our online services, such as the pages you visit on our sites or in our mobile apps.
+Geolocation data.
+Characteristics of protected classifications under California or federal law, such as demographic information like age or gender.
+Audio information from calls placed with customer service centers which may be recorded, and electronic information in the form of Internet or other electronic network activity information as described above.  When you visit our restaurants, we may also capture video information via CCTV cameras that help us monitor restaurant safety.
+Inferences drawn from (1) the information we collect when you visit our websites, use our apps, interact with our official social media pages, or otherwise interact with us; (2) information we collect, including through third-party suppliers, regarding content and other data posted on the Internet (such as public locations on the Internet), and (3) information about consumer preferences and behavior that we collect on our websites and mobile apps or purchase from third parties in order to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes.
+We collect this personal information directly from you when you provide information to us, for example, when registering for or using our online services, logging into Wi-Fi, using our in-restaurant digital channels, entering one of our competitions, or contacting us; from your computer system or mobile device when you use our online services, visit our restaurants, or use in-restaurant technologies; from other companies and organizations, such as our advertising agency partners, social media networks, data brokers, payment processors, and other providers; and from publicly available sources.  For more information, please review “Information we collect.”
+
+2. Use of personal information
+We use the personal information we collect about California consumers for the business purposes disclosed within our Privacy Statement.  For more information, please review “How We Use the Information We Collect.”
+
+The business purposes for which we may use personal information about California consumers include:
+
+Audits and reporting relating to particular transactions and interactions, including online interactions, you may have with us or others on our behalf;
+Detecting and protecting against security incidents, and malicious, deceptive, fraudulent or illegal activity, and prosecuting the same;
+Debugging to identify and repair errors in our systems;
+Short-term, transient use including contextual customization of ads;
+Providing services on our behalf or on behalf of another, including maintaining or servicing accounts, providing customer service, fulfilling transactions, verifying identity information, processing payments, and other services. This includes:
+Conducting internal research to develop and demonstrate technology; and
+Conducting activity to verify, enhance, and maintain the quality or safety of services or devices which we may own, control, or provide.
+We may also use the information we collect for our own or our service providers’ other operational purposes, purposes for which we provide you additional notice, purposes disclosed elsewhere in this Privacy Statement, or for purposes compatible with the context in which the personal information was collected.
+
+3.  Disclosures of personal information
+As is common practice among businesses that operate Internet websites and mobile apps, within the past 12 months, we may have shared certain identifiers such as email addresses and pseudonymized identifiers, information about the use of our websites and apps, and inferences drawn about you to our social media, advertising, and analytics partners.  Under certain state laws, this may be considered to be a sale of personal information for consideration.  We do not disclose personal information of individuals we know to be under the age of 16 to other businesses or third parties for consideration.
+
+We have disclosed personal information in all or substantially all of the categories identified in this Additional Notice for California Consumers to members of the McDonald’s Family, vendors who provide services to us, in connection with a sale or transfer of all or part of our business, and as otherwise provided in “How we share the information we collect” and “How do you share personal information?”
+
+4.  Your California privacy rights
+If you are a California resident, you have the following rights.  We will honor requests received to the extent required by applicable law and within the time provided by law.
+
+a.  Right to Access, Right to Know, and Right to Deletion
+
+Right to Access and Right to Know regarding Personal Information.  You have the right to request that we disclose the following to you, in each case in the twelve-month period preceding your request:
+the categories of Personal Information we have collected about you;
+the categories of sources from which the Personal Information is collected;
+our business or commercial purpose for collecting or selling Personal Information; 
+the categories of third parties with whom we share Personal Information; and
+the specific pieces of information we have collected about you. 
+the categories of personal information about you, if any, that we have disclosed for monetary or other valuable consideration and the categories of third parties to which we have disclosed the information, by category or categories of personal information for each third party to which we disclosed the personal information; and
+the categories of personal information about you that we disclosed for a business purpose.
+Right to Deletion of Personal Information.  You have the right to request that we delete Personal Information about you that we have collected from you.
+For requests made in connection with the Right of Access, Right to Know, and/or Right of Deletion, please note:
+
+as required under applicable law, we must take steps to verify your request before we can provide personal information to you, delete personal information, or otherwise process your request.  To verify your request, you must provide your name, email address, and state of residence, and you may also have the option to provide you phone number.  If we believe we need further information to verify your request as required by law, we may ask you to provide additional information to us.
+we will process your request within 45 days after receipt of a verifiable request, unless
+we notify you that we require additional time to respond, in which case we will respond within such additional period of time required by law.  If your request involves us providing personal information to you, we may deliver the personal information to you through your account, if you maintain an account with McDonald’s, or electronically or by mail at your option.  If electronically, then we will deliver the information in a portable and, to the extent technically feasible, in a readily useable format that allows you to transmit the information from one entity to another without hindrance.
+b.  Right to Opt Out.  You have the right to opt out of the disclosure of personal information about you for consideration. Select Do Not Sell My Info to be directed to an interactive form through which you may submit an online request to opt-out. To opt-out of collection of information by analytics, advertising, and social media partners, you can use our preferences management tool on www.mcdonalds.com, and also visit the opt-out tools provided by the Network Advertising Alliance and the Digital Advertising Alliance.
+
+c.  Right to Non-Discrimination.  We may not discriminate against you because of your  exercise of any of the foregoing privacy rights, or any other rights under the California Consumer Privacy Act, including by:
+
+Denying you goods or services;
+Charging different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties;
+Providing you a different level or quality of goods or services; or
+Suggesting that you will receive a different price or rate for goods or services or a different level or quality of goods or services.
+We may, however, charge different prices or rates, or provide a different level or quality of goods or services, if that difference is reasonably related to the value provided to McDonald's by your personal information.
+
+5.  Requests to exercise your rights 
+You may request to exercise these rights by:
+
+Submitting a request through CCPA Rights Center. 
+Calling us toll-free at 888-511-9903. 
+As required or permitted under applicable law, please note that we may take steps to verify your identity before granting you access to information or acting on your request to exercise your rights. We may limit our response to your exercise of the above rights as permitted under applicable law. 
+
+6.  Agent Authorization
+You may designate an authorized agent to request any of the above rights on your behalf. You may make such a designation by providing the agent with written permission, signed by you, to act on your behalf.  Your agent may contact us as set forth below in “How to Contact McDonald’s USA” to make a request on your behalf.  Even if you choose to use an agent, as permitted by law, we may require verification of the agent’s authorization to act on your behalf, require you to confirm you have authorized the agent to act on your behalf, or require you to verify your own identity.
+
+7.  Disability Access
+If you are a user with a disability, or an individual assisting a user with a disability, and have difficulty accessing or navigating our digital channels – including this Privacy Statement – please contact us at accessibility@us.mcd.com.  You can also review our Accessibility Statement.
+
+Do Not Track
+
+Please note that our Web sites and mobile apps are not designed to respond to "do not track" requests from Web browsers.
+
+How to Contact McDonald’s USA
+If you have privacy questions specific to McDonald’s USA, you can reach us at:
+
+Privacy at McDonald's, Dept. 282
+110 North Carpenter Street
+Chicago, IL 60607-2101, USA
+contact.privacy@us.mcd.com
+
+Back to Top

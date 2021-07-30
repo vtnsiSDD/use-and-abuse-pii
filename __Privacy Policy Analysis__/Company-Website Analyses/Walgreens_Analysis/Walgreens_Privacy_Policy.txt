@@ -1,0 +1,218 @@
+( Date Accessed: 6/09/2021, From: https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security )
+
+( Embedded Hyperlinks Used:
+mailto:privacy.office@walgreens.com
+https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationforCaliforniaConsumers
+https://www.walgreens.com/topic/help/general/noticeprivacypractices.jsp
+mailto:privacy.office@walgreens.com
+https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#YourChoices
+https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#YourChoices
+https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
+https://www.walgreens.com/youraccount/communication_preferences.jsp
+mailto:Customerservice@mail2.walgreens.com
+https://www.aboutads.info/choices
+https://www.networkadvertising.org/choices/
+mailto:privacy.office@walgreens.com
+mailto:privacy.office@walgreens.com
+https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationWeCollect
+https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationWeCollect
+https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#HowWeUseYourInformation
+https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#HowWeShareYourInformation
+https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#HowWeShareYourInformation
+https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationWeCollect
+https://www.walgreens.com/topic/donotsellmyinfo.jsp?o=acs
+http://datatrust.walgreens.com/consumerrights
+https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationforCaliforniaConsumers
+mailto:privacy.office@walgreens.com
+)
+
+The Privacy Policy covers the type of data we collect and how we use it, as well as your rights as a consumer. Please don’t hesitate to contact us with any questions.
+
+Walgreens Online Privacy & Security Policy
+This Privacy Policy lets you know how we collect, use, share, and protect information about you. By interacting with Walgreens through our stores, websites, mobile applications, and any other Walgreens affiliate websites where you may interact with Walgreens, you consent to the practices described in this Privacy Policy. Any changes in our Privacy Policy will appear on this page so that you are aware of the data we collect and how we use it. For California residents, there is an "Information for California Consumers" section in this Privacy Policy.
+In some circumstances, Walgreens use of your information will be subject to the requirements of the Health Information Portability and Accountability Act (commonly known as "HIPAA"). For example, if you log in to your pharmacy account and submit information regarding a prescription order, that information is subject to HIPAA requirements. In those circumstances, the Walgreens Notice of Privacy Practices and not this Privacy Policy will apply. If you have questions about which policy applies to the information you have submitted, please do not hesitate to Contact Us.
+Our Privacy Program
+At Walgreens, we are committed to maintaining our customers' privacy. We take great care to safeguard the information that we collect to maintain our customers' privacy. We have provided this Privacy Policy to you to describe information collection and use practices at Walgreens. This Privacy Policy describes the choices you can make about the way your information is collected and used.
+
+Information We Collect
+We want you to understand how information you provide to us is collected and used. When you interact with Walgreens or use our services, we collect certain information about you and the services you use. An example of using our "services" would be when you visit one of our stores or websites. We may collect and store information from you in the following situations:
+Information you provide to us directly, including when you:
+Make an in-store or online purchase, or other transaction with us;
+Create an account on one of our websites or mobile application;
+Participate in our loyalty programs;
+Participate in a contest, sweepstake, promotion, or survey;
+Correspond directly with us, such as through our websites, postal mail, customer service, or dispute resolution mechanisms; or
+Post a review or comment on one of our websites, or post other user-generated content on one of our websites or mobile application.
+Information we collect when you use our services, including:
+Device Information
+We may collect device-specific information when you visit our websites or use our mobile applications or services. This includes information such as Internet Protocol (IP) address, hardware model, operating system, unique device identifiers, mobile network information, location data such as zip code, the address of referring websites, the path you take through our websites, and other information about your session on our websites. We may also associate the information we collect from your different devices, which helps us provide consistent services across your devices.
+Log Information
+This includes details of how you used our websites or mobile applications including clicks and page information such as the address (or URL) of the website or mobile application you came from before visiting our website or mobile application, which pages you visit on our website or mobile application, which browser you used to view our website or mobile application, and any search terms entered.
+Other information from your interaction with our websites, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the websites, ad data and other standard weblog information.
+Precise Location Information
+When you use our services on your mobile phone or device and enable location services on your mobile phone or device browser, we may collect information about your physical location through satellite, cell phone tower, WiFi signal, beacons, Bluetooth and near field communication protocols ("precise location information"). If you use our mobile application, your device may share precise location information when you enable location services for our app. To learn how to opt-out of sharing your precise location information with Walgreens, go to the "Your Choices" section of this Privacy Policy. When you use our mobile app, we may also request access to your Bluetooth signal from your device. If you enable our mobile app to use your Bluetooth signal, we may be able to determine your device's in-store location. To learn how to opt-out of sharing your device's Bluetooth signal with Walgreens, go to the "Your Choices" section of this Privacy Policy.
+In-Store Cameras
+We use in-store cameras for security purposes and for operational purposes such as measuring traffic patterns and tracking in-stock levels.
+Cookies, Web Beacons and Similar Technologies
+"Cookies" are small data files that are sent from a website's server and are stored on your device's hard drive either for only the duration of your visit ("session cookies") or for a fixed period of time ("persistent cookies"). Cookies may store user preferences and other types of information. We use cookies to provide features and services, such as:
+Remembering your preferences and allowing you to enter your username less frequently;
+Presenting information that's targeted to your interests, including Walgreens content presented on another website;
+Measuring the effectiveness of our websites, services, content and advertising;
+Providing other services and features that are available only through the use of cookies.
+The Options/Settings section of most internet browsers will tell you how to manage cookies and other technologies that may be transferred to your device, including how to disable these technologies. You can disable our cookies or all cookies through your browser setting, but please note that disabling cookies may impact some of our website's features and prevent the website from operating properly.
+A "Web Beacon" is an electronic image placed in the code of a webpage, application, or email. We use web beacons to monitor the traffic patterns of users from one page to another and to improve website performance, and in our emails to understand when our email communications are opened or discarded.
+Flash Cookies
+We may use or engage a third party that uses Local Stored Objects, sometimes referred to as "Flash Cookies," and other technologies to collect and store information about the use of our services. A Flash cookie is a small data file placed on your computer or device using Adobe Flash technology. Flash cookies are different from the cookies discussed above because cookie management tools provided by your browser will not remove Flash cookies. To limit the websites that can store information in Flash cookies on your device, you must visit the Adobe website:
+https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
+Information We Collect From Other Sources
+We may collect information that is publicly available. For example, we may collect information you submit to a blog, chat room, or social network. We also may collect information from other companies, organizations, or third-party partners. For example, we may receive information about you from a partner when we jointly offer services or from an advertiser about your experiences with them. By gathering additional information about you, we can correct inaccurate information and give you product recommendations and special offers more likely to interest you.
+
+How We Use Your Information
+Our primary purpose in collecting information is to provide you with a safe, smooth, efficient, and customized experience. We may use your information in a variety of ways, including for the following purposes:
+Product and Service Fulfillment
+We use your contact information to respond to your inquiries, fulfill your requests and improve your experience.
+Our Marketing Purposes
+We use your information to deliver coupons, mobile coupons, newsletters, emails, mobile messages, and social media notifications about our brands, products, events or other promotional purposes.
+We use your information for reporting and analysis purposes. We examine metrics such as how you are shopping on our website, in our stores, and on our mobile applications, the performance of our marketing efforts, and your response to those marketing efforts.
+We use your information to administer promotions, surveys, and focus groups.
+We use your information to enable Online Tracking and Interest Based Advertising as further described in this Privacy Policy.
+We use your information to improve your experiences when you interact with us.
+We use your Precise Location Information to provide location based services for these marketing purposes. For example, using the Store Locator feature in our mobile application can allow you to quickly find the nearest Walgreens location.
+Internal Operations
+We use your information to improve the effectiveness of our services, conduct research and analysis, or to perform other business activities as needed.
+Prevention of Fraud and other Harm
+We use your information to detect, prevent or investigate potential security breaches, fraudulent transactions and monitor against theft.
+Legal Compliance and As Necessary or Appropriate Under Applicable Law
+We may use your information as necessary or appropriate under applicable law, to comply with legal process, to respond to such requests from public and government authorities (including law enforcement), to enforce our terms and conditions, including investigations of potential violations, to detect, prevent or otherwise address fraud, security or technical issues, to protect our rights, privacy, safety or property, and to allow us to pursue available remedies to limit the damages that we may sustain. In matters involving claims of personal or public safety or in litigation where the data is pertinent, we may use personal information without your consent or court process.
+
+How We Share Your Information:
+We do not directly sell, rent, or loan your personally identifiable information to any third parties. We will share your information with companies, organizations and individuals outside of Walgreens as described in this Privacy Policy:
+Internally
+We may share your information with our parent company or affiliates, including but not limited to, Walgreens Boots Alliance Inc., Boots Retail USA Inc., Walgreens Specialty Pharmacy Holdings, LLC, and Walgreens Specialty Pharmacy, LLC DBA Alliance Rx Walgreens Prime.
+When We Work With Third Parties
+We may share your information with affiliated and unaffiliated companies that perform tasks on our behalf related to our business. Such tasks include analyzing website usage data, customer service, electronic and postal mail service, and social and other media services.
+We may work with other companies who place cookies, tags, and web beacons on our websites. These companies help operate our websites and provide you with additional products and services.
+We may also use third-party advertising networks to serve advertisements on our behalf. The cookies received with the banner advertisements served by these networks may be used to collect and build behavioral profiles by these companies to deliver targeted advertisements on our website and unaffiliated websites.
+We may work with other companies who operate their own websites or mobile applications, to allow them to offer Walgreens customers the ability to connect to Walgreens services. These services give you more options for ways to use Walgreens services from websites or apps that are not owned or operated by Walgreens.
+We contract with companies to allow Walgreens customers to access one of their loyalty program accounts from those partners' websites and/or mobile apps. This may include the ability to join a loyalty program, add an existing membership, and/or access your account balance.
+If you participate in a loyalty program component which permits you to connect your loyalty program accounts with apps and devices, including non-Walgreens apps and devices, you may earn value for your healthy activities, Notwithstanding the uses and disclosures set forth above, Walgreens may use or disclose personally identifiable information gathered under one of its loyalty programs for improving health, health research, or with your consent.
+Social Media: Our online services may use social media plugins (e.g., the Facebook "Like" button, "Share to Twitter" button) to enable you to easily interact with certain social media websites (e.g., Facebook, Twitter, Instagram) and share information with others. When you visit our services, the operators of the available social media plugins can place a cookie on your device enabling such operators to recognize individuals who have previously visited our services. If you are logged in to these social media websites while visiting our services, the social media plugins allow the relevant social media websites to receive information that you have visited our services or other information. The social media plugins also allow the applicable social media websites to share information about your activities on our services with other users of the social media website. We do not control any of the content from the social media plugins. We may also interact with you on social media platforms. If you contact us on one of our social media platforms, request services, or otherwise communicate directly with us on social media, we may contact you to interact with you. For more information about social media advertising and social media plugins from other social media websites, please refer to those websites' privacy and data sharing statements.
+When Sharing is Required by Law or Helps Us Protect Our Interests
+We will disclose your information as necessary or appropriate under applicable law, to comply with legal process, to respond to such requests from public and government authorities, to enforce our terms and conditions, including investigations of potential violations, to detect, prevent or otherwise address fraud, security or technical issues, to protect our rights, privacy, safety or property, and to allow us to pursue available remedies to limit the damages that we may sustain. In matters involving claims of personal or public safety or in litigation where the data is pertinent, we may use or disclose personal information without your consent or court process.
+When We Work On Business Transactions
+As we continue to develop our business, we might sell or buy stores or assets, or engage in mergers, acquisitions or sale of company assets. Personal information may be disclosed in connection with the evaluation of and entry into such transactions, or in the course of providing transition of services to another entity as permitted by law. In such transactions, customer information generally is one of the transferred business assets. Additionally, in the event that Walgreens or substantially all of its assets are acquired, customer information will likely be one of the transferred assets as is permissible under law.
+Non-identifiable or Aggregate information with Third Parties
+We may share non-identifiable or aggregate information with third parties for lawful purposes.
+With Your Consent
+At your direction or request, or when you otherwise consent, we may share your information.
+
+Your Choices
+By interacting with any of the Walgreens family of companies as described herein, you consent to the practices described in this Privacy Policy. However, we want you to know that you do have certain choices with regard to how your information is collected and used.
+Email and Mobile Communications
+You may choose to stop receiving email and mobile marketing communications by changing your preferences online. If you have an online account, log in to Your Account and click on Communication Preferences. If you do not have an online account, you may click Unsubscribe from the bottom of Walgreens emails, and reply STOP to our text messages to stop receiving emails and SMS text messages. To request unsubscribing by email, contact Customerservice@mail2.walgreens.com.
+Mobile Application
+Push Notifications
+You can opt out from further allowing Walgreens to send you push notifications by adjusting the permissions in your mobile device or from the Walgreens app.
+Precise Location Data
+You can opt out from further allowing Walgreens to access precise location data by adjusting the permissions in your mobile device.
+In-Store Location
+You can opt out from further allowing Walgreens to access your Bluetooth signal in our stores by adjusting the location permissions in your mobile device or from the Walgreens mobile application.
+Online Tracking and Interest-Based Advertisements
+Walgreens engages third-party advertisers to provide interest-based advertising on our website, as well as other third-party websites in order to display advertising that is relevant to you. These third parties may collect information about your use of our services over time and that information may be combined with information collected on different websites and online services. These third-party advertisers may be participants in the Network Advertising Initiative and/or the Self-Regulatory Program for Online Behavioral Advertising, which allow users to opt out of ad targeting from participating companies. To learn more about interest-based advertising, or to opt out of having your web browsing information used by certain third-party advertisers for behavioral advertising purposes, go to:  www.aboutads.info/choices or https://www.networkadvertising.org/choices/.
+
+Please Note: When you "opt out" of receiving interest-based advertisements, this does not mean you will no longer see advertisements from Walgreens. It means that the online ads that you do see will not be tailored for you based on your particular interests. We may still collect information about you for any purpose permitted under the Policy, including for analytics and fraud prevention.
+Our "Do Not Track" Policy
+Walgreens respects enhanced user privacy controls. We support the development and implementation of a standard "do not track" browser feature, which signals to websites that you visit that you do not want to have your online activity tracked. Please note that at this time Walgreens.com does not interpret or respond to "do not track" signals. However, you may set your Web browser to not accept new cookies or web beacons, be notified when you receive a new cookie, or disable cookies altogether. Please note that by disabling these features, your experience on Walgreens.com will not be as smooth and you will not be able to take full advantage of our website's features. Please see the Help section of your browser for instructions on managing security preferences.
+Minors
+If you are under 18 years old and a registered user, you can request that we remove content or information that you have posted to our website or other online services. Note that fulfilment of the request may not ensure complete or comprehensive removal (e.g., if the content or information has been reposted by another user). To request removal of content or information, please contact us.
+Accessing and Updating Your Personally Identifiable Information
+You can review and update any of the information you have given us by emailing us or calling 877-924-4472. Our customer care staff will update your information. If you have a Walgreens.com account, you can log in and update your information.
+Links to Third-Party Websites
+Our services may contain links to, or otherwise make available, social media websites and other third-party services, websites and mobile applications that are operated and controlled by third parties. We do not take responsibility for the content or the privacy practices employed by other websites. Unless otherwise stated, any Information you provide to any such third-party website will be collected by that party and not by Walgreens, and will be subject to that party's privacy policy (if any), rather than this Privacy Policy. In such a situation, we will have no control over, and shall not be responsible for, that party's use of the Information you provide to them.
+
+How We Protect Your Information
+Security Measures
+Walgreens recognizes the importance of maintaining the security of your information. Whether you are shopping on our website, through our mobile services, or in our stores, we use reasonable security measures, including administrative, technical, and physical safeguards.
+Email Security
+"Phishing" is a common email scam where your email address is used to contact you and ask for personally identifiable or sensitive information. Always be cautious when opening links or attachments from unsolicited third parties. Also know that Walgreens will not send you emails asking for your credit card number, social security number or other personally identifiable information. If you are ever asked for this information, you can be confident it is not from Walgreens.
+Children's Personal Information
+We recognize the importance of protecting children's online privacy. Our website and mobile services are intended for a general audience and are not directed to children. We do not knowingly collect personal information online from children under the age of 13.
+
+Information for California Consumers
+If you reside in California, we are required to provide additional information to you about how we collect, use and disclose your information that may be considered "Personal Information" under California Law ("CA Personal Information"), and you may have additional rights with regard to how we use and disclose your CA Personal Information. We have included this California-specific information below.
+Collection. Consistent with the "Information We Collect" section above, we collect certain categories and specific pieces of CA Personal Information about individuals who reside in California. Specifically, we may collect the following types of categories of CA Personal Information and have listed some representative data elements in each category:
+Identifiers: such as name, address, telephone number, email address, age, date of birth, username and password for our websites, online identifiers, IP address;
+Characteristics of protected classifications under California or Federal Law such as sex, gender, age (40 or older);
+Commercial information: such as products or services purchased, obtained or considered, other purchasing or consuming histories or tendencies, payment information, health and medical information, health insurance information, loyalty program participation information;
+Internet or other electronic network activity information: such as computer and connection information, statistics on page views, traffic to and from the websites, ad data and other standard weblog information;
+Geolocation information: including location data and precise location data such as physical location information through the use of our services on your mobile phone or device by, for example using satellite, cell phone tower, WiFi signal, beacons, Bluetooth and near field communication protocols, when you are in or near a Walgreens store;
+Audio, visual, or similar information: such as photographs you share, in-store security video, customer service audio recordings; and
+Inferences drawn from other personal information: such as consumer preferences, characteristics, predispositions, and behavior.
+Sources. We may collect certain categories of CA Personal Information from you and third parties as described in the "Information We Collect" section above. The categories of sources from whom we may collect CA Personal Information include the following:
+In our stores (parent, subsidiary and affiliate brands)
+On our websites and mobile applications (parent, subsidiary and affiliate brands)
+When you communicate with our Customer Care Center
+Through participation in loyalty programs
+Third party websites and mobile applications (e.g., websites that share information with us or our advertising partners regarding your online activities)
+Data Suppliers (e.g., companies that provide demographics and other information regarding consumers)
+Joint marketing partners
+Online advertising networks
+Delivery partners/carriers
+Social media companies
+Other service providers
+Survey providers
+Purposes. We collect CA Personal Information for the business and commercial purposes described in the "How We Use Your Information" section above. We also share and/or disclose CA Personal Information as follows:
+Sharing your CA Personal Information for business purposes: As described above in the "How We Share Your Information" section, we may share the following categories of CA Personal Information with third parties who are considered "service providers" as defined under California law since we disclose CA Personal Information to them for our business purposes. We also list representative data elements for each of these categories of CA Personal Information:
+Identifiers: such as name, address, telephone number, email address, age, date of birth, username and password for our websites, online identifiers, IP address;
+Characteristics of protected classifications under California or Federal Law: such as sex, gender, age (40 or older);
+Commercial information: such as products or services purchased, obtained or considered, other purchasing or consuming histories or tendencies, payment information, health and medical information, health insurance information, and loyalty program participation information;
+Internet or other electronic network activity information: such as computer and connection information, statistics on page views, traffic to and from the websites, ad data and other standard weblog information;
+Geolocation information: including location data and precise location data, such as physical location information through the use of our services on your mobile phone or device by, for example using satellite, cell phone tower, WiFi signal, beacons, Bluetooth and near field communication protocols. If you use our mobile application, your device may share location information when you enable location services. We may be able to recognize the location of a mobile device in stores through use of Bluetooth technology;
+Audio, visual, or similar information: such as photographs you share, in-store security video, customer service audio recordings; and
+Inferences drawn from other personal information: such as consumer preferences, characteristics, predispositions, and behavior.
+As described above, examples of business purposes include product and service fulfillment, internal operations, prevention of fraud and other harm, and legal compliance.
+The categories of third party service providers to which we may share the above described categories include Payment Processing Companies, Data Analytics Providers, Fraud Prevention Providers, Cloud Storage Providers, IT Service Providers, Professional Service Providers, Delivery Partners, and Marketing Companies.
+Sharing CA Personal Information with third parties: As described above in the "How We Share Your Information" section, we may share the following categories of CA Personal Information with third parties who are considered "third parties" as defined under California law since we disclose CA Personal Information to them which they may use for secondary purposes. Our disclosure of CA Personal Information to the third parties who use the information for secondary purposes may constitute a "sale" of CA Personal Information as defined under California law. You may stop our potential disclosure of your CA Personal Information to these entities for their use for secondary purposes by opting-out of the sale of your CA Personal Information as described in the California Consumer Rights section below. We also list representative data elements for each of these categories of CA Personal Information:
+Identifiers: such as online identifiers, IP address;
+Commercial information: such as products or services purchased, obtained or considered, other purchasing or consuming histories or tendencies;
+Internet or other electronic network activity information: such as computer and connection information, statistics on page views, traffic to and from the websites, ad data and other standard weblog information;
+Geolocation information: including location data and precise location data, such as physical location information through the use of our services on your mobile phone or device by, for example using satellite, cell phone tower, WiFi signal, beacons, Bluetooth and near field communication protocols. If you use our mobile application, your device may share location information when you enable location services. We may be able to recognize the location of a mobile device in stores through use of Bluetooth technology; and
+Inferences drawn from other personal information: such as consumer preferences, characteristics, predispositions, and behavior.
+The categories of third parties to which we may sell the above described categories of CA Personal Information include online Advertising Networks, Marketing Companies and Social Media Companies.
+Notice of Financial Incentive. We may provide price discounts, coupons, services and other perks for members of our loyalty programs such as myWalgreens. Through these offerings, consumers may provide us with any or all of the categories of CA Personal Information set out above in the "Collection" section depending on how they choose to interact with us when and after they opt-in to our programs. There is no obligation to opt-in and consumers may opt-out at any time. The details of each program are contained in the program offering. We offer these programs, among other things, to enhance our relationship with you so you can enjoy more of our products/services at a lower price. We invest heavily in our marketing and brands, in part, so we can provide programs to our customers. Consumer data is more valuable to our business when it is combined with a sufficient amount of other consumer data and after it is enhanced by our efforts described in this Privacy Policy. The value to our business of any individual consumer’s data is dependent on a number of factors, including, for example, whether and to what extent you take advantage of any offerings, whether and to what extent you opt out of any offerings, and whether we are able to enhance the data through our efforts described in this Privacy Policy. We do not calculate the value of consumer data in our accounting statements. We make this good faith estimate for California residents. To the extent we create overall value from our programs to our business that could be directly or reasonably related to the value of customer data, the method for calculating the value would include: (1) costs related to maintaining the program including but not limited to IT infrastructure, delivery of offers, and skilled marketing teams with the appropriate knowledge to enhance customer data; (2) whether the sales generated by the program exceeds the cost to us of offering the program including value of discounts to customer; and 3) value of the insights we are able to create based upon aggregate data.
+California Consumer Rights. Subject to certain exceptions, as a California resident, you have the right to: (i) request access to your CA Personal Information (including information regarding the sharing of your CA Personal Information); (ii) request deletion of your CA Personal Information; and (iii) opt out of the sale of your CA Personal Information.
+Exercising California Consumer Rights. Should you wish to request the exercise of your rights as detailed above with regard to your CA Personal Information, we will not discriminate against you by offering you different pricing or products or services, or by providing you with a different level or quality of products or services, based solely upon this request. You may receive a different level or quality of goods or services as permitted by California law in connection with programs such as myWalgreens if you exercise your right to request deletion of your CA Personal Information. To the extent you provide CA Personal Information in connection with programs such as myWalgreens, additional information about the terms applicable to those programs, including our use of CA Personal Information in exchange for the applicable financial incentives, can be found in the terms and conditions for those programs and in the Notice of Financial Incentive section above.
+You or your authorized agent may submit a request to exercise your California Consumer Rights by using one of the following specifically designated methods:
+Self-service on our digital properties:
+Click the following links and confirm your choices:
+Do Not Sell My Personal Information
+Exercise California Consumer Privacy Rights
+ORContacting our Customer Care Center at 800-WALGREENS (800-925-4733).
+After you submit a request to exercise a California Consumer Right as described above, you will enter into a two-part verification process.
+For part one, you must verify your identity by correctly answering demographic questions powered through Lexis Nexis®, and/or confirming control over the phone number and/or email or postal address you provide in the request form.
+If you successfully complete the Lexis Nexis® identity verification and/or the phone and/or email or postal address verification, you will proceed to part two of the process in which we will attempt to match the data provided in the request form to the data we maintain. Depending on the type of request submitted, if you are matched to a high degree of certainty your request will be processed as follows:
+(a) Access request: Your access report will include the specific pieces of CA Personal Information not otherwise subject to an exception pursuant to law that we match to you.
+(b) Deletion request: All data matched to you and not otherwise subject to an exception pursuant to law will be deleted.
+(c) Opt-out request: You will be identified as opted out in our applications.
+If you fail Lexis Nexis® identity verification, but successfully complete phone and/or email or postal address verification you proceed to part two of the process in which we will attempt to match the data provided in the request form to the data we maintain. Depending on the type of request submitted, if you are matched to a reasonable degree of certainty you request will be processed as follows:
+(a) Access request: Your access report will include the categories of CA Personal Information we match to you unless otherwise subject to an exception pursuant to law
+(b) Deletion request: Certain limited data we associate to you will be deleted.
+(c) Opt-out request: You will be identified as opted out in our applications.
+If you fail Lexis Nexis® identity verification as well as phone and/or email and postal address verification, your request will be cancelled and you will be notified.
+For verification of identify for opt-out regarding the sale of personal information at the browser level, verification is confirmed by control of the browser by which you request opt out.
+Additionally, California law requires California residents under the age of 16 to opt-in to the sale of CA Personal Information. We have protections in place to prevent the sale of, and do not intend to and have no actual knowledge that we sell the CA Personal Information of California residents under the age of 16. As a result, certain programs and services may be unavailable to California residents under the age of 16.
+
+How To Contact Us:
+If you have questions about our Privacy Policy, or to exercise your rights as detailed above, except for California Consumer Rights which you may exercise by using the designated methods identified in the "Information for California Consumers, California Consumer Rights” section above, contact us by:
+Phone: (877) 924-4472
+E-mail:   privacy.office@walgreens.com
+Regular mail:
+
+Walgreen Co. Privacy Office
+Attn: Privacy Officer
+200 Wilmot Rd, MS 9000
+Deerfield, IL 60015
+To request this Privacy Policy in an alternative accessible format, call our Customer Care Center at 800-WALGREENS (800-925-4733).
+Effective Date: 10/21/2016; Last Updated: 2/18/2021
+
+

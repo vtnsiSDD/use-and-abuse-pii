@@ -1,0 +1,209 @@
+( Date Accessed: 6/01/2021, From: https://www.aclu.org/about/privacy/statement/ )
+
+( Embedded Hyperlinks Used: 40
+https://www.aclu.org/blog/privacy-technology/internet-privacy/few-easy-steps-everyone-should-take-protect-their-digital?redirect=blog/speak-freely/few-easy-steps-everyone-should-take-protect-their-digital-privacy
+https://www.aclu.org/about/privacy/cookies/
+https://www.aclu.org/about/privacy/providers
+https://action.aclu.org/webform/communication-preferences
+https://action.aclu.org/webform/communication-preferences
+mailto:Info@peoplepower.org
+https://www.aclu.org/american-civil-liberties-union-privacy-statement-2013-01-18
+https://www.aclu.org/american-civil-liberties-union-privacy-statement-2016-06-07
+https://www.aclu.org/american-civil-liberties-union-privacy-statement-2016-10-26
+https://www.aclu.org/american-civil-liberties-union-privacy-statement-2017-04-20
+https://www.aclu.org/american-civil-liberties-union-privacy-statement-2018-05-07
+
+https://risk.lexisnexis.com/products/threatmetrix
+https://heap.io/product/security-compliance
+https://www.optimizely.com/legal/opt-out/
+https://www.jacksonriver.com/springboard/
+https://heap.io/product/security-compliance
+https://www.optimizely.com/legal/opt-out/
+https://www.jacksonriver.com/springboard/
+https://www.sailthru.com/
+https://www.aclu.org/home/#people-power
+https://www.jacksonriver.com/springboard/
+https://heap.io/product/security-compliance
+https://www.optimizely.com/legal/opt-out/
+https://www.jacksonriver.com/springboard/
+https://support.google.com/chrome/answer/95647?hl=en
+https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac
+https://support.apple.com/en-us/HT201265
+https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox
+https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
+https://support.microsoft.com/en-us/help/10607/microsoft-edge-view-delete-browser-history
+https://www.samsung.com/uk/support/mobile-devices/what-are-cookies-and-how-do-i-enable-or-disable-them-on-my-samsung-galaxy-device/
+
+https://action.aclu.org/webform/communication-preferences
+mailto:ACLUpreferences@aclu.org
+mailto:ACLUpreferences@aclu.org
+https://support.google.com/chrome/answer/95647?hl=en
+https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac
+https://support.apple.com/en-us/HT201265
+https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox
+https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
+https://support.microsoft.com/en-us/help/10607/microsoft-edge-view-delete-browser-history
+https://www.samsung.com/uk/support/mobile-devices/what-are-cookies-and-how-do-i-enable-or-disable-them-on-my-samsung-galaxy-device/
+)
+
+Privacy Statement
+American Civil Liberties Union Privacy Statement
+Effective as of April 1, 2021.
+
+The American Civil Liberties Union, Inc. (“Union”) and the American Civil Liberties Union Foundation, Inc. (“Foundation”) (collectively, "ACLU," “we,” “our,” “us”) are committed to protecting the personal information that you provide and entrust to us when using our websites.
+This Online Privacy Statement describes how we treat data collected during your visit to ACLU “Sites.” The ACLU Sites include the Union’s website at aclu.org, which may host Foundation content, including all web pages whose domain name contains aclu.org, www.aclu.org, or action.aclu.org, peoplepower.org, and any other websites which are operated by the ACLU and link to this privacy statement. For information on the data practices applicable to People Power, please see that section below.
+To be clear, this is not the online privacy statement for websites operated by the ACLU that do not contain these domain names and do not link to this online privacy statement – for example, www.standwithsnowden.com and www.aclufoundation.org. Those websites have site-specific privacy terms, which are posted on those sites.
+This privacy statement also does not apply to websites that the ACLU does not operate where an ACLU entity has a presence, such as ACLU pages on Facebook.
+Finally, this is not the online privacy statement for the websites of any ACLU local/state affiliate organizations (“Affiliates”). In all of those cases, site-specific privacy terms apply, and are posted accordingly. Please note, however, that this Privacy Statement provides for ACLU to share data collected on the ACLU Sites with Affiliates for use consistent with this Privacy Statement, which is described in more detail below, and that you may be redirected to one of our Sites when interacting with the website of our state Affiliates or other partners.
+Privacy and the Internet
+The Internet, generally speaking, is not currently a private place. As you visit websites, use search engines, and conduct business on the Internet, many different companies and organizations are gathering information about your online behavior by tracking your searches, visits, and transactions, and then matching that data with other information about you or leveraging algorithms to predict your behavior. There are some things you can do to prevent your information from being collected. We encourage you to read our Easy Steps Everyone Can Take to Protect Their Digital Privacy to help protect your privacy online.
+Like most websites, our Sites collect and process a range of data about their visitors to enable full functionality of the website and to deliver requested services. We take many steps to protect your privacy when you visit our Sites. How and when we do so is explained below.
+Data We Collect
+In order to advance our advocacy and outreach programs, and to provide you with a better experience when interacting with the ACLU, we rely on data collected from our supporters. Data collected includes information that you provide directly and web data that may be automatically received and recorded by us from your browser. This section outlines what data is collected, as well as information on how we use collected data.
+Information you provide directly
+Certain pages on the Site may invite you to share personally identifying information, such as your name, address, email address, telephone number, payment information (e.g., credit card information to complete a transaction), or other information you provide when submitting an application. Sharing this information will allow you to make a donation, make a purchase in our online store, join our email list, sign a petition, register for an event or volunteer shift, send us a message or feedback, or to participate in other similar online activities.
+Web data
+We may automatically receive and record information from your browser when you visit our Sites. The information that we collect with these automated methods may include your IP address, cookie information, browser type, system type, and the referring URL.
+In addition, if you sign up for our email list, we may send you an email that includes an embedded image to track open rates or URLs that allow us to track click-rates.
+We may also use cookies to improve website performance, to remember user preferences and settings, and to collect analytic data. By “cookies” we mean small files placed on to your device by websites you visit. “Cookies” may also refer to local storage, which is a mechanism similar to cookies where the information is stored within your web browser. In some instances, we place these cookies ourselves. In other instances, we allow outside service providers to place these cookies, but only if those providers abide by our requirements described below under “How We Work with Service Providers.”
+For more information on how we use cookies, please see Cookies and Data We Collect. You can learn How to Disable Cookies in the section on Your Choices below.
+Third Party Links and Hosted Content
+Our Sites are connected in a variety of ways to content hosted by third parties, including links to social media sites, links to other sites, and embedded media. When you access this content, including content that loads when you browse on the aclu.org domain, third party content hosts may place tracking devices (e.g. cookies or pixels) on your computer, access existing tracking devices that were set when you previously visited other websites, or otherwise gather information about you as you access their content.
+When you click on links to third party websites, including social media sites, you will leave our Site. To learn about how those third parties treat the data they collect through tracking devices and otherwise, see their respective online privacy policies and other posted guidance.
+When you view embedded media, such as videos, that are hosted on other platforms, such as YouTube, but viewable directly through the buttons we provide, you will remain on our Site but you will be visiting these third party’s web environments. In these instances, we make clear that you are viewing external content when you click on links or buttons.
+Our Data Practices
+Data Uses
+We may use your data to:
+•	Fulfill your orders or complete transactions.
+•	Contact you about other ACLU activities or news, or about opportunities to support the ACLU.
+•	Conduct research in order to learn about our constituents as a whole and about ways we might engage you individually.
+•	In the case of petitions, we may display your first name, last initial, and city and state on our website.
+•	In the case of petitions or other direct messages to advocacy targets (such as your member of congress), all required information fields (e.g. name, email address, etc.) will be, and some optional information fields may be, passed on to the advocacy target with your message.
+•	If you have joined People Power, share your name and contact information with other volunteers, and acknowledge your participation in specific volunteer activities.
+•	Use or share your information as otherwise disclosed at the point of collection. For example, when you elect to take an action on our website—such as sign a petition or pledge—we may request information about you and provide a notice that completing and submitting the form will mean that you permit us to share the data you have entered with other parties, such as coalition partners for that campaign.
+•	Deliver targeted content—including advertisements—to you over the phone, through the mail, and using digital platforms such as social media, other websites, search results pages, and mobile applications.
+•	Measure and improve the performance of our Site.
+•	Investigate or maintain the stability and security of our Site.
+To perform each of these functions, we may share your information with Service Providers that support our operations. For an understanding of how your data is shared with those vendors, please see “How We Work with Service Providers” below.
+Additional Uses
+This section provides additional information on some special circumstances where we may use or share your data with other organizations. We believe you should have choice regarding these activities and have included information on how you can choose whether your data is used for these practices in the section Communication Preferences below. For an understanding of how your data is shared with those vendors, please see “How We Work with Service Providers” below. These additional uses are:
+•	Delivering targeted content, including advertisements, to you on non-ACLU digital platforms such as social media, other websites, search results pages and mobile apps.
+•	Engaging in list sharing agreements with non-partisan organizations that may be of interest to you.
+Deliver targeted content on non-ACLU platforms
+To enable us to provide the most relevant information on our activities, we may share your personal information with communications platforms, such as Facebook and Mother Jones, including to deliver our content to you or to identify other people who may enjoy our content.
+We may also share ACLU supporter information with organizations that display our advertisements or petitions to their subscribers. This practice helps us engage in effective fundraising and advocacy operations and enables our teams to communicate more effectively with known supporters.
+Importantly, we want you to have the opportunity to learn about these practices and give you the opportunity to opt out of them. For additional information on with whom we share your data—which may include name, zip code, email address, and other information—for delivering targeted content on non-ACLU platforms, please see this list of service providers delivering targeted content on non-ACLU platforms. If you do not wish to have your data shared with these service providers, please let us know by completing our Communication Preferences form. Additional information on how to change your communication preferences is outlined in the section on Communication Preferences below.
+Engage in list sharing agreements with non-partisan organizations
+We sometimes allow other non-partisan organizations to contact our supporters who have chosen to share their information with us. Working with other organizations in this way, either on a rental basis, in an exchange, or through a data sharing co-op, is critical to maintaining a strong membership base by allowing us to lower costs while reaching the widest possible audience. Data shared on a rental basis or in an exchange is done on a one-time use basis. A data sharing co-op aggregates and models data from multiple organizations to identify individuals that might be interested in hearing from co-op members. When we leave the data sharing co-op, our data is removed from the co-op data model.
+In order to protect your privacy, list sharing agreements are conducted through secure and confidential arrangements in which the external organization does not directly receive information about you. Communications generated from list sharing agreements are carried out by a third-party service provider, who keeps your information confidential. The other organization learns information about you only if you choose to respond to the third-party communication. If you do not wish us to make information about you available for this type of communication, please let us know by completing our Communication Preferences form. Additional information on how to change your communication preferences is outlined in the section on Communication Preferences below.
+Data Sharing
+How We Work with Our Affiliates
+We work and share your data with our ACLU affiliates around the United States to create a cohesive experience for our supporters and members. Our Affiliates are bound to use the data that we provide them no more broadly than as would be allowed under this Online Privacy Statement, and with regard to their own operations.
+How We Work with Service Providers
+We work with a variety of service providers who help us undertake the activities outlined in “Our Data Collection Methods,” including processing data; facilitating the operation of our site; supporting our fundraising, marketing, communications, and advocacy programs; and delivering messages to you on other platforms. For example, service providers may help us analyze traffic on our site, process credit card transactions, or facilitate activities such as the collection and delivery of petition signatures or surveys.
+To the extent that any service provider has access to personally identifiable data about you, (1) it is transmitted by us to that service provider in a secure manner (please see Security Measures and Data Transmission below for more information on our security practices) and (2) we require that service provider to promise to keep that data confidential and use it only for the purpose of carrying out the functions we have engaged it to perform.
+We allow some service providers to compile and use certain aggregated data for other purposes once it has been anonymized. This may include, for example, analyzing anonymized data in order to assess donor trends across organizations over time, or allowing a service provider to take aggregated and anonymized data about activity on our Site, and using that data for other purposes such as improvement of their products or benchmarking for their other clients. But we won’t agree to that unless we are confident, in each instance, that the data won’t be recombined with other information to create any record about you as an identifiable individual.
+Additionally, we may share your data with service providers to deliver targeted content to you on non-ACLU platforms, as described in the above section “Additional Uses.” Data shared with these service providers are transmitted in a secure manner (as described below under “Security Measures and Data Transmission”), and additionally hashed to improve privacy (hashing data refers to the practice of scrambling data in a pre-defined manner to make it more difficult to recognize). As we have limited ability to perform detailed reviews of these service providers’ security practices, and the service providers’ terms are subject to change without notice, we rely on publicly posted information to ensure their data practices meet our standards. We review these terms on a quarterly basis to ensure they have not changed their assurances.
+Other Disclosures
+We may also disclose your data if we are required to do so by law, such as to comply with a subpoena or other legal process, a court order, or government reporting obligations.
+If we determine we are required by law to disclose your data and if we are legally permitted to do so, we will provide you with notice of the request prior to making the disclosure to give you an opportunity to object to the disclosure. We will not provide such notice, however, if the disclosure is pursuant to our regular government reporting obligations, such as financial disclosures required for tax law compliance.
+Security Measures and Data Transmission
+We have taken physical, electronic, and administrative measures to safeguard the information we collect. We work to ensure data accuracy and protect against unauthorized access to, and improper use of, information we collect online.
+Information that can be readily linked to you personally, such as your name and address, is stored by us on servers subject to security safeguards. Additionally, all data transmitted to and from our website, including credit card numbers, are encrypted in transit.
+We require our service providers to whom we transfer your information to agree to take reasonable security measures in the handling and storage of your data. For service providers with access to particularly sensitive information, we may also undergo a more intensive assessment of their platforms and security practices to verify their commitments to maintain the confidentiality and privacy of data in their possession. We may also hash data in order to improve privacy. This is true when sharing data to deliver targeted content on non-ACLU platforms.
+Consistent with these practices, we attempt to transmit emails to you using opportunistic Transport Layer Security (TLS). If your email provider does not accept our initial attempt to transmit using TLS, your message will be sent in plain text, which is not secure.
+Exception: People Power
+If you join the People Power volunteer program, some of the service providers who operate tools for that program may require broader rights to retain and use information about you. They may also have their own approach to data security and data transmission. We do not generally impose our data security standards or perform security assessments of those service providers.
+People Power is the Union’s nationwide program for enrolling and organizing volunteers. When you indicate you wish to join People Power, information about you may be passed through a variety of digital tools, such as tools for sending emails, scheduling events, and allowing volunteers to communicate with one another.
+In the People Power context, each of the tools we use has its own privacy rules, determined by the individual service provider. In some instances, you will know what those tools are. For example, if you are using a texting or scheduling tool, it will be clear to you which service providers have been engaged to provide those tools, and you can learn about how those service providers will treat your data by reviewing their respectively posted privacy statement. In other cases, it may not be clear to you what service providers are supporting the People Power program; for example, the service provider we are using to store your information. For more information about what tools are used to support this program, you may reach out to us at Info@peoplepower.org. Also, please be aware that some of the service providers supporting the People Power program may use tracking devices (e.g. cookies and pixels), or otherwise automatically collect information about you. Some may use information about you for purposes other than those of People Power, or disclose information about you to other parties.
+To be clear: if you join People Power and are otherwise an ACLU supporter, this section outlines the manner in which the information you provide to the People Power program will be treated in connection with the program. If you do not want your information to be used in the manner outlined in this section, click on the “Unsubscribe” link in the footer of any People Power email to opt out of the program. Additional information on how to change your communication preferences is outlined in the section on Communication Preferences below.
+Procedure When We Update This Statement
+Our privacy statement may change from time to time. We will post privacy statement changes on this page and, if the changes are significant, we will provide a more prominent notice on our website. We will also keep prior versions of the Online Privacy Statement available for your review in this section.
+Revisions:
+•	January 18, 2013 (comprehensive restatement)
+•	June 7, 2016 (comprehensive restatement)
+•	October 26, 2016 (clarifications of prior version, and new adjustments allowing us to reach website visitors on other online platforms)
+•	April 20, 2017 (clarifications to prior version regarding sharing visitor information with other organizations)
+•	May 7, 2018 (additions setting out the rules that apply when a visitor chooses to join our People Power volunteer program and clarifications regarding disclosures when we process petitions and other direct advocacy messages)
+•	April 1, 2021 (clarifications to prior versions regarding our data sharing practices with service providers, and additions to provide site visitors with the ability to choose how we use your data)
+
+
+Cookies and Data We Collect
+
+Categories of Cookies and Information We Collect
+Protection against fraud
+Vendor Products
+We have cookies set up to protect us from fraudulent actors making payments through our Sites.
+•	ThreatMetrix
+Communications and marketing
+Vendor Products
+We are constantly learning which platforms are the best platforms to make sure our message reaches people interested in our issues. In order to do that, we may use cookies to collect information about who referred our visitors to our Sites.
+•	Heap
+•	Optimizely
+•	Springboard
+Website Performance
+Vendor Products
+Website performance cookies allow us to make our Sites easier and more pleasant to use. For example, they may enable us to:
+•	Determine how often and where you see our “breaking news” alerts or promotions.
+•	Save you time when filling out a form by populating it with information you provided in previous visits.
+•	Heap
+•	Optimizely
+•	Springboard
+
+Registration
+Vendor Products
+If you are visiting our Sites as a registered user — for example, when you manage your subscriptions for our email lists — we may place cookies in your browser that allow our Sites to recognize that you are logged in.
+•	Sailthru
+•	People Power
+•	Springboard
+
+Analytics
+Vendor Products
+We may use analytics tools that place cookies in order to give us a better understanding of how people engage with our Sites. That in turn allows us to gauge the current performance of website features, and to develop better content. Analytics cookies can provide us with information such as:
+•	How many individual visitors we have
+•	How many visitors are new or returning
+•	How often visitors come to the website
+•	What content they’ve visited
+•	How visitors interact with particular pages or content
+•	Heap
+•	Optimizely
+•	Springboard
+ 
+How to Disable Cookies
+To provide you with maximum choice in deciding what data is collected about you, we have designed our website to work perfectly fine without cookies. If you would like to minimize the information about you collected by the ACLU and its third party content hosts, please see the below instructions for blocking and purging cookies. Please note disabling cookies on your browser may impact the operability of other sites you visit.
+How to disable cookies in:
+•	Google Chrome
+•	Safari
+•	Mobile Safari
+•	Firefox
+•	Internet Explorer
+•	Microsoft Edge
+•	Samsung Internet Browser
+
+
+Your Choices
+
+Communication Preferences
+If you wish to update personal information or change your communication preferences, you may contact us to update our records. You have the following options to do this:
+•	If you are enrolled to receive non-People Power ACLU and affiliate email communications: click on the “Unsubscribe” link in the footer of any ACLU, ACLU Foundation, or affiliate email to change your communication preferences.
+•	If you are enrolled in the Union’s People Power program: click on the “Unsubscribe” link in the footer of any People Power email to opt out of the program.
+•	If you are enrolled to receive automated recurring text messages from 82623, text or reply “STOP” to 82623 to opt out, and for other autodialed text messages we send via an autodialer, reply “STOP” or follow instructions in the text message.
+•	Complete our Communication Preferences form to change your communications preferences for information you shared with us previously for the following:
+o	Paper mail communications
+o	Phone communications
+o	Data sharing with non-ACLU platforms that deliver targeted content (Please note, opting out of this practice will also unsubscribe you from our email communications.)
+o	List sharing agreements with non-partisan organizations
+•	Send an e-mail to: ACLUpreferences@aclu.org.
+•	Send mail to: ACLU Membership Department, 125 Broad Street, 18th Floor, New York, NY 10004.
+If you have any other questions regarding this Privacy Statement or our data practices, you can reach our Data Protection and Governance Lead by emailing ACLUpreferences@aclu.org.
+
+How to Disable Cookies
+To provide you with maximum choice in deciding what data is collected about you, we have designed our website to work perfectly fine without cookies. If you would like to minimize the information about you collected by the ACLU and its third party content hosts, please see the below instructions for blocking and purging cookies. Please note disabling cookies on your browser may impact the operability of other sites you visit.
+How to disable cookies in:
+•	Google Chrome
+•	Safari
+•	Mobile Safari
+•	Firefox
+•	Internet Explorer
+•	Microsoft Edge
+•	Samsung Internet Browser

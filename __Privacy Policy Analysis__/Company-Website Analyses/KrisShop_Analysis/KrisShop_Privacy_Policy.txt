@@ -1,0 +1,384 @@
+( Date Accessed: 6/09/2021, From: https://www.krisshop.com/en/page/privacy)
+
+( Embedded Hyperlinks Used:
+https://www.krisshop.com/en/page/cookies
+https://www.krisshop.com/en/page/cookies
+https://www.krisshop.com/en/page/cookies
+https://www.singaporeair.com/saar5/pdf/privacy-policy/Request-For-Report-of-Personal-Data_25May2018.pdf
+https://www.singaporeair.com/saar5/pdf/privacy-policy/Request-For-Report-of-Personal-Data_25May2018.pdf
+http://www.singaporeair.com/saar5/pdf/privacy-policy/Request-For-Report-of-Personal-Data_25May2018.pdf
+https://www.singaporeair.com/saar5/pdf/privacy-policy/Request-For-Report-of-Personal-Data_25May2018.pdf
+https://www.singaporeair.com/saar5/pdf/privacy-policy/Request-For-Report-of-Personal-Data_25May2018.pdf
+https://www.singaporeair.com/saar5/pdf/privacy-policy/Request-For-Report-of-Personal-Data_25May2018.pdf
+https://www.krisshop.com/en/page/cookies
+)
+
+KrisShop Privacy Policy
+Last Updated: 2 November 2020. Effective from 16 November 2020. © KrisShop Pte. Ltd.
+
+Our Commitment to Privacy
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personal data may be requested.
+
+What our Privacy Policy Covers
+This Privacy Policy covers any personal data that KrisShop Pte. Ltd. obtains from you when you use services on our site and/or access the KrisShop Platforms (as defined in our Platform and Sale Terms (“Terms”)). "Personal data" shall mean any information relating to you as an identified or identifiable individual. This policy does not cover the practices of companies that KrisShop Pte. Ltd. does not own or control, or the actions of people that KrisShop Pte. Ltd. does not employ or manage.
+
+This Privacy Policy applies to KrisShop Pte. Ltd. (“KrisShop”, “we”, “us”, “our”), which is a subsidiary of Singapore Airlines Limited (“SIA”).
+
+KrisShop is a corporation registered in the Republic of Singapore with company number 197401891E  and a registered office at 25 Airline Road, Airline House, Singapore 819829.
+
+For the purposes of the European Union’s General Data Protection Regulation (“GDPR”) and other applicable data protection laws, we are the data controller. Our data protection officer can be contacted at dpo@singaporeair.com.sg. Our representative in the European Union is the UK establishment of SIA, Singapore Airlines Limited, a branch registered at Building 11, Chiswick Park, 566 Chiswick High Road, London W4 SYS, United Kingdom.
+
+If you have made a purchase with us for products or experiences that are provided by a third party partner, such as spa services offered by The Ritz-Carlton Spa through KrisShop Moments, the provider of such services is also a “data controller” for the purposes of the GDPR. You may access the privacy policies of these partners via their own websites or request a copy of the same from them directly.
+
+We collect, use and disclose Customer Data (as defined below) in order to provide you with a safe, smooth, efficient and customised experience with us. The collection, use and disclosure of Customer Data enables us to provide services and products that are most likely to meet your needs and requirements. This Privacy Policy outlines our policy and responsibility in relation to the collection, use and disclosure of Customer Data.
+
+By continuing to use our services, you signify that you have read and understood this Privacy Policy.
+
+SUMMARY
+What information do we collect about you?
+We collect information when you purchase products or services on our Platforms, such as your contact details, travel information and credit card details. In addition, we collect device and technical information from you, and any other information you may submit when you use our Platforms. For more information please refer to section (1) below.
+
+How will we use the information about you?
+We use your information to fulfil our contract with you or otherwise deliver any other products or services you have requested for or signed up to, and to administer your registered account with us (if you have one). We use certain information where this is required by law, or where we need to verify individual identities to a high degree of fidelity to prevent fraudulent claims or transactions. We also use your information to maintain our Platforms, and to tailor our products and services to your preferences to provide the best service possible. In addition, we use your information to market our products and services to you, and those of our group companies, and partners (with your consent where required by applicable laws). For more information, please refer to section (3) below.
+
+Who do we share your information with?
+We share your data with our third party service providers, to the extent necessary for them to provide their services, such as payment processors and delivery couriers. We use these third parties’ services solely to process or store your information for the purposes described in this policy. We also share your information with related group companies and our overseas stations. More information, please refer to section (4) below).
+
+Where do we process your information?
+We store your data on servers located in Singapore and the United States. Our staff are located in our offices around the world. For more information, please refer to section (5) below.
+
+How long do we keep hold of your information?
+We retain your information for as long as it is necessary to fulfil the purpose for which it was collected, for the legal or business purposes of KrisShop, or as required by applicable laws. We will usually keep your Customer Data for up to 7 years to ensure that any contractual disputes can be addressed. For EU and Swiss residents, we will endeavour to delete your Customer Data within 30 days of a request for erasure, or contact you if it will take longer. For more information, please refer to section (8) below.
+
+How can I exercise my rights over my information?
+You may have various rights in relation to your data.
+For more information for non-EU residents, refer to section (6) below.
+For more information for EU and Swiss residents, refer to section (7) below.
+
+Dispute Resolution
+If you have any concerns or complaints, please contact us at: krisshopcustomercare@krisshop.com
+
+How will we notify you of changes?
+We will amend this Privacy Policy from time to time and the updated versions will be posted on our Platforms and date stamped so that you are aware of when the Privacy Policy was last updated. Please check back frequently to see any updates or changes to this Privacy Policy. If we make any material changes to this Privacy Policy, we will provide notice including by displaying a banner on our Platforms.
+
+1. THE TYPES OF CUSTOMER DATA WE COLLECT
+The types of Customer Data that we collect depend on the circumstances of collection and on the nature of the service requested or transaction undertaken.
+
+There are two broad categories of Customer Data that we collect:
+
+Personal Data. The data we collect includes but is not limited to:
+(i) information you provide to us when you sign up for our mailing list, including your name and email address;
+
+(ii) information you provide to us when making a purchase on the Platforms, including:
+
+(a) contact information, such as mailing address, phone number, email address;
+
+(b) details of the item(s) you purchased; and
+
+(c) payment information, such as credit or debit card information, including the name of cardholder, card number, billing address and expiry date;
+
+(iii) information we receive from other entities within our group of companies, which include SIA, Scoot Tigerair Pte. Ltd. (“Scoot”), SilkAir (Singapore) Private Limited (“Silkair”), Tradewinds Tours & Travel Private Limited and Encounters Pte Ltd (collectively with SIA, the “SIA Group”), including in the following scenarios:
+
+(a) if you are making a pre-order with us for an item to be retrieved on your flight, we receive information from Scoot, Silkair or SIA (as applicable) about your flight booking (such as flight number and destination) in order to verify that you are a passenger on an upcoming flight;
+
+(b) if you are purchasing one of our ‘Travel Exclusive’ items for home delivery following your flight, we receive information from Scoot, Silkair or SIA (as applicable) about your recent flight (such as flight number and destination) in order to verify that you have a valid flown Scoot flight;
+
+(c) in the event that you have made a pre-order with us and your flight is cancelled or you change flights, we receive information from Scoot, Silkair or SIA (as applicable) about any affected pre-orders in order to better manage fulfilment;
+
+(d) information that we receive from SIA for customer service and analytics purposes. This includes receipt of flight data (e.g. flight number, past / upcoming flights, customer data (e.g. email, phone number, customer name, customer mailing address, gender, KrisFlyer number) and  customer service tags (for example, past customer interaction with customer service) to provide and improve our customer service. For data analytics, we receive flight data and combine it with your KrisShop purchases and KrisFlyer tier details. We use this information (sometimes in aggregated form) to improve our customer service, to provide relevant services to you and to understand more about you and your preferences for products, services and flights, such as providing personalisation based on your preferences and producing statistics to help with efficient product stocking for flights;
+
+(e) if you purchase an item during your flight, SIA, Silkair or Scoot will provide your KrisFlyer membership number to KrisShop for KrisFlyer miles accrual.  SIA, Silkair or Scoot will also process any in-flight payments on behalf of KrisShop and will provide a confirmation of your purchase to KrisShop;
+
+(f) in order to fulfil your order, we receive certain flight information and crew information from SIA; and
+
+(g) when a new user provides your membership number to us for the purposes of identifying you as a friend who has referred them to the KrisFlyer programme.
+
+Technical Data. This includes device and technical information you give us when using our Platforms, such as IP addresses or other unique identifiers, cookies, mobile carrier, time zone setting, operating system and platform, and information about your customer journey on our Platforms. Information on cookies may be found in our cookie policy. Please note that in limited circumstances, this Technical Data may be linked with your Personal Data in order to identify you.
+For the purposes of this policy statement, Customer Data means Personal Data and Technical Data.
+
+Special categories of information or “sensitive personal data"
+Certain categories of Customer Data, such as information about your race, ethnicity, religion or health, are considered special categories of information, or “sensitive personal data” under certain applicable laws, including the GDPR. We do not collect any sensitive personal data.
+
+2. HOW WE COLLECT DATA FROM YOU
+We collect Customer Data whenever you use our services, including when you use our Platforms, or when you interact with us via email, social media, our contact centres or any other channels.
+
+We may receive your Customer Data from other entities within the SIA Group, as explained at the section above titled ‘The types of Customer Data we collect’.
+
+In addition, we may receive Customer Data from third parties which are located in various countries. This includes, but is not limited to, our KrisShop partners (including, amongst others, CTRIP, FliggyBuy and other third party integration partners), other contractual parties, and our service providers.
+
+Is the provision of Customer Data required?
+The collection of the following types of Customer Data is mandatory to enable us to fulfil our contract with you for the purchase of items from KrisShop. These types of Customer Data are marked as mandatory on our Platforms when you purchase an item. If you do not provide this information, we will not be able to provide you with our services and/or products required.
+
+Passenger details, e.g. title, first/given name, flight number (your flight number is required if you are making a pre-order with us for an item to be retrieved on your flight or purchasing one of our ‘Travel Exclusive’ items for home delivery following your flight).
+Contact details, e.g. email address, mobile phone number, home number or business number.
+Payment details, e.g. the name on the credit or debit card, the credit or debit card number, expiry date and card verification value on the credit or debit card, and billing address which will be transmitted to our payment processors.
+KrisShop will ask you for information, including some personal data, if you use one of several services:
+
+If you have already signed up for an account on the SIA website or have a KrisFlyer frequent flyer account with SIA, then you will be able to log in to use KrisShop with your existing credentials from SIA.
+
+Referral
+When a new user provides your KrisFlyer membership number to us for the purposes of identifying you as a friend who has referred them to the KrisFlyer programme.
+
+Making a purchase
+When you buy something on our Platforms, you will need to supply a billing address, phone number, shipping address, and payment details. You do not need to be a KrisFlyer member in order to make a purchase.
+
+Flight-related purchases
+If you are making a pre-order with us for an item to be retrieved on your flight or purchasing one of our ‘Travel Exclusive’ items for home delivery following your flight, we will need to collect information about the flight(s) you have booked and/or completed in order to deliver these services to you.
+
+3. HOW WE USE YOUR CUSTOMER DATA
+
+If you are an EU or Swiss resident, we are required to disclose the legal basis for processing your data under the GDPR and the Swiss Data Protection Act. We are also required to disclose the purposes for processing your data under certain applicable laws, including the Singapore Personal Data Protection Act. We will use the Customer Data in the following ways:
+
+In accordance with our Terms of Use and in performance of any contract we have with you, we will use the Customer Data to:
+
+process and assist you with any transactions related to your purchase, fulfilling the purchase booking and investigating potential fraudulent transactions; and
+arrange for delivery of your purchase to your desired destination (including in connection with your flight).
+As it is in our legitimate interests to be responsive to you, to provide customised services and marketing and to ensure the proper functioning of our products, services and organisation, we will use your Customer Data to:
+
+improve our Platforms and to ensure content from the Platforms is presented in the most effective manner for you and your device;
+administer the Platforms, and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+monitor and record calls for quality, training, legal compliance, analysis and other related purposes in order to pursue our legitimate interest of improving service delivery;
+send you direct marketing communications concerning our products and services where you have purchased any of our products/services or where you have made enquiries for this purpose. We will only send you these communications where you have not objected to receiving such communications from us and in line with your marketing preferences.
+customer feedback surveys by email, where you have purchased any of our products or services. You can opt-out of receiving these surveys at any time by contacting us;
+respond to your enquiries, requests or feedback;
+enforce our terms, conditions and policies;
+allow you to participate in interactive features of the Platforms, when you choose to do so;
+customise our products and services to you, including by responding to and catering for your customer preferences;
+personalise the content you see on our Platforms, including by enabling you to save items you are interested in and suggesting items that you might like;
+process any personal data we collect via cookies (necessary for your use of our Platforms) we place on the device you use to access our Platforms. Please see our cookie policy for more information on our use of cookies (and similar technologies).;
+keep the Platforms safe and secure;
+aggregate Customer Data into anonymised statistical data (such as number of visitors to our Platforms), which we will use for statistical analysis so that we can better understand our customers’ profile and improve our service offering;
+where you have subscribed to our mailing list for electronic direct marketing materials, customise (whether directly or using customisation analysis from SIA Group) the direct marketing communications we send to you based criteria we create using the Customer Data we hold on you (in line with this privacy policy) e.g. sending you targeted marketing on suggested items you might like, based on your responses to optional questions on our website. Please note that this is a form of profiling and if you are an EU or Swiss resident, you can object to this profiling and opt-out of receiving such targeted marketing. For more information on this right, refer to section (7): The Right to Object) below; and
+participate in industry studies conducted by public agencies or regulatory authorities in Singapore.
+Where we rely on legitimate interest as a basis for processing your information as permitted by applicable law, we have carried out a ‘balancing test’ to ensure that our processing is necessary and that your fundamental rights of privacy are not outweighed by our legitimate interests, before we go ahead with such processing. We keep a record of these balancing tests where required by applicable law – information of which is available to you on request
+
+With your consent, we will use your Customer Data to:
+
+process any personal data we collect from you via your consent to us setting cookies on the device you use to access our Platforms. Please see our cookie policy for more information on our use of cookies (and similar technologies);
+send you marketing and promotional materials in relation to products and services offered by us, affiliated airlines and service partners, in relation to the SIA Registered Customer, KrisFlyer and HighFlyer programmes. We will only send you these communications where you have not objected to receiving such communications from us and in line with your marketing preferences. You may have consented separately to as part of your KrisFlyer membership to receive marketing and promotional materials from the SIA Group which may include KrisShop content. In such cases, you may object or adjust your marketing and communications preferences under your KrisFlyer account;
+retarget you with KrisShop advertisements across multiple websites you visit, leveraging the cookies we have in place on your device. The effect of this is that where you go to a different website after visiting KrisShop, you may see tailored KrisShop advertisements on these websites. Please see our cookie policy. For information on our use of cookies (and similar technologies); and
+retarget you with KrisShop advertisements across multiple websites you visit, leveraging the cookies other SIA Group companies have in place on your device. The effect of this is that where you go to a different website after visiting the relevant SIA Group company website, you may see tailored KrisShop advertisements on these websites. We only do this where you have consented to the relevant SIA Group company sharing your cookie information with us for these purposes. Please see our cookie policy for more information on our use of cookies (and similar technologies).
+You have the right to withdraw your consent at any time by contacting us at krisshopcustomercare@krisshop.com, or by logging on to your KrisShop account. Please bear in mind that this will not affect the lawfulness of processing carried out based on your consent prior to your withdrawal of consent.
+
+Where we have a legal obligation, we will use your Customer data:
+
+to comply with any applicable legislation;
+to comply with court orders; and
+to comply with orders from applicable regulatory bodies.
+4. DISCLOSURE OF YOUR CUSTOMER DATA
+
+We will share your Customer Data with selected third parties, including with:
+
+third party partners that provide the product or experience you have purchased, such as spa services offered by The Ritz-Carlton Spa through KrisShop Moments. Where Customer Data is shared with such service providers, the Customer Data will be used by that partner in accordance with their respective privacy policy;
+fulfilment partners such as couriers, duty-free service partners, in-flight entertainment and e-commerce platform partners;
+advertisers and advertising networks that require the data to select and serve relevant adverts to you and others;
+our Platform service providers, so that the services of the interactive features you choose to use may be provided to you; and
+analytics and search engine providers that assist us in the improvement and optimisation of the Platforms.
+We will share your Customer Data with any of the entities within the SIA Group, in the situations set out below and in accordance with this Policy:
+
+For the purposes of fulfilling our contract with you, including to:
+(i) verify that you are a KrisFlyer member and to credit KrisFlyer miles to your Krisflyer account for eligible purchases;
+
+(ii) verify that if you are making a pre-order with KrisShop, you are a passenger on an upcoming flight;
+
+(iii) verify that if you are purchasing a ‘Travel Exclusive’ item from KrisShop, you have a valid flown flight;
+
+(iv) confirm information about the status and value of a MAVIS voucher when you redeem it; and
+
+(v) to enable identification of passengers with associated KrisShop pre-order numbers, so that KrisShop can be made aware of flight changes that affect those order and to react to those changes for fulfilment accordingly;
+
+As it is in our legitimate interests to be responsive to you, and to provide customised services and marketing, including to:
+(i) provide an enhanced customer experience and personalise offers to you;
+
+(ii) anticipate the servicing needs of passengers on flights with us;
+
+(iii) understand customers better through analytics and research (including marketing research) to support personalisation and service optimisation;
+
+(iv) contact customers about updates, surveys, and offers on and relating to our Registered Customer, KrisFlyer and HighFlyer programmes;
+
+(v) validate financial records (e.g. for SIA & Scoot crew incentives/commission, KrisFlyer miles redemption, and voucher utilisation);
+
+For the purposes of assisting other entities within the SIA Group to provide relevant services to you and to understand more about you. We do this where this is necessary for the performance of services you have requested or where you have consented to such sharing in line with your marketing and/or data sharing preferences, for example, if you have consented to sharing of cookies when accessing a website of an SIA Group member, you may see KrisShop related marketing on the SIA Group member website; and
+For the purposes of undertaking targeted direct marketing and other forms of marketing or advertisement, including marketing or advertisements for entities within the SIA Group, provided we have the consent of the recipient and in line with the individuals marketing preferences.
+We will disclose your Customer Data to law enforcement agencies, public or regulatory authorities, securities commissions or other organisations for security, health, customs and immigration purposes, if legally required to do so, or if we have a good faith belief that such use is reasonably necessary to:
+
+comply with any applicable legal obligation, process or request;
+enforce our terms and conditions and other agreements, including investigation of any potential violation thereof;
+detect, prevent or otherwise address security, health, fraud or technical issues; or
+protect the rights, property, health or safety of us, our users, a third party or the public as required or permitted by law (including exchanging Customer Data with other companies and organisations for the purposes of fraud protection and credit risk reduction).
+We will also disclose your Customer Data to third parties:
+
+in the event that we sell or buy any business or assets, in which case we may disclose your data to the prospective seller or buyer of such business or assets;
+if we or substantially all of our assets are acquired by a third party, in which case Customer Data held by us about our customers will be one of the transferred assets; or
+to comply with any applicable legal obligations, processes or requests (such as disclosing Customer Data to executors in response to court orders).
+We may also share your Customer Data with public agencies and regulatory authorities in Singapore, together with their subcontractors, for the purposes of participating in industry studies.
+
+We will disclose your Customer Data to our legal advisors for establishing, exercising or defending our legal rights, to our other professional advisors, or as otherwise authorised or required by law. We also reserve the right to share Customer Data as is necessary to prevent a threat to the life, health or security of an individual or corporate entities. Further, we will disclose Customer Data, as is necessary, to investigate suspected unlawful activities including but not limited to fraud, intellectual property infringement or privacy.
+
+5. TRANSFER OF INFORMATION OVERSEAS
+
+Our Head Offices are based in Singapore. Customer Data will be transmitted to data storage facilities where we keep our central records. Customer Data will be transferred to our offices and appointed agents in Singapore and around the world in connection with our performance of the contract with you.
+
+This means that Customer Data will be transferred to, and stored at, a destination outside of your country and outside the European Economic Area ("EEA"), and Switzerland, and in particular to our and our cloud service providers’ data centre locations, such as Singapore and the USA.
+
+We will take appropriate measures to ensure that transfer of Customer Data outside of the EEA and Switzerland are in accordance with applicable laws and regulations, including checking that adequate levels of protection are in place in relation to the Customer Data in the recipient country and entity, and requiring adequate contractual obligations, regulatory approved certification or binding corporate rules against the recipient entities to protect the Customer Data.
+
+The Customer Data will be processed by staff operating outside the EEA and Switzerland who work for us, for our suppliers or our business partners. Such staff are engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. The Customer Data is transferred outside the EEA and Switzerland on the basis that it is necessary for the performance of our contract with you.
+
+If you are an EU or Swiss resident, where we transfer Customer Data outside the EEA and Switzerland, this is done either on the basis that it is necessary for the performance of our contract of carriage with you, or that the transfer is subject to the European Commission’s model contracts for the transfer of personal data to third countries (i.e. the standard contractual clauses), pursuant to Decision 2004/915/EC and Decision 2010/87/EU as appropriate.
+
+6. NON-EU AND NON-SWISS DATA SUBJECT RIGHTS
+
+If you are not a resident in the EU (Switzerland excluded), you may have certain rights in relation to the Customer Data we hold about you, which we detail below.
+
+Access
+You have the right to know whether we process Customer Data about you, and if we do, to access Customer Data we hold about you and certain information about how we use it and who we share it with.
+
+Where permitted by law, we reserve the right to charge a reasonable administrative fee for this service. In exceptional circumstances, we reserve the right to deny you access to your Customer Data and may provide an explanation as required by applicable laws.
+
+Exceptional circumstances include (to the extent allowable under applicable law) where:
+
+(i)     an investigating authority or government institution objects to us complying with a customer’s request;
+
+(ii)    the information may, in the exercise of our reasonable discretion and/or assessment, affect the life or security of an individual; and
+
+(iii)  data is collected in connection with an investigation of a breach of contract, suspicion of fraudulent activities or contravention of law.
+
+Correction
+You have the right to correct any Customer Data held about you that is inaccurate.
+
+Feedback and complaints
+If you have any concerns, feedback or complaints about the use and/or sharing of your Customer Data, we are open to receiving your feedback or complaints.
+
+Exercise of Rights.
+To exercise any of your rights, please use the following form: Data Privacy Rights Form and submit it to krisshopcustomercare@krisshop.com. If you are a registered user, you may correct any Customer Data by logging into your account.
+
+7. EU DATA AND SWISS SUBJECT RIGHTS
+
+If you are a resident in the EU or Switzerland, you may have certain rights in relation to the Customer Data we hold about you, which we detail below. Some of these only apply in certain circumstances as set out in more detail below. We also set out how to exercise those rights.
+
+These rights include:
+
+The right of access.
+The right of data portability.
+The right of rectification.
+The right of erasure.
+The right to restrict processing.
+The right to object.
+Please note that we will require you to provide us with proof of identity before responding to any requests to exercise your rights. We will respond to a request by you to exercise those rights without undue delay and at least within one month (although this may be extended by a further two months in certain circumstances). To exercise any of your rights, please use the following form: Data Privacy Rights Form and submit it to krisshopcustomercare@krisshop.com.
+
+Complaints.
+In the event that you wish to make a complaint about how we process your Customer Data, please contact us and we will endeavour to deal with your request as soon as possible. This is without prejudice to your right to lodge a claim with your data protection authority.
+
+Access.
+You have the right to know whether we process Customer Data about you, and if we do, to access Customer Data we hold about you and certain information about how we use it and who we share it with.
+
+If you require more than one copy of the Customer Data we hold about you, we may charge an administration fee.
+
+We may not provide you with certain Customer Data if providing it would interfere with another’s rights (e.g. where providing the Customer Data we hold about you would reveal information about another person) or where another exemption applies.
+
+Portability.
+You have the right to receive a subset of the Customer Data we collect from you in a structured, commonly used and machine-readable format and a right to request that we transfer such Customer Data to another party.
+
+The relevant subset of Customer Data is data that you provide us with your consent or for the purposes of performing our contract with you ). Please refer to section (3) on “How we use your Customer Data”.
+
+If you wish for us to transfer the Customer Data to another party, please ensure you detail that party and note that we can only do so where it is technically feasible. We are not responsible for the security of the Customer Data or its processing once received by the third party. We also may not provide you with certain Customer Data if providing it would interfere with another’s rights (e.g. where providing the Customer Data we hold about you would reveal information about another person).
+
+Correction.
+You have the right to correct any Customer Data held about you that is inaccurate. Please note that whilst we assess whether the Customer Data we hold about you is inaccurate or incomplete, you may exercise your right to restrict our processing of the applicable data as described below.
+
+To exercise any of your rights, please use the following form: Data Privacy Rights Form and submit it to krisshopcustomercare@krisshop.com. If you are a registered user, you may correct any Customer Data by logging into your account.
+
+Erasure.
+You may request that we erase the Customer Data we hold about you in the following circumstances:
+
+(i) you believe that it is no longer necessary for us to hold the Customer Data we hold about you;
+
+(ii) we are processing the Customer Data we hold about you on the basis of your consent (please refer to section (3) on “How we use your Customer Data”), and you wish to withdraw your consent and there is no other ground under which we can process the Customer Data;
+
+(iii) we are processing the Customer Data we hold about you on the basis of our legitimate interest and you object to such processing (please refer to section 3 to on “How we use your Customer Data”). Please provide us with detail as to your reasoning so that we can assess whether there is an overriding interest for us to retain such Customer Data;
+
+(iv) you no longer wish us to use the Customer Data we hold about you in order to send you promotions, special offers, marketing and lucky draws; or
+
+(v) you believe the Customer Data we hold about you is being unlawfully processed by us.
+
+Also note that you may exercise your right to restrict our processing of the Customer Data whilst we consider your request as described below.
+
+Please provide as much detail as possible on your reasons for the request to assist us in determining whether you have a valid basis for erasure. However, we may retain the Customer Data if there are valid grounds under law for us to do so (e.g. for the defence of legal claims or freedom of expression) but we will let you know if that is the case. Please note that after deleting the Customer Data, we may not be able to provide the same level of services to you as we will not be aware of your preferences.
+
+Where you have requested that we erase Customer Data that we have made public and there are grounds for erasure, we will use reasonable steps try to tell others that are displaying the Customer Data or providing links to the Customer Data to erase the Customer Data too.
+
+To exercise any of your rights, please use the following form: Data Privacy Rights Form and submit it to  krisshopcustomercare@krisshop.com. If you are a registered user, you may correct any Customer Data by logging into your account.
+
+Restriction of Processing to Storage Only.
+You have a right to require us to stop processing the Customer Data we hold about you other than for storage purposes in certain circumstances. Please note, however, that if we stop processing the Customer Data, we may use it again if there are valid grounds under data protection law for us to do so (e.g. for the defence of legal claims or for another’s protection).
+
+You may request we stop processing and just store the Customer Data we hold about you where:
+
+(i) you believe the Customer Data is not accurate, for the period it takes for us to verify whether the Customer Data is accurate;
+
+(ii) we wish to erase the Customer Data for compliance with applicable laws but you want us to just store it instead;
+
+(iii) we wish to erase the Customer Data as it is no longer necessary for our purposes but you require it to be stored for the establishment, exercise or defence of legal claims; or
+
+(iv) you have objected to us processing Customer Data we hold about you on the basis of our legitimate interest and you wish us to stop processing the Customer Data whilst we determine whether there is an overriding interest in us retaining such Customer Data.
+
+Objection.
+At any time you have the right to object to our processing of Customer Data about you in order to send you promotions, special offers, marketing messages, including where we build profiles for such purposes and we will stop processing the Customer Data for that purpose.
+
+You also have the right to object to our processing of Customer Data about you and we will consider your request in other circumstances as detailed below by using the following form: Data Privacy Rights Form and submitting it to krisshopcustomercare@krisshop.com referencing: Data Subject Rights.
+
+You may object where we are processing the Customer Data we hold about you (including where the processing is profiling) on the basis of our legitimate interest and you object to such processing (please refer to section (3) on “How we use your Customer Data” to see the types of Customer Data we process on that basis).
+
+Please provide us with detail as to your reasoning so that we can assess whether there is a compelling overriding interest in us continuing to process such data or we need to process it in relation to legal claims. Also note that you may exercise your right to request that we stop processing the Customer Data whilst we make the assessment on an overriding interest by indicating this in our Data Privacy Rights Form,
+
+8. RETENTION
+
+We will retain Customer Data for as long as it is necessary to fulfil the purpose for which it was collected, our legal or business purposes, or as required by relevant laws. We will usually keep your Customer Data for up to 7 years to ensure that any contractual disputes can be addressed.
+
+If you opt-out or withdraw your consent to marketing, we will remove you from our marketing database.
+
+9. ACCURACY
+
+We need your assistance to ensure that your Customer Data is current, complete and accurate. As such, please inform us of changes to your Customer Data by submitting your updated particulars to us (see Section 14). If you are a registered user, you may update your Customer Data at any time by logging into your account.
+
+10. SECURITY SAFEGUARDS
+
+We realise that our customers trust us to protect their personal data. We take that task seriously. We maintain physical, electronic and procedural safeguards to protect your personal data. For example:
+
+We use industry-standard Secure Sockets Layer ("SSL") authentication to guarantee the confidentiality of online transactions made on our site. SSL authentication and encryption of the information that you send to us over the Internet help protect your online transaction information from third party interception.
+We never display your full credit card number once it has been entered. We will only reveal the last four digits of your credit card for verification purposes.
+We urge you to protect your own privacy. We recommend that you do not share your password with anyone or share your password in an unsolicited phone call or e-mail.
+Despite our efforts, the transmission of information via the internet is not completely secure. Although we will do our best to protect your Customer Data, we cannot guarantee the security of your Customer Data transmitted through the Platforms; any transmission is at your own risk.
+
+11. OTHER WEBSITES AND SERVICES
+
+We may, from time to time, provide you with links to other websites for your convenience and information. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. You access these websites at your own risk and we are not responsible for these websites. Whilst we will protect your Customer Data on our website, we cannot control or be responsible for the policies of other sites we may link to, or the use of any Customer Data you may share with them. Please note that our Privacy Policy does not cover these other websites, and we would recommend that you are apprised of their specific policies.
+
+In addition, some features on our website rely on 3rd party services, including Application Programming Interface (“API”) services provided by Google LLC and/or any of its subsidiary companies (collectively, “Google”). Where you choose to use any feature on our website that relies on a service provided by Google, you consent to the disclosure of information, including Customer Data, necessary for such use to Google, and agree that the information so disclosed may be processed in accordance with the Google Privacy Policy.
+
+12. MINORS
+
+Our Platforms are not directed at children under the age of 16 (or the age of majority prescribed by applicable law) and we cannot distinguish the age of persons who access and use the same. In some cases, we may require you to declare that you are of legal age for certain purchases on our Platforms.
+
+13. UPDATES TO THE PRIVACY POLICY
+
+We will amend this Privacy Policy from time to time, and the updated versions will be posted on our Platforms; and date stamped so that you are aware of when the Privacy Policy was last updated. Please check back frequently to see any updates or changes to this Privacy Policy. If we make any material changes to this Privacy Policy, we will provide notice including by way of a banner on our Platform. Subject to applicable laws, the English version of this Privacy Policy will prevail over any version of this Privacy Policy in another language.
+
+14. CONTACT US
+
+If you have comments, questions or complaints about or requests relating to this Privacy Policy statement, please contact the KrisShop Data Protection Officer in writing at the address below referencing ‘Privacy Policy’:
+
+Attention: The Data Protection Officer
+KrisShop Pte. Ltd.
+25 Airline Road
+Airline House
+Singapore 819829
+
+Or email krisshopcustomercare@krisshop.com marked for the attention of the Data Protection Officer, referencing: Privacy Policy.
+
+Use of Clickstream Data
+We may, if necessary, have included clickstream data on some of our Platforms. We may use clickstream data to transfer data (such as purchase and site usage history). If clickstream data is used, we may provide this data to companies that assist us in data research and analysis; these companies are prohibited from using this data for any other purpose. The analysis and research would help us to determine customer preferences and improve our offerings. We may also rely upon third parties to assist with the use and implementation of the clickstream data.
+
+Cookies on our Platforms
+We collect some information about how you use the Platforms by setting and accessing cookies on your computer. These cookies track information such as how often you visit our Platforms, what pages you view, and where you go after you leave the site. Further details can be found on our Cookie Policy.
