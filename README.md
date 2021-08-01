@@ -10,29 +10,42 @@ In support of broader experimentation and hopefully accountability in how person
 .. contents:: **Table of Contents**
 
 Highlights
+
 ##########
 
 Email and Phone server Database: raw collections and processing scripts for Zadarma phone/texts and RainLoop email server
+
 Initial Research and Project Setup: original project plans, task descriptions, and goals
+
 Political Timeline Analysis: attempts to correlate observed traffic to political and social events
+
 Privacy Policy Analysis: raw and processed (quantitative rubric) results for 188 distinct privacy policies / terms of service
+
 Additional docs: just that...
 
+
 Documentation
+
 #############
 
 ..... to be added once Blackhat releases  ......
+
 Blackhat USA 2021 whitepaper
+
 Blackhat USA 2021 presentation
 
 
 Contributing
+
 ############
+
 If you find any errors, feel free to open an issue; those issues will be integrated into our future experimental design for the large-scale trial.  If you provide adequate contact information, we will incorporate your feedback and potentially offer opportunities to participate if we are able to crowd source the future analysis.
 
 
 Citing this Repository
+
 ######################
+
 This repository contains implementations of both custom and third-party open source algorithms (e.g. sentiment analysis, email parsers, fake name and facial image generators, etc.) and therefore, whenever those algorithms are used, their respective works **must** be cited.  We have attempted to include all relevant citations for their works in the attached whitepaper.  
 
 Since this repository isn't the *official* code for any publication, you take responsibility for the *correctness* of the implementations (although we've made every effort to ensure that the code is well tested).  Nevertheless, if you find this code useful for your research, please consider referencing it in your work so that others are aware.
@@ -61,6 +74,7 @@ If your work specifically revolves around tracking propagation of personal infor
   
 
 Authors
+
 #######
 
 .. list-table::
