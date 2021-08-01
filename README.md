@@ -12,26 +12,23 @@ In support of broader experimentation and hopefully accountability in how person
 Highlights
 ##########
 
-TBD
+Email and Phone server Database: raw collections and processing scripts for Zadarma phone/texts and RainLoop email server
+Initial Research and Project Setup: original project plans, task descriptions, and goals
+Political Timeline Analysis: attempts to correlate observed traffic to political and social events
+Privacy Policy Analysis: raw and processed (quantitative rubric) results for 188 distinct privacy policies / terms of service
+Additional docs: just that...
 
 Documentation
 #############
 
-TBD
+..... to be added once Blackhat releases  ......
+Blackhat USA 2021 whitepaper
+Blackhat USA 2021 presentation
 
-Tutorial
-########
-
-TBD
 
 Contributing
 ############
 If you find any errors, feel free to open an issue; those issues will be integrated into our future experimental design for the large-scale trial.  If you provide adequate contact information, we will incorporate your feedback and potentially offer opportunities to participate if we are able to crowd source the future analysis.
-
-Related GitHub Projects
-#######################
-
-TBD
 
 
 Citing this Repository
