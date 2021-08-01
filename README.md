@@ -25,7 +25,6 @@ Additional docs: just that...
 
 
 Documentation
-
 #############
 
 ..... to be added once Blackhat releases  ......
@@ -36,14 +35,12 @@ Blackhat USA 2021 presentation
 
 
 Contributing
-
 ############
 
 If you find any errors, feel free to open an issue; those issues will be integrated into our future experimental design for the large-scale trial.  If you provide adequate contact information, we will incorporate your feedback and potentially offer opportunities to participate if we are able to crowd source the future analysis.
 
 
 Citing this Repository
-
 ######################
 
 This repository contains implementations of both custom and third-party open source algorithms (e.g. sentiment analysis, email parsers, fake name and facial image generators, etc.) and therefore, whenever those algorithms are used, their respective works **must** be cited.  We have attempted to include all relevant citations for their works in the attached whitepaper.  
@@ -52,13 +49,11 @@ Since this repository isn't the *official* code for any publication, you take re
 This repository isn't citable (since that requires `archiving and creating a DOI <https://guides.github.com/activities/citable-code/>`_), so a simple footnote would be the best way to reference this repository.
 
 .. code:: latex
-
     \footnote{Code is available at \textit{github.com/humeESL/Use-and-Abuse-PII}}
 
 If your work specifically revolves around tracking propagation of personal information across the Internet, consider citing our whitepaper (Blackhat 2021) or upcoming conference paper(s) delving deeper into the analysis.
 
 .. code:: latex
-
     @article{humeUseAbusePII,
             author = {A. {Michaels} and K. B. {George} and L. {Anderson} and J. {Harrison} and J. {Lyons} and L. {Maunder} and P. {O'Donnell} and B. {Vanek} and H. {Bui} and C. {Dunnavant} and P. {Hancock} and M. {Jackson} and C. {Mathewes} and S. {Ramboyong} and A. {Schliefer} and B. {Timana-Gomez} },
             doi = {},
@@ -80,7 +75,6 @@ Authors
 .. list-table::
     :widths: 30, 60, 10
     :align: center
-
     * - **Alan J. Michaels**
       - Professor and Director, Electronic Systems Lab
       - ajm@vt.edu
@@ -91,5 +85,4 @@ Authors
 Numerous others have generously contributed to this work -- see `CONTRIBUTORS.rst <CONTRIBUTORS.rst>`_ for more details.
 
 .. |br| raw:: html
-
     <br /># use_and_abuse_pii
