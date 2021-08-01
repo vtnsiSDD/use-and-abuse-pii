@@ -27,7 +27,7 @@ Additional docs: just that...
 Documentation
 #############
 
-..... to be added once Blackhat releases  ......
+to be added once Blackhat releases
 
 Blackhat USA 2021 whitepaper
 
@@ -49,11 +49,13 @@ Since this repository isn't the *official* code for any publication, you take re
 This repository isn't citable (since that requires `archiving and creating a DOI <https://guides.github.com/activities/citable-code/>`_), so a simple footnote would be the best way to reference this repository.
 
 .. code:: latex
+
     \footnote{Code is available at \textit{github.com/humeESL/Use-and-Abuse-PII}}
 
 If your work specifically revolves around tracking propagation of personal information across the Internet, consider citing our whitepaper (Blackhat 2021) or upcoming conference paper(s) delving deeper into the analysis.
 
 .. code:: latex
+
     @article{humeUseAbusePII,
             author = {A. {Michaels} and K. B. {George} and L. {Anderson} and J. {Harrison} and J. {Lyons} and L. {Maunder} and P. {O'Donnell} and B. {Vanek} and H. {Bui} and C. {Dunnavant} and P. {Hancock} and M. {Jackson} and C. {Mathewes} and S. {Ramboyong} and A. {Schliefer} and B. {Timana-Gomez} },
             doi = {},
@@ -75,6 +77,7 @@ Authors
 .. list-table::
     :widths: 30, 60, 10
     :align: center
+    
     * - **Alan J. Michaels**
       - Professor and Director, Electronic Systems Lab
       - ajm@vt.edu
