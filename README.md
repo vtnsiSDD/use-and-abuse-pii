@@ -85,7 +85,8 @@ Authors
       - M.S. ECE Graduate
       - kbg98@vt.edu
 
-Numerous others have generously contributed to this work -- see `CONTRIBUTORS.rst <CONTRIBUTORS.rst>`_ for more details.
+Numerous others have generously contributed to this work -- see BH USA whitepaper for more details.
 
 .. |br| raw:: html
+
     <br /># use_and_abuse_pii
