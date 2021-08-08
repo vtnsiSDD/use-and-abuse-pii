@@ -1,4 +1,4 @@
-# Use & Abuse of Personal Information
+Use & Abuse of Personal Information
 ==================================================
 
 Virtually every time that you sign up for an account or for information across the Internet, you are required to share a little piece of yourself with the unseen second party.  This repository contains the raw data, initial data processing scripts, and experimental design for an 18-month small-scale experiment that seeks to answer the question of how those second parties use-and-abuse your personal information.  The results come from a series of collection tools (email, voicemails, texts) created to track the results of one-time interactions of 300 fake identities with 185 distinct organizations.  Although sheer numbers appear large (16450 emails, 3482 phonecalls, 949 voicemails, 774 texts) at first glance, the true intent here is to establish a normative baseline for the design of a larger scale experiment that will more conclusively answer these questions with ~100k identities and ~1k phone lines.  The analysis also includes an initial attempt to quantitatively score privacy policies and user agreements according to a rubric that questions how well consumers' information is protected, though correlations are weak at best, inviting additional consideration.  The preliminary results for the "Use and Abuse of Personal Information" (U&A) project were presented at Blackhat USA 2021.
@@ -10,18 +10,13 @@ In support of broader experimentation and hopefully accountability in how person
 .. contents:: **Table of Contents**
 
 Highlights
-
 ##########
 
-.. code:: latex
-
-    \begin{itemize}
-    \item Email and Phone server Database: raw collections and processing scripts for Zadarma phone/texts and RainLoop email server
-    \item Initial Research and Project Setup: original project plans, task descriptions, and goals
-    \item Political Timeline Analysis: attempts to correlate observed traffic to political and social events
-    \item Privacy Policy Analysis: raw and processed (quantitative rubric) results for 188 distinct privacy policies / terms of service
-    \item Additional docs: just that...
-    \end{itemize}
+* Email and Phone server Database: raw collections and processing scripts for Zadarma phone/texts and RainLoop email server
+* Initial Research and Project Setup: original project plans, task descriptions, and goals
+* Political Timeline Analysis: attempts to correlate observed traffic to political and social events
+* Privacy Policy Analysis: raw and processed (quantitative rubric) results for 188 distinct privacy policies / terms of service
+* Additional docs: just that...
 
 Documentation
 #############
@@ -70,7 +65,6 @@ If your work specifically revolves around tracking propagation of personal infor
   
 
 Authors
-
 #######
 
 .. list-table::
@@ -84,7 +78,7 @@ Authors
       - M.S. ECE Graduate
       - kbg98@vt.edu
 
-Numerous others have generously contributed to this work -- see BH USA whitepaper for more details.
+Numerous others have generously contributed to this work — see BH USA whitepaper for more details.
 
 .. |br| raw:: html
 
