@@ -10,7 +10,6 @@ In support of broader experimentation and hopefully accountability in how person
 .. contents:: **Table of Contents**
 
 Highlights
-
 ##########
 
 * Email and Phone server Database: raw collections and processing scripts for Zadarma phone/texts and RainLoop email server
@@ -66,7 +65,6 @@ If your work specifically revolves around tracking propagation of personal infor
   
 
 Authors
-
 #######
 
 .. list-table::
