@@ -13,15 +13,11 @@ Highlights
 
 ##########
 
-.. code:: latex
-
-    \begin{itemize}
-    \item Email and Phone server Database: raw collections and processing scripts for Zadarma phone/texts and RainLoop email server
-    \item Initial Research and Project Setup: original project plans, task descriptions, and goals
-    \item Political Timeline Analysis: attempts to correlate observed traffic to political and social events
-    \item Privacy Policy Analysis: raw and processed (quantitative rubric) results for 188 distinct privacy policies / terms of service
-    \item Additional docs: just that...
-    \end{itemize}
+* Email and Phone server Database: raw collections and processing scripts for Zadarma phone/texts and RainLoop email server
+* Initial Research and Project Setup: original project plans, task descriptions, and goals
+* Political Timeline Analysis: attempts to correlate observed traffic to political and social events
+* Privacy Policy Analysis: raw and processed (quantitative rubric) results for 188 distinct privacy policies / terms of service
+* Additional docs: just that...
 
 Documentation
 #############
